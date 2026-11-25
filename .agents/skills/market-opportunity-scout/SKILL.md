@@ -20,7 +20,7 @@ O objetivo não é produzir muitas ideias. É encontrar poucas oportunidades com
 - Formatos possíveis: serviço manual, serviço assistido por IA, produto digital, ferramenta, automação, conteúdo, curadoria, pesquisa sob demanda, intermediação, comunidade, pacote de arquivos ou produto físico sem estoque.
 - Não assumir software, SaaS, curso, site ou aplicativo.
 - Mercado internacional só é preferido quando a vantagem compensa idioma, pagamentos, taxas, câmbio, impostos, suporte e regras da plataforma.
-- Meta de primeira receita de R$ 200 em até sete dias é hipótese operacional, nunca garantia nem critério para forçar escolha.
+- Meta imediata: buscar pelo menos R$ 150 efetivamente recebidos até 06/12/2026, sem tratar isso como garantia ou forçar a escolha de uma oportunidade.
 - Interesse de longo prazo em receita recorrente, mas não sacrificar a primeira venda por assinatura prematura.
 
 ## Princípios inegociáveis
