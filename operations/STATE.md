@@ -64,3 +64,21 @@ A H1 (acompanhamento de orçamentos para assistências) não é prioridade nem h
 
 ### Próxima etapa
 Executar lotes de pesquisa diversificados, registrar evidências diretamente em research/, e só depois comparar oportunidades. A pesquisa não deve ser tratada como concluída em uma única sessão.
+## Auditoria de ferramentas de pesquisa de mercado — 25/11/2026
+
+- `research/TOOLS_AND_REPOSITORIES_AUDIT.md`: auditoria comparativa de repositórios open source, metadados de stars/commits, capacidades, dependências, custos, limitações e relatos de Reddit.
+- `research/TOOLS_QUICKSTART.md`: comandos de instalação/diagnóstico/teste para Pain Miner, Reddit Research MCP e Trend Opportunity Radar.
+- `.agents/skills/market-opportunity-scout/SKILL.md`: skill local original com protocolo de pesquisa amplo, sinais comerciais S0–S4, contraprovas, diversidade de formatos e regras de memória.
+
+### Decisão técnica provisória
+- Primeiro candidato a teste local: `AdvancingTitans/pain-miner` (MIT; coleta pública declarada sem chave/conta Reddit; exige Python e depende de disponibilidade das fontes). Ainda não instalado nem executado.
+- Complemento potencial: `dialog-tools/reddit-research-mcp` (MIT; 268 stars/106 commits no snapshot; exige cliente MCP compatível e OAuth do serviço). Não presumir suporte direto no app ChatGPT Android.
+- Referência de rigor metodológico: `datou202307-design/trend-opportunity-radar` (MIT; 44 commits; usa adaptadores/MCP de terceiros para coleta real).
+- Referência de validação e concorrência posterior: `ferdinandobons/startup-skill` (MIT; alta adoção, mas alto consumo de tokens segundo README).
+- Nenhum projeto é considerado validado por receita. Histórias de MRR no Reddit são autodeclaradas e não auditadas.
+
+### Estado de execução
+Os repositórios foram estudados por README, SKILL.md, changelog/metodologia, metadados e histórico recente de commits. Não foram clonados, instalados ou executados localmente. Não afirmar teste funcional.
+
+### Próximo passo
+Se houver acesso a um ambiente Python, testar Pain Miner com diagnóstico primeiro e comparar o resultado com pesquisa manual. Só depois decidir se vale instalar um MCP ou uma skill multiplataforma.
