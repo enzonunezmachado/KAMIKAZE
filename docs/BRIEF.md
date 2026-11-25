@@ -46,7 +46,6 @@ Encontrar uma ou mais fontes de renda digital legítimas, repetíveis e sustent�
 
 - Capital inicial disponível: R$ 0.
 - Não assumir que a atividade pessoal ou profissional atual do responsável deve virar o negócio.
-- Não priorizar assistência técnica, conserto de celulares ou qualquer nicho apenas por familiaridade pessoal.
 - Não escolher dropshipping, SaaS, agência, conteúdo ou outro modelo antes da investigação.
 - Não depender de ChatGPT Plus, APIs pagas, anúncios ou hospedagem paga para iniciar.
 - Considerar limitações de hardware e priorizar fluxos leves, remotos ou acessíveis por celular quando necessário.
@@ -91,4 +90,4 @@ Kamikaze é uma operação comercial independente. NEXUS e ATLAS são projetos s
 
 ## 10. Estado atual
 
-O repositório contém pesquisas exploratórias sobre diferentes comunidades, ferramentas e formas de monetização. As hipóteses antigas de uma oferta específica para assistências técnicas foram retiradas por não representarem a direção definida. Nenhuma oportunidade substituta foi aprovada. A próxima etapa é retomar a pesquisa ampla e comparativa, incluindo o uso comercial atual de IA e diferentes modelos de negócio.
+O repositório contém pesquisas exploratórias sobre diferentes comunidades, ferramentas e formas de monetização. Nenhuma oportunidade foi aprovada. A próxima etapa é retomar a pesquisa ampla e comparativa. A próxima etapa é retomar a pesquisa ampla e comparativa, incluindo o uso comercial atual de IA e diferentes modelos de negócio.
