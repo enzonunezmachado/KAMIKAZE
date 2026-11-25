@@ -89,3 +89,38 @@ Fonte: https://www.reddit.com/r/smallbusiness/comments/1y0yvsd/for_solo_business
 - Quem decide a compra e como pode ser contatado?
 - Existe um produto simples que possa ser vendido manualmente antes de ser desenvolvido?
 
+
+
+## 8. Mais sinais recentes do Reddit sobre distribuição
+
+### Começar pela audiência, não pelo produto
+Um fundador no r/IndieHackers relatou que dois produtos anteriores não faturaram. No terceiro, publicou conteúdo e construiu uma audiência antes de definir o produto; as perguntas recorrentes dessa audiência viraram a ferramenta que conseguiu clientes.
+
+Fonte: https://www.reddit.com/r/indiehackers/comments/1xmuhn4/i_left_my_cto_job_and_built_an_audience_before_a/
+
+**Aprendizado:** começar conversando com um grupo pequeno pode reduzir o risco de construir no escuro. Não significa que construir audiência seja rápido; para a meta de sete dias, contato direto pode ser mais realista.
+
+### Produto pronto não significa clientes
+Um fundador no r/IndieHackers relatou ter lançado cinco produtos em nove meses e ainda considerar a aquisição dos primeiros pagantes a parte mais difícil. Um produto ficou meses sem pagamentos e foi encerrado.
+
+Fonte: https://www.reddit.com/r/indiehackers/comments/1xulog4/i_shipped_5_products_in_about_9_months_getting/
+
+**Aprendizado:** limitar o tempo de construção e medir pagamentos é essencial.
+
+### Encontrar pessoas que já estão falando do problema
+Uma discussão no r/SaaS de novembro de 2026 trouxe respostas sugerindo conversar com dez compradores específicos, responder a discussões em que o problema já aparece e evitar depender de lançamentos genéricos.
+
+Fonte: https://www.reddit.com/r/SaaS/comments/1xrvtp1/what_actually_got_your_first_1020_users_when_you/
+
+**Aprendizado:** a distribuição inicial pode ser uma lista curta e bem escolhida de compradores, em vez de uma campanha ampla.
+
+### Ação manual como vantagem inicial
+Uma discussão sobre B2B SaaS na América Latina relatou que os primeiros clientes vieram de visitas presenciais e demonstrações em lojas, não de anúncios.
+
+Fonte: https://www.reddit.com/r/indiehackers/comments/1pkzj6s/how_did_you_get_your_first_users_for_a_b2b_saas/
+
+**Aprendizado:** para pequenos negócios locais, uma conversa respeitosa e uma demonstração concreta podem superar um site sofisticado.
+
+## 9. Síntese atualizada
+
+Para este projeto, a hipótese mais compatível com prazo curto é vender uma implantação ou serviço específico diretamente a um pequeno número de negócios. O produto digital puro e o SaaS podem ser fases posteriores. Não há evidência de que a H1 seja a melhor ideia; ela precisa competir com novas hipóteses após entrevistas.
