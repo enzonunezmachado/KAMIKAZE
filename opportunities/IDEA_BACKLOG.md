@@ -1,52 +1,48 @@
-# Banco de oportunidades
+# Banco de oportunidades — Kamikaze
 
-**Status geral:** exploração. Nenhuma hipótese validada.
+**Status:** exploração ampla. Nenhuma oportunidade aprovada ou validada.
 
-## Critérios de avaliação
+## Como usar este arquivo
 
-Pontuar de 1 a 5, com justificativa:
-- Dor e frequência.
-- Capacidade/disposição de pagamento.
-- Facilidade de encontrar compradores.
-- Tempo até primeira entrega.
-- Custo inicial (nota alta = custo menor).
-- Risco operacional/jurídico (nota alta = risco menor).
-- Potencial de repetição.
+Registrar aqui somente hipóteses sustentadas por pesquisa. Não preencher com ideias genéricas nem com negócios escolhidos por familiaridade pessoal. Cada oportunidade deve ter comprador, problema/desejo, fontes primárias, alternativas, sinal comercial, custos, capacidade de entrega e teste proposto.
 
-Não usar a pontuação como verdade matemática. Ela organiza perguntas e deve mudar com evidências.
+## Trilhas de investigação abertas
 
-## H1 — Orçamento que não esfria
+Estas trilhas são áreas para pesquisar, não oportunidades aprovadas:
 
-**Público:** assistências técnicas independentes de celulares.  
-**Problema hipotético:** orçamentos enviados por WhatsApp ficam sem acompanhamento; o dono não tem uma visão simples de quem precisa receber retorno.  
-**Oferta inicial:** implantação personalizada de um fluxo de acompanhamento com Google Sheets, etapas, data de retorno, modelos de mensagens e instruções de uso.  
-**Formato:** serviço manual; não é SaaS e não exige API.  
-**Preço experimental:** R$ 100 por implantação piloto, sujeito a conversa e escopo.  
-**Canal inicial:** contato direto com assistências de Embu das Artes, Taboão da Serra e região, por telefone, WhatsApp comercial ou visita quando apropriado.  
-**Vantagem inicial:** familiaridade do responsável com o contexto de assistência técnica e linguagem do setor.  
-**Riscos:** o dono pode já controlar isso bem; pode não enxergar valor; planilhas genéricas são abundantes; não coletar dados reais de clientes no protótipo de demonstração.  
-**Estado:** hipótese a validar.  
-**Próxima ação:** conversar com pelo menos cinco proprietários/gestores e descobrir como lidam hoje com orçamentos sem resposta.
+1. Uso comercial de IA por pessoas, criadores e empresas.
+2. E-commerce, lojas virtuais e dropshipping: produto, margem, fornecedor, logística, atendimento, aquisição, devoluções e risco de caixa.
+3. Produtos digitais: templates, arquivos, ferramentas, microprodutos, materiais especializados e licenciamento.
+4. Serviços digitais e freelancing: produção, pesquisa, curadoria, organização, operações e entregas assistidas por IA.
+5. Agentes e automações: problemas repetitivos com comprador identificável e retorno mensurável.
+6. Conteúdo original: YouTube, Shorts, Reels, TikTok, memes e outros formatos; monetização por publicidade, afiliados, patrocínio, produto ou serviço.
+7. Oportunidades descobertas em comunidades, fóruns, marketplaces, avaliações e pedidos de ajuda.
 
-### Condições para continuar
-- Pelo menos 3 de 5 entrevistados relatarem problema recente e recorrente.
-- Pelo menos 2 aceitarem ver uma demonstração ou proposta.
-- Buscar 1 piloto pago antes de investir em automação ou software.
+## Registro de oportunidades
 
-### Condições para descartar ou reformular
-- A maioria não considera o problema importante.
-- Já existe um processo simples e satisfatório.
-- Ninguém aceita pagar nem por uma implantação pequena.
-- A solução exige integrações pagas ou acesso a dados que não devemos manipular.
+Ainda não há candidatas aprovadas nesta versão do backlog. As pesquisas anteriores permanecem em `research/` como material exploratório, mas nenhuma deve ser promovida automaticamente a oferta.
 
-## H2 — A definir
+### Ficha obrigatória para cada candidata
 
-Não preencher sem evidência de pesquisa. Procurar outros nichos e problemas antes de se comprometer com H1.
+- **Nome provisório:**
+- **Público/comprador:**
+- **Problema, desejo ou trabalho a realizar:**
+- **Fontes primárias e data:**
+- **Autores/relatos independentes:**
+- **Sinais comerciais:** pedido, orçamento, compra, contratação, preço, review ou gasto atual.
+- **Solução atual e concorrentes:**
+- **Contraprovas e razões para não avançar:**
+- **Formato possível:** serviço, produto, conteúdo, ferramenta, intermediação, e-commerce ou outro.
+- **Como alcançar compradores:**
+- **Custo inicial e custos recorrentes:**
+- **Tempo e capacidade de entrega:**
+- **Preço de teste ou evidência de preço:**
+- **Riscos técnicos, legais, operacionais e de plataforma:**
+- **Próximo experimento:**
+- **Status:** descoberta / investigação / teste / aprovada / descartada.
 
-## H3 — A definir
+## Critério de priorização
 
-Não preencher sem evidência de pesquisa.
+Comparar evidência de demanda, urgência, comprador alcançável, tempo até primeira receita, custo, margem potencial, risco, capacidade de entrega e possibilidade de repetição. Não usar pontuação total opaca nem escolher apenas porque a ideia parece interessante.
 
-## Regra
-
-Não adicionar ideias apenas porque parecem criativas. Cada entrada deve especificar comprador, problema, solução, canal, preço testável, custo, riscos e evidência que pode invalidá-la.
+**Regra:** várias trilhas podem ser pesquisadas em paralelo. Uma oportunidade só recebe recursos de produção depois de passar por uma decisão explícita de validação.
