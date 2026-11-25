@@ -6,7 +6,7 @@
 
 ## Resumo executivo
 
-A melhor hipótese de stack para o Projeto Sem Nome é:
+A melhor hipótese de stack para o Negócio Digital Kamikaze é:
 
 1. **Google Antigravity (desktop ou CLI `agy`) como ambiente de execução principal**, se o computador suportar. O plano Free inclui acesso ao CLI, skills, MCP e recursos do produto; a cota é semanal e variável, não ilimitada.
 2. **Uma skill operacional nossa no repositório**, com instruções e estado em Markdown. Antigravity descobre skills e subagentes do workspace.
@@ -207,7 +207,7 @@ Fontes:
 | lefttree/reddit-pain-points | Dashboard de mineração | Não priorizar; modo demo usa dados fictícios e modo real exige chave LLM |
 | huxm-git/reddit-idea-scout | PRAW + Claude API | Não atende R$ 0 |
 
-## 7. Arquitetura recomendada: Projeto Sem Nome Opportunity OS
+## 7. Arquitetura recomendada: Negócio Digital Kamikaze Opportunity OS
 
 ### Camada A — Interface e orquestração
 **Antigravity** é o agente principal, responsável por interpretar a tarefa, escolher skill, delegar quando necessário e atualizar o repositório.
