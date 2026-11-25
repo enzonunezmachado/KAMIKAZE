@@ -1,89 +1,80 @@
-# Estado operacional
+# Estado operacional — Kamikaze
 
 **Última atualização:** 25/11/2026  
-**Fase:** pesquisa de stack gratuita de agentes e desenho da operação  
-**Hipótese principal:** nenhuma oportunidade validada  
-**Receita obtida neste projeto:** R$ 0  
+**Fase:** recalibração concluída; retomada da descoberta ampla  
+**Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
+**Capital inicial:** R$ 0  
+**Receita recebida no Kamikaze:** R$ 0  
 **Despesas:** R$ 0  
-**Experimento ativo:** nenhum iniciado.
+**Oportunidade escolhida:** nenhuma  
+**Experimento comercial ativo:** nenhum
 
-## Objetivo imediato
+## Missão atual
 
-Buscar R$ 200 em faturamento sem investimento inicial. Meta aspiracional, não garantia.
+Pesquisar e comparar oportunidades digitais de diferentes categorias, identificar uma oportunidade executável e testar uma oferta comercial real dentro da janela imediata. O foco não é transformar uma atividade pessoal do responsável em negócio por conveniência.
 
-## Decisões vigentes
+## Direção confirmada
 
-- Validar problema e disposição de pagamento antes de desenvolver.
-- Começar com serviço manual ou entrega simples e ferramentas gratuitas.
-- Não pagar APIs, hospedagem, anúncios ou assinaturas antes de receita e aprovação explícita.
-- Não construir SaaS ou aplicativo antes de sinais comerciais.
-- Não usar dados reais de clientes em demonstrações públicas.
-- Explorar mercados diversos; não restringir a tecnologia, assistência técnica ou experiências anteriores.
-- Pesquisar até cinco oportunidades, mas produzir no máximo uma ou duas ofertas por ciclo.
-- Agentes podem pesquisar e preparar rascunhos; contato, publicação, compra, deploy e ações irreversíveis exigem aprovação humana.
+- Kamikaze é uma operação ampla de pesquisa, validação, produção e comercialização digital.
+- Não há nicho, produto ou modelo de negócio escolhido antecipadamente.
+- A pesquisa deve incluir usos comerciais atuais de IA, e-commerce/dropshipping, produtos digitais, serviços, freelancing, automações/agentes, conteúdo e outras formas de monetização.
+- Dropshipping e conteúdo gerado com IA são hipóteses a investigar criticamente, não recomendações assumidas.
+- A pesquisa deve buscar problemas, desejos, comportamentos de compra e evidências de pagamento em fontes diversas.
+- O sistema deve ser modular e gratuito na fase inicial, com GitHub como memória e histórico.
+- É possível pesquisar várias oportunidades em paralelo; a execução comercial deve ter prioridades claras para evitar dispersão.
+- Não desenvolver software ou infraestrutura antes de existir justificativa comercial.
+- Não pagar ferramentas, APIs, hospedagem ou anúncios sem autorização explícita.
+- Não presumir acesso ao ChatGPT Plus ou execução ilimitada de agentes.
+- NEXUS e ATLAS permanecem projetos separados.
 
-## O que foi feito
+## Exclusão explícita
 
-- Repositório e estrutura documental inicial criados.
-- Brief e princípios de validação registrados.
-- Pesquisa de repositórios de mineração de dores e skills documentada.
-- Skill original `market-opportunity-scout` criada para pesquisa ampla.
-- Auditoria de ferramentas e quickstart anteriores registrados.
-- Pesquisa adicional de agentes gratuitos concluída documentalmente.
-- Antigravity identificado como principal candidato de ambiente de execução: plano Free inclui CLI, skills, MCP e /swarm, com quota semanal variável.
-- bitChat da bitbybit identificado como produto de atendimento/comércio, com plano gratuito limitado; não é um orquestrador geral de pesquisa.
-- BitChat brasileiro identificado como ferramenta de atendimento WhatsApp com trial e planos pagos; não atende a custo zero contínuo.
-- Reddit Research MCP e Pain Miner mantidos como ferramentas de coleta complementares.
-- Nova skill `.agents/skills/zero-cost-opportunity-ops/SKILL.md` criada para coordenar descoberta, crítica, oferta, produção e auditoria.
-- Pesquisa registrada em `research/FREE_AGENT_STACK_RESEARCH.md`.
-- Guia de setup em `operations/ZERO_COST_STACK_QUICKSTART.md`.
+A hipótese anterior de implantar uma planilha de acompanhamento de orçamentos para assistências técnicas de celulares foi retirada. Ela não deve ser tratada como oportunidade ativa, recomendação, vantagem competitiva ou direção do Kamikaze. A lista de estabelecimentos para entrevistas e o experimento associado foram removidos. Não reutilizar essa hipótese sem uma nova decisão explícita do usuário.
 
-## Decisões técnicas provisórias
+## O que já existe no repositório
 
-1. **Primeira opção para testar:** Google Antigravity App/CLI `agy`, com conta Google pessoal Free. Tem subagentes, skills, MCP, navegador e /swarm; a quota é semanal e variável, não ilimitada.
-2. **Memória operacional:** GitHub e arquivos Markdown do Projeto Sem Nome.
-3. **Pesquisa Reddit:** Reddit Research MCP, se a conexão MCP e OAuth forem aprovados e funcionarem na versão instalada.
-4. **Coleta batch:** Pain Miner, começando por `diagnose`; não rodar se as fontes estiverem bloqueadas.
-5. **Complemento:** Google AI Studio/Gemini API Free para experimentos pontuais, respeitando modelos e limites do plano gratuito.
-6. **Não instalar agora:** Ollama, OpenHands, Dify, Flowise, n8n, CrewAI ou LangGraph. Podem ser úteis depois, mas aumentam complexidade e dependências sem resolver a validação comercial inicial.
-7. **Não usar AutoGen como base de novo projeto** sem avaliar o Microsoft Agent Framework, seu sucessor atual.
-8. **Não presumir que BitChat/bitChat seja a plataforma desejada:** dois produtos distintos foram encontrados; nenhum substitui Antigravity como ambiente geral de agentes.
+- Brief e princípios de validação.
+- Skills para pesquisa ampla e operação de oportunidades com custo zero.
+- Auditorias de ferramentas e repositórios de pesquisa.
+- Pesquisa exploratória em comunidades diversas (lotes 001 e 002).
+- Pesquisa de casos e aprendizados de monetização.
+- Pesquisa sobre ferramentas e agentes gratuitos.
+- Banco de oportunidades, agora limpo e sem uma hipótese pré-selecionada.
+
+Esses materiais são insumos de pesquisa, não validação de negócio. Relatos de fóruns e preços publicados não comprovam faturamento nem tamanho de mercado.
 
 ## O que ainda não foi feito
 
-- Nenhuma ferramenta foi instalada, autenticada, clonada ou executada nesta sessão.
-- Não testamos a quota do Antigravity na conta do usuário.
-- Não confirmamos que o computador disponível executará o Antigravity confortavelmente.
-- Não conectamos Reddit Research MCP.
-- Não executamos Pain Miner.
-- As oportunidades preliminares da pesquisa são pistas, não ofertas validadas nem evidência de vendas.
+- Nenhuma oportunidade foi aprovada como negócio.
+- Nenhum comprador foi entrevistado para uma oferta Kamikaze.
+- Nenhuma venda ou receita foi registrada.
+- Nenhum agente/ferramenta de pesquisa foi instalado ou testado como operação contínua.
+- Nenhum fluxo de produção ou distribuição foi validado.
 
-## Oportunidades preliminares para investigação
+## Próxima sequência recomendada
 
-- Serviço de limpeza/padronização de CSV e planilhas para pequenos negócios/profissionais contábeis.
-- Planilha de controle de inventário de bundles para vendedores Etsy.
-- Curadoria e preparação original de materiais pedagógicos.
-- Organização administrativa para profissionais autônomos.
+1. Retomar a leitura dos lotes de pesquisa e evitar repetir achados.
+2. Abrir uma nova rodada que investigue explicitamente como pessoas e empresas usam IA para gerar receita e operar negócios.
+3. Investigar separadamente dropshipping/e-commerce, conteúdo curto e modelos de serviço/produto digital, incluindo custos e contraprovas.
+4. Identificar oportunidades com comprador alcançável e caminho de venda plausível.
+5. Comparar poucas candidatas com base em evidências e capacidade real de entrega.
+6. Escolher um teste comercial prioritário, definir oferta/preço/canal e buscar a primeira venda.
+7. Atualizar este arquivo após cada decisão ou resultado verificável.
 
-Cada pista tem fonte e contraprova inicial em `research/FREE_AGENT_STACK_RESEARCH.md`. Nenhuma foi aprovada como negócio.
+## Regras de aprovação
 
-## Próxima ação recomendada
+- Pesquisa e rascunhos podem ser preparados por IA.
+- Mensagens externas, publicações, compras, assinaturas, deploys e ações irreversíveis exigem aprovação humana.
+- Não registrar uma hipótese como validada sem evidência de comprador e compromisso comercial verificável.
+- Não contar curtidas, visualizações, seguidores ou elogios como receita.
+- Registrar resultados negativos e hipóteses descartadas para não repetir trabalho.
 
-1. No computador Windows, instalar Antigravity CLI/desktop e confirmar versão, quota e memória disponível.
-2. Abrir o repositório como workspace.
-3. Carregar a skill `zero-cost-opportunity-ops`.
-4. Testar uma tarefa curta com dois ou três agentes, sem enviar mensagens externas.
-5. Conectar Reddit Research MCP somente depois de verificar OAuth e permissões.
-6. Executar diagnóstico Pain Miner em ambiente Python.
-7. Rodar um primeiro lote em três a cinco nichos e escolher no máximo uma oferta para validação.
-
-## Registro de decisões
+## Registro resumido de decisões
 
 | Data | Decisão | Motivo |
 |---|---|---|
-| 25/11/2026 | Priorizar validação comercial antes de software | Prazo curto, orçamento zero e risco de construir sem compradores |
-| 25/11/2026 | Registrar H1 de acompanhamento de orçamentos como hipótese, não como negócio validado | Não houve entrevistas nem pagamentos |
-| 25/11/2026 | Testar Antigravity Free antes de montar framework próprio | Oferece ambiente de agentes, skills, MCP e /swarm sem assinatura, embora com quota |
-| 25/11/2026 | Usar o GitHub como memória operacional | Persistência e continuidade entre ferramentas/sessões |
-| 25/11/2026 | Pesquisar cinco hipóteses, produzir uma ou duas no máximo | Evitar dispersão e excesso de trabalho não vendido |
-| 25/11/2026 | Não instalar stack local de modelos no primeiro ciclo | Hardware e setup podem custar mais tempo que o benefício |
+| 25/11/2026 | Nome e identidade atualizados para Negócio Digital Kamikaze | O projeto deixou de ser provisoriamente chamado Projeto Sem Nome |
+| 25/11/2026 | Retirar a hipótese de acompanhamento de orçamentos para assistência técnica | Não representa a direção ampla definida pelo usuário |
+| 25/11/2026 | Retirar lista de estabelecimentos e experimento associado | Eram derivados de uma hipótese rejeitada |
+| 25/11/2026 | Meta imediata atualizada para R$ 150 até 06/12/2026 | Meta financeira corrigida pelo usuário |
+| 25/11/2026 | Retomar pesquisa ampla de modelos digitais e usos comerciais de IA | Não escolher nicho ou modelo antes da investigação |
