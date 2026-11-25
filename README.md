@@ -8,7 +8,7 @@
 
 ## O que estamos construindo
 
-O Kamikaze não é uma assistência técnica, uma loja de dropshipping, uma agência de automação, um SaaS ou um canal de conteúdo previamente escolhido. É uma operação que pesquisa mercados e modelos de monetização sem se prender a uma categoria.
+O Kamikaze não é uma loja de dropshipping, uma agência de automação, um SaaS ou um canal de conteúdo previamente escolhido. É uma operação que pesquisa mercados e modelos de monetização sem se prender a uma categoria.
 
 A operação deve descobrir:
 - como pessoas e empresas estão usando IA para ganhar dinheiro, reduzir custos, produzir, vender e operar;
