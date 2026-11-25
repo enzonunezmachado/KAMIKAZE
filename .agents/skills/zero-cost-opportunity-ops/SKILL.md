@@ -1,6 +1,6 @@
 ---
 name: zero-cost-opportunity-ops
-description: Coordena pesquisa de mercado, mineração de dores, validação comercial e produção de soluções pequenas com ferramentas gratuitas, orçamento inicial zero e evidências rastreáveis. Use para conduzir o Projeto Sem Nome do problema observado até a primeira venda.
+description: Coordena pesquisa de mercado, mineração de dores, validação comercial e produção de soluções pequenas com ferramentas gratuitas, orçamento inicial zero e evidências rastreáveis. Use para conduzir o Negócio Digital Kamikaze do problema observado até a primeira venda.
 ---
 
 # Zero-Cost Opportunity Ops
@@ -13,8 +13,8 @@ O objetivo não é automatizar tudo. É reduzir trabalho repetitivo e aumentar a
 ## Contexto e restrições padrão
 - Uma pessoa, sem equipe.
 - Orçamento de início: R$ 0.
-- Meta inicial: primeira receita de R$ 200; meta aspiracional, nunca garantia.
-- GitHub do Projeto Sem Nome é a memória operacional e fonte de verdade.
+- Meta imediata: buscar pelo menos R$ 150 recebidos até 06/12/2026; objetivo operacional, nunca garantia.
+- GitHub do Negócio Digital Kamikaze é a memória operacional e fonte de verdade.
 - Ferramentas gratuitas, open source e quotas gratuitas são permitidas, mas devem ser classificadas separadamente.
 - Não assumir que open source implica modelo/API/hosting gratuito.
 - Não pressupor que o produto final será SaaS, app, site ou tecnologia.
@@ -206,4 +206,4 @@ Não copiar o repositório inteiro para cada contexto. Ler README + STATE e abri
 10. Próxima ação de validação.
 
 ## Prompt de inicialização
-Leia README.md, operations/STATE.md e esta skill. Continue a pesquisa do Projeto Sem Nome com orçamento de R$ 0. Não repita lotes anteriores. Descubra problemas em comunidades diversas, abra fontes primárias, classifique sinais comerciais, investigue concorrentes e contraprovas. Não construa antes de validar. Apresente oportunidades somente com links, evidências, lacunas e teste de venda. Atualize o repositório com os resultados e deixe claro o que não foi executado ou confirmado.
+Leia README.md, operations/STATE.md e esta skill. Continue a pesquisa ampla do Negócio Digital Kamikaze com orçamento de R$ 0. Investigue usos comerciais de IA, e-commerce/dropshipping, produtos digitais, serviços, freelancing, automações, agentes, conteúdo e outras formas de monetização sem assumir que qualquer uma delas já foi escolhida. Não repita lotes anteriores. Descubra problemas em comunidades diversas, abra fontes primárias, classifique sinais comerciais, investigue concorrentes e contraprovas. Não construa antes de validar. Apresente oportunidades somente com links, evidências, lacunas e teste de venda. Atualize o repositório com os resultados e deixe claro o que não foi executado ou confirmado.
