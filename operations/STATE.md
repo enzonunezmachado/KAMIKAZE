@@ -27,10 +27,6 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Não presumir acesso ao ChatGPT Plus ou execução ilimitada de agentes.
 - NEXUS e ATLAS permanecem projetos separados.
 
-## Exclusão explícita
-
-A hipótese anterior de implantar uma planilha de acompanhamento de orçamentos para assistências técnicas de celulares foi retirada. Ela não deve ser tratada como oportunidade ativa, recomendação, vantagem competitiva ou direção do Kamikaze. A lista de estabelecimentos para entrevistas e o experimento associado foram removidos. Não reutilizar essa hipótese sem uma nova decisão explícita do usuário.
-
 ## O que já existe no repositório
 
 - Brief e princípios de validação.
@@ -73,8 +69,8 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 
 | Data | Decisão | Motivo |
 |---|---|---|
-| 25/11/2026 | Nome e identidade atualizados para Negócio Digital Kamikaze | O projeto deixou de ser provisoriamente chamado Projeto Sem Nome |
-| 25/11/2026 | Retirar a hipótese de acompanhamento de orçamentos para assistência técnica | Não representa a direção ampla definida pelo usuário |
+| 25/11/2026 | Nome e identidade atualizados para Negócio Digital Kamikaze | O projeto recebeu identidade e nome definitivos |
+| 25/11/2026 | Retirar hipótese comercial pré-selecionada | Não representa a direção ampla definida pelo usuário |
 | 25/11/2026 | Retirar lista de estabelecimentos e experimento associado | Eram derivados de uma hipótese rejeitada |
 | 25/11/2026 | Meta imediata atualizada para R$ 150 até 06/12/2026 | Meta financeira corrigida pelo usuário |
 | 25/11/2026 | Retomar pesquisa ampla de modelos digitais e usos comerciais de IA | Não escolher nicho ou modelo antes da investigação |
