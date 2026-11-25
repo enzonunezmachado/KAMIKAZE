@@ -1,81 +1,94 @@
-# Brief do projeto
+# Brief — Negócio Digital Kamikaze
 
 ## 1. Identidade
 
-**Nome de trabalho:** Projeto Sem Nome  
-**Natureza:** laboratório de descoberta, validação e comercialização de micro-oportunidades.  
-**Responsável:** Enzo Nuñez Machado.  
-**Estado:** descoberta inicial.
+**Nome:** Negócio Digital Kamikaze  
+**Repositório:** `enzonunezmachado/KAMIKAZE`  
+**Natureza:** operação independente de descoberta, validação e execução de oportunidades digitais.  
+**Estado:** estratégia em recalibração; nenhuma oportunidade escolhida ou validada.
 
-## 2. Contexto
+## 2. Visão
 
-O projeto nasce de uma necessidade financeira imediata e de uma ambição maior: identificar oportunidades comerciais específicas que possam ser exploradas com ferramentas gratuitas e IA, sem exigir investimento inicial, infraestrutura complexa ou grande audiência.
+Construir um sistema próprio, modular e de baixo custo que investigue como a internet e a economia digital estão funcionando, encontre oportunidades reais e use IA e ferramentas digitais para produzir e comercializar soluções.
 
-O responsável tem familiaridade prática com IA generativa, organização de projetos, documentação, ferramentas digitais e desenvolvimento assistido por IA. Também conhece por experiência própria o contexto de assistência técnica de celulares. Essas experiências podem gerar hipóteses, mas não devem limitar a pesquisa.
+O sistema deve ser capaz de explorar mercados e formatos diferentes sem se comprometer antecipadamente com uma única atividade. O objetivo não é criar agentes por vaidade nem montar uma infraestrutura complexa: é usar pesquisa e automação para aumentar a capacidade de encontrar, testar e executar oportunidades.
 
-## 3. Objetivos
+## 3. Escopo de investigação
 
-### Imediato
-Buscar R$ 200 de receita em até sete dias, sem investimento financeiro inicial.
+As linhas de pesquisa podem incluir, sem se limitar a:
 
-### Próximos 30 dias
-Encontrar pelo menos uma oferta que possa ser vendida repetidamente e medir custo de entrega, margem, esforço comercial e satisfação do comprador.
+- usos comerciais atuais de IA por indivíduos, criadores, freelancers e empresas;
+- IA aplicada a comércio eletrônico, lojas virtuais, dropshipping, pesquisa de produtos, catálogo, atendimento, marketing, operações e aquisição;
+- produtos digitais, templates, arquivos, ferramentas e microprodutos;
+- serviços especializados, freelancing, pesquisa, curadoria, produção e intermediação;
+- agentes de IA, automações e pequenas soluções para problemas operacionais;
+- conteúdo original em YouTube, Shorts, Reels, TikTok, memes e outros formatos;
+- modelos de monetização por venda direta, prestação de serviço, assinatura, afiliados, patrocínio, publicidade e licenciamento;
+- oportunidades identificadas em comunidades, fóruns, avaliações, marketplaces e dados públicos.
 
-### Longo prazo
-Construir uma fonte de renda digital que possa crescer e, se validada, contribuir para despesas recorrentes de estudo e vida.
+Esses tópicos são trilhas de pesquisa, não uma lista de negócios aprovados. Dropshipping e conteúdo com IA devem ser avaliados com custos, concorrência, políticas das plataformas, logística, margem e evidência de compradores — não tratados como atalhos garantidos.
 
-## 4. Restrições
+## 4. Objetivos
 
-- Orçamento inicial: R$ 0.
-- Não depender de anúncios pagos.
-- Não depender de APIs pagas ou serviços com cobrança obrigatória.
-- Entrega deve ser possível sem computador potente; priorizar ferramentas acessíveis pelo celular quando possível.
-- Não exigir audiência prévia ou grande volume de seguidores.
-- Não pressupor que o produto final será software.
-- Evitar coleta e armazenamento de dados sensíveis.
-- Não prometer segurança, conformidade jurídica ou resultados não comprovados.
-- O primeiro produto pode ser um serviço manual, desde que seja padronizado e entregue com qualidade.
+### Missão imediata
 
-## 5. Critérios para uma boa oportunidade
+Buscar pelo menos **R$ 150 efetivamente recebidos até 06/12/2026**, com investimento inicial de R$ 0. A meta é uma missão de curto prazo, não promessa de resultado. O plano de proteção é procurar emprego caso não apareçam sinais concretos de tração até essa data; isso não invalida o projeto.
 
-1. Público identificável e alcançável.
-2. Dor frequente, urgente ou economicamente relevante.
-3. Evidência de que o público já gasta dinheiro ou tempo tentando resolver o problema.
-4. Solução inicial possível com recursos gratuitos.
-5. Valor percebido claro e demonstrável.
-6. Primeiro canal de aquisição acessível sem anúncios.
-7. Possibilidade de cobrar antes de construir algo complexo.
-8. Baixo risco operacional, técnico e jurídico.
-9. Potencial de repetição ou recorrência.
-10. Diferenciação por especialização, contexto ou execução — não apenas por usar IA.
+### Objetivo de construção
 
-## 6. O que conta como validação
+Criar um processo reutilizável de pesquisa → análise → validação → produção → distribuição → venda → aprendizado. O sistema pode acompanhar diversas oportunidades, mas deve explicitar qual teste recebe prioridade e por quê.
 
-**Evidência fraca:** curtidas, visualizações, elogios, amigos dizendo que comprariam, comentários genéricos e cadastros gratuitos.
+### Objetivo de longo prazo
 
-**Evidência intermediária:** conversas com pessoas do público-alvo que descrevem um problema recente, frequência, custo e solução improvisada; pedido explícito de proposta.
+Encontrar uma ou mais fontes de renda digital legítimas, repetíveis e sustentáveis, ampliando o que demonstrar procura e margem. Não assumir recorrência antes de observar recompra ou necessidade contínua.
 
-**Evidência forte:** pagamento, sinal, pedido formal ou compromisso comercial verificável de alguém que não seja amigo ou familiar próximo.
+## 5. Restrições e exclusões
 
-A oportunidade só pode ser marcada como validada após evidência de pagamento ou compromisso comercial real, acompanhada de registro do que foi entregue.
+- Capital inicial disponível: R$ 0.
+- Não assumir que a atividade pessoal ou profissional atual do responsável deve virar o negócio.
+- Não priorizar assistência técnica, conserto de celulares ou qualquer nicho apenas por familiaridade pessoal.
+- Não escolher dropshipping, SaaS, agência, conteúdo ou outro modelo antes da investigação.
+- Não depender de ChatGPT Plus, APIs pagas, anúncios ou hospedagem paga para iniciar.
+- Considerar limitações de hardware e priorizar fluxos leves, remotos ou acessíveis por celular quando necessário.
+- Não exigir audiência prévia.
+- Não automatizar ações externas sem aprovação humana.
+- Não armazenar dados pessoais desnecessários nem usar conteúdo protegido sem autorização.
+- Não confundir acesso gratuito a um software com inferência, hospedagem ou uso ilimitado gratuitos.
 
-## 7. Estratégia de execução
+## 6. Método de evidência
 
-1. Pesquisar nichos e casos reais.
-2. Formular hipóteses estreitas.
-3. Identificar compradores potenciais.
-4. Entrevistar e observar antes de desenvolver.
-5. Apresentar uma oferta concreta.
-6. Tentar pré-vender ou vender uma implantação manual.
-7. Entregar com ferramentas gratuitas.
-8. Medir resultado e esforço.
-9. Padronizar apenas o que se repetir.
-10. Automatizar quando a demanda justificar.
+Classificar cada afirmação como fato documentado, relato individual, padrão observado, estimativa, inferência ou hipótese.
 
-## 8. Relação com ATLAS e NEXUS
+**Sinais fracos:** curtidas, visualizações, comentários genéricos, elogios e afirmações de que uma ideia é interessante.
 
-O ATLAS serve como referência de organização, procedência, memória e continuidade. O NEXUS é um projeto distinto e não deve ser misturado a este laboratório. O Projeto Sem Nome pode reutilizar princípios de documentação e organização do ATLAS, mas deve manter estrutura proporcional e leve.
+**Sinais intermediários:** problema repetido por pessoas independentes, improvisos, gastos de tempo/dinheiro, procura ativa por solução, pedidos de recomendação e pedidos de orçamento.
 
-## 9. Estado inicial
+**Sinais fortes:** compra, contratação, pagamento, encomenda, orçamento aceito ou compromisso comercial verificável. Prints e histórias de faturamento sem verificação independente permanecem relatos.
 
-Nenhuma ideia foi validada. A primeira hipótese registrada é o serviço de acompanhamento de orçamentos para assistências técnicas de celulares. Ela deve competir com outras hipóteses e pode ser descartada.
+Toda oportunidade deve incluir fontes primárias, concorrentes e substitutos, contraprovas, comprador, canal, custo de produção, preço testável, riscos e evidência ainda ausente.
+
+## 7. Fluxo de execução
+
+1. Definir perguntas de pesquisa e trilhas de mercado.
+2. Descobrir fontes e comunidades diversas.
+3. Minerar problemas, desejos, comportamentos e sinais de compra.
+4. Cruzar evidências e investigar concorrência/alternativas.
+5. Comparar modelos de monetização e capacidade de execução.
+6. Definir teste com oferta, escopo, preço, canal e critério de parada.
+7. Validar com pessoas reais antes de construir algo complexo.
+8. Produzir a menor entrega que cumpra a promessa.
+9. Distribuir e vender de forma ética e individualizada.
+10. Medir receita recebida, despesas, margem, tempo e satisfação.
+11. Documentar aprendizados e atualizar prioridades.
+
+## 8. Arquitetura operacional
+
+O sistema é modular: pesquisa, análise crítica, modelagem de oferta, produção, comercialização e auditoria podem ser executadas por um agente generalista ou por ferramentas/subagentes quando houver ganho real. O GitHub mantém contexto e histórico. Nenhuma ferramenta é considerada obrigatória antes de ser testada no ambiente real.
+
+## 9. Relação com outros projetos
+
+Kamikaze é uma operação comercial independente. NEXUS e ATLAS são projetos separados. Não misturar seus objetivos, cronogramas, dados ou repositórios com a execução comercial do Kamikaze.
+
+## 10. Estado atual
+
+O repositório contém pesquisas exploratórias sobre diferentes comunidades, ferramentas e formas de monetização. As hipóteses antigas de uma oferta específica para assistências técnicas foram retiradas por não representarem a direção definida. Nenhuma oportunidade substituta foi aprovada. A próxima etapa é retomar a pesquisa ampla e comparativa, incluindo o uso comercial atual de IA e diferentes modelos de negócio.
