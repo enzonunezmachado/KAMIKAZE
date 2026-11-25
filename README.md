@@ -2,8 +2,8 @@
 
 > Laboratório de oportunidades comerciais: encontrar problemas específicos, validar disposição real de pagamento e transformar soluções pequenas em receita.
 
-**Objetivo imediato:** buscar os primeiros R$ 200 em até 7 dias, começando sem investimento financeiro.
-**Objetivo de médio prazo:** descobrir uma oferta repetível, com potencial de receita recorrente, que possa crescer sem depender de anúncios pagos.
+**Objetivo imediato:** buscar os primeiros R$ 200 em até 7 dias, começando sem investimento financeiro.  
+**Objetivo de médio prazo:** descobrir uma oferta repetível, com potencial de receita recorrente, que possa crescer sem depender de anúncios pagos.  
 **Estado:** descoberta e validação — nenhuma ideia foi aprovada como negócio ainda.
 
 ## Princípio central
@@ -25,21 +25,35 @@ A tecnologia é um meio de entregar o resultado. Um serviço manual, uma planilh
 9. **Registrar evidências:** separar fatos observados, relatos de terceiros, estimativas e hipóteses.
 10. **Preservar o caixa:** nenhuma despesa sem aprovação explícita.
 
+## Sistema operacional de agentes
+
+- Pesquisa e auditoria de ferramentas: `research/FREE_AGENT_STACK_RESEARCH.md`.
+- Skill operacional para pesquisa, validação e produção: `.agents/skills/zero-cost-opportunity-ops/SKILL.md`.
+- Guia de instalação e primeiro teste: `operations/ZERO_COST_STACK_QUICKSTART.md`.
+- Auditoria anterior de repositórios de mineração: `research/TOOLS_AND_REPOSITORIES_AUDIT.md`.
+- Skill de pesquisa exploratória: `.agents/skills/market-opportunity-scout/SKILL.md`.
+
+A hipótese de ambiente principal é Google Antigravity Free, com quota semanal, subagentes, skills, MCP e /swarm. Ainda não foi instalado nem testado no computador do usuário. Reddit Research MCP e Pain Miner são complementos de pesquisa, não agentes autônomos completos.
+
 ## Primeira hipótese em avaliação
 
 **Orçamento que não esfria:** implantação de um processo simples de acompanhamento de orçamentos para assistências técnicas de celulares, usando planilha e mensagens prontas de WhatsApp.
 
-A oferta é apenas uma hipótese de validação. Não construir antes de conversar com potenciais compradores e identificar um problema recorrente.
+A oferta é apenas uma hipótese de validação. Não construir antes de conversar com potenciais compradores e identificar um problema recorrente. Não é a prioridade exclusiva; deve competir com outras oportunidades.
 
 ## Estrutura
 
 - `docs/BRIEF.md` — contexto, objetivos, limites e critérios de sucesso.
 - `research/CASES_AND_INSIGHTS.md` — casos reais, fontes e aprendizados.
+- `research/FREE_AGENT_STACK_RESEARCH.md` — agentes, ferramentas, fontes e arquitetura gratuita.
+- `research/TOOLS_AND_REPOSITORIES_AUDIT.md` — auditoria de repositórios de mineração.
 - `opportunities/IDEA_BACKLOG.md` — hipóteses de mercado, pontuação e decisões.
 - `experiments/EXPERIMENT_001.md` — primeiro teste comercial de sete dias.
 - `operations/STATE.md` — estado atual, decisões, métricas e próximo passo.
+- `operations/ZERO_COST_STACK_QUICKSTART.md` — setup e primeiro experimento de agentes.
 - `templates/IDEA_TEMPLATE.md` — modelo para novas hipóteses.
 - `templates/EXPERIMENT_TEMPLATE.md` — modelo para experimentos.
+- `.agents/skills/` — skills operacionais reutilizáveis.
 
 ## Como trabalhar neste repositório
 
