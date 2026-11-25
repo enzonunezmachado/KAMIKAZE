@@ -1,110 +1,61 @@
-# Quickstart — stack gratuita de agentes
+# Quickstart — ambiente gratuito de pesquisa e produção
 
-Este guia é para quando houver acesso ao computador Windows. Nada aqui foi instalado ou testado nesta pesquisa.
+Este guia é uma referência técnica, não uma obrigação de instalar ferramentas. O ambiente deve servir à operação comercial, e não se tornar o projeto principal.
 
-## 1. Primeiro candidato: Antigravity
+## 1. Princípio de implantação
+
+- Começar com ferramentas já disponíveis e fluxos leves.
+- Não depender de computador potente, servidor local ou modelo local.
+- Não instalar frameworks só para parecer uma operação multiagente.
+- Verificar limites reais das contas gratuitas antes de planejar tarefas longas.
+- Usar GitHub como memória versionada e revisão humana como controle.
+
+## 2. Google Antigravity
 
 Documentação e download: https://antigravity.google/download
 
-PowerShell:
-```powershell
-irm https://antigravity.google/cli/install.ps1 | iex
-agy --version
-```
+O Antigravity foi pesquisado como candidato a ambiente de agentes, skills e MCP. Ainda não foi confirmado como instalado ou confortável no equipamento disponível.
 
-Ou instale o aplicativo desktop pelo site oficial.
+Se for testado:
+1. Instalar somente pela fonte oficial.
+2. Confirmar plano, modelo, cota e limites atuais.
+3. Abrir o repositório `KAMIKAZE` como workspace.
+4. Verificar se as skills do projeto foram reconhecidas.
+5. Começar com uma tarefa pequena, sem agentes paralelos desnecessários.
+6. Revisar todas as alterações antes de aceitá-las.
 
-1. Entre com uma conta Google pessoal.
-2. Confira o plano e o saldo/cota em `/usage` ou no painel de uso.
-3. Abra o repositório PROJETO-SEM-NOME como workspace.
-4. Confirme que confia na pasta antes de permitir indexação e execução.
-5. Verifique se a skill `.agents/skills/zero-cost-opportunity-ops/SKILL.md` foi reconhecida.
-6. Comece com uma tarefa pequena e delimitada; não iniciar com cinco agentes.
+## 3. Pesquisa externa
 
-## 2. Como usar o Swarm sem desperdiçar cota
+Ferramentas como Reddit Research MCP e Pain Miner foram documentadas como complementos possíveis. Antes de usar:
+- confirmar compatibilidade, autenticação e limites atuais;
+- respeitar regras das comunidades e limites das fontes;
+- abrir e verificar as fontes originais;
+- não tratar resultados automatizados como evidência final;
+- interromper a coleta se houver bloqueios ou erros de acesso.
 
-Exemplo de tarefa:
-```text
-/swarm
-Pesquise independentemente três áreas diferentes: (1) pequenos negócios,
-(2) hobbies/artesanato e (3) profissionais autônomos. Cada agente deve
-entregar até cinco fontes primárias, resumo da dor, alternativa atual,
-sinal comercial e contraprova. Não criar produtos nem contatar ninguém.
-Salvar cada resultado em arquivo separado em research/. O agente coordenador
-deve deduplicar e verificar links antes de sintetizar. Não inventar dados.
-```
+## 4. Google AI Studio
 
-Comece com 2 ou 3 agentes. Não usar 5–10 por padrão. Se o trabalho for simples, pedir ao agente principal para executar sem subagentes.
+Pode ser usado para tarefas pontuais de pesquisa, análise e prototipagem, observando limites gratuitos, privacidade e disponibilidade. Não presumir API gratuita ilimitada nem compartilhar segredos ou dados pessoais.
 
-## 3. Conectar Reddit Research MCP
+## 5. Fluxo de teste do sistema
 
-Projeto: https://github.com/dialog-tools/reddit-research-mcp
+1. Escolher uma pergunta comercial específica.
+2. Pesquisar em fontes diversas.
+3. Coletar amostra limitada e rastreável.
+4. Ler as fontes originais.
+5. Registrar problema, comprador, solução atual, sinais de compra e contraprovas.
+6. Comparar alternativas e custos.
+7. Produzir no máximo um teste de oferta por prioridade escolhida.
+8. Validar com compradores reais antes de desenvolver uma solução complexa.
 
-O README declara servidor hospedado gratuito, sem credenciais Reddit, mas exige cliente MCP compatível e OAuth do serviço.
+## 6. Ferramentas que não são prioridade agora
 
-Antigravity suporta MCP. A forma exata de cadastrar o endpoint deve seguir a versão atual da documentação de Antigravity e o fluxo de autenticação do servidor. Endpoint anunciado: `https://mcp.dialog.tools/mcp`.
+Ollama, OpenHands, Dify, Flowise, n8n, CrewAI e LangGraph podem ter usos futuros, mas exigem configuração, modelo, infraestrutura ou manutenção. Não instalar antes de um caso de uso claro e de verificar se o hardware/conta suporta.
 
-Não compartilhar cookies, tokens ou senhas. Não presumir que o app ChatGPT Android seja um cliente MCP.
+## 7. Segurança
 
-## 4. Testar Pain Miner
-
-Projeto: https://github.com/AdvancingTitans/pain-miner
-
-Em terminal com Python 3.10+:
-```bash
-git clone https://github.com/AdvancingTitans/pain-miner.git
-cd pain-miner
-python3 scripts/pain_miner.py diagnose --out pain-diagnose.json
-```
-
-Só se o diagnóstico indicar fontes utilizáveis, rodar lote pequeno:
-```bash
-python3 scripts/pain_miner.py run \
-  --target "recurring practical problems across small business, hobbies and professional communities" \
-  --hours 720 \
-  --min-score 10 \
-  --min-comments 3 \
-  --profile-communities \
-  --fetch-comments \
-  --analyze \
-  --out pain-run.json
-```
-
-Gerar relatório:
-```bash
-python3 scripts/pain_miner.py render-report --input pain-run.json --out pain-report.md
-```
-
-Se aparecer `INSUFFICIENT_EVIDENCE`, não forçar uma oportunidade. Se uma fonte retornar 403/429, parar de insistir e registrar indisponibilidade.
-
-## 5. Ferramentas para não instalar agora
-
-- Ollama: exige memória local; referência oficial é 8 GB disponíveis para 7B. Evitar no computador de 4 GB.
-- OpenHands: agente de programação que precisa de modelo forte e ambiente; local não significa leve.
-- Dify/Flowise: builders úteis quando já existe caso de uso, mas exigem instalação/servidor/modelo.
-- n8n: Community Edition pode ser self-hosted gratuitamente, mas exige manutenção e a licença limita revenda como serviço de workflow.
-- CrewAI/LangGraph/smolagents: frameworks para desenvolver nossos próprios agentes; não são um produto pronto nem incluem inferência gratuita ilimitada.
-
-## 6. Primeiro experimento do sistema
-
-Objetivo: avaliar se o sistema encontra problemas e compradores melhor do que uma pesquisa manual simples.
-
-- Escolher três nichos muito diferentes.
-- Coletar até 10 threads por nicho.
-- Abrir e ler fontes originais.
-- Deduplicar autores e posts.
-- Identificar pelo menos uma contraprova por problema promissor.
-- Pesquisar alternativas e preços.
-- Gerar no máximo três oportunidades candidatas.
-- Escolher uma oferta manual para testar com compradores reais.
-- Não construir software antes de receber sinal comercial.
-
-## 7. Segurança e limites
-
-- Revisar diffs antes de aceitar mudanças.
-- Não executar scripts desconhecidos sem ler o código.
-- Não versionar tokens/chaves.
+- Não versionar tokens, cookies, senhas ou chaves.
+- Não executar scripts desconhecidos sem inspecionar.
 - Não permitir envio automático de mensagens ou publicações.
-- Não gastar nem contratar nada sem autorização explícita.
-- Não contornar bloqueios de fontes.
-- Confirmar a cota e o modelo disponíveis antes de tarefas longas.
+- Não comprar, assinar, publicar ou fazer deploy sem autorização.
+- Revisar diffs e manter histórico das decisões.
