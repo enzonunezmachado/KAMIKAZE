@@ -1,62 +1,87 @@
-# PROJETO SEM NOME
+# NEGÓCIO DIGITAL KAMIKAZE
 
-> Laboratório de oportunidades comerciais: encontrar problemas específicos, validar disposição real de pagamento e transformar soluções pequenas em receita.
+> Operação independente para descobrir, validar, produzir e comercializar oportunidades digitais usando pesquisa, inteligência artificial, ferramentas gratuitas e execução enxuta.
 
-**Objetivo imediato:** buscar os primeiros R$ 200 em até 7 dias, começando sem investimento financeiro.  
-**Objetivo de médio prazo:** descobrir uma oferta repetível, com potencial de receita recorrente, que possa crescer sem depender de anúncios pagos.  
-**Estado:** descoberta e validação — nenhuma ideia foi aprovada como negócio ainda.
+**Missão imediata:** buscar pelo menos R$ 150 recebidos até 06/12/2026, sem investimento inicial. Esse é um objetivo operacional, não uma garantia.  
+**Missão estrutural:** construir um sistema modular que consiga investigar diferentes modelos de negócio, testar ofertas e transformar oportunidades comprovadas em receita.  
+**Estado:** recalibração da estratégia; nenhuma oportunidade foi aprovada como negócio.
+
+## O que estamos construindo
+
+O Kamikaze não é uma assistência técnica, uma loja de dropshipping, uma agência de automação, um SaaS ou um canal de conteúdo previamente escolhido. É uma operação que pesquisa mercados e modelos de monetização sem se prender a uma categoria.
+
+A operação deve descobrir:
+- como pessoas e empresas estão usando IA para ganhar dinheiro, reduzir custos, produzir, vender e operar;
+- quais problemas reais continuam sem solução satisfatória;
+- quais produtos, serviços, conteúdos ou operações digitais já demonstram procura;
+- onde existem sinais concretos de pagamento, contratação ou compra;
+- quais oportunidades podem ser testadas com recursos disponíveis e baixo risco.
+
+Dropshipping, comércio eletrônico, produtos digitais, serviços, freelancing, automações, agentes de IA, conteúdo em vídeo, Reels, Shorts, memes, curadoria, pesquisa sob demanda e outras formas de monetização são **áreas de investigação**, não decisões antecipadas.
 
 ## Princípio central
 
-Não começamos pelo aplicativo, pela IA ou pela tecnologia. Começamos por um grupo específico de pessoas, um problema frequente e custoso, uma solução simples e um caminho plausível para chegar até quem paga.
+**Não escolher o negócio antes de pesquisar.** Não usar o histórico pessoal do responsável como atalho para decidir o mercado. Uma experiência anterior pode ser uma fonte de hipótese, mas não dá prioridade automática a ela.
 
-A tecnologia é um meio de entregar o resultado. Um serviço manual, uma planilha, um documento, um fluxo operacional ou um produto digital podem ser o primeiro formato. Só automatizamos depois de encontrar sinais reais de demanda.
+O trabalho começa em evidências externas e problemas observáveis. Depois compara modelos de negócio, compradores, concorrência, custos, capacidade de entrega, canais de aquisição, prazo até a primeira receita e riscos.
 
-## Regras do projeto
+A IA é uma alavanca de pesquisa e produção, não uma proposta de valor por si só. A operação deve procurar resultados pelos quais alguém pagaria, e não apenas coisas que a IA consegue gerar.
 
-1. **Validar antes de construir:** procurar evidências de dor e disposição de pagamento antes de desenvolver.
-2. **Nicho antes de amplitude:** preferir um público estreito com problema claro a uma oferta genérica.
-3. **Receita antes de vaidade:** distinguir visualizações, usuários, elogios, intenção e pagamentos reais.
-4. **Custo zero como restrição inicial:** não depender de APIs pagas, hospedagem paga, anúncios ou assinaturas para o primeiro teste.
-5. **Distribuição explícita:** toda hipótese precisa dizer como encontraremos os primeiros potenciais compradores.
-6. **Entrega simples e honesta:** não prometer automação, segurança, resultados ou integrações que não foram verificadas.
-7. **Experimentos curtos:** limitar o tempo gasto em cada hipótese e definir critérios para continuar, ajustar ou abandonar.
-8. **Risco proporcional:** evitar inicialmente dados sensíveis, aconselhamento médico/jurídico/financeiro, autenticação crítica, pagamentos próprios e sistemas que possam causar dano se falharem.
-9. **Registrar evidências:** separar fatos observados, relatos de terceiros, estimativas e hipóteses.
-10. **Preservar o caixa:** nenhuma despesa sem aprovação explícita.
+## Ciclo operacional
 
-## Sistema operacional de agentes
+1. **Explorar:** pesquisar mercados, comunidades, tendências, produtos, serviços e formas atuais de uso comercial da IA.
+2. **Minerar:** encontrar dores, desejos, tarefas, improvisos, reclamações, pedidos e comportamentos de compra.
+3. **Verificar:** abrir fontes originais, cruzar relatos independentes, pesquisar concorrentes, preços, alternativas e contraprovas.
+4. **Comparar:** avaliar diferentes modelos de monetização e sua viabilidade real.
+5. **Validar:** conversar com compradores, testar interesse com oferta e preço claros e buscar pagamento.
+6. **Produzir:** criar a menor entrega capaz de resolver o problema ou cumprir a promessa.
+7. **Distribuir:** encontrar compradores por canais acessíveis e permitidos, sem depender de audiência prévia.
+8. **Medir e iterar:** registrar receita recebida, custos, tempo, objeções, qualidade e possibilidade de repetição.
 
-- Pesquisa e auditoria de ferramentas: `research/FREE_AGENT_STACK_RESEARCH.md`.
-- Skill operacional para pesquisa, validação e produção: `.agents/skills/zero-cost-opportunity-ops/SKILL.md`.
-- Guia de instalação e primeiro teste: `operations/ZERO_COST_STACK_QUICKSTART.md`.
-- Auditoria anterior de repositórios de mineração: `research/TOOLS_AND_REPOSITORIES_AUDIT.md`.
-- Skill de pesquisa exploratória: `.agents/skills/market-opportunity-scout/SKILL.md`.
+A pesquisa pode manter várias linhas de oportunidade em paralelo. A produção e a prospecção devem ter prioridades explícitas para evitar dispersão.
 
-A hipótese de ambiente principal é Google Antigravity Free, com quota semanal, subagentes, skills, MCP e /swarm. Ainda não foi instalado nem testado no computador do usuário. Reddit Research MCP e Pain Miner são complementos de pesquisa, não agentes autônomos completos.
+## Restrições atuais
 
-## Primeira hipótese em avaliação
+- Orçamento inicial: R$ 0.
+- Não contratar ferramentas, APIs, hospedagem, anúncios ou assinaturas sem autorização explícita.
+- Não depender de computador potente ou de processos locais pesados.
+- Não presumir acesso ao ChatGPT Plus ou a agentes ilimitados.
+- Não exigir audiência prévia.
+- Não presumir que o resultado será software.
+- Não limitar a pesquisa a um nicho, setor, país ou formato de produto.
+- Não tratar relatos de Reddit, prints de faturamento ou promessas de cursos como prova independente de receita.
+- Não enviar mensagens, publicar, comprar, fazer deploy ou executar ações externas sem aprovação humana.
+- Preservar privacidade, direitos autorais, regras das plataformas e segurança dos usuários.
 
-**Orçamento que não esfria:** implantação de um processo simples de acompanhamento de orçamentos para assistências técnicas de celulares, usando planilha e mensagens prontas de WhatsApp.
+## Critérios para avançar
 
-A oferta é apenas uma hipótese de validação. Não construir antes de conversar com potenciais compradores e identificar um problema recorrente. Não é a prioridade exclusiva; deve competir com outras oportunidades.
+Uma oportunidade precisa ter:
+- público e comprador identificáveis;
+- problema, desejo ou oportunidade de mercado observável;
+- evidência independente de procura ou comportamento de compra;
+- concorrentes e substitutos investigados;
+- caminho plausível para alcançar compradores;
+- entrega possível com os recursos disponíveis;
+- custos, riscos e limitações explícitos;
+- teste comercial com escopo, preço e critério de decisão.
 
-## Estrutura
+Curtidas, visualizações, elogios e respostas positivas não equivalem a vendas. Concorrente com preço publicado prova que existe uma oferta, não que ela vende em volume.
 
-- `docs/BRIEF.md` — contexto, objetivos, limites e critérios de sucesso.
-- `research/CASES_AND_INSIGHTS.md` — casos reais, fontes e aprendizados.
-- `research/FREE_AGENT_STACK_RESEARCH.md` — agentes, ferramentas, fontes e arquitetura gratuita.
-- `research/TOOLS_AND_REPOSITORIES_AUDIT.md` — auditoria de repositórios de mineração.
-- `opportunities/IDEA_BACKLOG.md` — hipóteses de mercado, pontuação e decisões.
-- `experiments/EXPERIMENT_001.md` — primeiro teste comercial de sete dias.
-- `operations/STATE.md` — estado atual, decisões, métricas e próximo passo.
-- `operations/ZERO_COST_STACK_QUICKSTART.md` — setup e primeiro experimento de agentes.
-- `templates/IDEA_TEMPLATE.md` — modelo para novas hipóteses.
-- `templates/EXPERIMENT_TEMPLATE.md` — modelo para experimentos.
-- `.agents/skills/` — skills operacionais reutilizáveis.
+## Sistema de trabalho e memória
 
-## Como trabalhar neste repositório
+O GitHub é a memória operacional versionada. As skills orientam pesquisa e execução; o Google AI Studio e outras ferramentas podem apoiar tarefas específicas; conectores e agentes devem ser usados somente quando disponíveis e adequados.
 
-Leia primeiro o README, depois `docs/BRIEF.md` e `operations/STATE.md`. Consulte pesquisas e experimentos conforme a tarefa. Atualize o estado quando houver nova evidência ou decisão. Não transforme hipótese em fato nem marque uma oportunidade como validada sem evidência de compradores reais.
+- `docs/BRIEF.md` — identidade, visão, objetivos e restrições.
+- `operations/STATE.md` — estado atual, decisões, métricas e próxima ação.
+- `opportunities/IDEA_BACKLOG.md` — hipóteses e status, sem ideias presumidas.
+- `research/` — pesquisas, fontes, concorrentes, casos e ferramentas.
+- `experiments/` — testes comerciais realmente definidos.
+- `operations/ZERO_COST_STACK_QUICKSTART.md` — opções técnicas e limites do ambiente.
+- `.agents/skills/` — métodos reutilizáveis para pesquisa e operação.
+- `CHANGELOG/EVOLUTION_LOG.md` — histórico das mudanças de direção e decisões.
 
-Este repositório é o quadro branco e a memória operacional do projeto; não pressupõe que o resultado final será um aplicativo ou software.
+## Como retomar o trabalho
+
+Leia este README, `docs/BRIEF.md`, `operations/STATE.md` e o histórico de evolução. Depois consulte apenas os arquivos de pesquisa relevantes para a decisão atual. Não repita pesquisas sem verificar os lotes anteriores. Não converta hipótese em decisão sem evidência e não construa antes de existir uma razão comercial clara.
+
+O Kamikaze deve evoluir com o que aprendermos. Mudanças de estratégia devem ser registradas, não escondidas.
