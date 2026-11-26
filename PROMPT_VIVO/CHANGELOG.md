@@ -81,3 +81,10 @@ O mecanismo não trabalha em segundo plano nem salva após a conversa terminar. 
 
 ### Verificação
 Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A retomada futura deve testar o texto de NEXT_CHAT_PROMPT e verificar que não repete pesquisas concluídas.
+
+
+## 2026-11-26 — acionador persistente de tráfego pago
+- Criado `knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md` com protocolo de ativação por intenção explícita + confirmação, arquitetura modular, etapas/gates, skills, repositórios, compliance, segurança financeira e handoff esperado.
+- Ampliado catálogo open source com 49 skills de marketing-skills e repositórios oficiais/auxiliares Google Ads, Meta Ads, MCP, n8n, reporting e Meridian.
+- Atualizados `knowledge/README.md`, `BOOTSTRAP.md`, `NEXT_CHAT_PROMPT.md` e `CONTINUITY_SYSTEM.md` para descoberta de acionadores dormentes em novos chats.
+- Nenhuma integração, instalação, campanha ou gasto autorizado/executado.
