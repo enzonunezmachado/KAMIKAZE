@@ -353,3 +353,42 @@ Não é necessário ser outlier ou ter sorte para vender online, mas é imprová
 - **S225 — FreelaSync:** anuncia R$14,90 e R$49,90/mês, com gestão, IA para currículo e análise de oportunidades. Não há números públicos de assinantes, reviews independentes, conversão ou retenção; tratar como concorrente anunciado, não venda comprovada.
 - **S226 — relato independente no LinkedIn:** uma freelancer relata ter pago R$54,90 por um mês do plano intermediário do 99Freelas, em parte para enxergar a média dos valores ofertados por concorrentes; relata projetos e valores médios observados. É a evidência comportamental mais útil até aqui de que ao menos uma profissional pagou para obter inteligência competitiva/visibilidade de mercado, mas a compra foi de um recurso nativo da plataforma, não de uma ferramenta externa. Caso único, não generalizável.
 - **Implicação:** há sinal mais forte de que freelancers pagam por informação que reduz assimetria (média das propostas, taxas, velocidade de saque), além de pagar por alertas/IA. A hipótese mais defensável talvez não seja simplesmente “pagar por mais vagas”, mas “pagar para entender a economia da candidatura e tomar decisão melhor”. Ainda não sabemos frequência de uso, disposição de pagar por serviço independente ou retenção.
+
+
+## Rodada 21 — compra por inteligência/ferramentas para freelancers (S227–S244; 26/11/2026)
+
+### Evidência ampliada — correção da leitura anterior
+A hipótese não deve mais ser descrita como baseada em um único comprador. A nova amostra encontrou mais de dez relatos públicos de pessoas que afirmam ter pago, renovado, testado por meses ou cancelado planos de freelancer em Workana, 99Freelas e Upwork. Parte dos casos é confirmada por respostas oficiais das plataformas, parte é autorrelato comunitário. Isso é evidência de comportamento de compra da categoria, não de compra de um SaaS independente específico.
+
+### O que parece vender
+1. **Capacidade de candidatura:** conexões/Connects e maior limite de propostas.
+2. **Informação competitiva:** média/faixa dos valores ofertados por outros freelancers, quantidade de propostas, dados dos candidatos.
+3. **Timing:** alertas de novas oportunidades e destaque/velocidade.
+4. **Informação do cliente:** histórico de contratação/gastos, atividade, se abriu propostas, sinais de job abandonado.
+5. **Redução de trabalho manual:** curadoria e preparação de propostas. S243 mostra um comprador experiente anunciando US$15–30/h para alguém pesquisar e qualificar oportunidades, embora exija histórico de Upwork e não seja um contrato concluído.
+
+### Evidência negativa — pagamento não é satisfação nem retenção
+- No 99Freelas, comprador de plano anual Pro de R$358,80 solicitou reembolso porque achou a concorrência excessiva; a empresa confirmou a compra e o reembolso.
+- Na Workana, diversos consumidores relatam pagamento seguido de confusão entre moderação prioritária, planos, limites de conexões ou acesso; respostas oficiais esclareceram os serviços e em alguns casos confirmaram reembolso. Esses casos demonstram fricção e falhas de clareza, não que todos os planos sejam inúteis.
+- No Upwork, usuários pagos descrevem alertas irrelevantes ou em queda, insights pouco úteis e ausência de novas contratações; há relatos de cancelamento após alguns meses. Outros afirmam que bid ranges/insights ajudam a decidir se vale gastar Connects.
+- Portanto, há comportamento de compra e experimentação, mas retenção/ROI parecem frágeis e heterogêneos.
+
+### Atualização da hipótese de produto
+A oportunidade não é “freelancer paga para ver mais vagas” em abstrato. A evidência aponta para um trabalho mais valioso: reduzir desperdício de dinheiro e tempo antes de enviar uma proposta. Possíveis dimensões:
+- detectar cliente/job com atividade e histórico de contratação reais;
+- estimar se o cliente costuma abrir propostas e efetivamente contratar;
+- identificar briefs abandonados ou já preenchidos;
+- comparar orçamento, concorrência, escopo e custo de Connects/conexões;
+- separar compatibilidade técnica real de palavras-chave superficiais;
+- apresentar justificativa e incerteza em vez de score opaco;
+- acompanhar o funil por categoria e custo por entrevista/contrato.
+
+**Mas não há lacuna exclusiva comprovada:** Scoutly já anuncia score, concorrência, histórico do cliente e recomendação “vale a pena aplicar”; Upwork tem insights nativos; Workaholic oferece matching e CRM gratuito. O que falta descobrir são erros e falhas independentes desses produtos e se o público pagaria por uma camada externa melhor.
+
+### Conclusão atual
+- Compra da categoria de ferramentas/recursos para freelancers: **confirmada qualitativamente**.
+- Compra específica de informação competitiva: **confirmada por funcionalidade oficial paga do 99Freelas e múltiplos relatos, mas amostra limitada**.
+- Compra de SaaS independente para inteligência multi-plataforma: **não demonstrada**.
+- Retenção/renovação com satisfação: **fraca/mista**.
+- Demanda por curadoria humana de alto valor: **sinal presente**, mas exemplo de Upwork exige experiência consolidada e não é fit imediato.
+- PHASE_03.3 continua CONTINUE; não construir SaaS ainda.
