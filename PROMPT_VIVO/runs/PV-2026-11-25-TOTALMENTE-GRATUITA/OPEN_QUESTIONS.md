@@ -250,3 +250,16 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 81. Os briefs de otimização de perfil (S286–S293) se converteram em contratos pagos e quais valores/avaliações ficaram públicos? Qual proporção dos jobs foi cancelada/fechada sem contratação?
 82. A dor específica de moderação Workana é resolvida por uma revisão de perfil ou depende de oferta/demanda e critérios internos que não controlamos? Qual valor o cliente atribui ao mapa de evidências e à organização do portfólio?
 83. O usuário conseguiria entregar auditoria de perfil com qualidade demonstrável após treinamento, sem alegar experiência profissional inexistente e sem usar dados confidenciais de clientes?
+
+
+
+## Rodada 23 — perguntas de SEO microtools (26/11/2026)
+84. Quais 5–8 famílias de calculadoras/conversores têm maior volume mensal no Brasil e qual o volume agregado por cluster?
+85. Quais keywords têm volume consistente, mas top 10 com ferramentas incompletas, desatualizadas ou ruins no celular?
+86. Quais ferramentas têm intenção comercial clara (compra de material, contratação ou afiliado) sem exigir aconselhamento profissional de alto risco?
+87. Qual a dificuldade orgânica real, olhando domínio, backlinks, autoridade e qualidade das páginas, além da KD proprietária?
+88. O volume se mantém ao longo de 12 meses ou é sazonal? Quais consultas relacionadas/autocomplete ampliam o cluster?
+89. Qual monetização é plausível com tráfego pequeno: afiliado, lead local, anúncio ou upsell? Quais evidências de RPM/CPC e conversão existem?
+90. Quais ideias podem ser construídas local-first em 1–2 dias e mantidas sem atualização frequente ou API paga?
+91. Quais dados técnicos/fórmulas exigem fonte oficial e revisão especializada para evitar erro prejudicial?
+92. Há um caminho de aquisição não dependente de Google para validar utilidade antes de esperar indexação?
