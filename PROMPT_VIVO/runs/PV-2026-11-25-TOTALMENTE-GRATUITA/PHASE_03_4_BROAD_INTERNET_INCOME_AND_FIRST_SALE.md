@@ -87,3 +87,25 @@ G. Economics and fit: net R$, time-to-first-cash, skill requirements, probabilit
 - Affiliate/organic sales are not proven as a fast route without existing audience or personal network.
 - A detailed e-commerce failure shows turnover and sales can coexist with cash-flow collapse, chargebacks, account bans and unsustainable margin.
 - Phase remains IN_PROGRESS / CONTINUE. No actions outside research; no spend.
+
+
+## Round 27 — revised acquisition model (2026-11-26)
+The user clarified that views are not purchases, but can be meaningful attention/interest signals; early follower growth is useful when normalized by time, audience quality and source. Do not dismiss self-reported first-sale cases solely because independent payment proof is absent. Reconstruct the claimed mechanism and label evidence strength, observable signals, alternative explanations and missing details.
+
+The objective is now explicitly to understand and build an acquisition system, not merely choose a product or service:
+- Discovery: platform/search/community and content distribution.
+- Attention: views, reach, watch time and profile visits.
+- Interest: follows, saves, meaningful comments, repeat visits and questions.
+- Intent: product-page clicks, direct inquiries, link clicks, requests for details and checkout starts where observable.
+- Conversion: completed/approved purchases, net commission/revenue and refunds.
+- Retention/referral: repeat purchases, recommendations and follow-on sales where applicable.
+
+Views and followers are leading indicators, not vanity by default; they become useful when tied to time, source, audience fit and downstream actions. A target such as 23 qualified followers in a week is a test hypothesis, not a universal benchmark.
+
+Affiliate marketing is promoted from a generic medium-term idea to a priority investigation track because it avoids creating the initial product. It is not yet validated as the fastest cash route. Research must compare product-market fit, real buyer pain, quality and refund signals, commission net of platform fees where relevant, approval friction, attribution/cookie rules, payout schedule/minimum, allowed traffic sources, promotional assets and whether the offer can be explained honestly.
+
+Design a sustainable multichannel operation: native content for multiple platforms, stories/short-form cadence, transparent and useful participation in relevant groups, individually relevant outreach only where permitted, and lightweight AI-assisted content preparation/checklists/copy templates. Do not use fake identities, fabricated testimonials, disguised promotion, spam, prohibited group promotion, scraping, or platform automation that violates terms. No account creation, affiliate application, publishing, contact or spend without explicit approval.
+
+Official platform mechanics added as S380–S385: Hotmart offers free affiliate registration and product-specific links/commission/attribution rules; Kiwify offers a product marketplace with price/commission/category filters and product-specific application rules; Eduzz describes configured commission and last-click attribution. These sources establish platform mechanics, not product quality, demand, conversion or earnings.
+
+Next: investigate product selection and actual affiliate case studies; reconstruct buyer journey from content to purchase; map permitted communities and channel-specific posting formats; compare organic distribution mechanisms and small-account growth trajectories; design the operating cadence and simple measurement sheet. Keep the immediate R$150-by-06/12 constraint visible, but do not assume affiliate payout will arrive by then.
