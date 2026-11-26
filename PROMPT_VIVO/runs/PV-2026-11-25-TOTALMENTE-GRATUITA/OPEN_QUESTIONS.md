@@ -79,3 +79,15 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 57. Há exemplos de clientes que renovaram ou recompraram serviços de pesquisa/tendências, não apenas pedidos que mencionam frequência?
 58. Como um prestador sem reputação pode conquistar primeiro comprador fora de marketplace: parceria com agência/consultor, conteúdo de busca, comunidade, indicação ou demonstração pública?
 59. Que parte do serviço pode ser padronizada e entregue com fontes públicas, sem NDA, tributação especializada, contato disfarçado ou dados pessoais?
+
+
+
+## Rodada 5 — novas perguntas de capacidade, canal e elegibilidade
+60. Qual rota legal e segura permite a um adolescente de 16 anos receber por serviços digitais sem falsificar idade, contornar plataformas ou assumir contratos sem assistência/representação necessária?
+61. Quais plataformas permitem explicitamente participação de menor sob conta de responsável, e quais responsabilidades/declarações exigem?
+62. Quem poderia atuar como responsável adulto real pela conta, contrato, recebimento e supervisão, caso necessário? Não presumir disponibilidade.
+63. Quais serviços podem ser demonstrados em amostra pública e dados fictícios/públicos sem case de cliente, login, dados pessoais, publicação ou alteração de conta?
+64. Como gerar prova de qualidade e confiança com escopo pequeno, revisão humana e comunicação transparente, sem avaliações falsas ou experiência inventada?
+65. Existem exemplos de parceria de produção/apoio nos bastidores em que a agência/consultor retém atendimento e supervisão, mas aceita um iniciante em tarefas delimitadas? Quais requisitos e controles?
+66. Que canais de indicação ou comunidade permitem participação segura e transparente do adolescente, com supervisão quando necessária, sem cold outreach?
+67. Qual modelo pode pagar em prazo compatível com a meta imediata, considerando aprovação, contrato, emissão/recibo, liberação e saque?
