@@ -2,7 +2,7 @@
 
 **Atualizado:** 26/11/2026  
 **Status:** IN_PROGRESS  
-**Estado estruturado:** [operations/state.toml](../../../../operations/state.toml)  
+**Estado estruturado:** [operations/state.toml](../../../operations/state.toml)  
 **Histórico preservado:** [RUN_HISTORY.md](RUN_HISTORY.md)
 
 ## Missão
