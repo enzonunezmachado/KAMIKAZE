@@ -194,3 +194,7 @@ O usuário propôs ferramentas simples com procura no Google (calculadoras, conv
 
 ## Complemento Rodada 24 — handoff
 S315–S326: VA/admin tem briefs recorrentes, mas concorrência muito alta em marketplace; microentregas específicas podem ser melhor recorte. Edição de vídeos curtos tem sinais de briefs repetidos e alguns snapshots com 17–76 propostas, mas exige portfólio e habilidade prática. Design/social media precisa de portfólio; tradução profissional não é fit imediato para inglês intermediário. Workana Profile Readiness: dor oficial e reclamações, compra independente específica ainda não provada. Workaholic já tem matching/alertas/CRM/follow-up e não foram confirmadas falhas independentes. Programadores BR é grande/ativo no diretório público, mas regras internas não verificadas; não publicar. Próximo: investigar pagamentos verificáveis e aquisição não-marketplace para microentregas admin e edição curta. PHASE_03.3 CONTINUE, PHASE_04 não iniciada, R$0, nenhuma ação externa.
+
+
+### Comunidades mapeadas — S327–S335
+Opções: Programadores BR, TI Discord, HireClover, Multiverse Editores & Designers, Editors Community, LEOFGEDITZ, Yuji Editors, Empreendedores SP e Meetup Freelance Brazil. São sinais de público e atividade, não canais autorizados; regras internas ainda não verificadas. Nenhum post/DM/contato. Antes de divulgação, ler regras atuais e pedir autorização quando necessário.
