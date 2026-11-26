@@ -129,3 +129,13 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - O mínimo de US$25 exige ~4h10 de áudio aprovado, aproximadamente 16h40 de trabalho no cenário 4:1.
 - Freya v2 lista PT-BR e ausência de experiência obrigatória, mas página de projeto de transcrição exige experiência e lista apenas cinco países; página pt_BR abriu conteúdo inconsistente.
 **Decisão:** manter CONTINUE; não aprovar Freya como renda imediata até confirmar elegibilidade e produtividade.
+
+## PA-017 — microtarefas de coleta de emails e proteção de dados pessoais
+**Data:** 25/11/2026  
+**Motivo:** surgiu projeto OneForma aberto no Brasil com pagamento por email aprovado, mas envolve arquivos .eml originais com dados pessoais.
+**Fontes:** S127–S129.
+- OneForma Email Collection aceita Brasil/PT-BR, sem experiência, 18+, paga por email aprovado; exige 3+ emails originais do mesmo pedido de produto físico entregue.
+- Valor por email PT-BR não publicado. Pagamento do projeto não explicitamente confirmado sob calendário geral.
+- Arquivos originais mantêm remetente/destinatário/assunto/corpo/data; a plataforma apenas diz que pode ocultar dados pessoais no upload. Retenção/uso/mascaramento específicos não estão claros.
+- DataForce Mosaic não aceita PT-BR nos idiomas listados; TELUS Internet Safety Evaluator está fechado.
+**Decisão:** manter CONTINUE; tratar a hipótese de emails como BLOQUEADA POR PRIVACIDADE até esclarecer masking, acesso, uso e retenção. Não enviar emails, anexos ou dados.
