@@ -1,0 +1,27 @@
+[project]
+id = "NEGOCIO_DIGITAL_KAMIKAZE"
+active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
+last_substantive_work = "operations/COMPANY_SOLUTIONS/"
+last_work_status = "DOCUMENTADO / NÃO ATIVADO"
+
+[execution]
+status = "IN_PROGRESS"
+active_phase = "PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION"
+active_gate = "CONTINUE"
+
+[phases]
+phase_03_1 = "PAUSED / CONTINUE"
+phase_03_2 = "IN_PROGRESS / CONTINUE"
+phase_03_3 = "IN_PROGRESS / CONTINUE"
+phase_03_4 = "IN_PROGRESS / CONTINUE"
+phase_03_5 = "IN_PROGRESS / CONTINUE"
+phase_04 = "QUEUED / NOT_STARTED"
+
+[finance]
+authorized_budget_brl = 0
+received_revenue_brl = 0
+expenses_brl = 0
+
+[modules]
+company_solutions = "DOCUMENTADO / NÃO ATIVADO"
+paid_traffic = "DORMANT / DOCUMENTED / NOT IMPLEMENTED"
