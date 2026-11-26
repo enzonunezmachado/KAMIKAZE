@@ -50,20 +50,20 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; sem compra/recorrência comprovada.
 - PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE (aguarda integração).
-- PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.\n- PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS / CONTINUE (Rodada 21, S227–S244).\n- PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; teste operacional não executado.
+- PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.
+- PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS / CONTINUE (Rodada 21, S227–S244).
+- PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; teste operacional não executado.
 - Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
 - Matriz: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
 - Viabilidade: [PHASE_04_FEASIBILITY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_04_FEASIBILITY.md), apenas planejamento.
 - Política de cotas: RESOURCE_BUDGET_POLICY.md; quota permanece opaca.
 
 ## Próximos passos
-1. Continuar pesquisa de compra comprovada e canal sem leilão.
-2. Desenhar fluxo de entrega e relatório mínimo apenas quando validação justificar.
-3. Auditar ferramentas/fontes gratuitas e fallback.
-4. Executar teste interno com dados públicos e medir tempo/qualidade.
-5. Estimar economia unitária, capacidade e taxas.
-6. Avaliar se recorrência justifica cobrança.
-7. Só então decidir se um piloto comercial merece ser proposto; abordagem externa exige aprovação humana.
+1. Auditar reviews/falhas independentes de Scoutly e alternativas (falsos positivos, dados desatualizados, precisão do score, coverage e qualidade dos alertas).
+2. Mapear 8–12 comunidades de freelancers, atividade, perfil dos membros e regras de promoção/pesquisa.
+3. Identificar um recorte vertical em que análise pré-candidatura reduza desperdício de Connects/tempo com sinais públicos verificáveis.
+4. Comparar assinatura, curadoria manual/concierge e pagamento por análise; não presumir retenção.
+5. Desenhar teste orgânico de R$0, transparente e com permissão; não executar sem aprovação explícita.
 
 ## Aprovações e segurança
 - Nenhuma oportunidade ou abordagem externa aprovada.
