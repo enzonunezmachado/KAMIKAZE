@@ -105,3 +105,11 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 76. Quais atividades podem ser feitas em horário flexível e pagas por entrega, sem disponibilidade de expediente integral?
 77. Que riscos existem em trabalhos com dados de pacientes, dados pessoais, contas de anúncios ou acesso a credenciais de clientes?
 78. O 99Freelas permite cadastro independente aos 18 e quais documentos de identidade/tributários exige? (não presumir que a ausência de restrição explícita em página de termos substitua verificação)
+
+
+## Novas perguntas — rodada 7
+79. A waitlist do Prolific para residentes no Brasil está aberta e qual é o tempo real de aprovação/entrada?
+80. Quais estudos são disponibilizados para participantes brasileiros e qual volume de estudos é observável sem criar conta?
+81. Em plataformas de tarefas para IA, quais projetos abertos são realmente compatíveis com português brasileiro sem exigir especialidade técnica?
+82. Qual a diferença entre aprovação de onboarding, acesso a projeto, horas disponíveis e pagamento aprovado?
+83. Existem projetos de gravação de áudio/dados com pagamento em prazo curto e regras claras para brasileiros?
