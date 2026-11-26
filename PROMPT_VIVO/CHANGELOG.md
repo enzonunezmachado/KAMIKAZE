@@ -1,3 +1,14 @@
+## 2026-11-26 — Regra de parada da pesquisa e prontidão para experimento
+
+- Ampliado `QUALITY_GATE.md` para distinguir RESEARCH_MORE, READY_TO_TEST, NOT_WORTH_TESTING e BLOCKED.
+- Ampliado `RESEARCH_METHOD.md` com valor da informação, separação entre pesquisa, prototipagem e experimento, e tratamento de resultados negativos.
+- Ampliado `EXECUTION_PROTOCOL.md` com decisão explícita entre continuar pesquisando e testar.
+- Regra central: não continuar pesquisa quando a próxima informação dificilmente muda a decisão e um experimento mínimo, ético, reversível, barato e autorizado pode responder melhor.
+- Não inventar percentuais de sucesso sem dados calibrados; scores de prontidão são heurísticos, não probabilidades.
+- Ações externas continuam sujeitas à autorização humana.
+
+---
+
 ## 2026-11-26 — Governança documental, estado canônico e validação
 
 ### Motivação
