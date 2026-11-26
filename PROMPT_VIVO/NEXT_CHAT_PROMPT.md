@@ -1,31 +1,26 @@
 # PROMPT PARA NOVO CHAT — CONTINUAR KAMIKAZE
 
-Copie e cole o texto abaixo em uma nova conversa:
+Copie e cole em uma conversa nova:
 
 ---
 
-Estou continuando o projeto **NEGÓCIO DIGITAL KAMIKAZE**. Não trate isto como um projeto novo.
+Estou continuando o projeto **NEGÓCIO DIGITAL KAMIKAZE**. Não trate como projeto novo.
 
 Repositório: https://github.com/enzonunezmachado/KAMIKAZE
 
-**Execute obrigatoriamente o procedimento de retomada:**
-1. Leia `PROMPT_VIVO/CURRENT_WORK.md` primeiro; ele aponta o último trabalho substantivo desenvolvido/atualizado e a próxima ação. Não deduza o foco pelo nome/data de arquivos.
-2. Leia `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e execute integralmente `PROMPT_VIVO/BOOTSTRAP.md`.
-3. Descubra a execução ativa em `operations/STATE.md`; leia primeiro o `RESUME_PACKET.md` dessa execução.
-4. Confira `RUN_STATE.md`, `PHASE_CONTROL.md`, `PHASE_ARCHITECTURE.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md`, `USER_INPUT_LOG.md` e o `SESSION_LOG.md`. Leia a instrução completa da fase ativa e consulte Source Ledger, Findings e Open Questions conforme necessário.
-5. Compare os arquivos, datas, eventos e commits. Resolva divergências explicitamente e atualize os arquivos dependentes antes de pesquisar.
-6. Reconstrua o contexto completo e continue automaticamente do ponto exato documentado.
+**Retomada obrigatória:**
+1. Leia `AGENTS.md` e `README.md` da raiz.
+2. Leia `PROMPT_VIVO/AGENTS.md`, `PROMPT_VIVO/README.md`, `CURRENT_WORK.md` e `ARCHITECTURE_GOVERNANCE.md`.
+3. Execute integralmente `PROMPT_VIVO/BOOTSTRAP.md`; navegue pelos READMEs antes de abrir pastas.
+4. Identifique RUN_ID e estado em `operations/state.toml` + `operations/STATE.md`.
+5. Leia README da execução, RESUME_PACKET, RUN_STATE e PHASE_CONTROL. Estado/gate canônicos prevalecem sobre o resumo.
+6. Audite logs, commits e consistência; rode `python scripts/validate_docs.py` se houver ambiente.
+7. Reconstrua o contexto e execute a próxima ação autorizada sem reiniciar trabalho concluído.
 
-**Não reinicie a pesquisa, não repita trabalho concluído, não escolha uma oportunidade por antecipação e não peça que eu repita informações já registradas.** Faça uma auditoria de completude e decida se deve continuar a fase, aprofundar, criar subfase, reabrir, avançar, sintetizar ou bloquear. Se a pesquisa ainda não estiver pronta para avançar, continue a pesquisa atual.
+**Princípios:** não escolher oportunidade antecipadamente; distinguir anúncio, intenção, contratação, pagamento e recompra; preservar hipóteses e insights humanos; pesquisar contraprovas; não inventar evidências ou estado; não descartar uma ideia só porque não apareceu na análise inicial.
 
-Meu pedido atual nesta conversa tem prioridade para orientar o próximo passo, desde que não conflite com restrições e autorizações anteriores. Registre correções, preferências e decisões novas em `USER_INPUT_LOG.md`.
+O usuário controla prioridades, decisões subjetivas e ações externas. Não publicar, contatar, enviar propostas, candidatar-se, cadastrar contas, comprar, assinar, gastar, contratar ferramentas, fazer deploy ou assumir compromissos externos sem autorização explícita. Preserve orçamento e projetos NEXUS/ATLAS separados.
 
-**Módulos com acionadores persistentes:** consulte `PROMPT_VIVO/knowledge/README.md`. Se meu pedido atual indicar intenção clara de ativar um deles (ex.: implementar tráfego pago), leia o respectivo documento de acionamento, apresente o pacote e solicite a confirmação prevista. Não confunda conversa exploratória com ativação.
-
-**Persistência obrigatória:** após cada lote relevante e antes de encerrar/atingir limite, atualize os arquivos de estado, fontes, achados, handoff, pacote de retomada e logs global/da execução. Confirme a gravação no GitHub; nunca diga que salvou se não houve confirmação.
-
-**Restrições permanentes:** não publicar, contatar pessoas, enviar propostas, cadastrar contas, comprar, assinar, gastar, contratar ferramentas, fazer deploy ou assumir compromissos externos sem minha autorização explícita. Preserve o orçamento operacional autorizado e os projetos NEXUS/ATLAS, que são separados do Kamikaze.
-
-Não me entregue apenas um plano. Depois de reconstruir e auditar o contexto, execute a próxima ação de pesquisa/análise que estiver autorizada. Entregue resultados consolidados, com evidências, limites, decisões e próxima ação.
+Não me peça para repetir informações já documentadas. Se os arquivos divergirem, investigue a fonte canônica e os eventos; se não for possível determinar com segurança, marque BLOCKED e pergunte somente o indispensável.
 
 ---
