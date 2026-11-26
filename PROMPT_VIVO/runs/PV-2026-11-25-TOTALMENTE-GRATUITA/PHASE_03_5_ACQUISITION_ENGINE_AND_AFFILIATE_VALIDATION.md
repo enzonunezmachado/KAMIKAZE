@@ -188,3 +188,25 @@ A arquitetura de aquisição/relacionamento é um ativo de médio prazo. Não su
 - Claims de conversão 2–5x, 15–30%, 200–400%, valores de bônus 3–10x e outras percentagens não têm suporte metodológico rastreável no repo. Não reutilizar como fatos.
 - Gate MAK: urgência só com prazo/escassez real; bônus reais e entregáveis; exclusividade comprovável; garantia limitada ao controle e capacidade do afiliado; sem promessas de renda/resultados não sustentadas.
 - Nenhuma skill foi executada, nenhum teste do Affitor foi rodado, nenhuma campanha publicada, e nenhuma alteração foi feita no repositório Affitor. Pesquisa documental somente.
+
+
+## Rodada 31 — inventário de skills e resenha dos repositórios (26/11/2026)
+**Artefato:** [Catálogo de skills e repositórios open source](../../knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md).
+
+### Resultado
+- Inventário Affitor: 53 arquivos `SKILL.md`, listados nominalmente no catálogo, em oito estágios.
+- README do Affitor (52) está desatualizado; registry/tree apontam 53. `affiliate-program-search` é ponte de compatibilidade para `find-and-verify-affiliate-program`.
+- Outros projetos reunidos: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
+
+### Próxima evolução proposta — skills nativas do MAK
+1. `offer-research-and-verification` — descoberta e validação de programas/ofertas em fonte oficial.
+2. `audience-problem-intelligence` — público, dor, gatilho, linguagem, objeções e sinais de intenção.
+3. `content-research-brief` — pesquisa documentada e brief factual.
+4. `platform-native-content-studio` — adaptação de conteúdo por canal, sem duplicação mecânica.
+5. `distribution-and-community-compliance` — regras, elegibilidade e distribuição autorizada.
+6. `funnel-measurement-and-attribution` — exposição até payout e métricas de relacionamento.
+7. `campaign-retrospective` — diagnóstico e escolha da próxima hipótese.
+8. `br-compliance-and-claims-gate` — disclosure, alegações, direitos, privacidade e regras brasileiras.
+9. `relationship-network` — valor, permissão, lembrança de marca e introdução consentida.
+
+Os nomes são propostas, ainda não criadas nem aprovadas individualmente. Antes de criar, comparar com o Prompt Vivo atual e eliminar duplicidades. PHASE_03.5 permanece IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 abertas; PHASE_04 QUEUED/NOT_STARTED.
