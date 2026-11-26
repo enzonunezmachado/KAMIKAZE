@@ -32,3 +32,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Módulo futuro — Tráfego Pago
 - [Acionador e blueprint de implementação](PAID_TRAFFIC_MODULE_ACTIVATION.md): estado DORMANT; contém protocolo de confirmação, arquitetura, etapas, gates, segurança financeira, skills e repositórios de referência. Menções exploratórias não ativam o módulo.
+
+
+## Construção de produtos com IA e orçamento zero
+- [MAK — Casos de construção com IA e ferramentas gratuitas](MAK_ZERO_COST_AI_BUILD_CASES.md): casos com artefatos inspecionáveis, stacks, custos declarados, evidências, restrições de planos free e arquitetura local-first/client-side. Inclui o caso Stockroom e a auditoria de uso comercial de Vercel Hobby.
