@@ -210,3 +210,34 @@ A arquitetura de aquisição/relacionamento é um ativo de médio prazo. Não su
 9. `relationship-network` — valor, permissão, lembrança de marca e introdução consentida.
 
 Os nomes são propostas, ainda não criadas nem aprovadas individualmente. Antes de criar, comparar com o Prompt Vivo atual e eliminar duplicidades. PHASE_03.5 permanece IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 abertas; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Rodada 33 — casos de construção com IA e stack de custo zero (26/11/2026)
+
+### Escopo
+Atendendo ao pedido de investigar pessoas que construíram produtos/aplicações poderosas usando IA e ferramentas gratuitas, foram pesquisados relatos, artefatos públicos e termos oficiais de planos free. Documentos: 
+- `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` — estudo consolidado de casos, arquitetura e limites.
+- `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md` — fontes S436–S450.
+
+### Casos mais relevantes
+1. **Stockroom (AppJet):** caso mais forte de construção/deploy a $0 nesta rodada. Demo e código públicos; inventário full-stack com Next.js 16, TypeScript, Tailwind, SQLite, API routes, ledger de movimentos, CRUD, validações e CSV. O fornecedor declara que a IA escreveu 100% do código e que a construção/deploy usou AppJet Free. Limitações: demonstração do próprio fornecedor, dados fictícios, sem autenticação e persistência/backup precisam ser configurados/validados.
+2. **MyClaw Tools:** criador declara custo fixo mensal $0 para 249 ferramentas; stack Next.js, Gemini Free, Upstash Free, Vercel Hobby, NextAuth e Razorpay. Snapshot: 200+ visitantes, 42 gerações, 22 ferramentas usadas, 0 pagantes. Aprendizado: volume de ferramentas não equivale a receita. Vercel Hobby é oficialmente não comercial, portanto não copiar a stack para negócio pago sem resolver termos.
+3. **Somnia:** PWA local-first com IndexedDB, Claude/Copilot, Supabase e Vercel; relato de 1 semana e 50+ deploys. Custo total não comprovado; Vercel Hobby não comercial. Referência arquitetural, não prova de $0.
+4. **Toolkiya:** processamento PDF/imagem/OCR no cliente, Next.js, Supabase/Vercel e cascata de modelos free; referência client-side, custo e escala não auditados; Vercel Hobby não comercial.
+5. **HookMafia/HookLayer, RenderArchi, AssetShark e HypeDesk:** mostram IA ampliando capacidade individual e produtos reais, mas custos não publicados ou stack paga; classificar BOOTSTRAPPED/COST UNKNOWN, não como totalmente gratuitos.
+
+### Descobertas e decisões
+- **É possível produzir uma aplicação full-stack demonstrável por R$0**, dentro de limites free, com evidência mais concreta em Stockroom. Isso não valida automaticamente segurança, autenticação, backup, persistência, escalabilidade ou uso comercial.
+- Arquitetura que mais reduz custo: static-first, client-side/local-first, banco apenas se necessário, IA só para tarefas onde linguagem agrega valor, limites de uso e exportação aberta.
+- Gemini API Free tem acesso limitado e condições de uso de dados mais permissivas para melhoria dos produtos; não enviar segredos ou dados sensíveis.
+- Supabase Free tem quotas, pausa por inatividade e ausência de backup automático; não usar como se fosse produção crítica sem plano de recuperação.
+- Cloudflare Workers Free oferece limites úteis, mas CPU/request e quotas precisam ser observados.
+- Vercel Hobby é para uso pessoal/não comercial. É um alerta crítico: gratuito tecnicamente não significa autorizado para negócio.
+- GitHub Copilot Free e AppJet Free são candidatos de desenvolvimento, sujeitos a quotas/termos; AppJet é fornecedor recente e precisa avaliação antes de adoção.
+- A distribuição continua sendo gargalo: MyClaw recebeu visitantes e gerações, mas zero clientes pagantes no snapshot.
+
+### Estado e próximos passos
+- Nenhuma ferramenta foi instalada, conectada ou usada para construir; nenhum app foi criado ou publicado; nenhuma conta foi criada; nenhum gasto foi realizado.
+- Não mexer no AI Studio/NEXUS nem presumir quota disponível.
+- Próxima pesquisa: auditar o código Stockroom por arquivos críticos (schema, transações, validações, export, testes e persistência); avaliar termos AppJet; encontrar casos brasileiros e alternativas locais/open source que funcionem no notebook de 8GB e celular/tablet.
+- Esta rodada não aprova PHASE_04 nem altera orçamento R$0. PHASE_03.5 continua IN_PROGRESS/CONTINUE; PHASE_03.3 e 03.4 continuam abertas.
