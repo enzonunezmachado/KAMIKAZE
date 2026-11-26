@@ -243,3 +243,11 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Operação pretendida: conteúdo nativo multicanal, perfis, stories, participação genuína em grupos e distribuição individual contextual; IA para preparar materiais/checklists, com revisão humana.
 - Nenhuma conta, afiliação, publicação, contato, gasto ou venda. Receita R$0; despesas R$0.
 - PHASE_03.4 IN_PROGRESS; PHASE_03.5 IN_PROGRESS; PHASE_03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Rodada 29 — 26/11/2026
+- Hipótese adicionada: aquisição por relacionamento e introdução voluntária via profissionais conectores; transparência sobre comissão, consentimento e ausência de pressão.
+- S394–S398: auditoria inicial GitHub de Affitor affiliate-skills, OpenAffiliate, Postiz, n8n TikTok Affiliate Promo Generator e eduubrz affiliate-platform.
+- Melhor próxima leitura: skills individuais do Affitor para pesquisa, funnel, content research, content repurposing, disclosure/compliance e analytics; avaliar se prompts podem ser adaptados ao Prompt Vivo/Kamikaze sem dependência de serviços pagos.
+- Nenhum repositório instalado/executado, nenhum contato ou indicação solicitado, nenhum gasto/publicação.
+- PHASE_03.5 IN_PROGRESS; PHASE_03.4 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
