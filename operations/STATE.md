@@ -149,3 +149,5 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Valor por email no Brasil não publicado; .eml preserva dados do remetente/destinatário/corpo. A plataforma diz que pode ocultar PII após upload, mas não esclarece uso/retention/mascaramento. Bloqueada por privacidade; não enviar dados.
 - DataForce Mosaic não inclui PT-BR; TELUS Internet Safety Evaluator está fechado.
 - Gate PHASE_03.1 CONTINUE; nenhuma candidatura/email/formulário enviado.
+
+- OneForma: homepage diz que não há mínimo de saque, Help Center informa US$25; mínimo e ciclo específicos do projeto não confirmados (S130).
