@@ -90,3 +90,9 @@ S117 TELUS: estimativa US$5/h por tarefas aprovadas, inglês profissional e resi
 S118 Clickworker: ciclos semanais, mínimos PayPal €10/Payoneer €20, mas país/método dependem da conta e volume de tarefas não é garantido.
 S119 Welo Junior Quality Coordinator: 20h/semana, coordenação de qualidade, relatórios, feedback, suporte e reuniões; inglês forte, dedicação exclusiva e prova; remuneração não divulgada.
 Não presumir o inglês ou a residência contínua do usuário; perguntar somente se for necessário para filtrar essas opções. Gate CONTINUE; nenhuma candidatura/conta criada.
+
+## Rodada 10 — OneForma e TSMG
+OneForma Freya é a hipótese atual mais promissora: a página global lista Portuguese (Brazil) aberto; resultado oficial específico informa US$6 por hora de áudio, sem experiência/diploma. Transcreve podcasts de 30–60+ minutos, identifica falantes/timestamps e sinaliza áudio sintético. Lotes semanais first-come-first-served e volume variável. Pagamento OneForma em dias 15 e último dia, mínimo US$25, 1–3 dias úteis; PayPal/Payoneer/Tipalti dependem de país/conta. Página específica pt_BR apresentou conteúdo inconsistente ao abrir; confirmar locale e taxa no fluxo antes de se comprometer.
+TSMG QC Specialist: remoto Brasil, revisão de transcrições e normalização textual, treinamento fornecido, experiência diferencial não obrigatória; pagamento por trabalho validado, sem taxa ou prazo público.
+YPAI: páginas de vagas remotas brasileiras mostram status fechado quando abertas, apesar de snippets “Applications open”; não tratar como oportunidade ativa.
+Gate CONTINUE; nenhuma conta ou candidatura criada.
