@@ -65,3 +65,9 @@ Duas trilhas novas merecem aprofundamento:
 2. Tarefas de gravação de áudio para IA: Lionbridge S098 anuncia US$10/h, remoto, PT-BR, smartphone e ambiente silencioso; pré-teste e aprovação. Horas disponíveis e calendário de pagamento não foram divulgados. Ver S099/S100 para segurança e idade.
 Pagamentos: Workana gratuito tem ciclo 1–5 do mês seguinte; 99Freelas Free repassa em até 6 dias úteis depois da liberação, mas o cliente tem até 5 dias úteis para aprovar. Não são garantias de dinheiro imediato.
 Nenhuma candidatura, contato, proposta ou ação externa. Gate CONTINUE; Fase 04 não começou.
+
+
+## Complemento — rodada 7
+S101–S103: Prolific aceita Brasil e exige mais de 18, mas usa waitlist; saldo só pode ser sacado a partir de £6/US$6 aprovados e estudos podem levar até 22 dias para aprovação. Não assumir disponibilidade imediata.
+S104: Outlier paga semanalmente, mas exige onboarding e qualificação específica; a oportunidade localizada em português era de programação. Não generalizar.
+Gate permanece CONTINUE; nenhuma conta/candidatura ou ação externa.
