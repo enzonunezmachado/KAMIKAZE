@@ -192,3 +192,12 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 
 ## Preferência de comunicação registrada (25/11/2026)
 Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma síntese consolidada por rodada, sem atualizações parciais por subpesquisa. Mostrar metodologia resumida, evidências, fontes, lacunas e decisões, não raciocínio privado passo a passo. Interromper apenas por necessidade de autorização/decisão, risco urgente ou pedido explícito de acompanhamento.
+
+
+## 11. Rodada 15 — nova pista de renda imediata (25/11/2026)
+- Hub Data é a candidata condicional mais concreta até agora: página oficial indica US$5/h residencial e US$6/h no trabalho por hora aprovada; conversão de referência R$25/R$30; Pix instantâneo após crédito; kit grátis; 18+ nas Américas. O valor válido é o mostrado no app e a página de fatos tem verificação em 12/09/2026 (S147).
+- O usuário cederia direitos sobre os vídeos para uso/licenciamento em treino de IA; vídeos já licenciados não podem ser retirados. A Hub diz anonimizar dados pessoais, mas termos integrais não abriram. Não aderir sem ler consentimento (S148).
+- Relato independente Ajudo confirma experiência de pagamentos, mas inclui comissão de indicação (S149).
+- HubData.ia.br é site independente e lista compatibilidade Galaxy S21+, Pixel 6+, iPhone 12+ e taxas distintas; validar no app, sem presumir compatibilidade do aparelho do usuário (S150).
+- YPAI fechada; CSL lote inicial vencido; OneForma projeto PT-BR-China somente para China; OpenTrain sem payout para Brasil; 99Freelas novos pedidos têm competição/escopo intermediário (S144–S153).
+- A trilha de tarefas pagas é auxiliar à missão imediata, não substitui a investigação principal do serviço de inteligência comercial.
