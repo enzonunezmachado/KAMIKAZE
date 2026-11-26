@@ -31,8 +31,8 @@ G. Stack gratuita e gestão de cotas.
 - PHASE_02_DEMAND: encerrada para transição com PASS WITH GAPS; sete clusters foram identificados e lacunas transferidas.
 - PHASE_03_VALIDATION: encerrada para transição com PASS WITH GAPS por autorização do usuário; serviço de inteligência comercial e monitoramento recorrente foram avaliados inicialmente, mas sem prova suficiente de compra/recorrência.
 - Auditoria posterior encontrou lacunas críticas; criada PHASE_03.1_PURCHASE_EVIDENCE.
-- **Estado atual: PHASE_03.1_PURCHASE_EVIDENCE IN_PROGRESS, gate CONTINUE.**
-- **PHASE_04_FEASIBILITY está QUEUED/NOT_STARTED.** Documentos preparatórios existem, mas nenhum teste operacional foi executado.
+- **Estado atual (26/11/2026): PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION IN_PROGRESS / CONTINUE, subfase da PHASE_03.2.**
+- **PHASE_03.2 está IN_PROGRESS / CONTINUE; PHASE_03.1 está PAUSED / CONTINUE; PHASE_04_FEASIBILITY está QUEUED/NOT_STARTED.** Documentos preparatórios existem, mas nenhum teste operacional foi executado.
 
 ## Hipótese específica sob validação
 Serviço pontual de pesquisa/inteligência comercial com dados públicos e possível concierge de monitoramento competitivo recorrente assistido por IA. Não é negócio escolhido.
