@@ -263,3 +263,14 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 90. Quais ideias podem ser construídas local-first em 1–2 dias e mantidas sem atualização frequente ou API paga?
 91. Quais dados técnicos/fórmulas exigem fonte oficial e revisão especializada para evitar erro prejudicial?
 92. Há um caminho de aquisição não dependente de Google para validar utilidade antes de esperar indexação?
+
+
+
+## Rodada 24 — buyer segmentation e canais (26/11/2026)
+93. Que microentregas de VA/admin são compradas fora de marketplaces de leilão, por pequenos negócios e agências, e quais valores pagos podem ser verificados?
+94. Em edição curta, quais subserviços têm maior recorrência e menor exigência técnica (legendas, cortes, templates, lote, organização de mídia)? Quais clientes pagaram e renovaram?
+95. Os jobs de vídeo com 17–22 propostas representam nicho realmente menos concorrido ou apenas snapshot/brief com pouca atratividade? Há dados de contratação?
+96. Quais comunidades de editores de vídeo, assistentes virtuais e empreendedores têm atividade e regras públicas que permitem pesquisa transparente e divulgação autorizada?
+97. Existem serviços independentes Workana-specific de revisão de perfil com compradores, preços pagos, avaliações e resultados verificáveis?
+98. Quais problemas reais de Workaholic/Scoutly foram reportados por usuários independentes? Sem prova, não alegar falha nem criar concorrente.
+99. Quais caminhos de aquisição fora de marketplaces funcionam para iniciantes sem portfólio, sem spam e sem investimento?
