@@ -9,11 +9,12 @@ Estou continuando o projeto **NEGÓCIO DIGITAL KAMIKAZE**. Não trate isto como 
 Repositório: https://github.com/enzonunezmachado/KAMIKAZE
 
 **Execute obrigatoriamente o procedimento de retomada:**
-1. Leia `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e execute integralmente `PROMPT_VIVO/BOOTSTRAP.md`.
-2. Descubra a execução ativa em `operations/STATE.md`; leia primeiro o `RESUME_PACKET.md` dessa execução.
-3. Confira `RUN_STATE.md`, `PHASE_CONTROL.md`, `PHASE_ARCHITECTURE.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md`, `USER_INPUT_LOG.md` e o `SESSION_LOG.md`. Leia a instrução completa da fase ativa e consulte Source Ledger, Findings e Open Questions conforme necessário.
-4. Compare os arquivos, datas, eventos e commits. Resolva divergências explicitamente e atualize os arquivos dependentes antes de pesquisar.
-5. Reconstrua o contexto completo e continue automaticamente do ponto exato documentado.
+1. Leia `PROMPT_VIVO/CURRENT_WORK.md` primeiro; ele aponta o último trabalho substantivo desenvolvido/atualizado e a próxima ação. Não deduza o foco pelo nome/data de arquivos.
+2. Leia `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e execute integralmente `PROMPT_VIVO/BOOTSTRAP.md`.
+3. Descubra a execução ativa em `operations/STATE.md`; leia primeiro o `RESUME_PACKET.md` dessa execução.
+4. Confira `RUN_STATE.md`, `PHASE_CONTROL.md`, `PHASE_ARCHITECTURE.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md`, `USER_INPUT_LOG.md` e o `SESSION_LOG.md`. Leia a instrução completa da fase ativa e consulte Source Ledger, Findings e Open Questions conforme necessário.
+5. Compare os arquivos, datas, eventos e commits. Resolva divergências explicitamente e atualize os arquivos dependentes antes de pesquisar.
+6. Reconstrua o contexto completo e continue automaticamente do ponto exato documentado.
 
 **Não reinicie a pesquisa, não repita trabalho concluído, não escolha uma oportunidade por antecipação e não peça que eu repita informações já registradas.** Faça uma auditoria de completude e decida se deve continuar a fase, aprofundar, criar subfase, reabrir, avançar, sintetizar ou bloquear. Se a pesquisa ainda não estiver pronta para avançar, continue a pesquisa atual.
 
