@@ -20,3 +20,12 @@ Alternar apenas entre serviços gratuitos legítimos e dentro dos termos. Não c
 
 ## 7. Dependência
 A = essencial, B = aceleradora, C = conveniência. Ferramenta A exige quota compreendida e fallback comprovado. B/C com quota opaca podem ser usadas sem depender delas. Stack principal exige custo total zero, disponibilidade no Brasil, limites compreendidos, termos compatíveis, proteção de dados, exportação e fallback.
+
+
+## 8. Restrições específicas do Kamikaze — 26/11/2026
+- Orçamento operacional autorizado permanece R$0. Limite de cartão não é capital; dinheiro de transporte e compromissos de R$200/R$140 não é verba de produto. Os R$60 mencionados pelo usuário não estão autorizados como gasto.
+- Google AI Studio Build/Starter Tier: no máximo dois apps web ativos por conta, quotas Firestore compartilhadas, região fixa e filesystem efêmero. O usuário já usa AI Studio no NEXUS; não presumir slot, cota, capacidade ou permissão de deploy. Verificar estado antes de criar/publicar e proteger NEXUS.
+- Gemini API free tier: quotas limitadas e conteúdo pode ser usado para melhoria de produtos Google. Não enviar dados pessoais, contratos, briefs confidenciais ou material de clientes sem sanitização e revisão dos termos.
+- Preferir protótipos local-first, estáticos e sem backend/API; usar IA como ferramenta manual de desenvolvimento/análise, não como custo variável do produto.
+- GitHub Pages não pode ser usado para hospedar negócio comercial/SaaS; Cloudflare Pages pode servir assets estáticos gratuitamente, mas Functions possuem quota própria.
+- Não automatizar scraping, polling, job watching ou extensão em Upwork/Workana sem autorização formal. O modelo de coleta precisa respeitar os termos da fonte.
