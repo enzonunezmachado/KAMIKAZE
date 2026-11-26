@@ -603,3 +603,13 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - Disclosure FTC precisa ser adaptado para Brasil: CDC, Decreto 7.962/2013, CONAR Guia 2026 e regras de cada plataforma. TikTok exige ferramenta de disclosure para conteúdo promocional; Meta prevê rótulo de parceria paga para branded content.
 - Percentuais de lift, bônus 3–10x, garantias e urgência do material Affitor não têm validação suficiente no repo; usar apenas alegações verdadeiras, bônus entregáveis, garantias sob controle do operador e escassez verificável.
 - Gate de compliance e claims incorporado ao MAK; nenhum teste ou publicação foi realizado.
+
+
+## 21. Catálogo e resenha dos repositórios open source — Rodada 31 (26/11/2026)
+- Criado `knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md`, com inventário nominal das 53 skills Affitor, organizadas em oito estágios e ligadas aos arquivos canônicos.
+- Snapshot: research 11, content 7, blog 7, landing 8, distribution 4, analytics 5, automation 5, meta 6. README anuncia 52; registry/tree contêm 53. `affiliate-program-search` é ponte de compatibilidade, não capacidade independente.
+- Resenha: Affitor é referência forte de arquitetura modular, pesquisa de ofertas, brief, produção nativa, distribuição, analytics e melhoria; não prova conversão nem renda. Adaptar processos, não copiar claims ou heurísticas.
+- Outros repositórios catalogados: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
+- Priorizar skills próprias MAK para verificação de ofertas, inteligência de público/conteúdo, adaptação por canal, tracking, retrospectiva, compliance brasileiro e relacionamento consentido. Padrão operacional: IA prepara → humano revisa → humano autoriza → execução permitida → métricas → aprendizado.
+- Não adotar agora self-host Postiz, AffiliateOS, publicação autônoma, scraping, geração massiva ou infraestrutura com APIs/custos. OpenAffiliate é índice auxiliar; validar termos em fonte oficial.
+- Nenhum repositório foi instalado, clonado, executado ou importado; nenhuma conta, publicação, contato, deploy, compra ou gasto ocorreu.
