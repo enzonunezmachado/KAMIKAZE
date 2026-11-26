@@ -36,28 +36,31 @@ Comprador identificável; dor recorrente/urgente; evidência de pagamento; alcan
 Encerrar linha se evidência for repetitiva, contraprova forte, custo incompatível, comprador inacessível ou dependência paga. Pesquisa exploratória não valida mercado.
 
 ## Ajuste adaptativo — Fase 02
-Sete clusters foram identificados: dados/admin, WhatsApp, pesquisa de mercado/produtos, catálogo, conteúdo/vídeo, afiliados e prospecção B2B. A Fase 02 foi encerrada para priorização com PASS WITH GAPS por decisão explícita do usuário. Lacunas não foram apagadas: aquisição direta, preço líquido, prazo de pagamento e capacidade foram transferidas à Fase 03.
+Sete clusters foram identificados: dados/admin, WhatsApp, pesquisa de mercado/produtos, catálogo, conteúdo/vídeo, afiliados e prospecção B2B. A Fase 02 foi encerrada para priorização com PASS WITH GAPS por decisão explícita do usuário. Lacunas não resolvidas foram transferidas à Fase 03.
 
-## Ajuste adaptativo — Fase 03 (vigente)
-Validar prioritariamente duas hipóteses relacionadas:
-1. **Serviço de inteligência comercial:** pesquisa de nicho/mercado/concorrentes com pergunta de decisão, fontes rastreáveis, comparação, evidências, limitações e recomendação.
-2. **Produto de monitoramento recorrente assistido por IA:** acompanhar concorrentes, preços, ofertas, conteúdo, sinais de demanda e mudanças, com histórico e relatórios periódicos. “Infinito” não é promessa literal; avaliar frequência, limites de fontes, cotas, confiabilidade e custo operacional.
-3. **Comparador secundário:** planilhas/entregas administrativas padronizadas de execução rápida. Não priorizar se depender de enviar dezenas de propostas ou produzir amostras não remuneradas.
+## Ajuste adaptativo — Fase 03
+Duas hipóteses relacionadas foram avaliadas inicialmente: serviço de inteligência comercial e produto de monitoramento recorrente assistido por IA. Foram mapeados preços anunciados, substitutos gratuitos e concorrentes; não houve prova de compra nem de recorrência. O usuário rejeitou priorizar leilões de propostas em massa. A fase foi encerrada para transição com PASS WITH GAPS por autorização explícita; as lacunas permanecem abertas.
 
-### Perguntas obrigatórias da validação
-- Quem compra cada resultado e qual decisão está tentando tomar?
-- Quais ofertas concorrentes existem, quais preços/escopos e que evidência há de contratação?
-- Quais substitutos gratuitos ou improvisados resolvem parte do problema?
-- Qual lacuna concreta permanece após usar os substitutos?
-- Há canal de aquisição direto, por indicação, parceria ou conteúdo demonstrativo, sem spam nem disputa de trabalho não remunerado?
-- Qual é o menor produto/serviço testável sem construir software?
-- Quais dados são observáveis legalmente e com estabilidade? O que não pode ser automatizado?
-- O usuário consegue entregar com qualidade e dentro do prazo?
-- Qual preço líquido, taxa e prazo de recebimento seriam necessários?
-- Que evidência faria a hipótese ser descartada?
+## Ajuste adaptativo — Fase 04 (vigente)
+Avaliar a viabilidade operacional e econômica das hipóteses sem confundir viabilidade com demanda:
+1. Serviço manual/assistido de inteligência comercial com escopo delimitado.
+2. Concierge recorrente de monitoramento competitivo, inicialmente manual e com limites explícitos.
+3. Planilhas padronizadas apenas como comparador secundário, fora de leilões de propostas.
 
-### Regra de aquisição adicionada pelo usuário
-Não priorizar plataformas em que vários freelancers concorrem com propostas para um único projeto, especialmente quando o esforço de candidatura ou amostra é não remunerado. Uma plataforma pode ser usada apenas se houver contratação clara, proteção de pagamento e custo/concorrência compatíveis; não enviar propostas sem aprovação explícita.
+### Perguntas obrigatórias
+- Qual é o fluxo ponta a ponta e quais tarefas exigem julgamento humano?
+- Quais fontes são públicas, estáveis, legais e verificáveis?
+- Qual é o escopo mínimo de entrega que ainda ajuda uma decisão real?
+- Quanto tempo leva coleta, checagem, análise, redação e revisão?
+- Qual a taxa de erro/retrabalho e como detectá-la?
+- Quais ferramentas gratuitas são essenciais, quais são apenas aceleradoras e quais têm cotas opacas?
+- Há fallback manual para cada etapa crítica?
+- Qual a capacidade semanal sem prejudicar outras obrigações?
+- Qual preço mínimo cobre tempo, taxas e eventuais custos pós-venda?
+- Monitoramento recorrente produz decisões/ações frequentes o suficiente para justificar cobrança?
+- O que inviabilizaria cada hipótese?
+
+Nenhum cliente deve ser contatado e nenhuma oferta deve ser publicada nesta fase sem aprovação humana.
 
 ## Próxima sequência
-Aprofundar concorrentes e substitutos; depois mapear compradores/canais e evidência de compra. Só então desenhar teste comercial. Não construir o sistema de monitoramento completo antes de validar demanda.
+Desenhar fluxo e templates; auditar fontes e ferramentas; realizar teste interno com dados públicos; medir tempo/qualidade; estimar economia unitária; então decidir se há base para piloto controlado.
