@@ -120,3 +120,12 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - TSMG QC Specialist oferece revisão de transcrições com treinamento, pagamento por trabalho validado, mas taxa/ciclo desconhecidos.
 - YPAI tem discrepância entre resultados de busca e páginas oficiais abertas; vagas remotas brasileiras não devem ser contadas como ativas sem confirmação.
 **Decisão:** manter PHASE_03.1 CONTINUE; aprofundar taxa/locale, saque Brasil, tempo de qualificação e produtividade real OneForma; não iniciar candidatura sem autorização.
+
+## PA-016 — auditoria de remuneração efetiva e elegibilidade OneForma
+**Data:** 25/11/2026  
+**Motivo:** a taxa de US$6 por hora de áudio não equivale à hora trabalhada e as páginas OneForma divergem sobre países/requisitos.
+**Fontes:** S125–S126.
+- Oxford estima mínimo de 4h de trabalho humano por 1h de áudio claro; no cenário Freya de US$6/h de áudio, isso equivale a ~US$1,50/h efetiva antes de custos.
+- O mínimo de US$25 exige ~4h10 de áudio aprovado, aproximadamente 16h40 de trabalho no cenário 4:1.
+- Freya v2 lista PT-BR e ausência de experiência obrigatória, mas página de projeto de transcrição exige experiência e lista apenas cinco países; página pt_BR abriu conteúdo inconsistente.
+**Decisão:** manter CONTINUE; não aprovar Freya como renda imediata até confirmar elegibilidade e produtividade.
