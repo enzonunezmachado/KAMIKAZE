@@ -80,6 +80,10 @@ O GitHub é a memória operacional versionada. As skills orientam pesquisa e exe
 - `.agents/skills/` — métodos reutilizáveis para pesquisa e operação.
 - `CHANGELOG/EVOLUTION_LOG.md` — histórico das mudanças de direção e decisões.
 
+## Prompt Vivo — sistema de pesquisa evolutivo
+
+O diretório [`PROMPT_VIVO/`](PROMPT_VIVO/README.md) contém um sistema modular de instruções, pesquisa em fases, padrões de evidência, memória de execução, especialização por domínio e autoaperfeiçoamento controlado. Para iniciar ou retomar uma pesquisa com esse sistema, use [`PROMPT_VIVO/MASTER_PROMPT.md`](PROMPT_VIVO/MASTER_PROMPT.md). Cada pesquisa concreta deve manter sua própria memória em `PROMPT_VIVO/runs/`.
+
 ## Como retomar o trabalho
 
 Leia este README, `docs/BRIEF.md`, `operations/STATE.md` e o histórico de evolução. Depois consulte apenas os arquivos de pesquisa relevantes para a decisão atual. Não repita pesquisas sem verificar os lotes anteriores. Não converta hipótese em decisão sem evidência e não construa antes de existir uma razão comercial clara.
