@@ -41,3 +41,10 @@ CONTINUE. Não aprovar segmento nem iniciar PHASE_04.
 - Aquisição comunitária é potencialmente viável, mas há comunidades que proíbem vendas/DMs/pesquisas fora dos canais permitidos.
 - Próximo: buscar avaliações independentes, reclamações, limitações e falhas dos concorrentes; identificar nichos onde análise de orçamento/esforço/fit e dados do cliente ainda não sejam bem atendidos; mapear comunidades específicas e suas regras.
 - Gate: CONTINUE. PHASE_04 não inicia. Nenhuma ação externa realizada.
+
+
+### Complemento da Rodada 20 — S224–S226
+- Freelance Match R$39,99/mês, mas cobrança ainda não habilitada; não é prova de venda.
+- FreelaSync anuncia R$14,90/49,90 sem métricas de assinantes.
+- Uma freelancer relata compra do plano de R$54,90 do 99Freelas para visualizar média das propostas concorrentes; é sinal individual de valor por inteligência competitiva nativa.
+- Próximo: investigar se esse comportamento se transfere para produto independente e se há recorrência.
