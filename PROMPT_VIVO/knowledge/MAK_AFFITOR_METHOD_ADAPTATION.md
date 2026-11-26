@@ -274,3 +274,7 @@ Nenhuma ferramenta foi instalada, nenhum código foi executado/importado, nenhum
 - https://github.com/Affitor/affiliate-skills/blob/main/skills/analytics/conversion-tracker/SKILL.md
 - https://github.com/Affitor/affiliate-skills/blob/main/skills/analytics/performance-report/SKILL.md
 - https://github.com/Affitor/affiliate-skills/blob/main/skills/landing/landing-page-creator/SKILL.md
+
+
+## Retificação e aprofundamento da auditoria (2026-11-26)
+A contagem anunciada neste estudo deve ser lida junto da auditoria posterior [MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md](MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md). O snapshot atual auditado da branch main (tree SHA `f4cb063a0ee83b1b9e5167e396ab46cc9123dadc`) contém 53 skills canônicas e 53 entradas de registry. O README/QUICKSTART anunciam 52, enquanto o changelog registra 50 para a release 1.2.0; esses dois números são documentação histórica/desatualizada, não a contagem atual. A auditoria também detalha proxies de métricas, heurísticas, casos não corroborados, disclosure brasileiro e controles de oferta. Em caso de divergência, usar o documento de governança mais recente.
