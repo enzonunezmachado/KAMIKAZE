@@ -1,8 +1,8 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "operations/COMPANY_SOLUTIONS/"
-last_work_status = "DOCUMENTADO / NÃO ATIVADO"
+last_substantive_work = "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md"
+last_work_status = "DOCUMENTAÇÃO E VALIDAÇÃO ADICIONADAS; CI PENDENTE"
 
 [execution]
 status = "IN_PROGRESS"
