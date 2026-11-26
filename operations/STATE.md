@@ -89,3 +89,12 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - S067–S070: canais de descoberta de PMEs incluem parceiros/pares, profissionais do setor, conteúdo de busca e networking B2B; dados gerais, não prova de aquisição específica para benchmarking.
 - S071–S075: contratações concluídas em comparação de preços de catálogo, pricing estratégico, curadoria de fornecedores/produtos e pesquisa de tendências frequente. São provas de compra em pesquisa aplicada a decisões/rotinas, mas não comprovam canal sem leilão ou recompra.
 - PHASE_03.1 permanece IN_PROGRESS / CONTINUE. PHASE_04 continua QUEUED/NOT_STARTED. Nenhuma oportunidade aprovada, contato realizado ou receita gerada.
+
+
+
+## Rodada 5 — 25/11/2026
+- S076/S085/S086: pesquisa e networking/indicação são canais gerais relevantes, mas não provam conversão para a oferta; jornada de decisão MEI pode levar ~2 meses.
+- S077/S078: IA em marketing já é comum; pequenos negócios concentram operação digital em uma pessoa, mas isso não prova terceirização.
+- S079/S080: serviços de cadastro de catálogo têm demanda anunciada e concorrência extrema (132–181 propostas); não priorizar marketplace.
+- Elegibilidade aos 16 é dependência real: Workana/Upwork exigem 18; Fiverr só via conta de responsável; MEI 16–18 requer emancipação segundo manual oficial. Não contornar termos nem assumir elegibilidade. Nenhum contato ou venda.
+- PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
