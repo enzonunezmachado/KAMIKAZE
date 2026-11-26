@@ -309,3 +309,17 @@
 | Compra de curadoria humana | Brief Upwork de Job Research & Proposal Assistant a US$15–30/h | PARCIAL | Sinal de orçamento, não contratação; exige experiência Upwork consolidada |
 | Comunidades como canal | Rodada 20 | PARCIAL | Mapear comunidades e regras segue pendente |
 | Economia e retenção | Planos baratos e casos de reembolso/cancelamento | NÃO RESPONDIDO | Sem volume, LTV, churn, CAC ou recompra medidos |
+
+
+## Rodada 22 — novas hipóteses e controles
+
+| Dimensão | Evidência | Estado | Próxima validação |
+|---|---|---|---|
+| Diferenciação do agregador/score genérico | Scoutly e Workaholic já cobrem agregação, alertas, score, CRM e propostas; Upwork oferece insights nativos | NÃO DIFERENCIADO | Identificar falhas independentes e recorte específico |
+| Automação de marketplaces | Upwork alerta contra job watchers/scrapers; Workana proíbe extração automática e manual de dados | RESTRIÇÃO CRÍTICA | Não automatizar coleta sem autorização formal; usar input manual |
+| Análise de brief/scope | Byteflare, Signed Docs, BriefCraft, Briefance e Winbrief já oferecem versões gratuitas/pagas | COMMODITIZADO | Só investigar vertical com dados e workflow próprios |
+| Workana Profile Readiness | Requisitos oficiais e espera de 15–30 dias; relatos de frustração e compra de moderação prioritária | SINAL DE DOR, COMPRA EXTERNA NÃO PROVADA | Pesquisar compradores de revisão de perfil, ferramentas e serviços independentes |
+| Calculadora líquida por plataforma | Regras de comissão oficiais variam e mudam; Upwork já tem calculadora própria | PARCIAL | Investigar se versão BR multi-plataforma é usada/paga |
+| Comunidades | Meetups com centenas de membros, mas sem eventos atuais; Discords de nicho e regras diversas | PARCIAL | Verificar atividade e regras internas; não confundir membros com audiência alcançável |
+| Stack R$0 | AI Studio Starter Tier até 2 apps, quotas compartilhadas; Cloudflare estático; API Gemini free com uso de conteúdo para melhoria | VIÁVEL COM LIMITES | Prototipar local-first/estático; não usar slots NEXUS sem checagem |
+| Receita em 10 dias | Não há validação de venda de nenhuma ideia nova | NÃO RESPONDIDO | Priorizar serviço manual simples somente após prova de demanda e autorização |
