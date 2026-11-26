@@ -65,3 +65,14 @@ YPAI Data/Voice: vaga fechada nas páginas oficiais, apesar de resultados de bus
 
 ## Rodada 12 — OneForma Email Collection e bloqueio de privacidade (S127–S129)
 OneForma Online Shopping Email Collection está aberta para Brasil/PT-BR, sem experiência e paga por email aprovado; exige 3+ mensagens .eml originais do mesmo pedido de produto físico entregue desde 2024. Valor por email no Brasil não publicado. Os arquivos precisam manter remetente, destinatário, assunto, corpo e timestamp originais. A plataforma diz que pode detectar/ocultar dados pessoais após upload, mas não esclarece suficientemente proteção, acesso, uso e retenção do conteúdo. Classificar BLOQUEADA POR PRIVACIDADE; não enviar nenhum email. DataForce Mosaic não aceita PT-BR; TELUS Internet Safety Evaluator está fechado. Gate CONTINUE.
+
+
+## Rodada 13 — plataformas de testes, coleta de dados e remuneração real (S131–S138)
+- **UserTesting:** Brasil aparece oficialmente entre países elegíveis para testes novos e clássicos. Países adicionados em novembro têm pools menores, então convites podem demorar (S136). Pagamento varia por teste, valor exibido antes da aceitação, PayPal verificado obrigatório, normalmente 14 dias após conclusão; practice test sem pagamento (S137). É opção complementar, não solução garantida para 06/12.
+- **YPAI:** página Data Collection Contributor Brasil mostra banner de encerramento no topo e, contraditoriamente, “Applications open” no corpo, com taxa de R$30–50/h. Prevalece o aviso de encerramento; não considerar ativa (S131).
+- **TSMG QC:** formulário confirma pagamento por trabalho validado, não horas efetivas, e pede CV/comentário/consentimento; taxa por unidade, tempo, volume, método e ciclo não divulgados (S132).
+- **Meridial/Invisible:** vaga PT-BR com faixa US$6–65/h, mas busca domínio linguístico avançado e considera graduação em Letras/Linguística ideal; taxa final depende de avaliação. Não priorizar como entrada (S133).
+- **Defrilex:** PT-BR, sem experiência profissional obrigatória, mas participação exige opt-in para uso de dados pessoais de atividades em IA, busca, vídeo e email. Pagamento e volume não divulgados; não consentir sem ler SoW, escopo, retenção e direitos (S134).
+- **sōtem:** faixa planejada US$10–15/h estimada, mas sem tarefas pagas abertas e PayPal ainda desabilitado; não contar como renda atual (S135).
+- **uTest/User Interviews:** estudo pontual de US$75 retornou 410 Gone ao abrir; excluído como expirado (S138).
+**Gate:** CONTINUE. Nenhuma conta, candidatura, screening, formulário, envio de documento, gravação ou consentimento realizado. PHASE_04 permanece QUEUED/NOT_STARTED.
