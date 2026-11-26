@@ -210,3 +210,15 @@ Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma sínt
 - Jobs atuais: pesquisa de preço/fornecedores é comprada, mas exemplos específicos exigem PE/BA ou inglês bom; edição de Reels tem competição alta; planilhas genéricas têm 696 propostas; automação WhatsApp complexa; edição gamer nichada teve competição inicial menor.
 - Melhor linha a aprofundar: pesquisa comercial online de nicho com fontes públicas e entregável estruturado, combinada com pequenos serviços operacionais específicos; conteúdo é hipótese secundária.
 - Continuar PHASE_03.1; PHASE_04 não iniciou. Próxima rodada: procurar projetos de pesquisa remota que aceitem Brasil/sem inglês fluente, extrair faixas de preço e mapear nichos com dados acessíveis; testar concorrência de microentregáveis e caminhos de distribuição.
+
+
+## 17. Retomada — criação da PHASE_03.2 (25/11/2026)
+**Mudança mais recente:** o usuário pediu revisar a fase e pesquisar todos os públicos com os quais possa aprender a lidar: pessoas físicas, profissionais independentes, pequenos negócios e empresas estruturadas. A análise deve considerar diferença de confiança/autoridade, capacidade de pagamento, canal, aquisição, escopo e recorrência. Não presumir que B2B é melhor por ticket maior nem que B2C é fácil.
+
+**Auditoria:** PHASE_03.1 tem evidência parcial de compra e recorrência solicitada, mas não responde suficientemente quem é acessível nem como adquirir compradores sem leilão. Não encerrar 03.1; status PAUSED/CONTINUE. Criada **PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS**, IN_PROGRESS / CONTINUE.
+
+**Rodada 17 — S175–S185:** TIC 2024/2025 mostra escala de consumo digital B2C; Serasa aponta confiança como barreira; Sebrae mostra pequenos negócios focados em vendas e gargalos operacionais; projetos 99Freelas mostram pedidos concretos para cardápios, sites, manutenção mensal e pesquisa, mas concorrência de 39 a 234 propostas. Manutenção recorrente é categoria real, mas renovação efetiva e benchmark de R$50/mês não comprovados.
+
+**Estado atual:** PHASE_03.2 ativa; PHASE_03.1 pausada aguardando integração; PHASE_04 QUEUED/NOT_STARTED. Nenhum segmento ou oferta aprovado. Receita R$0, despesas R$0, nenhuma ação externa.
+
+**Próxima pesquisa:** profissionais independentes e empresas estruturadas; aquisição sem marketplace; preços efetivamente pagos; recompra/renovação; comparação do caminho até o primeiro pagamento nos quatro segmentos.
