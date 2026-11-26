@@ -107,3 +107,10 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Aplicado:** estudo de Stockroom/AppJet, MyClaw Tools, Somnia, Toolkiya, HookLayer, RenderArchi, AssetShark e HypeDesk; revalidação de planos Gemini, Supabase, Cloudflare, Vercel e GitHub Copilot. Criados documentos de casos e suplemento de fontes S436–S450.
 **Limites:** não instalar, clonar, executar, conectar contas, criar/deployar apps, publicar ou gastar; preservar NEXUS e quota do AI Studio.
 **Status:** pesquisa documental persistida; nenhuma implementação ou experimento comercial autorizado.
+
+
+## 2026-11-26 — hipótese de serviços tecnológicos personalizados para negócios locais
+**Entrada:** usuário sugeriu pesquisar a obtenção de telefones de negócios regionais (Maps/diretórios), diagnosticar maturidade digital e oferecer soluções de IA/tecnologia proporcionais (ex.: site/cardápio simples para pizzaria), com implantação competitiva e manutenção fixa. Quer fechar primeiro cliente e criar projetos de portfólio.
+**Interpretação:** investigar motor de leads, diagnóstico por maturidade, ofertas verticais, modelo recorrente, LGPD/WhatsApp/Google Maps e primeiros candidatos regionais; não executar contato.
+**Aplicado:** documentada hipótese e processo; lista exploratória de pizzarias de Taboão; restrições de scraping/WhatsApp; arquitetura de demos e preços como hipóteses.
+**Limites:** sem mensagens, ligações, visitas, cadastro, publicação, instalação, deploy ou gastos.
