@@ -1,56 +1,45 @@
 # Arquitetura de fases — PV-2026-11-25-TOTALMENTE-GRATUITA
 
 ## Princípio
-A arquitetura é dinâmica. PHASE_00–PHASE_05 são referências iniciais, não uma sequência obrigatória nem limite de fases. Consultar o protocolo central em PROMPT_VIVO/EXECUTION_PROTOCOL.md.
+A arquitetura é dinâmica. PHASE_00–PHASE_05 são referências iniciais, não uma sequência obrigatória nem limite de fases. Consultar PROMPT_VIVO/EXECUTION_PROTOCOL.md e PHASE_CONTROL.md.
 
 ## Histórico de versões
 
 ### v1.0 — 2026-11-25 — Arquitetura inicial
-- PHASE_00_SCOPE
-- PHASE_01_LANDSCAPE
-- PHASE_02_DEMAND
-- PHASE_03_VALIDATION
-- PHASE_04_FEASIBILITY
-- PHASE_05_SYNTHESIS
+PHASE_00_SCOPE; PHASE_01_LANDSCAPE; PHASE_02_DEMAND; PHASE_03_VALIDATION; PHASE_04_FEASIBILITY; PHASE_05_SYNTHESIS.
 
 ### v2.0 — 2026-11-25 — Governança adaptativa
-**Motivo:** explicitar que o Prompt Vivo pode administrar o número e a ordem das fases sem multiplicar etapas por formalidade.
+Explicitada a autonomia para dividir, mesclar, reordenar, modificar, adicionar, pular ou reabrir fases, com histórico preservado.
 
-### v3.0 — 2026-11-25 — Transição autorizada para PHASE_03_VALIDATION
-**ID:** PA-003  
-**Motivo:** usuário autorizou avançar e destacou serviço de pesquisa de mercado e sistema de monitoramento assistido por IA; pediu para não priorizar leilões de propostas.  
-**Mudança:** PHASE_02 encerrada com PASS WITH GAPS e lacunas transferidas à Fase 03.
+### v3.0 — 2026-11-25 — Transição para PHASE_03_VALIDATION (PA-003)
+PHASE_02 encerrada com PASS WITH GAPS por autorização do usuário. Lacunas transferidas à validação.
 
-### v4.0 — 2026-11-25 — Transição autorizada para PHASE_04_FEASIBILITY
-**ID:** PA-004  
-**Motivo:** usuário solicitou avançar para a próxima fase após a rodada inicial de validação.  
-**Fases afetadas:** PHASE_03_VALIDATION e PHASE_04_FEASIBILITY.  
-**Mudança:** Fase 03 encerrada para transição com PASS WITH GAPS; não houve prova de compra, recorrência ou disposição a pagar. Fase 04 aberta para avaliar fluxo de entrega, fontes, ferramentas gratuitas, qualidade, tempo, capacidade e economia unitária.  
-**Lacunas transferidas:** comprador e disposição a pagar; prova de compra; canal de aquisição; frequência real da dor; preço e prazo de recebimento; diferenciação frente a ferramentas existentes.  
-**Entregáveis:** PHASE_04_FEASIBILITY.md, PHASE_04_FEASIBILITY_CHECKPOINT.md, DELIVERY_WORKFLOW.md, UNIT_ECONOMICS.md e TOOL_STACK_AUDIT.md.  
-**Cotas:** R$0; quota de pesquisa permanece opaca; fallback manual obrigatório.
+### v4.0 — 2026-11-25 — Transição para PHASE_04_FEASIBILITY (PA-004)
+PHASE_03 encerrada para transição com PASS WITH GAPS; não havia prova de compra, recorrência ou disposição a pagar. Fase 04 foi planejada para fluxo de entrega, fontes, ferramentas gratuitas, qualidade, tempo, capacidade e economia unitária. A documentação criada não significa execução operacional concluída.
 
-## Decisões atuais
+### v5.0 — 2026-11-25 — Controlador e subfase 03.1 (PA-005)
+A auditoria identificou lacunas críticas em compra específica, comprador, canal sem leilão e recorrência. Criada PHASE_03_1_PURCHASE_EVIDENCE. PHASE_04 movida para QUEUED/NOT_STARTED; plano preservado, teste operacional ainda não executado. Evidências iniciais S056–S061. Gate 03.1: CONTINUE.
+
+### v6.0 — 2026-11-25 — Bootstrap entre chats (PA-006)
+Criados BOOTSTRAP.md, RESUME_PACKET.md e USER_INPUT_LOG.md para reconstrução de contexto e incorporação de feedback do usuário. Não altera escopo comercial nem evidência da pesquisa. Corrige divergência histórica em que a Fase 04 aparecia como "em andamento" apesar de estar aguardando execução.
+
+## Estado atual confirmado
 | Fase | Estado | Gate/observação |
 |---|---|---|
 | PHASE_00_SCOPE | Concluída | PASS WITH GAPS |
 | PHASE_01_LANDSCAPE | Concluída | PASS WITH GAPS |
 | PHASE_02_DEMAND | Encerrada para transição | PASS WITH GAPS; lacunas preservadas |
-| PHASE_03_VALIDATION | Encerrada para transição | PASS WITH GAPS; nenhuma venda/compra validada |
-| PHASE_04_FEASIBILITY | Em andamento | Escopo e critérios definidos; teste de entrega pendente |
-| PHASE_05_SYNTHESIS | Planejada/adaptável | Depende dos resultados; pode ser reestruturada |
+| PHASE_03_VALIDATION | Encerrada para transição | PASS WITH GAPS; sem compra/recorrência comprovada |
+| PHASE_03.1_PURCHASE_EVIDENCE | IN_PROGRESS | CONTINUE; evidência de compra específica, canal e recorrência ainda insuficientes |
+| PHASE_04_FEASIBILITY | QUEUED / NOT_STARTED | Plano e documentos preparatórios existem; nenhum teste operacional foi executado |
+| PHASE_05_SYNTHESIS | Planejada/adaptável | Reavaliar após fases anteriores |
+
+## PA-006 — Registro da decisão
+**Motivo:** usuário solicitou retomada entre chats com contexto completo, incluindo identidade do projeto, execução, pesquisa/build atual, fases, evidências e trabalho anterior; também esclareceu que comentários durante a conversa podem influenciar a continuação.
+
+**Mudança:** protocolo obrigatório de bootstrap, pacote canônico de retomada e log de entradas do usuário. O controlador continua decidindo a ação mínima útil quando o usuário disser "próxima/continua".
+
+**Arquivos:** PROMPT_VIVO/BOOTSTRAP.md; PROMPT_VIVO/MASTER_PROMPT.md; PROMPT_VIVO/MEMORY_AND_HANDOFF.md; RESUME_PACKET.md; USER_INPUT_LOG.md; PHASE_ARCHITECTURE.md.
 
 ## Regra de atualização
-Toda mudança futura deve acrescentar linha ao histórico e atualizar RESEARCH_PLAN.md, RUN_STATE.md e MEMORY_HANDOFF.md. Não apagar fases ou registros anteriores.
-
-
-### v5.0 — 2026-11-25 — Controlador adaptativo e subfase 03.1
-**ID:** PA-005  
-**Motivo:** o usuário pediu que cada solicitação de continuidade seja precedida por avaliação de completude, permitindo aprofundar a fase anterior ou criar subfases em vez de avançar mecanicamente.
-**Mudança:** criado PHASE_CONTROL.md. A frase "próxima fase" passa a significar continuar o trabalho; a IA deve auditar o gate e escolher CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK. A autorização do usuário não altera a classificação factual das evidências.
-**Auditoria:** PHASE_03_VALIDATION não tinha prova suficiente de compra específica, comprador, canal e recorrência. PHASE_04_FEASIBILITY tinha apenas plano e critérios, sem teste de entrega ou economia medidos.
-**Fases afetadas:** PHASE_03_1_PURCHASE_EVIDENCE aberta; PHASE_04_FEASIBILITY movida para QUEUED/NOT_STARTED (plano preservado).
-**Evidências iniciais:** S056–S061; um projeto adjacente concluído, sem prova de compra específica de relatório de concorrentes nem de recorrência.
-**Entregáveis:** PHASE_CONTROL.md, PHASE_03_1_PURCHASE_EVIDENCE.md, PHASE_03_1_CHECKPOINT.md; atualização da matriz, fontes, achados, plano, estado e handoff.
-**Cotas:** pesquisa web pontual; quota do produto permanece opaca; respeitar reserva e evitar buscas redundantes.
-**Gate:** CONTINUE; buscar mais contratações concluídas comparáveis e canais sem leilão.
+Toda mudança futura deve registrar motivo, arquivos afetados, dependências e impacto; sincronizar RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, RESUME_PACKET e operations/STATE. Não apagar histórico.
