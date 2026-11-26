@@ -420,3 +420,13 @@ Documento consolidado: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; 
 - Código Stockroom inspecionado sem execução: transações de estoque, validações, CSV formula injection protection, limites JSON, headers de segurança e Docker non-root.
 - Bloqueio: demo sem login; endpoints examinados sem autenticação/autorização/tenant isolation visível. Não usar com dados reais. Testes foram lidos, não rodados; não é pentest.
 - AppJet Terms/Privacy: fornecedor declara não usar código/interações para treino e não reter código após coding; processamento EUA/Canadá; credenciais/env vars são processadas; disponibilidade não garantida. Não conectar NEXUS nem compartilhar secrets. Fontes S451–S453.
+
+
+## Rodada 34 — serviços tecnológicos locais e prospecção
+Documento: `PROMPT_VIVO/knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fontes S454–S466 em `SOURCE_LEDGER_SUPPLEMENT_S454_S466.md`.
+- Hipótese: vender soluções tecnológicas simples e personalizadas a pequenos negócios, com implantação competitiva e manutenção mensal, adequando oferta à maturidade real.
+- Diretório Solutudo lista 62 pizzarias em Taboão; leads exploratórios e telefones no documento. Não são leads qualificados; validar telefone, operação e presença digital. Jardim Salete tem dados divergentes.
+- Paiva Pizzas já tem Saipos/WhatsApp e Skina da Pizza usa WABiz: não propor funcionalidades redundantes.
+- Google Maps: sem scraping/cópia/exportação de conteúdo. WhatsApp: telefone público não significa opt-in; não enviar cold bulk DMs. Preferir pedir autorização por canal comercial apropriado. LGPD e legítimo interesse documentados.
+- Portfólio: demos fictícias de pizzaria, barbearia e prestador. Faixas de preço são hipóteses não validadas.
+- Nenhum contato, publicação, venda, instalação ou gasto ocorreu. PHASE_03.5 continua; PHASE_04 não iniciada.
