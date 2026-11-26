@@ -62,3 +62,14 @@ Se a IA não conseguir ler ou escrever no GitHub:
 
 ## 8. Limite de confiabilidade
 A continuidade depende da qualidade, atualização e acessibilidade dos registros. O protocolo reduz perda de contexto, mas não garante onisciência nem substitui validação de arquivos. Se houver contradição, sinalizar e reconciliar antes de prosseguir.
+
+
+## 9. Sistema operacional de continuidade (obrigatório)
+Consultar `PROMPT_VIVO/CONTINUITY_SYSTEM.md`. Além dos arquivos já listados, manter:
+- `PROMPT_VIVO/SESSION_LOG.md`: log global append-only;
+- `runs/<RUN_ID>/SESSION_LOG.md`: log append-only da execução;
+- `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`: texto copiável para iniciar novo chat.
+
+Em cada checkpoint, atualizar primeiro fontes/achados/perguntas e controlador; depois RUN_STATE, MEMORY_HANDOFF, RESUME_PACKET e operations/STATE; por último registrar eventos nos logs. Confirmar escrita antes de declarar persistência. O pacote de retomada deve refletir o estado mais recente, não apenas resumir a missão original.
+
+Quando a conversa se aproximar do limite, parar a pesquisa, salvar o checkpoint e deixar a próxima ação específica. A retomada em novo chat deve executar BOOTSTRAP, ler os logs e continuar automaticamente sem reiniciar a pesquisa.
