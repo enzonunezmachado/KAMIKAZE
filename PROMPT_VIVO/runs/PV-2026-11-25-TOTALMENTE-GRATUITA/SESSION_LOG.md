@@ -1,3 +1,14 @@
+## KAM-2026-11-26-007 — Governança documental e validação
+
+- Auditoria da estrutura de arquivos: encontrados RESUME_PACKET (450 linhas), RUN_STATE (337 linhas) e operations/STATE (249 linhas), com estado/histórico parcialmente misturados.
+- Criados snapshots compactos e preservados os conteúdos anteriores integralmente em RUN_HISTORY.md e operations/STATE_HISTORY.md.
+- Fonte estruturada criada em operations/state.toml; PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION é o foco registrado, gate CONTINUE. PHASE_03.3/03.4 permanecem abertas em paralelo; PHASE_03.1 PAUSED; PHASE_03.2 IN_PROGRESS; PHASE_04 QUEUED.
+- AGENTS.md, READMEs, ARCHITECTURE_GOVERNANCE, BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT, CURRENT_WORK e RESUME_PACKET foram alinhados.
+- Criado validador Python + GitHub Actions (estrutura, tamanhos, links, sync TOML/Markdown, MkDocs build e markdownlint).
+- MkDocs configurado para fonte Markdown de portfólio demonstrativo; não publicado.
+- Nenhuma ação comercial, contato, instalação de agente, gasto ou deploy.
+- CI pendente de execução/inspeção.
+
 # SESSION LOG — PV-2026-11-25-TOTALMENTE-GRATUITA
 
 Log cronológico desta execução. Append-only; não apagar eventos antigos.
