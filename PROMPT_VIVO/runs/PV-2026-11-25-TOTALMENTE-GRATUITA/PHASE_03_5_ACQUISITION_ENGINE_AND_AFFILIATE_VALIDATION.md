@@ -217,7 +217,7 @@ Os nomes são propostas, ainda não criadas nem aprovadas individualmente. Antes
 ### Escopo
 Atendendo ao pedido de investigar pessoas que construíram produtos/aplicações poderosas usando IA e ferramentas gratuitas, foram pesquisados relatos, artefatos públicos e termos oficiais de planos free. Documentos: 
 - `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` — estudo consolidado de casos, arquitetura e limites.
-- `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md` — fontes S436–S450.
+- `SOURCE_LEDGER_SUPPLEMENT_S436_S453.md` — fontes S436–S450.
 
 ### Casos mais relevantes
 1. **Stockroom (AppJet):** caso mais forte de construção/deploy a $0 nesta rodada. Demo e código públicos; inventário full-stack com Next.js 16, TypeScript, Tailwind, SQLite, API routes, ledger de movimentos, CRUD, validações e CSV. O fornecedor declara que a IA escreveu 100% do código e que a construção/deploy usou AppJet Free. Limitações: demonstração do próprio fornecedor, dados fictícios, sem autenticação e persistência/backup precisam ser configurados/validados.
