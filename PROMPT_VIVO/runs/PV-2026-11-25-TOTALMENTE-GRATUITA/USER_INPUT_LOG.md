@@ -42,3 +42,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Impacto:** ampliar a pesquisa além da lista de serviços e avaliar quem compra, por que compra, como descobre fornecedores, que prova exige, quanto paga, quão acessível é a aquisição e se existe recorrência verdadeira. Todos os segmentos serão pesquisados; a seleção final será por evidência e capacidade de execução, não por preferência prévia. Exemplos de site, manutenção mensal e pesquisa recorrente permanecem hipóteses.
 
 **Arquivos:** PHASE_ARCHITECTURE, PHASE_CONTROL, RUN_STATE, RESEARCH_PLAN, FINDINGS, OPEN_QUESTIONS, VALIDATION_MATRIX, SOURCE_LEDGER, novo PHASE_03_2_BUYER_SEGMENTATION_AND_ACCESS, checkpoint 03.2, RESUME_PACKET, MEMORY_HANDOFF e operations/STATE.
+
+
+## 2026-11-26 — crítica à amostra de evidência e retomada em novo chat
+**Entrada:** “só uma pessoa??” e solicitação para iniciar novo chat, executar BOOTSTRAP, reconstruir todo o contexto e continuar sem repetir pesquisa concluída.
+**Classificação:** CORREÇÃO DE PADRÃO DE EVIDÊNCIA + CONTINUIDADE.
+**Impacto:** não tratar um caso isolado como evidência suficiente de comportamento de compra; ampliar a amostra com fontes independentes, separar compra/uso/renovação/reembolso/satisfação e buscar sinais de retenção. Executar auditoria de estado antes de continuar.
+**Status:** APLICADO na Rodada 21 (S227–S244); documentação sincronizada.
+**Arquivos afetados:** PHASE_03_3, SOURCE_LEDGER, FINDINGS, OPEN_QUESTIONS, VALIDATION_MATRIX, PHASE_CONTROL, RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF, RESEARCH_PLAN, PHASE_ARCHITECTURE, operations/STATE.
