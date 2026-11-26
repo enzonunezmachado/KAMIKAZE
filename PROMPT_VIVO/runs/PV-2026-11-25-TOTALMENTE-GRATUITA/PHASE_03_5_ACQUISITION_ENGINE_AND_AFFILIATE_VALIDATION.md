@@ -272,3 +272,17 @@ Documento de trabalho: `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fo
 - Não recolher telefones pessoais, CPF ou dados desnecessários. Não usar dados de Maps para treinar modelos.
 - Não publicar ou implantar sem aprovação explícita. Cliente deve manter titularidade de domínio/contas e custos externos devem ser transparentes.
 - PHASE_03.5 permanece IN_PROGRESS/CONTINUE; não iniciar PHASE_04 nem alterar orçamento R$0.
+
+
+## Nova linha operacional — Motor de Diagnóstico e Soluções Empresariais (26/11/2026)
+O usuário definiu uma operação que pesquisa **20 empresas únicas por lote**, compara oportunidades, cria ranking, registra todas as decisões e evita reaparecimento de empresas em lotes futuros. A empresa pode ser reavaliada futuramente com o mesmo Company ID e justificativa nova.
+
+- Sistema documental: `operations/COMPANY_SOLUTIONS/`.
+- Dois scores separados: Conversion Fit e Business Value Fit; heurísticos, não probabilidades calibradas.
+- Registro mestre deduplicado, snapshot histórico por lote, dossiê individual por empresa, log de permissão/contato/supressão, projetos por ID, contratos recorrentes separados e ledger financeiro.
+- Status separados para pesquisa, decisão, contato, venda, entrega e contrato. "Não selecionada", "sem resposta", "recusou", "não é fit" e "não contatar" não são equivalentes.
+- Cada lote registra as 20 empresas e justifica por que cada uma foi ou não priorizada. Um lote pode encerrar sem contato se nenhuma oportunidade passar os gates.
+- Projetos demonstrativos devem ser rotulados e usar dados fictícios; projetos contratados exigem aceite, escopo e gates técnicos. Mensalidade proposta não é MRR ativo nem dinheiro recebido.
+- Não iniciar lotes, contatos, protótipos específicos, publicações, deploys, contratos ou gastos sem autorização correspondente.
+- Estado do módulo: DOCUMENTADO / NÃO ATIVADO. Estrutura criada; ainda não há empresas cadastradas, lote executado, contato, venda ou despesa.
+- Próxima ação após autorização: auditar a estrutura e iniciar o primeiro lote de 20 empresas novas, consultando o registro mestre e as regras de deduplicação antes da pesquisa.
