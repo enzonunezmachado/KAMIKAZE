@@ -170,3 +170,9 @@ O usuário acrescentou hipótese de aquisição por relacionamento: apresentar a
 
 ### Complemento Rodada 29 — triagem de automações adicionais
 S399–S401 adicionados: workflow n8n com buffer de revisão/approval/logging é padrão útil; pipeline de 1.000 artigos/semana é rejeitado; automação social com Puppeteer exige auditoria e não será usada por ora. TARA BOT não tem função afiliada pronta. Próxima etapa deve inspecionar skills individuais do Affitor e comparar com nosso Prompt Vivo, sem instalar/executar nada.
+
+
+
+## Atualização do controlador — Rodada 30 (26/11/2026)
+Estudo aprofundado do Affitor/affiliate-skills v1.2.1 registrado em `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md`, fonte S402. A auditoria cobriu arquitetura modular, schemas/handoffs, funnel/flywheel, research/verification, content research/angles, conteúdo nativo, repurposing, landing, distribution, analytics, compliance, feedback, registry/evals e implementação CLI/API/cache. Foram identificadas limitações: contagens divergentes, registry possivelmente desatualizado, heurísticas de plataforma, métricas sociais proxy, FTC não suficiente para Brasil, case studies sem corroboração independente e claims aspiracionais.
+**Decisão:** incorporar padrões conceituais e operacionais no MAK, sem instalar/importar código. O MAK passa a contemplar duas trilhas conectadas: (1) comercial/conversão; (2) relacionamento/memória de marca/retorno/introdução consentida. IA prepara e organiza; humano revisa e autoriza contato/publicação; tudo é medido e retroalimenta pesquisa. PHASE_03.5 permanece IN_PROGRESS; PHASE_03.4 continua ativa; PHASE_04 QUEUED/NOT_STARTED. Nenhuma conta, publicação, contato, automação, instalação ou gasto ocorreu.
