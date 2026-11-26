@@ -102,3 +102,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - uTest ID verification: Brasil, página indica ativo desde 24/11, tarefa ~40min, mas exige escanear documento oficial retido até 12 meses; pagamento não divulgado. Não recomendar sem conhecer termos e proteção.
 - uTest paga duas vezes ao mês por PayPal, Payoneer ou Wise/banco conforme país; não garante número mínimo de projetos.
 - Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma candidatura, cadastro, screening, documento, dado bancário ou consentimento enviado. Receita R$0, despesas R$0.
+
+
+## Rodada 15 — 25/11/2026
+- Nova pista de curto prazo: Hub Data, coleta de vídeo em primeira pessoa para IA, pagamento oficial indicativo US$5/h aprovada em casa / US$6/h no trabalho, Pix após crédito, kit gratuito, 18+ Américas (S147).
+- Privacidade: a Hub declara uso/licenciamento dos vídeos a clientes e impossibilidade de retirar gravações já licenciadas; termos integrais oficiais não abriram nesta consulta (S148). Não recomendar adesão antes de o usuário avaliar a cessão de direitos e confirmar compatibilidade do celular.
+- S149 é relato de pagamento independente, mas com comissão de indicação; não é garantia.
+- YPAI fechada (S144); CSL lote prioritário vencido (S145); OneForma China-only (S146); OpenTrain sem payout Brasil (S151); novos pedidos 99Freelas não prioritários por leilão/escopo (S152–S153).
+- Gate PHASE_03.1 segue CONTINUE; PHASE_04 segue QUEUED/NOT_STARTED. Receita R$0, despesas R$0, sem conta/candidatura/gravação/contato/proposta ou ação externa.
+- Próxima ação: buscar mais opções de recebimento curto com payout e elegibilidade claros; Hub Data é candidata condicional, pendente de privacidade e aparelho.
