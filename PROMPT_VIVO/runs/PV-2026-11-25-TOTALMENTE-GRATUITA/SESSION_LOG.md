@@ -1,3 +1,12 @@
+## KAM-2026-11-26-008 — Gate de pesquisa para experimento
+
+- O usuário levantou a hipótese de que o projeto possa estar pesquisando demais antes de agir, mas sem defender testes aleatórios ou sem critério.
+- Atualizados QUALITY_GATE, RESEARCH_METHOD e EXECUTION_PROTOCOL para separar fatos pesquisáveis de variáveis que exigem comportamento real.
+- O gate agora avalia comprador, problema, evidência econômica de categoria, alternativas, canal, entrega, risco e hipótese de experimento.
+- Regra de parada: se pesquisas adicionais não alteram a decisão e um teste mínimo ético/reversível/baixo custo pode responder a incerteza, recomendar o experimento em vez de continuar pesquisando.
+- Não usar probabilidades inventadas; score de prontidão não é probabilidade estatística.
+- Nenhum contato, publicação, cadastro, despesa ou teste externo foi executado.
+
 ## KAM-2026-11-26-007 — Governança documental e validação
 
 - Auditoria da estrutura de arquivos: encontrados RESUME_PACKET (450 linhas), RUN_STATE (337 linhas) e operations/STATE (249 linhas), com estado/histórico parcialmente misturados.
