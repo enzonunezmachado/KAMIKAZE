@@ -280,3 +280,16 @@ Profile optimization tem sinais de compra da categoria: dois briefs no 99Freelas
 S294 adiciona Mansão Dev (~528 membros) como canal de observação possível, com divulgação/parcerias descritas no diretório; regras e atividade internas não verificadas. Nenhuma comunidade está aprovada para divulgação sem conferir as regras atuais.
 
 S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/serviços para construir serviço similar/concorrente; não desenvolver integração ou produto dependente de dados Upwork sem autorização escrita e revisão dos termos.
+
+
+
+## Rodada 23 — Simple Search Utilities / SEO Microtools (26/11/2026)
+O usuário sugeriu ferramentas muito simples e procuradas no Google (calculadoras, conversores, utilitários). A hipótese foi incluída no portfolio para comparação com oportunidades freelancer e serviços manuais.
+
+Métrica de oportunidade: demanda 25%, dificuldade orgânica 20%, qualidade da SERP 15%, valor econômico 15%, repetição/cluster 10%, facilidade de MVP/manutenção 10%, diferenciação/risco 5%. Notas 0–5 convertidas para 0–100; dados ausentes = ND. Não classificar sem volume/CPC e análise manual da SERP.
+
+Google Keyword Planner estima volume mensal, mas requer configuração de conta Ads com faturamento; Google Trends é relativo e não fornece volume absoluto; Ahrefs oferece ideias/KD com limitações (S296–S299). Google recomenda ferramentas úteis/originais e condena páginas em escala sem valor; AdSense exige conteúdo próprio e de qualidade (S301–S303).
+
+Triagem: dias úteis e calculadoras de tinta/piso já têm concorrentes detalhados; ferramentas genéricas enfrentam catálogos de centenas de utilitários; impressão 3D tem diversos concorrentes avançados. Cortina/tecido, papel de parede e duração do botijão são candidatos exploratórios, ainda sem volume validado. (S304–S314)
+
+Nenhuma ideia aprovada. Ferramenta SEO é ativo de médio/longo prazo, não receita provável até 06/12. PHASE_03.3 CONTINUE; PHASE_04 QUEUED/NOT_STARTED; R$0; sem deploy, cadastro, anúncio, contato, publicação ou gasto.
