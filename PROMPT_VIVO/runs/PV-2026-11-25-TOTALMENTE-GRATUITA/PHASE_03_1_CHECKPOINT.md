@@ -170,3 +170,11 @@ PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato ou ação ex
 - S115: Fera Comunicação publicou vaga recente de coordenação operacional de conteúdo, remota/PJ, mensal fixo sem valor divulgado, 26 candidaturas. Escopo envolve curadoria, calendário, cobrança de pendências, agendamento, grupos WhatsApp e Trello/Notion; exige disponibilidade sob demanda e Meet. Potencial fit de organização, mas é responsabilidade real com clientes.
 ### Gate
 CONTINUE. A evidência de remuneração em reais da CSL é promissora, mas o lote específico está datado no passado; Fera tem vaga recente mas remuneração/volume não são transparentes; Lionbridge/Babel precisam de confirmação de pagamento/volume. Meta R$150 até 6/12 não garantida. Nenhuma ação externa ou candidatura realizada. PHASE_04 permanece QUEUED/NOT_STARTED.
+
+
+## Rodada 9 — 25/11/2026: RWS, TELUS, Welo e Clickworker
+- S116 RWS Search Engine Evaluator: Brasil remoto, até US$6/h, 5–20h/semana e sem experiência obrigatória; exige inglês fluente, computador/celular, antivírus e teste. FAQ oficial confirma pagamento por tarefa via PayPal ou banco, mas ciclo e detalhes Brasil não publicados. Formulário diverge sobre carga máxima (20 vs. 40h).
+- S117 TELUS: vagas de assessor/ad rater por estimativa de US$5/h, pagamento por tarefa e volume variável; exigem fluência profissional em inglês e residência contínua no Brasil por 3 ou 5 anos, conforme a vaga.
+- S118 Clickworker: pagamentos semanais, mínimos PayPal €10 / Payoneer €20, mas métodos variam por país e registro Brasil pode estar fechado; confirmar no painel antes de executar trabalho.
+- S119 Welo Junior Quality Coordinator: 20h/semana, coordenação de qualidade, relatórios, suporte e reuniões; inglês forte, português fluente, teste e exclusividade; remuneração não divulgada.
+Gate CONTINUE. Nenhuma candidatura ou conta criada; nenhum pagamento recebido.
