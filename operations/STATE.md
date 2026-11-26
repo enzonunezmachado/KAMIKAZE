@@ -17,8 +17,10 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Não há nicho, produto ou modelo de negócio escolhido antecipadamente.
 - Investigar usos comerciais de IA, e-commerce/dropshipping, produtos digitais, serviços, pesquisa, automações, conteúdo e outros modelos.
 - Pesquisa de mercado/concorrência é hipótese prioritária em investigação, não escolha definitiva.
-- O usuário autorizou um controlador adaptativo: toda solicitação de continuidade exige auditoria de completude; não avançar mecanicamente. Consultar PHASE_CONTROL.md.
-- PHASE_03.1 está em andamento porque a Fase 03 deixou lacunas críticas. PHASE_04_FEASIBILITY permanece planejada, não executada.
+- O usuário autorizou um controlador adaptativo: toda solicitação de continuidade exige auditoria de completude; não avançar mecanicamente.
+- Comentários, correções e novas preferências do usuário podem alterar a pesquisa e a próxima ação; registrar em USER_INPUT_LOG.md.
+- Para novo chat, executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md antes de continuar.
+- PHASE_03.1 está em andamento porque a Fase 03 deixou lacunas críticas. PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED, não executada.
 - Investigar serviço pontual e sistema de monitoramento recorrente assistido por IA; não prometer pesquisa literalmente infinita nem construir antes de validar uso e pagamento.
 - Dropshipping e conteúdo gerado com IA continuam hipóteses a investigar criticamente.
 - Não priorizar leilões de propostas com muitos freelancers disputando um comprador. Planilhas rápidas ficam como comparador secundário, não como estratégia de volume sem comprador.
@@ -37,28 +39,29 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 ## Prompt Vivo
 - Arquitetura: [PROMPT_VIVO/README.md](../PROMPT_VIVO/README.md).
 - Master Prompt: [PROMPT_VIVO/MASTER_PROMPT.md](../PROMPT_VIVO/MASTER_PROMPT.md).
-- Fases adaptativas; PHASE_00–PHASE_05 são modelos, não limite fixo.
-- Execução ativa: [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_STATE.md).
+- Bootstrap: [PROMPT_VIVO/BOOTSTRAP.md](../PROMPT_VIVO/BOOTSTRAP.md).
+- Execução ativa: [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESUME_PACKET.md).
 
 ## Estado da execução
 - PHASE_00_SCOPE: PASS WITH GAPS.
 - PHASE_01_LANDSCAPE: PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
-- PHASE_03_VALIDATION: encerrada para transição por autorização do usuário, PASS WITH GAPS; nenhuma compra ou recorrência comprovada.
-- PHASE_03.1_PURCHASE_EVIDENCE: em andamento, gate CONTINUE; buscar compras concluídas comparáveis, canal sem leilão, comprador e recorrência.
-- PHASE_04_FEASIBILITY: planejada/aguardando; plano existe, mas testes operacionais ainda não foram executados.
+- PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; sem compra/recorrência comprovada.
+- PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS, gate CONTINUE.
+- PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; plano existe, mas teste operacional não foi executado.
 - Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
 - Matriz: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
-- Viabilidade: [PHASE_04_FEASIBILITY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_04_FEASIBILITY.md) e checkpoint correspondente.
+- Viabilidade: [PHASE_04_FEASIBILITY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_04_FEASIBILITY.md), apenas planejamento.
 - Política de cotas: RESOURCE_BUDGET_POLICY.md; quota permanece opaca.
 
 ## Próximos passos
-1. Desenhar fluxo de entrega e relatório mínimo.
-2. Auditar ferramentas/fontes gratuitas e fallback.
-3. Executar teste interno com dados públicos e medir tempo/qualidade.
-4. Estimar economia unitária, capacidade e taxas.
-5. Avaliar se recorrência justifica cobrança.
-6. Só então decidir se um piloto comercial merece ser proposto; abordagem externa exige aprovação humana.
+1. Continuar pesquisa de compra comprovada e canal sem leilão.
+2. Desenhar fluxo de entrega e relatório mínimo apenas quando validação justificar.
+3. Auditar ferramentas/fontes gratuitas e fallback.
+4. Executar teste interno com dados públicos e medir tempo/qualidade.
+5. Estimar economia unitária, capacidade e taxas.
+6. Avaliar se recorrência justifica cobrança.
+7. Só então decidir se um piloto comercial merece ser proposto; abordagem externa exige aprovação humana.
 
 ## Aprovações e segurança
 - Nenhuma oportunidade ou abordagem externa aprovada.
@@ -76,4 +79,5 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 | 25/11/2026 | Arquitetura adaptativa | Criar/alterar fases conforme evidência |
 | 25/11/2026 | PHASE_02 encerrada com PASS WITH GAPS | Usuário autorizou transição à validação |
 | 25/11/2026 | PHASE_03 encerrada com PASS WITH GAPS | Usuário autorizou transição; auditoria posterior identificou lacunas críticas |
-| 25/11/2026 | Criar controlador adaptativo e PHASE_03.1 | Usuário pediu auditoria de completude antes de cada transição e aprofundamento quando necessário |
+| 25/11/2026 | Criar controlador adaptativo e PHASE_03.1 | Auditoria de completude antes de cada transição |
+| 25/11/2026 | Criar bootstrap entre chats e pacote de retomada | Garantir reconstrução explícita de contexto e incorporação de feedback |
