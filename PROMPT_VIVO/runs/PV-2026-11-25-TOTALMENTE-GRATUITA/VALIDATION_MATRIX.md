@@ -263,3 +263,15 @@
 | Edição de vídeos curtos | S167–S168 e S173–S174 mostram pedidos recorrentes e fechados | Competição alta em Reels genérico; exige portfólio e habilidade audiovisual | Hipótese secundária; testar nicho gamer/específico |
 | Planilhas/cadastro genérico | S172 mostra anúncio com 696 propostas/913 interessados | Commodity com competição extrema e baixo diferencial | Não priorizar |
 | Automação WhatsApp com IA | S169 mostra compra explícita para loja de roupas | Complexidade de API, estoque, custos e concorrência crescente; escopo acima de iniciante | Não vender solução completa; investigar microentregas operacionais |
+
+
+## Atualização — PHASE_03.2 (Rodada 17)
+| Segmento | Sinal de problema/demanda | Compra observada | Aquisição acessível | Confiança exigida | Recorrência | Estado |
+|---|---|---|---|---|---|---|
+| B2C amplo | Forte uso e compras online (TIC 2024/25) | Compras online agregadas, não da nossa oferta | Não demonstrada; distribuição pode ser cara | Média/alta em sites e pagamentos | Depende do produto | PARCIAL |
+| Profissionais independentes | Pesquisa inicial insuficiente | Não validada nesta rodada | Não validada | Média, demonstrável por amostra | Potencial, não provada | NÃO RESPONDIDO |
+| MEI/micro/pequenos negócios | Dores em vendas, WhatsApp, preço, caixa e operação | Projetos reais de site/cardápio/manutenção; competição alta | Marketplace saturado; canal direto/confiança ainda em aberto | Média/alta | Manutenção contratada em projetos; renovação não comprovada | PARCIAL |
+| Empresas estruturadas | Demanda de serviços digitais/pesquisa em fontes anteriores | Compras adjacentes observadas, mas caminho de fornecedor novo incompleto | Não validada | Alta | Possível, não provada | NÃO RESPONDIDO |
+| Todos | O usuário pode aprender e executar se houver escopo e tempo | Nenhuma venda Kamikaze | Nenhum canal testado | Não inventar autoridade | Nenhuma receita recorrente | ABERTO |
+
+**Regra:** dados de adoção, pedidos abertos e anúncios não equivalem a venda; propostas/concorrência devem ser registradas com data e contexto; não inferir recorrência a partir de mensalidade solicitada sem renovação demonstrada.
