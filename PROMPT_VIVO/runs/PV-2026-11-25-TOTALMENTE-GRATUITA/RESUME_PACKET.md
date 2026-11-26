@@ -226,3 +226,14 @@ Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma sínt
 
 ## 18. Rodada 18 — compradores independentes e B2B
 S186–S196: briefs de assistência virtual e apoio operacional mostram problemas reais, porém marketplace com centenas de propostas. Agências podem ser intermediárias para trabalho de execução/organização com fee mensal, mas exigem comunicação, prazos, ferramentas e às vezes MEI/CNPJ. Serasa 2026 indica cautela das PMEs em ampliar equipes e pouca intenção declarada de usar freelancers; não confundir contratação de equipe com serviço avulso. Pesquisa exploratória sobre freelancers reforça portfólio, avaliações e comunicação como sinais de confiança. PHASE_03.2 continua CONTINUE; PHASE_04 não começou.
+
+
+
+## 19. Rodada 19 — economia do excesso de oferta (S197–S214; 26/11/2026)
+- Hipótese OPPORTUNITY_OVERSUPPLY_ECONOMY adicionada: excesso de candidatos/propostas pode gerar comprador tanto entre profissionais quanto entre contratantes.
+- Ferramentas brasileiras de match/alertas/propostas: Freelance Match R$39,99/mês; FreelaSync R$14,90–49,90/mês; concorrentes globais também existem. Não criar clone genérico sem lacuna comprovada.
+- Lado contratante: ATS anunciados de R$49/mês a R$790/licença e planos de volume; serviços de recrutamento por vaga R$598–747. Preços publicados, não vendas auditadas.
+- 99Freelas exibe 319–538+ propostas em tarefas de suporte/triagem; há projeto com vencedor identificado, sem preço final/pagamento revelado.
+- Recrutamento envolve experiência e dados pessoais; não sugerir recolha/triagem informal de currículos ou documentos sensíveis.
+- Priorizar pesquisa de nichos subatendidos, curadoria/organização não sensível e parceria com agências/recrutadores; validar disposição a pagar e canal fora de marketplace.
+- PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Nenhum produto/oferta aprovado; nenhum contato ou ação externa; receita R$0, despesas R$0.
