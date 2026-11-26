@@ -123,3 +123,9 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - S099: Lionbridge afirma que não cobra para participar e alerta para golpes.
 - S100: cadastro global Lionbridge exige 18 anos; idade atendida, sem garantia de alocação.
 **Estado:** PHASE_03.1 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou receita.
+
+
+## 15. Rodada 7 — plataformas de tarefas para IA
+- S101–S103: Prolific aceita Brasil e exige 18+, mas usa waitlist; saque mínimo £6/US$6 aprovados via PayPal; aprovação de estudos pode levar até 22 dias.
+- S104: Outlier paga semanalmente, mas exige qualificação específica; a vaga PT-BR encontrada era de coding expertise.
+- Não assumir receita imediata ou volume garantido. Gate CONTINUE; nenhuma conta/candidatura criada.
