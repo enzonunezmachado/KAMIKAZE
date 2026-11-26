@@ -46,3 +46,15 @@ PASS WITH GAPS: evidência limitada, mas suficiente para desenhar um teste peque
 CONTINUE: lacunas críticas ainda pesquisáveis.
 FAIL: demanda/compras insuficientes ou economics incompatíveis.
 BLOCKED: dados necessários não estão publicamente disponíveis ou dependem de autorização.
+
+
+
+## Rodada 5 — canais, barreira de entrada e elegibilidade (25/11/2026)
+**Fontes:** S076–S086; detalhes completos no SOURCE_LEDGER.md e FINDINGS.md.
+- Google B2B indica busca (65%) e networking (61%) entre MEIs, mas jornada média de compra de cerca de dois meses; não atende como garantia à meta imediata.
+- Survey exploratória de freelancers em SP aponta indicação (46,6%), plataformas (33,8%) e redes sociais (19,6%); amostra de 96 respostas, concentrada em Vila Mariana/Pinheiros. Portfólio e avaliações influenciam confiança.
+- Sebrae aponta operação digital concentrada em uma pessoa e rotinas de catálogo/indicadores; porém, serviços de cadastro de catálogo têm 132–181 propostas em exemplos recentes, mostrando competição extrema.
+- IA genérica em conteúdo já é comum; tarefas simples podem estar comoditizadas.
+- Elegibilidade aos 16 é bloqueio real: Workana/Upwork exigem 18; Fiverr só permite menor por conta de responsável com supervisão. Código Civil/MEI requerem cuidado com capacidade civil e emancipação. Não usar idade falsa, conta emprestada ou contorno.
+- O melhor caminho de confiança sem leilão é, em tese, indicação + demonstração pública transparente + escopo pequeno; ainda não existe prova de conversão para o serviço pesquisado.
+**Gate:** CONTINUE. Necessário investigar rota legal de recebimento, responsável adulto, parcerias supervisionadas e demonstração de competência. PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma ação externa.
