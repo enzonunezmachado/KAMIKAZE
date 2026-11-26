@@ -130,3 +130,10 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Pesquisa rodada 17: S175–S185; fontes oficiais de consumo digital/pequenos negócios e projetos reais de compra para sites/cardápios/manutenção/pesquisa.
 - PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED.
 - Nenhuma oferta aprovada, nenhum cliente contatado, nenhuma publicação/proposta/candidatura externa, receita R$0, despesas R$0.
+
+
+## Rodada 18 — PHASE_03.2 (S186–S196; 25/11/2026)
+- Profissionais independentes compram apoio operacional, mas marketplace genérico está saturado.
+- Agências são hipótese de comprador intermediário para pesquisa, organização e coordenação de produção; briefs pedem fee mensal, mas não há recompra comprovada.
+- PMEs cautelosas; aquisição B2B genérica não deve ser presumida.
+- Gate PHASE_03.2 permanece CONTINUE; PHASE_03.1 pausada para integração; PHASE_04 não iniciada.
