@@ -131,3 +131,8 @@ A pedido do usuário, foi aberta a subfase de investigação PHASE_03.3 dentro d
 
 ### Complemento de evidência — S224–S226
 Freelance Match anuncia R$39,99/mês, mas informa que pagamentos ainda não estão ativos; FreelaSync anuncia R$14,90/49,90 sem prova pública de conversão; uma freelancer relata pagamento real de R$54,90 ao 99Freelas para consultar a média das propostas concorrentes (S224–S226). O caso sugere que informação competitiva tem valor para alguns profissionais, mas não prova disposição de pagar por produto externo. Próxima investigação deve aprofundar dados de compra de inteligência competitiva, reviews e necessidades não resolvidas.
+
+
+## Atualização após Rodada 21 (26/11/2026)
+A crítica “só uma pessoa??” foi interpretada como correção de padrão de evidência: um único relato não sustenta inferência comercial. S227–S244 ampliaram a amostra para mais de dez relatos públicos de compra/renovação/uso de planos e recursos em 99Freelas, Workana e Upwork. Isso confirma qualitativamente compra da categoria, mas não compra/retention de SaaS independente. Há sinais mistos de reembolso, cancelamento e frustração. S243 é brief de curadoria humana pago anunciado, porém exige histórico estabelecido e não é fit imediato.
+**Decisão:** CONTINUE_PHASE na PHASE_03.3. Próxima ação é auditar falhas independentes de Scoutly/alternativas e mapear comunidades permitidas; PHASE_03.2 continua aberta, PHASE_03.1 pausada e PHASE_04 não iniciada.
