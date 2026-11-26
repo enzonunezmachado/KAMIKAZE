@@ -25,3 +25,6 @@
 
 - Novo critério humano (25/11/2026): responsável iniciante, sem experiência profissional prévia nas áreas pesquisadas. Toda oportunidade deve passar por avaliação de capacidade real, curva de aprendizagem, credibilidade exigida, reuniões/postura, riscos, requisitos legais e progressão de baixo risco. Não sugerir fingir experiência. Ver RESEARCH_PLAN.md e USER_INPUT_LOG.md.
 - Profundidade: usuário autorizou pesquisa mais demorada e aprofundada; usar varredura + aprofundamento + fontes primárias + triangulação + contraprovas + análise de comprador/canal/entrega/pagamento. Não otimizar só por velocidade nem inventar duração fixa.
+
+
+- Rodada 5 S076–S086: Google e survey local indicam busca/networking/indicação como canais gerais; Sebrae aponta sobrecarga operacional em e-commerce; tarefas de catálogo têm alta competição; Workana/Upwork exigem 18, Fiverr permite menor apenas sob conta de responsável; Código Civil/MEI exigem cuidado especial aos 16. Gate continua CONTINUE. PHASE_04 não começou. Ver checkpoint, findings e source ledger.
