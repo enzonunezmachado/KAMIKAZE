@@ -155,3 +155,9 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - TSMG QC Specialist: revisão de transcrições PT-BR, treinamento, experiência diferencial; remuneração por trabalho validado, taxa e ciclo desconhecidos.
 - YPAI: páginas oficiais de várias vagas remotas Brasil mostram “closed” apesar de resultados indexados “open”; não contar como vagas ativas.
 **Estado:** PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura/conta/contato.
+
+## 19. Rodada 11 — auditoria econômica Freya (S125–S126)
+- Oxford estima mínimo de 4h de trabalho humano por 1h de áudio claro; a US$6/h de áudio, Freya pode equivaler a ~US$1,50/h efetiva antes de custos.
+- Para atingir mínimo OneForma de US$25: ~4h10 de áudio aprovado, ou ~16h40 de trabalho no cenário 4:1.
+- Páginas OneForma divergem sobre PT-BR e experiência; Freya v2 diz PT-BR aberto/sem experiência, página de projeto diz exige experiência e lista cinco países; página local pt_BR abriu conteúdo incoerente.
+- Não tratar Freya como renda rápida validada; confirmar fluxo e produtividade. Gate CONTINUE.
