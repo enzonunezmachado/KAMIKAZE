@@ -302,7 +302,7 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 
 
 ## Rodada 33 — construção com IA e ferramentas gratuitas (26/11/2026)
-- Pesquisa consolidada em `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e fontes S436–S450 em `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`.
+- Pesquisa consolidada em `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e fontes S436–S450 em `SOURCE_LEDGER_SUPPLEMENT_S436_S453.md`.
 - Caso mais forte: Stockroom/AppJet, aplicação full-stack de inventário com código e demo públicos; fornecedor declara build/deploy no Free por $0. Ressalvas de independência, autenticação e persistência registradas.
 - MyClaw: 249 ferramentas e stack de custo mensal declarado $0, mas 0 pagantes no snapshot e Vercel Hobby não comercial. Somnia/Toolkiya são referências local-first/client-side, custo não comprovado. Outros casos são bootstrapped com custo desconhecido.
 - Aprendizado: IA + arquitetura adequada permite MVP funcional com R$0; termos de uso, limites, segurança, persistência e distribuição permanecem gates distintos.
