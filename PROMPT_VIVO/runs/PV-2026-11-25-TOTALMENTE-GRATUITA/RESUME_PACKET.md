@@ -16,7 +16,7 @@ A pesquisa começou ampla. A hipótese ativa da subfase é inteligência de opor
 
 **Pergunta de PHASE_03.1:** há compra real de serviços comparáveis, quem compra, quais canais permitem alcançar compradores sem leilões massivos, e existe recorrência efetivamente demonstrada?
 
-A subfase foi aberta porque a Fase 03 anterior deixou sem resposta compra específica, comprador, canal e recorrência. Não iniciar Fase 04 só porque existe documentação preparatória.
+A PHASE_03.3 está ativa como subfase de validação comunitária e de compra para inteligência de oportunidades de freelancers. A PHASE_03.1 foi pausada para integração e a PHASE_04 não inicia sem gate explícito.
 
 ## 3. Estado exato das fases
 - PHASE_00_SCOPE: concluída, PASS WITH GAPS.
@@ -257,3 +257,7 @@ S186–S196: briefs de assistência virtual e apoio operacional mostram problema
 - FreelaSync anuncia planos de R$14,90 e R$49,90, sem dados públicos de assinantes ou retenção (S225).
 - Uma freelancer relata ter pago R$54,90 pelo plano intermediário do 99Freelas para visualizar a média das propostas concorrentes, evidência individual de compra por inteligência competitiva, mas de um recurso nativo da plataforma (S226).
 - Isso reforça a hipótese de monetização por informação/decisão, não prova de demanda por SaaS externo.
+
+
+## Rodada 21 — estado vigente (26/11/2026)
+S227–S244 ampliaram a evidência: mais de dez relatos públicos de compra/renovação/uso de planos e recursos em 99Freelas, Workana e Upwork. Isso confirma compra qualitativa da categoria, mas não de SaaS independente multi-plataforma. Há reembolsos, cancelamentos e frustração; retenção e eficácia não estão provadas. Ver PHASE_03_3_CHECKPOINT.md.
