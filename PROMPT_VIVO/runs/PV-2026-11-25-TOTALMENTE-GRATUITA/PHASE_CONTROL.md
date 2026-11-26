@@ -116,3 +116,9 @@ Pesquisa macro: existe demanda digital, mas serviço genérico é concorrido. Ce
 **Novo critério transversal:** avaliar o caminho completo público → problema/gatilho → descoberta → confiança → compra → entrega → recompra/indicação. Separar demanda do problema, intenção de contratar, contratação concluída, recompra comprovada e canal acessível. Não converter estatística de uso em prova de compra de nosso serviço.
 
 **Ação:** executar PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS. PHASE_04 continua bloqueada até a síntese das duas subfases e um gate explícito.
+
+
+
+## Atualização — Rodada 19 / hipótese OPPORTUNITY_OVERSUPPLY_ECONOMY (26/11/2026)
+A pesquisa S197–S214 examinou o excesso de candidatos/propostas como mercado de dois lados. Há produtos brasileiros de alertas, match, propostas e pipeline por R$14,90–R$49,90/mês; portanto, um radar genérico tem concorrência direta. No lado contratante, ATS PME começa em torno de R$49/mês, soluções para agências chegam a R$790/licença e há serviço gerenciado por vaga anunciado a R$598–747. Projetos 99Freelas mostram 319–538+ propostas em tarefas administrativas/recrutamento; um projeto de triagem tem vencedor identificado, mas sem valor pago divulgado.
+**Decisão:** manter PHASE_03.2 IN_PROGRESS / CONTINUE. Não avançar PHASE_04. Não construir SaaS genérico nem oferecer triagem de RH com dados pessoais sem competência/controles. Próximo foco: descobrir recortes verticais subatendidos, validar canal por parcerias/referrals com agências, e investigar serviços de pesquisa/curadoria/organização que não envolvam dados sensíveis. Nenhum contato, cadastro, publicação ou proposta realizado.
