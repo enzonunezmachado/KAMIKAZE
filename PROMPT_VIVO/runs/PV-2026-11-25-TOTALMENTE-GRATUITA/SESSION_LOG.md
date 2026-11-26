@@ -50,7 +50,7 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Pedido:** continuar investigação sobre pessoas que construíram aplicações/produtos poderosos usando IA e ferramentas gratuitas.
 - **Executado:** pesquisa de relatos e artefatos públicos; estudo aprofundado do Stockroom (demo + código GitHub), MyClaw Tools, Somnia, Toolkiya, HookLayer, RenderArchi, AssetShark e HypeDesk; consulta de termos oficiais Gemini, Supabase, Cloudflare, Vercel e GitHub Copilot.
 - **Conclusão:** Stockroom/AppJet é o caso mais concreto de full-stack demonstrável com build/deploy declarados a $0. MyClaw mostra stack de custo mensal declarado $0, mas 0 pagantes no snapshot e incompatibilidade comercial com Vercel Hobby. Outros casos ajudam na arquitetura, mas custo não comprovado.
-- **Artefatos:** `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`; atualização da PHASE_03.5/FINDINGS/RUN_STATE/RESUME_PACKET/USER_INPUT_LOG.
+- **Artefatos:** `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; `SOURCE_LEDGER_SUPPLEMENT_S436_S453.md`; atualização da PHASE_03.5/FINDINGS/RUN_STATE/RESUME_PACKET/USER_INPUT_LOG.
 - **Não executado:** nenhum clone, instalação, execução, criação de app, deploy, conexão, publicação, contato, cadastro ou gasto.
 - **Persistência:** confirmar commits individuais.
 
