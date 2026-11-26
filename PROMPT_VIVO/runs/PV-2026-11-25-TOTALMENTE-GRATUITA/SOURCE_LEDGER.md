@@ -319,3 +319,5 @@
 - Preços anunciados e jobs com entrevistas não equivalem a receita. Um registro de 1 hire é sinal mais forte, mas ainda não confirma satisfação/resultado.
 
 | S294 | Mansão Dev — https://disboard.org/pt-br/servers/tag/programa%C3%A7%C3%A3o?fl=pt-BR&sort=-member_count | Diretório Discord | Lista cerca de 528 membros e canais de discussão, ajuda, divulgação e parcerias para programação/design. | Diretório de terceiros; regras e atividade interna não verificadas; audiência não é exclusivamente freelancer. |
+
+| S295 | Upwork Legal Center — https://www.upwork.com/legal | Termos oficiais/API | Os termos proíbem scraping sem permissão escrita, coleta de dados pessoais e uso do site/serviços para construir serviço similar ou concorrente; as regras de API também limitam escopo e usos. | Revisar versão vigente e termos aplicáveis antes de qualquer integração. Não inferir que API key autoriza qualquer produto ou coleta. |
