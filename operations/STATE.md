@@ -1,7 +1,7 @@
 # Estado operacional — Kamikaze
 
 **Última atualização:** 25/11/2026  
-**Fase:** PHASE_04_FEASIBILITY — viabilidade operacional e econômica  
+**Fase:** PHASE_03_1_PURCHASE_EVIDENCE — evidência de compra e canais sem leilão  
 **Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
 **Capital inicial:** R$ 0  
 **Receita recebida no Kamikaze:** R$ 0  
@@ -17,6 +17,8 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Não há nicho, produto ou modelo de negócio escolhido antecipadamente.
 - Investigar usos comerciais de IA, e-commerce/dropshipping, produtos digitais, serviços, pesquisa, automações, conteúdo e outros modelos.
 - Pesquisa de mercado/concorrência é hipótese prioritária em investigação, não escolha definitiva.
+- O usuário autorizou um controlador adaptativo: toda solicitação de continuidade exige auditoria de completude; não avançar mecanicamente. Consultar PHASE_CONTROL.md.
+- PHASE_03.1 está em andamento porque a Fase 03 deixou lacunas críticas. PHASE_04_FEASIBILITY permanece planejada, não executada.
 - Investigar serviço pontual e sistema de monitoramento recorrente assistido por IA; não prometer pesquisa literalmente infinita nem construir antes de validar uso e pagamento.
 - Dropshipping e conteúdo gerado com IA continuam hipóteses a investigar criticamente.
 - Não priorizar leilões de propostas com muitos freelancers disputando um comprador. Planilhas rápidas ficam como comparador secundário, não como estratégia de volume sem comprador.
@@ -43,7 +45,8 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - PHASE_01_LANDSCAPE: PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição por autorização do usuário, PASS WITH GAPS; nenhuma compra ou recorrência comprovada.
-- PHASE_04_FEASIBILITY: em andamento; escopo e critérios definidos, testes pendentes.
+- PHASE_03.1_PURCHASE_EVIDENCE: em andamento, gate CONTINUE; buscar compras concluídas comparáveis, canal sem leilão, comprador e recorrência.
+- PHASE_04_FEASIBILITY: planejada/aguardando; plano existe, mas testes operacionais ainda não foram executados.
 - Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
 - Matriz: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
 - Viabilidade: [PHASE_04_FEASIBILITY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_04_FEASIBILITY.md) e checkpoint correspondente.
@@ -72,4 +75,5 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 | 25/11/2026 | Pesquisa ampla de modelos digitais e IA | Evitar nicho prematuro |
 | 25/11/2026 | Arquitetura adaptativa | Criar/alterar fases conforme evidência |
 | 25/11/2026 | PHASE_02 encerrada com PASS WITH GAPS | Usuário autorizou transição à validação |
-| 25/11/2026 | PHASE_03 encerrada com PASS WITH GAPS | Usuário autorizou transição à viabilidade |
+| 25/11/2026 | PHASE_03 encerrada com PASS WITH GAPS | Usuário autorizou transição; auditoria posterior identificou lacunas críticas |
+| 25/11/2026 | Criar controlador adaptativo e PHASE_03.1 | Usuário pediu auditoria de completude antes de cada transição e aprofundamento quando necessário |
