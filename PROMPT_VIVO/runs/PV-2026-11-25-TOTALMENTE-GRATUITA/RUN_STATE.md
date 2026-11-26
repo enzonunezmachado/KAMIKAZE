@@ -93,3 +93,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - sōtem: sem tarefas pagas abertas e PayPal desabilitado; não operacional.
 - Estudo uTest/User Interviews de US$75 retornou 410 Gone; excluir.
 - Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma conta, candidatura, screening, formulário, gravação, consentimento ou envio de documentos foi realizado. Receita R$0; despesas R$0.
+
+
+
+## Rodada 14 — 25/11/2026 (S139–S143)
+- Correção: UserTesting Brasil é elegível geograficamente, mas inscrição/practice test exige fluência em inglês, francês ou alemão; inglês intermediário do usuário torna o fit não demonstrado. Rebaixada para baixa prioridade.
+- uTest Project Greenbox: US$35/5 casos PT-BR, 1–2h estimadas, mas início 30/10 já passou e atividade atual não confirmada.
+- uTest ID verification: Brasil, página indica ativo desde 24/11, tarefa ~40min, mas exige escanear documento oficial retido até 12 meses; pagamento não divulgado. Não recomendar sem conhecer termos e proteção.
+- uTest paga duas vezes ao mês por PayPal, Payoneer ou Wise/banco conforme país; não garante número mínimo de projetos.
+- Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma candidatura, cadastro, screening, documento, dado bancário ou consentimento enviado. Receita R$0, despesas R$0.
