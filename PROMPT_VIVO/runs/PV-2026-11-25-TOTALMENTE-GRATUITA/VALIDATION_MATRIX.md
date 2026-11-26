@@ -118,3 +118,33 @@
 | Remuneração | US$10/h anunciado | Sem garantia de horas; câmbio, impostos e método de pagamento desconhecidos | Não validada |
 | Canal | Candidatura oficial Lionbridge | Sem candidatura feita; evitar páginas falsas e taxas | Parcial |
 | Segurança | Empresa declara canais oficiais e nunca solicita dinheiro (S099) | Confirmar contrato e dados no fluxo oficial | Parcial |
+
+
+## Hipótese E — Coleta de dados humanos para IA (participante)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Demanda/projeto | CSL anuncia R$200 por participante em projeto de conversa natural em dupla | Prioridade da rodada inicial era 7–8/11, já passado; novos lotes não confirmados | Sinal concreto, janela atual incerta |
+| Execução | 400 min por dupla, smartphone, português nativo, internet e aprovação | 6h40 de gravação por dupla; disponibilidade do parceiro; qualidade e retrabalho | Executável se lote novo e termos claros |
+| Remuneração | R$200 por pessoa após aprovação final | Prazo de pagamento não informado na página pública | Valor anunciado, não recebido |
+| Elegibilidade | 18+ e residente/falante PT-BR | Verificar critérios completos do lote | Parcial |
+| Privacidade | Empresa diz informar finalidade, uso e termos antes de coleta de voz/imagem/biometria | Necessário ler autorização/licença e retenção antes de gravar | Mitigável, pendente |
+| Canal | Formulário de projeto e cadastro geral gratuitos | Registro não garante seleção nem frequência | Parcial |
+| Prazo | Projeto remoto, lotes específicos | Próximo lote e prazo de pagamento desconhecidos | Não validado |
+
+## Hipótese F — Coordenação operacional de conteúdo para agência (Fera)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Demanda | Vaga recente, 26 candidaturas, mensal fixo, sem exclusividade (S115) | Um único anúncio; valor não divulgado | Sinal recente |
+| Escopo | Curadoria, calendário, follow-up, agendamento, Trello/Notion, grupos WhatsApp | Responsabilidade por andamento de várias contas e disponibilidade sob demanda | Delimitável, mas exige maturidade operacional |
+| Fit | Organização, processo, acompanhamento e comunicação | Exige escrita, tato, prazos, autonomia e gestão de expectativa | Potencial |
+| Remuneração | Mensal fixo anunciado | Valor, horas, clientes e limites de disponibilidade ausentes | Não validada |
+| Canal | LinkedIn, candidatura à anunciante | Não enviar sem aprovação humana | Disponível no anúncio |
+| Risco | Aprovação e estratégia ficam com a agência | Agendamento/publicação e comunicação em contas de clientes geram risco reputacional | Requer treinamento, permissões e checklist |
+
+## Hipótese G — Microtarefas de IA por áudio
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Lionbridge | US$10/h PT-BR em página oficial | Sem volume, tempo de tarefa ou calendário de pagamento | Parcial |
+| Babel Conversation | Página diz pagamento semanal e conversas de 15 min | Taxa de US/Canada não se aplica automaticamente; elegibilidade Brasil não confirmada | Não validada |
+| OpenTrain | Anúncios de tarefas em português com taxas altas | Pagamento a freelancers no Brasil indisponível | Bloqueada |
+| YPAI | Páginas de R$30–50/h | Páginas oficiais mostram vaga fechada | Bloqueada |
