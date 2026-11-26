@@ -1,0 +1,7 @@
+# Generated documentation site
+portfolio_site/site/
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
