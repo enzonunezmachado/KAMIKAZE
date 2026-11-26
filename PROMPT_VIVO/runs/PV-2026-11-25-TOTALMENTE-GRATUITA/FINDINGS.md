@@ -244,3 +244,36 @@ A Hipótese L deve ser mantida apenas como alternativa condicional, não priorid
 
 ### Implicação estratégica
 A busca de tarefas de coleta de dados pagos revela uma alternativa com sinal de pagamento mais direto do que microtarefas de texto, mas troca remuneração por cessão de material audiovisual pessoal/ambiental. Para prazo curto, a Hub Data tem melhor evidência de payout Pix e potencial taxa nominal, mas a adequação pessoal e a privacidade ainda são gates. O foco principal da PHASE_03.1 continua sendo provar canais/compras para o negócio de inteligência comercial; a trilha de tarefas pagas é uma linha auxiliar para a meta imediata, não uma escolha de negócio Kamikaze.
+
+
+## 22. Rodada 16 — relatório de situação, conteúdo de manhua e demanda digital (25/11/2026)
+
+### Decisão do usuário: Hub Data excluída
+O usuário rejeitou expressamente a Hub Data por não querer gravar atividades domésticas e transformar sua rotina em dados para treinamento de IA. A oportunidade está **REJEITADA PELO USUÁRIO**, não pendente de convencimento. Não voltar a recomendá-la nem pedir modelo de celular. A preferência é trabalho online e criação de conteúdo voluntária, sem vigilância/registro da vida doméstica.
+
+### Hipótese: vídeos de leitura de manhua
+- Leitura literal/narração de capítulos longos de obras de terceiros é uma hipótese fraca para monetização. O YouTube identifica leituras exclusivas de materiais que o criador não produziu como conteúdo que não monetiza pela política de reused content; alterações mínimas não bastam, e essa análise é separada de copyright (S154).
+- A Lei 9.610/98 protege textos e desenhos; arts. 28–29 reservam ao titular os direitos de uso e reprodução, incluindo reprodução, adaptação, tradução e inclusão em audiovisual, sujeitas a autorização prévia e expressa, ressalvadas exceções legais (S156).
+- Voz própria ou voz de IA não resolve os direitos sobre páginas, desenhos, tradução e narrativa. A voz própria pode agregar identidade, mas não elimina o risco de monetização/reivindicação/remoção.
+- Monetização de anúncios exige 1.000 inscritos + 4.000 horas públicas qualificadas em 12 meses ou 10 milhões de Shorts qualificados em 90 dias; a entrada expandida com 500 inscritos desbloqueia recursos limitados, não anúncios completos (S155).
+- O formato pode ser reconsiderado se mudar substancialmente: crítica/análise/recomendação com roteiro original, discussão de temas/personagens, notícias do setor, entrevistas/licença/autorização, ou obras autorizadas/domínio público. Não mostrar capítulos inteiros; ainda assim revisar uso de imagens e direitos caso a caso.
+- Veredito: **não priorizar leitura de manhua como negócio inicial**. Não é por duração ou inglês apenas; o maior bloqueio é copyright/reused content + caminho de monetização lento. Um canal em PT-BR não precisa de inglês fluente se a audiência-alvo for brasileira.
+
+### O mercado online: não está sem oportunidades, mas ofertas genéricas estão saturadas
+- Cetic.br TIC Empresas 2025: 53% das empresas de 10–49 funcionários têm site e 43% não; entre empresas que venderam online, 81% das pequenas usaram mensagens como canal (S157–S158). Isso não significa que todo negócio sem site seja comprador.
+- Sebrae 2026: 19,5 milhões de pequenos negócios; mais de 80% usam WhatsApp para atendimento; CRM aparece em apenas 6% dos micronegócios de serviço; 42–46% já usam IA, mas só 15–18% frequentemente, e as dores citadas são precificação, caixa e vendas (S159). O sinal mais interessante pode ser resolver operação/decisão em canais existentes, não vender apenas “um site com IA”.
+- Upwork relata crescimento de AI Apps & Integration (+34% MoM), QA testing (+20%) e data entry/transcription (+19%) entre SMBs no recorte de junho de 2026 (S160). Fiverr relata aumento de buscas por Excel data cleaning (+210%), PDF-to-Excel (+153%), n8n AI automation (+125%) e edição de vídeo, mas são variações relativas de busca em marketplace global, não faturamento ou garantia de clientes (S162).
+- Sinais reais de competição: no 99Freelas, um pedido simples de landing page para advogado apareceu com 71 propostas em poucas horas; outro acumulou 471 propostas/513 interessados (S163–S164). Um relato recente no Reddit descreve iniciante com três demos e zero clientes, com DMs ignoradas e mais de 100 propostas em job simples (S165). Isso é evidência de fricção na aquisição, não prova de que todo serviço está saturado.
+- Projetos complexos de CRM/IA/WhatsApp atraem dezenas de propostas, mas pedem experiência especialista (S166). Crescimento de demanda por IA não significa oportunidade acessível para iniciante.
+
+### Conclusão provisória sobre competitividade
+Não é necessário ser outlier ou ter sorte para vender online, mas é improvável ganhar oferecendo um serviço genérico e facilmente replicável, disputando preço em marketplace lotado. A competição é alta em “site barato”, “logo”, “post com IA”, “vídeo automático” e serviços sem nicho/prova. O espaço potencial está em entregar um resultado operacional específico, para um tipo de cliente específico, com processo confiável, comunicação clara e distribuição direcionada. Ainda falta validar comprador real e primeiro canal de aquisição para qualquer uma dessas hipóteses.
+
+### Hipóteses para aprofundar
+1. Serviços de organização operacional para negócios que vendem pelo WhatsApp: catálogo/preços, planilha de pedidos, follow-up e painel simples, sem integração API complexa.
+2. Pesquisa comercial B2B: lista qualificada de potenciais clientes, mapeamento de concorrentes/preços e inteligência de nicho com fontes rastreáveis.
+3. Transformação de dados/arquivos: PDF→Excel, limpeza/normalização de planilhas, catalogação de produtos e atualização de dados, desde que escopo e qualidade sejam controláveis.
+4. Conteúdo curto original como serviço para empresas/criadores, com edição e roteiro humanos assistidos por IA, em vez de canal próprio dependente de monetização.
+5. QA funcional/manual de sites e fluxos, com relatório reproduzível e escopo limitado; desenvolver competência antes de vender.
+6. Produtos digitais utilitários somente depois de identificar uma dor e canal de distribuição, não produzir templates aleatórios.
+
