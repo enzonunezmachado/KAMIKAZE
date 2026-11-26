@@ -53,3 +53,11 @@
 - Lionbridge survey de US$10 exige smartphone não Android, incompatível (S114). Vaga de áudio PT-BR a US$10/h permanece com volume e pagamento não divulgados.
 - Fera Comunicação tem vaga recente de coordenação de conteúdo, sem horário fixo, PJ e valor mensal fixo não divulgado; exige disponibilidade sob demanda e contato com clientes (S115).
 - Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma candidatura, contato, formulário ou receita.
+
+
+## Rodada 9 — 25/11/2026 (S116–S119)
+- RWS Search Engine Evaluator: até US$6/h, Brasil remoto, 5–20h/semana, sem experiência obrigatória, mas exige inglês fluente, teste e equipamentos; pagamento por tarefa via PayPal/banco, ciclo não confirmado.
+- TELUS: assessor/ad rater cerca de US$5/h estimados, pagamento por tarefa aprovada; inglês profissional e residência contínua no Brasil por 3–5 anos conforme vaga.
+- Welo Junior Quality Coordinator: 20h/semana, coordenação de QA, relatórios, suporte e reuniões; inglês forte, exclusividade, teste e remuneração não divulgada.
+- Clickworker: pagamento semanal com mínimos, mas registro/método de pagamento variam por país; Brasil não confirmado.
+- Gate CONTINUE. Não assumir elegibilidade por inglês ou residência sem confirmar; nenhuma candidatura/conta criada.
