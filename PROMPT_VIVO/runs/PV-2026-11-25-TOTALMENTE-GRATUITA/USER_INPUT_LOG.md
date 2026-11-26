@@ -17,3 +17,5 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 \n| 2026-11-25 | Corrigiu a idade: tem 18 anos, não 16. Também esclareceu que tem capacidade/disposição para aprender e desempenhar o que for necessário; não quer que ausência de experiência profissional seja interpretada como incapacidade. | Corrigir documentação; invalidar restrições pessoais baseadas em menoridade; reavaliar plataformas que exigem 18 anos. Avaliar capacidade por tarefa e demonstração prática, sem descartar automaticamente por falta de histórico. | APLICADO |\n
 
 | 2026-11-25 | Autorizou continuar a pesquisa após corrigir idade e capacidade. | Executar nova rodada de pesquisa em trabalho de bastidores, oportunidades de entrada e pagamento; registrar S087–S100 e manter controlador adaptativo. | APLICADO |
+
+| 2026-11-25 | Pediu continuidade da execução (“Pode continuar”). | O controlador manteve PHASE_03.1 e abriu investigação adicional de oportunidades de tarefas remotas e validação de pagamento/privacidade; rodadas 8–12, fontes S105–S129. | APLICADO |
