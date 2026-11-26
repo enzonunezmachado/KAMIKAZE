@@ -58,3 +58,26 @@ Ajustes locais na execução são permitidos dentro do escopo aprovado; mudança
 
 ### Teste
 Aplicar imediatamente na execução PV-2026-11-25-TOTALMENTE-GRATUITA ao iniciar PHASE_02_DEMAND.
+
+
+## 2026-11-26 — Sistema de continuidade e histórico entre chats
+
+### Motivo
+O usuário pediu um mecanismo permanente para documentar atualizações do Kamikaze e recuperar contexto quando o limite de uma conversa acabar, permitindo abrir outro chat e continuar a pesquisa sem recontar o histórico.
+
+### Diagnóstico
+Já existiam BOOTSTRAP, RESUME_PACKET, RUN_STATE e MEMORY_HANDOFF, inspirados no mecanismo do NEXUS. Porém, faltava um log cronológico padronizado de sessões, um prompt de retomada pronto para copiar e um protocolo explícito de sincronização e confirmação de escrita. Também foram encontrados trechos com referências malformadas no BOOTSTRAP.
+
+### Alterações
+- Criado `CONTINUITY_SYSTEM.md` com camadas de estado, memória, histórico e retomada; protocolo de checkpoint; reconciliação de divergências; checklist de integridade.
+- Criado `NEXT_CHAT_PROMPT.md` para copiar e colar em novo chat.
+- Criados logs append-only global e por execução: `SESSION_LOG.md`.
+- Reescrito `BOOTSTRAP.md` para corrigir referências, carregar o sistema, auditar estado e continuar.
+- Atualizados MASTER_PROMPT, EXECUTION_PROTOCOL, MEMORY_AND_HANDOFF e README.
+- Sincronizados operations/STATE e arquivos da execução ativa; registrada a entrada do usuário.
+
+### Limites
+O mecanismo não trabalha em segundo plano nem salva após a conversa terminar. Checkpoints devem ser feitos enquanto a sessão está ativa e dependem de acesso confirmado ao GitHub. O novo chat precisa ter acesso ao repositório.
+
+### Verificação
+Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A retomada futura deve testar o texto de NEXT_CHAT_PROMPT e verificar que não repete pesquisas concluídas.
