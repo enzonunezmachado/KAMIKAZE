@@ -182,3 +182,11 @@ Estudo aprofundado do Affitor/affiliate-skills v1.2.1 registrado em `PROMPT_VIVO
 **Decisão:** instituir checkpoint obrigatório e logs append-only global e por execução, além de prompt pronto para novo chat. O protocolo está em `PROMPT_VIVO/CONTINUITY_SYSTEM.md`; a retomada deve executar BOOTSTRAP, ler RESUME_PACKET e logs, reconciliar divergências e continuar a pesquisa.
 
 A continuidade não autoriza avançar fase automaticamente. Estado de referência neste checkpoint: PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Próxima ação de pesquisa sugerida: PHASE_03.5, inspeção e adaptação de skills do Affitor + evidência de afiliados e aquisição. O controlador deve auditar a completude antes de executar.
+
+
+
+## Linha operacional documentada — Motor de Diagnóstico e Soluções Empresariais (26/11/2026)
+- Estrutura documental criada em `operations/COMPANY_SOLUTIONS/`.
+- Lotes com 20 empresas únicas; registro mestre/deduplicação; ranking Conversion Fit + Business Value Fit; dossiês; log de contato e supressão; projetos; contratos recorrentes; financeiro.
+- Esta estrutura não altera o estado das fases de pesquisa nem inicia PHASE_04. PHASE_03.5 permanece IN_PROGRESS/CONTINUE; PHASE_04 permanece QUEUED/NOT_STARTED.
+- Módulo operacional DOCUMENTADO / NÃO ATIVADO. Para ativar lote piloto, aguardar autorização explícita do usuário.
