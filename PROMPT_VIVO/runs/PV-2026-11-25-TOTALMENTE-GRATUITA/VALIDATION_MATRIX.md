@@ -248,3 +248,13 @@
 | Pagamento | Duas vezes/mês por PayPal, Payoneer ou Wise/banco se disponível | Método brasileiro depende da conta | Parcial |
 | Volume | Termos não garantem número mínimo de ciclos | Pode não gerar nenhuma receita | Incerto |
 | Veredito | Vale acompanhar projetos de PT-BR com pagamento claro | Nenhum projeto atual encontrado com taxa + privacidade + prazo suficientes | Monitorar, não contar como renda |
+
+
+## Linha auxiliar — tarefas pagas de coleta de dados (Rodada 15)
+| Opção | Evidência | Contraprova/risco | Estado |
+|---|---|---|---|
+| Hub Data | Taxa oficial indicativa US$5/h em casa e US$6/h no trabalho por hora aprovada; Pix; 18+ nas Américas; kit gratuito (S147) | Direitos/licenciamento de vídeos, termos integrais não lidos, compatibilidade e volume local não confirmados; hora gravada não é hora aprovada (S148–S150) | Candidata condicional; não aderir ainda |
+| CrowdSource Labs | R$200 por participante após aprovação (S145) | Prioridade inicial 07–08/11 vencida; novo lote não confirmado | Aguardar novo lote |
+| YPAI | Anúncio nominal de R$30–50/h | Página declara posição encerrada (S144) | Excluída |
+| OneForma PT-BR→chinês | Projeto aberto, pagamento por hora | Elegibilidade somente China e certificação/experiência contextual (S146) | Excluída para Brasil |
+| OpenTrain | Catálogo de vagas PT-BR | Pagamentos para freelancers no Brasil indisponíveis (S151) | Excluída |
