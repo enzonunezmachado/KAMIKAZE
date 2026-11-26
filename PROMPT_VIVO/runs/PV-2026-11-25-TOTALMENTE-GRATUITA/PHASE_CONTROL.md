@@ -149,3 +149,7 @@ A crítica “só uma pessoa??” foi interpretada como correção de padrão de
 
 ## Decisão de controle — Rodada 24 (26/11/2026)
 **Gate:** CONTINUE na PHASE_03.3. A segmentação identificou VA/admin com demanda e alta concorrência, edição curta com sinais de recorrência e concorrência variável, design com barreira de portfólio e tradução incompatível com fit imediato. Workana Profile Readiness segue sem compra independente comprovada. Próximo: evidência de pagamentos/contratos e canais alternativos permitidos, priorizando microentregas admin e edição curta. PHASE_04 continua QUEUED/NOT_STARTED. Nenhuma ação externa ou gasto.
+
+
+### Complemento de controle — comunidades (Rodada 24)
+Mapeadas nove comunidades/canais (S327–S335). Nenhuma aprovada para divulgação: diretórios não substituem regras internas, e membros/online não comprovam audiência compradora. Próximo passo de validação é auditoria transparente das regras e canais permitidos, sem contato/publicação até autorização.
