@@ -246,3 +246,7 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 78. O usuário possui algum slot livre de AI Studio Starter Tier, ou NEXUS ocupa a capacidade? Não presumir; confirmar antes de deploy.
 79. Quais ideias são mais rápidas para gerar receita inicial via serviço manual/one-off do que via assinatura SaaS?
 80. Qual o impacto das ferramentas/quotas do Kamikaze no trabalho ativo do NEXUS? Evitar competição por contexto, quota e tempo.
+
+81. Os briefs de otimização de perfil (S286–S293) se converteram em contratos pagos e quais valores/avaliações ficaram públicos? Qual proporção dos jobs foi cancelada/fechada sem contratação?
+82. A dor específica de moderação Workana é resolvida por uma revisão de perfil ou depende de oferta/demanda e critérios internos que não controlamos? Qual valor o cliente atribui ao mapa de evidências e à organização do portfólio?
+83. O usuário conseguiria entregar auditoria de perfil com qualidade demonstrável após treinamento, sem alegar experiência profissional inexistente e sem usar dados confidenciais de clientes?
