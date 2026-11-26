@@ -80,3 +80,6 @@
 - A plataforma diz que pode detectar/ocultar dados pessoais após upload, mas não esclarece suficientemente uso/retention/mascaramento específico. Classificada BLOQUEADA POR PRIVACIDADE; não enviar emails ou dados.
 - DataForce Mosaic não aceita PT-BR na lista de idiomas; TELUS Internet Safety Evaluator está fechado.
 - Gate CONTINUE; nenhuma candidatura, email, dado ou formulário enviado.
+
+## Complemento — pagamento OneForma (S130)
+Homepage declara ausência de mínimo de saque, Help Center indica US$25. Divergência oficial; mínimo/ciclo específico NÃO CONFIRMADOS. Não usar valor de US$25 como certeza para previsão de receita.
