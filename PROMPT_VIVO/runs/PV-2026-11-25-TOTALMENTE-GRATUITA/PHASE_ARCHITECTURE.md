@@ -42,3 +42,15 @@ A arquitetura é dinâmica. PHASE_00–PHASE_05 são referências iniciais, não
 
 ## Regra de atualização
 Toda mudança futura deve acrescentar linha ao histórico e atualizar RESEARCH_PLAN.md, RUN_STATE.md e MEMORY_HANDOFF.md. Não apagar fases ou registros anteriores.
+
+
+### v5.0 — 2026-11-25 — Controlador adaptativo e subfase 03.1
+**ID:** PA-005  
+**Motivo:** o usuário pediu que cada solicitação de continuidade seja precedida por avaliação de completude, permitindo aprofundar a fase anterior ou criar subfases em vez de avançar mecanicamente.
+**Mudança:** criado PHASE_CONTROL.md. A frase "próxima fase" passa a significar continuar o trabalho; a IA deve auditar o gate e escolher CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK. A autorização do usuário não altera a classificação factual das evidências.
+**Auditoria:** PHASE_03_VALIDATION não tinha prova suficiente de compra específica, comprador, canal e recorrência. PHASE_04_FEASIBILITY tinha apenas plano e critérios, sem teste de entrega ou economia medidos.
+**Fases afetadas:** PHASE_03_1_PURCHASE_EVIDENCE aberta; PHASE_04_FEASIBILITY movida para QUEUED/NOT_STARTED (plano preservado).
+**Evidências iniciais:** S056–S061; um projeto adjacente concluído, sem prova de compra específica de relatório de concorrentes nem de recorrência.
+**Entregáveis:** PHASE_CONTROL.md, PHASE_03_1_PURCHASE_EVIDENCE.md, PHASE_03_1_CHECKPOINT.md; atualização da matriz, fontes, achados, plano, estado e handoff.
+**Cotas:** pesquisa web pontual; quota do produto permanece opaca; respeitar reserva e evitar buscas redundantes.
+**Gate:** CONTINUE; buscar mais contratações concluídas comparáveis e canais sem leilão.
