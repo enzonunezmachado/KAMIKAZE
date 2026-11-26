@@ -227,3 +227,24 @@
 | Processo | Formulário oficial ativo, pede CV, experiência, consentimento e disponibilidade | Não revela taxa ou seleção | Parcial |
 | Pagamento | Por trabalho validado, não hora real | Unidade, preço, tempo, volume, método e ciclo desconhecidos | Modelo confirmado, economics não |
 | Veredito | Pode servir para QA se remuneração efetiva for razoável | Não aceitar sem conhecer pagamento por unidade e retrabalho | Secundária |
+
+
+
+## Correção da Hipótese L — UserTesting
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Elegibilidade geográfica | Brasil consta nos países suportados | Pools menores | Confirmada |
+| Idioma | Practice test exige fluência em inglês, francês ou alemão | Usuário informa inglês intermediário | Barreira relevante; fit não demonstrado |
+| Remuneração | Valor exibido antes de cada teste | Convites variáveis, sem volume garantido | Variável |
+| Pagamento | PayPal verificado; normalmente 14 dias | Não atende urgência; depende de aprovação e convites | Parcial |
+| Veredito | Plataforma legítima e Brasil elegível | Não priorizar sem atender idioma de entrada | Baixa prioridade |
+
+## Hipótese O — uTest (plataforma e projetos PT-BR)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Acesso | Projetos Brasil e PT-BR publicados; cadastro global | Convites e seleção sem garantia | Possível |
+| Projeto Greenbox | US$35 por 5 casos, 1–2h estimadas | Início 30/10/2026, sem confirmação de atividade atual | Histórico / não confirmado |
+| Projeto ID verification | Brasil, status Active, 40 min | Documento oficial retido até 12 meses; pagamento não divulgado | Sensível / não recomendado sem termos |
+| Pagamento | Duas vezes/mês por PayPal, Payoneer ou Wise/banco se disponível | Método brasileiro depende da conta | Parcial |
+| Volume | Termos não garantem número mínimo de ciclos | Pode não gerar nenhuma receita | Incerto |
+| Veredito | Vale acompanhar projetos de PT-BR com pagamento claro | Nenhum projeto atual encontrado com taxa + privacidade + prazo suficientes | Monitorar, não contar como renda |
