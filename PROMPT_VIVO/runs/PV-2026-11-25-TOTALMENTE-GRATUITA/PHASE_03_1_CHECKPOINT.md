@@ -199,3 +199,6 @@ Gate CONTINUE. OneForma permanece hipótese, não recomendação final nem candi
 - S129: TELUS Internet Safety Evaluator aparece fechado na página oficial, apesar de snippets “open”; excluir como vaga ativa.
 - Hipótese OneForma Email pode ser mais rápida que Freya, mas depende de emails elegíveis, taxa por email e privacidade; não enviar nada ainda.
 Gate CONTINUE. Nenhum email, candidatura ou dado pessoal enviado.
+
+## Complemento — OneForma pagamento (S130)
+Homepage OneForma afirma ausência de mínimo de saque, enquanto Help Center indica mínimo US$25. Há divergência oficial; tratar mínimo e ciclo como NÃO CONFIRMADOS para o projeto específico até validação na conta/termos da oferta. Não prometer data de pagamento.
