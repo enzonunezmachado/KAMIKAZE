@@ -224,3 +224,13 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Hipótese provisória mais rápida: vender microentrega digital fechada diretamente; não validada ainda. Afiliados e SEO são de médio prazo; pesquisas/testes são complementares e incertos.
 - Excluída Hub Data do foco totalmente digital por exigir gravação de tarefas físicas. Não usar UserTesting como rota imediata devido ao requisito de fluência e payout usual de 14 dias.
 - PHASE_03.4 IN_PROGRESS / CONTINUE; PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Receita R$0; despesas R$0; sem ações externas.
+
+
+## Rodada 26 — 26/11/2026: canais pequenos e relatos de primeira venda
+- S361–S379 aprofundam relatos de Reddit, marketing digital brasileiro e YouTube pequeno.
+- Casos mais descritivos: 8 clientes/US$3.670 alegados via Discord/X/LinkedIn/Instagram/Skool com portfólio e ajuda contextual (S361); primeiro site por R$497 + R$90/mês após 200 e-mails declarados (S362); e-commerce com primeira venda orgânica e parceria de influenciadora, mas falência operacional posterior (S363); primeira venda orgânica em subnicho (S364); 7.400 views e 23 seguidores sem venda ainda (S365); primeiro cliente por indicação (S371); microserviço descoberto via post contextual no Reddit (S376); ebook vendido após posts em comunidades relevantes, não Pinterest (S374).
+- Canal pequeno O Gabriel Digital (289 inscritos) descreve semanas de propostas e primeira venda após portfólio/proposta personalizada (S373). Corte de filmmaker com 74 views reforça entrada por indicação/coexecução, mas valor do contrato não verificado (S372).
+- Prospecção genérica tem sinais ruins: 98% sem resposta em um caso; 200 mensagens quase fecharam 2 clientes mas geraram ban por spam em outro. Não fazer disparos nem spam (S367–S369).
+- Síntese: distribuição, confiança e intenção são gargalos; views não são vendas; produto simples sem canal não vende; ajuda pública e contextual pode gerar lembrança/DM inbound, mas depende das regras da comunidade.
+- Afiliados não provados como caixa rápido sem audiência; e-commerce/dropshipping excluído por capital, caixa, logística e risco.
+- PHASE_03.4 continua IN_PROGRESS / CONTINUE; PHASE_03.3 também; PHASE_04 não iniciada. Sem cadastro, candidatura, contato, post, venda, gasto ou deploy.
