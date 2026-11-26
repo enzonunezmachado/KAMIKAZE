@@ -392,3 +392,29 @@ A oportunidade não é “freelancer paga para ver mais vagas” em abstrato. A 
 - Retenção/renovação com satisfação: **fraca/mista**.
 - Demanda por curadoria humana de alto valor: **sinal presente**, mas exemplo de Upwork exige experiência consolidada e não é fit imediato.
 - PHASE_03.3 continua CONTINUE; não construir SaaS ainda.
+
+
+## Rodada 22 — competição, micro-nichos e viabilidade (26/11/2026)
+
+### A camada genérica está comoditizada
+Scoutly Pro já anuncia monitoramento multi-plataforma, score, concorrência, histórico de cliente e propostas por IA. Workaholic oferece open-source, local-first, multi-source, filtro por skills, score, notificações, CRM Kanban, follow-up e otimização de currículo. Upwork já possui proposal insights, hire rate e Stats & Trends. Não há lacuna defensável em “mais alertas + IA + score” sem prova de falha concreta. (S245–S254)
+
+### O mercado adjacente também tem muitos substitutos
+Brief analyzers, scope creep detectors, calculators, proposal generators, revision trackers, handoff tools e profitability calculators existem gratuitamente ou com planos baratos. Uma versão genérica de análise de brief ou calculadora não justifica construção. (S255–S261)
+
+### Nova oportunidade específica: Workana Profile Readiness
+A plataforma informa moderação de 15–30 dias, 100% de completude, experiência real, habilidades específicas, portfólio, Behance obrigatório em Design & Multimídia e duas conexões semanais no nível Iron. Reclamações mostram pessoas frustradas com demora/reprovação e casos de moderação prioritária paga. Isso sustenta dor e intenção de pagar pela aceleração da análise oficial, não compra de ferramenta externa de preparação. Um checker/concierge de perfil e portfólio pode ser investigado, sem prometer aprovação e sem sugerir pagar prioridade. (S262–S265)
+
+### Compliance altera o desenho do produto
+Upwork alerta contra extensões/watchers/scrapers e ferramentas de background, incluindo multi-site research tools, com risco de restrição/banimento. Workana proíbe robôs/scripts/processos de extração, rastreamento e indexação. Qualquer produto que dependa de coleta automatizada de vagas nesses sites fica excluído sem autorização formal. Preferir input manual do usuário, análise local, CSV/exportação permitida e fontes que autorizem integração. (S249–S251)
+
+### Comunidades não são um canal automático
+Meetups com centenas de membros podem estar inativos (sem próximos eventos; eventos antigos). Programadores BR Discord é grande e inclui canais de vagas/projetos; Editor Livre tem canais de oportunidades. r/freelanceWriters explicitamente proíbe pesquisa de mercado e promoção disfarçada; r/sideprojects proíbe astroturfing. O canal deve ser selecionado por atividade real e regra, não pelo número bruto de membros. (S276–S285)
+
+### Viabilidade técnica com R$0
+Google AI Studio Build oferece React + Node, Firestore/Auth e Starter Tier sem cartão para até dois apps ativos, mas a quota é compartilhada e o NEXUS usa o mesmo ecossistema. Não presumir slot. Tier gratuito Gemini API pode usar conteúdo para melhoria do Google; evitar briefs/documentos sensíveis. MVP pode ser local-first/estático e usar ChatGPT/AI Studio manualmente, sem API. GitHub Pages não pode hospedar SaaS comercial; Cloudflare Pages pode servir assets estáticos gratuitamente. (S269–S275)
+
+### Ideias candidatas para análise posterior — não aprovadas
+Workana Profile Readiness; diagnóstico pré-proposta por profissão; análise manual de conversão multi-marketplace; calculadora líquida por plataforma; scope/revision guard vertical; mapa de evidências de portfólio; checklist de risco do cliente; concierge manual de oportunidades; kit de onboarding/primeiro contrato; follow-up e aprendizagem por dados inseridos; calculadora de taxas/conexões; kit de escopo/aceite por micro-nicho.
+
+**Conclusão:** a hipótese inicial de intelligence para freelancers continua aberta, mas seu formato genérico está saturado em funcionalidades. A oportunidade mais diferenciada encontrada nesta rodada é Workana Profile Readiness/First-30-Days Launch; dor observável, compra de ferramenta externa não demonstrada. PHASE_03.3 CONTINUE; não construir, publicar, contatar ou gastar.
