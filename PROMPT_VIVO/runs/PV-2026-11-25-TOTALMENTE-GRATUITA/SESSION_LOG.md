@@ -53,3 +53,10 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Artefatos:** `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`; atualização da PHASE_03.5/FINDINGS/RUN_STATE/RESUME_PACKET/USER_INPUT_LOG.
 - **Não executado:** nenhum clone, instalação, execução, criação de app, deploy, conexão, publicação, contato, cadastro ou gasto.
 - **Persistência:** confirmar commits individuais.
+
+
+### KAM-2026-11-26-004A — Auditoria estática Stockroom e AppJet
+- **Executado:** leitura de schema, repositório, transações de movimento, rotas API, parsing JSON, testes, headers, export CSV e Dockerfile; leitura dos Termos e Política de Privacidade AppJet.
+- **Resultado:** boas práticas de validação e integridade, porém demo sem autenticação e sem autorização/tenant isolation visível nas rotas examinadas; não usar dados reais. Termos AppJet declaram processamento EUA/Canadá, tratamento de credenciais/env vars e não retenção de código após coding; disponibilidade não garantida.
+- **Limite:** leitura estática; nenhum teste executado ou pentest. S451–S453.
+- **Persistência:** confirmar commits individuais.
