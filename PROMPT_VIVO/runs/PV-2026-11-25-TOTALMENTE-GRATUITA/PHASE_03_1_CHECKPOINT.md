@@ -112,3 +112,41 @@ A evidência confirma que há tarefas operacionais demandadas, mas marketplace n
 - Compatibilidade com R$150 até 06/12: NÃO RESPONDIDO; ciclo de decisão MEI (~2 meses) não apoia promessa de recebimento rápido.
 
 **Gate:** CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa, contato, publicação, proposta ou gasto foi realizado.
+
+
+## Rodada 6 — 25/11/2026: idade corrigida, oportunidades de bastidores e pagamento
+### Correção do operador
+Idade atual: **18 anos**. As conclusões pessoais da rodada 5 baseadas em 16 anos estão superadas. Não aplicar restrições de menoridade nem exigir responsável legal por idade. O usuário afirma ter capacidade e disposição para aprender e desempenhar o necessário; avaliar por tarefas concretas, sem presumir incapacidade por falta de experiência profissional.
+
+### Fontes S087–S100
+- Workana e Upwork exigem 18 anos (S087–S088); requisito etário atendido.
+- Workana paga gratuitamente entre dias 1–5 do mês seguinte; ciclos semanal/meio do mês exigem planos pagos (S089).
+- 99Freelas: cliente pode levar até 5 dias úteis para liberar após conclusão; plano Free repassa em até 6 dias úteis depois da liberação; comissão 10%–20%, mínimo R$5 (S090).
+- S091: pesquisa documental de 45 empresas concluída, com vencedor; 29 propostas. Tarefa delimitada, baseada em documentos públicos.
+- S092: assistente virtual de consultório concluído, mas 148 propostas, jornada 8h–17h e dados de pacientes; não priorizar.
+- S093: exemplo de assistente de Social Media remoto, iniciante, sem experiência, com pesquisa/organização e aprovação de materiais; vaga antiga, não disponível confirmada.
+- S094: anúncio recente da Fera Comunicação: coordenação de conteúdo remota, PJ, sem exclusividade, sem horário fixo, remuneração mensal não divulgada; curadoria, calendário, follow-up de pendências, agendamento, WhatsApp de clientes, Trello/Notion e conversa por Meet. Experiência pesa menos que compromisso; 26 candidaturas.
+- S095: rede de freelancers de agência na Workana; demanda ampla, mas comprador com histórico fraco.
+- S096: white-label de tráfego pago existe, mas exige domínio técnico e lida com orçamento de clientes; não é entrada simples.
+- S097: Huios declara parcerias white-label/repasse/indicação já realizadas, mas exige especialidade.
+- S098: Lionbridge anuncia áudio PT-BR por US$10/h, remoto, part-time, com smartphone e pré-teste; volume e calendário de pagamento não publicados.
+- S099: Lionbridge declara que não cobra taxas e alerta para e-mails falsos; usar apenas canais oficiais.
+- S100: cadastro global Lionbridge exige 18 anos; idade atendida, sem garantia de alocação.
+
+### Auditoria
+- Compra de tarefas operacionais/documentais: PARCIAL/FORTE em exemplos individuais.
+- Trabalho de bastidores supervisionado sem experiência: PARCIAL; existe exemplo concreto, mas vaga antiga.
+- Coordenação operacional de conteúdo para agência: SINAL RECENTE, sem remuneração divulgada e com exigência de comunicação/autonomia.
+- White-label técnico: EXISTE, mas não é baixa barreira por si só.
+- Canal sem leilão: PARCIAL; vagas e parceria são canais, mas conversão não demonstrada.
+- Pagamento rápido: NÃO RESPONDIDO para Lionbridge; 99Freelas/Workana têm atrasos de aprovação e ciclos.
+- Meta R$150 até 06/12: não garantida por nenhuma trilha; não confundir taxa horária anunciada com horas alocadas ou dinheiro recebido.
+
+### Decisão
+Manter PHASE_03.1 em CONTINUE. Próxima investigação deve aprofundar:
+1. legitimidade e condições da vaga Lionbridge, volume e calendário de pagamento;
+2. detalhes e remuneração de coordenação operacional em agência, sem contato externo;
+3. tarefas de bastidores mais simples que não exijam gestão de cliente ou orçamento;
+4. prova de capacidade por amostra pública/ficcional e teste curto remunerado;
+5. caminhos de recebimento e prazo real sem assinatura paga.
+PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato ou ação externa foi realizada.
