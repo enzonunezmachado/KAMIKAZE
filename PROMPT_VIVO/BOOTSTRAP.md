@@ -12,6 +12,7 @@ Leia primeiro:
 ## 1. Identificar a execução ativa
 1. Leia `README.md`, `operations/STATE.md`, `operations/AVAILABLE_RESOURCES.md` e `PROMPT_VIVO/README.md`.
 2. Use `operations/STATE.md` como ponteiro para descobrir o RUN_ID ativo; não adivinhe pelo nome mais recente.
+3. Leia `PROMPT_VIVO/knowledge/README.md` como índice de módulos especiais. Se a mensagem atual demonstrar intenção clara de ativar um acionador documentado (por exemplo, implementar tráfego pago), leia o documento correspondente e siga seu protocolo de confirmação. Menções exploratórias não ativam módulos.
 3. Leia `PROMPT_VIVO/runs/<RUN_ID>/RESUME_PACKET.md` primeiro.
 4. Leia o `SESSION_LOG.md` global e o da execução; confira os eventos mais recentes e a persistência.
 5. Leia `RUN_STATE.md`, `PHASE_ARCHITECTURE.md`, `PHASE_CONTROL.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md`, `USER_INPUT_LOG.md` e o checkpoint/instrução da fase ativa.
