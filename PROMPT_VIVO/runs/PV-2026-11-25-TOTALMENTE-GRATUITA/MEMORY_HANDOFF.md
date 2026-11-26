@@ -116,3 +116,11 @@ OneForma payment policy has a contradiction (S130): homepage says no minimum pay
 - TSMG QC paga por trabalho validado, sem taxa/tempo/ciclo publicados. Meridial é perfil linguístico especializado; Defrilex envolve opt-in de dados pessoais; sōtem não tem tarefas pagas abertas; estudo uTest de US$75 expirou.
 - Nenhuma conta, candidatura, screening, formulário, gravação, consentimento, envio de documento ou contato externo foi realizado. Receita R$0, despesas R$0.
 - Próximo foco: aprofundar UserTesting Brasil/PayPal, procurar novos lotes CrowdSource Labs, obter evidência de taxa/ciclo TSMG e buscar vagas operacionais com remuneração transparente. Não avançar à Fase 04 sem decisão do gate.
+
+
+
+## Correção importante — UserTesting e uTest (25/11/2026)
+- UserTesting aceita Brasil, mas exige fluência em inglês/francês/alemão no practice test; inglês intermediário do usuário torna o fit não demonstrado. Rebaixar para baixa prioridade.
+- uTest tem projetos PT-BR, mas os anúncios encontrados não constituem uma tarefa segura/confirmada com pagamento imediato: Greenbox tinha início passado; projeto ID verification exige documento oficial retido até 12 meses e não publica remuneração.
+- Pagamento uTest é semimensal por PayPal/Payoneer/Wise conforme disponibilidade regional, sem volume garantido.
+- Próximo passo: procurar projeto uTest PT-BR com data futura, remuneração clara e sem dados sensíveis; manter PHASE_03.1 em CONTINUE.
