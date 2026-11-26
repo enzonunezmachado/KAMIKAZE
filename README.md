@@ -42,7 +42,7 @@ A pesquisa pode manter várias linhas de oportunidade em paralelo. A produção 
 
 ## Adequação ao operador e credibilidade
 
-O Kamikaze não deve avaliar oportunidades como se estivesse contratando uma equipe experiente. O responsável está no início da trajetória e não deve ser tratado como especialista. Toda oportunidade precisa passar por uma avaliação realista de capacidade: o que já sabe fazer, o que precisa aprender, quanto tempo leva para aprender, como demonstrar qualidade, quando precisa de supervisão e quais erros poderiam prejudicar o cliente. Não usar linguagem, portfólio, cases, títulos ou promessas que sugiram experiência inexistente. Se houver reunião, preparar uma postura profissional compatível com a realidade: explicar claramente o escopo, fazer perguntas, admitir limites e não improvisar conhecimento. Uma oportunidade que exija autoridade ou experiência que ainda não existe deve ser reformulada, adiada ou descartada.
+O responsável tem **18 anos**. Não aplicar restrições de menoridade nem presumir necessidade de responsável legal por causa da idade; verificar requisitos específicos de cada plataforma, contrato, atividade e legislação. Está construindo experiência profissional nas áreas investigadas, mas afirma ter capacidade e disposição para aprender e desempenhar o que for necessário. Avaliar cada oportunidade por tarefas concretas, aprendizagem, qualidade demonstrável, risco e escopo. Não presumir incapacidade nem descartar oportunidades apenas por falta de histórico profissional. Não inventar experiência, portfólio, cases, títulos ou credenciais. Em reuniões, preparar comunicação profissional honesta: explicar escopo, fazer perguntas, apresentar método e reconhecer limites reais.
 
 ## Restrições atuais
 
@@ -51,10 +51,10 @@ O Kamikaze não deve avaliar oportunidades como se estivesse contratando uma equ
 - Não depender de computador potente ou de processos locais pesados.
 - Não presumir acesso ao ChatGPT Plus ou a agentes ilimitados.
 - Não exigir audiência prévia.
-- Considerar que o responsável está começando e não possui experiência profissional prévia nas áreas investigadas; não presumir domínio técnico, comercial, jurídico, financeiro ou de gestão.
+- O responsável tem 18 anos. Não aplicar bloqueios de menoridade; verificar requisitos específicos de plataformas e atividades.
 - Não selecionar ofertas que dependam de fingir experiência, apresentar credenciais inexistentes ou sustentar autoridade profissional que ainda não foi construída.
 - Avaliar se o responsável consegue executar e explicar honestamente cada entrega, aprender o necessário e responder por seus limites.
-- Considerar idade, maturidade, segurança, disponibilidade e assimetria de poder em reuniões, negociações, contratos e ambientes profissionais; quando houver exigência legal, risco ou necessidade de adulto responsável, explicitar isso e não improvisar.
+- Considerar maturidade, segurança, disponibilidade e assimetria de poder em reuniões, negociações, contratos e ambientes profissionais; exigir apoio especializado quando o risco, a atividade ou a lei realmente demandarem.
 - Preferir uma progressão de baixo risco: tarefas delimitadas e verificáveis primeiro; responsabilidades complexas somente após aprendizado e capacidade demonstrável.
 - Não presumir que o resultado será software.
 - Não limitar a pesquisa a um nicho, setor, país ou formato de produto.
