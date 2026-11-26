@@ -111,3 +111,12 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Clickworker: pagamentos semanais e mínimos publicados, mas disponibilidade de método/registro no Brasil é individual.
 - Welo Junior Quality Coordinator: coordenação de QA 20h/semana, inglês forte, dedicação exclusiva e remuneração não divulgada.
 **Decisão:** manter PHASE_03.1 em CONTINUE. Não iniciar candidatura nem assumir inglês, elegibilidade ou recebimento sem confirmação.
+
+## PA-015 — validação de transcrição PT-BR e QC de áudio
+**Data:** 25/11/2026  
+**Motivo:** encontrar trabalho remoto em português nativo com tarefa delimitada, baixa exigência de experiência e pagamento verificável no Brasil.
+**Fontes:** S120–S124.
+- OneForma Freya lista PT-BR aberto, US$6 por hora de áudio, sem experiência/diploma; batches semanais first-come-first-served; pagamento duas vezes ao mês, mínimo US$25, PayPal/Payoneer conforme conta.
+- TSMG QC Specialist oferece revisão de transcrições com treinamento, pagamento por trabalho validado, mas taxa/ciclo desconhecidos.
+- YPAI tem discrepância entre resultados de busca e páginas oficiais abertas; vagas remotas brasileiras não devem ser contadas como ativas sem confirmação.
+**Decisão:** manter PHASE_03.1 CONTINUE; aprofundar taxa/locale, saque Brasil, tempo de qualificação e produtividade real OneForma; não iniciar candidatura sem autorização.
