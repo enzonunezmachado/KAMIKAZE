@@ -39,4 +39,9 @@ jobs:
             PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/README.md
             PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESUME_PACKET.md
             operations/README.md
+            scripts/README.md
+            .github/README.md
+            .github/workflows/README.md
+            portfolio_site/README.md
             portfolio_site/docs/*.md
+            PROMPT_VIVO/PHASES/README.md
