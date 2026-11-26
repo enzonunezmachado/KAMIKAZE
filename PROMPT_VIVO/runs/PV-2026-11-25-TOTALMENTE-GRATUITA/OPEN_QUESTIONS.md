@@ -67,3 +67,10 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 47. Quais segmentos compram pesquisa de concorrentes por uma decisão urgente e repetida?
 48. A recorrência é demonstrada por comportamento de compra ou apenas presumida por ferramentas SaaS?
 49. Como distinguir pesquisa corporativa pública de coleta de dados pessoais e quais atividades devem ser excluídas?
+
+50. Que evidência específica existe de clientes chegando por indicação para serviços de pesquisa/benchmarking, e não apenas consultoria em geral?
+51. Quais comunidades, eventos, redes de fornecedores e profissionais complementares têm pedidos explícitos de pesquisa ou decisões de mercado (sem prospecção invasiva)?
+52. Que demonstração pública baseada em dados públicos teria utilidade própria e potencial de gerar busca orgânica ou indicação?
+53. Quais gatilhos de compra têm prazo: abertura/expansão de unidade, lançamento, mudança de preço, entrada em marketplace, seleção de fornecedor ou reação a concorrente?
+54. Em quais categorias há mudanças suficientemente frequentes para um serviço recorrente, e quais evidências de recompra existem?
+55. O canal WhatsApp deve ser usado apenas para atendimento e relacionamento consentido; quais meios inbound/opt-in podem gerar conversas sem spam?
