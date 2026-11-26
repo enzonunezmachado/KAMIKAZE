@@ -137,3 +137,9 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - TSMG QC Specialist: remoto, revisão de transcrição PT-BR, treinamento, pagamento por trabalho validado; taxa e ciclo desconhecidos.
 - YPAI: páginas oficiais de várias vagas remotas Brasil indicam closed, apesar de snippets open.
 - Gate PHASE_03.1 CONTINUE; PHASE_04 não iniciada; nenhuma conta/candidatura.
+
+## Rodada 11 — auditoria econômica (25/11/2026)
+- OneForma Freya US$6 por hora de áudio não é US$6 por hora de trabalho. Oxford estima mínimo de 4h humanas por 1h de áudio; cenário bruto ~US$1,50/h efetiva antes de custos.
+- Mínimo US$25 exige ~4h10 de áudio aprovado, cerca de 16h40 de trabalho na estimativa 4:1.
+- Páginas OneForma divergem sobre locale PT-BR e experiência exigida; não considerar elegibilidade confirmada.
+- Gate PHASE_03.1 CONTINUE; nenhuma candidatura/teste/conta criada.
