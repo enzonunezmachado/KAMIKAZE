@@ -191,3 +191,11 @@ Gate CONTINUE. OneForma é a melhor hipótese de renda de curto prazo até aqui,
 - S126: páginas OneForma divergem: Freya v2 lista PT-BR aberto e sem experiência; página Multilingual Podcast Transcription lista só 5 países e exige experiência. A página específica pt_BR também abriu conteúdo incoerente de American English. Não tratar elegibilidade de iniciante como confirmada até o formulário de destino.
 - Para atingir mínimo US$25 seriam necessários ~4h10 de áudio aprovado, equivalentes a pelo menos ~16h40 de trabalho humano na referência 4:1. O prazo de pagamento pode caber em tese, mas a produtividade torna a meta R$150 até 6/12 improvável sem volume/tempo confirmados.
 Gate CONTINUE. OneForma permanece hipótese, não recomendação final nem candidatura realizada.
+
+## Rodada 12 — OneForma Shopping Email Collection e auditoria de privacidade (S127–S129)
+- S127: OneForma tem projeto remoto aberto no Brasil/PT-BR, sem experiência, paga por email aprovado; exige 3+ emails originais .eml do mesmo pedido de produto físico entregue desde 01/01/2024. Valor por email não publicado.
+- Privacidade: arquivos originais precisam manter remetente, destinatário, assunto, conteúdo e data/hora. Página diz que a plataforma pode detectar/ocultar dados pessoais no upload, mas não esclarece suficientemente proteção/retention/uso específico dos emails .eml. Não enviar sem revisar consentimento e confirmar mascaramento e acesso; nunca compartilhar senha/conta.
+- S128: DataForce Mosaic exige idiomas que não incluem PT-BR e inglês fluente; excluir.
+- S129: TELUS Internet Safety Evaluator aparece fechado na página oficial, apesar de snippets “open”; excluir como vaga ativa.
+- Hipótese OneForma Email pode ser mais rápida que Freya, mas depende de emails elegíveis, taxa por email e privacidade; não enviar nada ainda.
+Gate CONTINUE. Nenhum email, candidatura ou dado pessoal enviado.
