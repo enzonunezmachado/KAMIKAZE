@@ -195,3 +195,17 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Ferramentas genéricas estão comoditizadas; ToolNest lista 221 utilitários (S304). Não construir clone genérico.
 - Ativo SEO não é solução confiável para R$150 até 06/12; manter renda imediata separada de ativo de longo prazo.
 - PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. R$0, nenhum gasto, cadastro, anúncio, contato, publicação ou deploy.
+
+
+
+## Rodada 24 — 26/11/2026 (S315–S326)
+- Comparados VA/admin, edição de vídeo curto, design/social media, tradução e Workana Profile Readiness.
+- VA/admin: demanda recorrente e briefs com 102–587 propostas; concorrência alta em marketplaces.
+- Edição curta: jobs de Reels/Shorts e pacotes; um exemplo 17 propostas/22 interessados; precisa portfólio e capacidade de prazo. Manter investigação.
+- Design: agência com 48 artes/mês; exige portfólio e consistência.
+- Tradução: jobs grandes, mas exigem inglês excelente/formação/habilitação; não é fit imediato.
+- Workana Profile Readiness: dor reforçada, compra de ferramenta independente não provada.
+- Workaholic: funcionalidades amplas; nenhuma falha independente confirmada. Não criar clone.
+- Programadores BR: diretório indica comunidade grande/ativa; regras internas não verificadas, sem publicação/contato.
+- Próximo: microentregas admin e edição curta, contratos pagos verificáveis e canais não-marketplace com regras públicas.
+- PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED; R$0; nenhuma ação externa.
