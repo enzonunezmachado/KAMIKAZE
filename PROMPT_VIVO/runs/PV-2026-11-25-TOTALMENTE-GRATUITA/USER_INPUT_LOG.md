@@ -12,3 +12,5 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 
 | 2026-11-25 | Autorizou continuidade após a criação do protocolo de retomada, sem acrescentar nova restrição temática. | Continuar PHASE_03.1 conforme PHASE_CONTROL; comentários futuros continuam podendo alterar escopo e método. | APLICADO |
 | 2026-11-25 | Pediu pesquisas mais profundas e autorizou dedicar mais tempo, sem priorizar velocidade; ressaltou que é iniciante, não tem experiência profissional e que reuniões/ambientes de mercado podem exigir credibilidade e postura que ainda precisa desenvolver. | Adotar padrão de pesquisa aprofundada e adaptativa; incluir adequação ao operador, curva de aprendizagem, prova de capacidade, credibilidade honesta, preparação para reuniões, risco, requisitos legais/idade e progressão de baixo risco em toda avaliação de oportunidade. Não presumir experiência nem recomendar fingir autoridade. | APLICADO |
+
+| 2026-11-25 | Autorizou continuar PHASE_03.1 após confirmar as alterações documentais. | Continuar conforme PHASE_CONTROL; executar pesquisa aprofundada e registrar evidências/contraprovas em S076+; não avançar mecanicamente. | APLICADO |
