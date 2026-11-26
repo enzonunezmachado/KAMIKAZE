@@ -1,3 +1,11 @@
+### KAM-2026-11-26-008 — Gate de pesquisa para experimento
+
+- **Motivo:** preocupação do usuário de que a operação possa pesquisar e planejar excessivamente, adiando o momento em que o comportamento real do comprador precisa ser observado.
+- **Aplicado:** QUALITY_GATE, RESEARCH_METHOD e EXECUTION_PROTOCOL agora diferenciam fatos pesquisáveis de variáveis que exigem experimento (disposição a pagar, conversão, retenção, recompra). Criados estados de decisão RESEARCH_MORE, READY_TO_TEST, NOT_WORTH_TESTING e BLOCKED.
+- **Regra:** interromper pesquisas de baixo valor informacional; se um experimento mínimo for ético, reversível, barato e autorizado, recomendá-lo. Não fabricar percentuais de chance sem dados calibrados.
+- **Controle humano:** contatos, publicações, cadastros, despesas e compromissos continuam exigindo autorização explícita.
+- **Persistência:** confirmar gravações e CI antes de declarar validação completa.
+
 ### KAM-2026-11-26-007 — Arquitetura documental, validação e MkDocs
 
 - **Data:** 2026-11-26
