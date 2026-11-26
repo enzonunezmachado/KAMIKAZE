@@ -170,3 +170,12 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - Gate CONTINUE; nenhuma candidatura/ação externa.
 
 - S130: OneForma homepage says no minimum payout; Help Center says US$25. Treat project-specific minimum and payout timing as unconfirmed until verified.
+
+## Continuidade — rodada 13 (25/11/2026)
+- PHASE_03.1 permanece IN_PROGRESS / CONTINUE; PHASE_04 permanece QUEUED / NOT_STARTED.
+- S131–S138 adicionados ao SOURCE_LEDGER; rodada 13 registrada em FINDINGS, PHASE_03_1_PURCHASE_EVIDENCE, VALIDATION_MATRIX, OPEN_QUESTIONS, RUN_STATE e PHASE_CONTROL.
+- UserTesting aceita Brasil oficialmente, mas pool local menor; pagamentos variáveis via PayPal, normalmente 14 dias após teste. É complementar, não caixa garantida até 06/12.
+- YPAI Data Collection Contributor Brasil mostra banner de vaga encerrada apesar de rótulos antigos de candidatura aberta; tratar como fechada.
+- TSMG QC paga por trabalho validado, sem taxa/tempo/ciclo publicados. Meridial é perfil linguístico especializado; Defrilex envolve opt-in de dados pessoais; sōtem não tem tarefas pagas abertas; estudo uTest de US$75 expirou.
+- Nenhuma conta, candidatura, screening, formulário, gravação, consentimento, envio de documento ou contato externo foi realizado. Receita R$0, despesas R$0.
+- Próximo foco: aprofundar UserTesting Brasil/PayPal, procurar novos lotes CrowdSource Labs, obter evidência de taxa/ciclo TSMG e buscar vagas operacionais com remuneração transparente. Não avançar à Fase 04 sem decisão do gate.
