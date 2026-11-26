@@ -1,3 +1,16 @@
+### KAM-2026-11-26-007 — Arquitetura documental, validação e MkDocs
+
+- **Data:** 2026-11-26
+- **Pedido:** comparar a arquitetura Markdown com Spec Kit/BMAD/AGENTS.md/LangChain/Diátaxis; melhorar continuidade, granularidade, leitura obrigatória por pastas, sincronização verificável e criar teste MkDocs/portfólio Markdown.
+- **Diagnóstico:** resumos e snapshots acumulavam histórico; CURRENT_WORK, STATE, RUN_STATE, PHASE_CONTROL e RESUME_PACKET não tinham autoridade suficientemente explícita; estado de fase em STATE/RESUME estava desatualizado em relação ao controlador e RUN_STATE.
+- **Aplicado:** AGENTS.md raiz e Prompt Vivo; ARCHITECTURE_GOVERNANCE; READMEs de navegação; state.toml; snapshots compactos; histórico anterior preservado em STATE_HISTORY e RUN_HISTORY; BOOTSTRAP/CONTINUITY/NEXT_CHAT/CURRENT_WORK/RESUME_PACKET atualizados; PHASE_CONTROL marcado com snapshot vigente.
+- **Validação:** criado scripts/validate_docs.py para verificar arquivos obrigatórios, budgets, links selecionados e sincronização TOML/Markdown; GitHub Actions executa validação, build MkDocs e markdownlint.
+- **MkDocs:** criado site demonstrativo com fonte Markdown em portfolio_site/docs; ainda não publicado. Cases e dados fictícios estão explicitamente rotulados.
+- **NEXUS:** criada proposta estratégica Diátaxis + Obsidian em repositório separado NEXUS-DOCUMENTACAO; não houve alteração de código Android, banco, backup ou artefatos do AI Studio.
+- **Limites:** CI ainda precisa rodar e ser inspecionada; AGENTS.md depende do suporte do agente; scripts não validam verdade semântica nem obrigam qualquer IA a obedecer.
+- **Não realizado:** nenhum agente externo instalado, nenhum dado real exportado, nenhuma publicação, contato, venda, gasto ou deploy.
+- **Persistência:** confirmar commits individuais e workflow antes de declarar validação concluída.
+
 # SESSION LOG — Histórico global do Kamikaze
 
 Este log registra checkpoints e mudanças relevantes do projeto. É append-only: correções e reconciliações entram como novos eventos, sem apagar o histórico anterior.
