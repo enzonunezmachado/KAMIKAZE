@@ -12,6 +12,7 @@
 7. Leia `runs/<RUN_ID>/README.md` antes de abrir arquivos da execução.
 8. Leia `RESUME_PACKET.md`, depois `RUN_STATE.md` e `PHASE_CONTROL.md`.
 9. Abra plano, arquitetura, fontes, achados, handoff e fase somente conforme a tarefa.
+10. Ao decidir entre pesquisar mais ou testar, leia `QUALITY_GATE.md` e `RESEARCH_METHOD.md`.
 
 **Regra:** ao entrar em qualquer outra pasta, leia primeiro seu README. Se estiver ausente, registrar a lacuna e criar/atualizar o índice antes de gravar vários arquivos naquela pasta.
 
