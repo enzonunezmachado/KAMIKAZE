@@ -308,3 +308,9 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Aprendizado: IA + arquitetura adequada permite MVP funcional com R$0; termos de uso, limites, segurança, persistência e distribuição permanecem gates distintos.
 - Nenhuma ferramenta/app/conta foi instalada/criada/conectada; nenhum deploy, publicação, contato ou gasto.
 - PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.3 e 03.4 abertas; PHASE_04 QUEUED/NOT_STARTED.
+
+
+### Addendum Stockroom/AppJet — revisão técnica
+- Leitura estática de código confirma padrões de transação, validação, CSV safety, headers e Docker hardening; sem execução de testes.
+- Bloqueio de produção: demo sem autenticação e endpoints examinados sem autorização/tenant scoping visível; não usar dados reais. AppJet processa credenciais/env vars, dados em EUA e inferência Canadá conforme termos/política; não garante uptime. S451–S453.
+- AppJet permanece candidato não aprovado; nenhuma conta conectada ou repositório compartilhado.
