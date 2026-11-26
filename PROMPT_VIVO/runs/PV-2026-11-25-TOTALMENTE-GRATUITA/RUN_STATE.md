@@ -176,3 +176,9 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Comunidades: Meetups com centenas de membros, vários inativos; Programadores BR e Editor Livre são melhores candidatos digitais para observação, com regras internas a verificar. r/freelanceWriters proíbe pesquisa de produto disfarçada; r/sideprojects proíbe astroturfing.
 - Viabilidade: AI Studio Starter Tier até 2 apps ativos, quotas compartilhadas; usuário usa o mesmo ecossistema no NEXUS, portanto não presumir slot. Preferir protótipo estático/local-first sem API/backend. R$0, nenhum gasto autorizado.
 - PHASE_03.3 permanece IN_PROGRESS / CONTINUE; PHASE_04 não iniciada.
+
+
+### Complemento S286–S293 — perfil profissional
+- 99Freelas apresenta briefs de otimização de perfis com 50 propostas/56 interessados e 88 propostas/101 interessados; Upwork mostra jobs com budgets anunciados de US$15–260 e um hire registrado.
+- Categoria de revisão de perfis tem demanda, mas é competitiva; compra específica de checker Workana não provada. Workana já publica guias gratuitos.
+- Diferencial possível: mapa de evidências de experiência real + checklist Workana, sem prever aprovação.
