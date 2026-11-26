@@ -234,3 +234,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Síntese: distribuição, confiança e intenção são gargalos; views não são vendas; produto simples sem canal não vende; ajuda pública e contextual pode gerar lembrança/DM inbound, mas depende das regras da comunidade.
 - Afiliados não provados como caixa rápido sem audiência; e-commerce/dropshipping excluído por capital, caixa, logística e risco.
 - PHASE_03.4 continua IN_PROGRESS / CONTINUE; PHASE_03.3 também; PHASE_04 não iniciada. Sem cadastro, candidatura, contato, post, venda, gasto ou deploy.
+
+
+## Rodada 27 — 26/11/2026
+- Feedback incorporado: construir um sistema de aquisição/conversão, não apenas selecionar produto. Views e seguidores são sinais intermediários de atenção/interesse quando contextualizados; medir a progressão completa até clique, conversa e compra.
+- PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION criada e ativa, subordinada à PHASE_03.4.
+- Prioridade nova: afiliados de produtos existentes, comparando oferta, qualidade, comissão líquida, aprovação, atribuição, canais permitidos e prazo de saque. Hotmart Pix/boleto: comissão liberada após 2 dias; cartão BRL 30 dias (S386). Kiwify afiliado Pix: 7 dias (S387).
+- Operação pretendida: conteúdo nativo multicanal, perfis, stories, participação genuína em grupos e distribuição individual contextual; IA para preparar materiais/checklists, com revisão humana.
+- Nenhuma conta, afiliação, publicação, contato, gasto ou venda. Receita R$0; despesas R$0.
+- PHASE_03.4 IN_PROGRESS; PHASE_03.5 IN_PROGRESS; PHASE_03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
