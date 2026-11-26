@@ -30,3 +30,12 @@ O Prompt Vivo não cria memória automática fora dos arquivos, não garante que
 
 ## Regra para novas entradas
 Adicionar novas mudanças no topo, com data, motivo, arquivos afetados, impacto e forma de verificar se a melhoria funcionou.
+
+
+## 2026-11-25 — Primeiro teste real: TOTALMENTE GRATUITA
+
+- Criada execução PV-2026-11-25-TOTALMENTE-GRATUITA.
+- Registrados plano, fontes, achados, questões abertas, handoff e síntese em elaboração.
+- Criada política de cotas com reserva explícita e fallback permitido; percentual de 90% definido como meta de confiabilidade a medir, não promessa.
+- O primeiro lote identificou hipóteses em serviços operacionais de dados/documentos/conteúdo, riscos de automação genérica, custos de dropshipping e taxas de marketplaces.
+- Próxima iteração: aprofundar procura brasileira e verificar caminhos de aquisição/pagamento.
