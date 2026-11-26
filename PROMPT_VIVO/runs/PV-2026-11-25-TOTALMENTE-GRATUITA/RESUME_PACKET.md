@@ -168,3 +168,5 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - Classificação: BLOQUEADA POR PRIVACIDADE. Não enviar nenhum email/dado até esclarecimento.
 - DataForce Mosaic não aceita PT-BR; TELUS Internet Safety Evaluator está fechado.
 - Gate CONTINUE; nenhuma candidatura/ação externa.
+
+- S130: OneForma homepage says no minimum payout; Help Center says US$25. Treat project-specific minimum and payout timing as unconfirmed until verified.
