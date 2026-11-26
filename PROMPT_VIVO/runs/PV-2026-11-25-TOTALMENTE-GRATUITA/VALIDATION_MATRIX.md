@@ -295,3 +295,17 @@
 
 | PHASE_03.3 — inteligência de oportunidades para freelancers | Scoutly R$27,90/mês, Workaholic open-source, alertas nativos Upwork/99Freelas | Concorrência direta e substitutos gratuitos; vendas/uso/eficácia dos fornecedores não auditados | Preços anunciados; sem prova independente de renovação | Categoria genérica de alertas/match/propostas não é diferenciada; investigar recorte vertical |
 | Aquisição por comunidades | Vaga remunerada de community-led growth; relatos citam grupos, networking e referrals | Regras de cada comunidade; algumas proíbem vendas, DMs e pesquisa fora de mural | Serviço de aquisição anunciado a R$1.500/mês; não mede ROI | Canal plausível, não validado para este produto; exige transparência e autorização |
+
+
+## PHASE_03.3 — Rodada 21 (S227–S244; 26/11/2026)
+
+| Critério | Evidência nova | Estado atualizado | Observação |
+|---|---|---|---|
+| Pessoas pagam por recursos de candidatura | Relatos de compras/renovações em 99Freelas, Workana e Upwork; planos oficiais | RESPONDIDO qualitativamente | Mais de dez autorrelatos, mas amostra de conveniência; inclui reembolso/confusão e planos com Connects |
+| Pessoas pagam por inteligência competitiva | 99Freelas inclui média de propostas em Pro/Premium; relato S226; Upwork bid-range insights em plano pago | RESPONDIDO PARCIAL/FORTE | Compra de recursos nativos demonstrada; SaaS externo independente não |
+| Pagam por alerta/matching multi-plataforma | Scoutly e FreelaSync anunciam planos; Workaholic é gratuito | PARCIAL | Oferta provada; clientes, vendas e retenção do Scoutly não provados |
+| Satisfação e retenção | Vários relatos de cancelamento, reembolso e ausência de resultados; alguns renovam/testam | PARCIAL, sinal negativo misto | Não há taxa de churn nem coorte confiável |
+| Lacuna defensável | Dores sobre clientes inativos, propostas não abertas e custo desperdiçado; ferramentas já prometem score/cliente | NÃO RESPONDIDO | Necessário auditar acurácia e falhas reais |
+| Compra de curadoria humana | Brief Upwork de Job Research & Proposal Assistant a US$15–30/h | PARCIAL | Sinal de orçamento, não contratação; exige experiência Upwork consolidada |
+| Comunidades como canal | Rodada 20 | PARCIAL | Mapear comunidades e regras segue pendente |
+| Economia e retenção | Planos baratos e casos de reembolso/cancelamento | NÃO RESPONDIDO | Sem volume, LTV, churn, CAC ou recompra medidos |
