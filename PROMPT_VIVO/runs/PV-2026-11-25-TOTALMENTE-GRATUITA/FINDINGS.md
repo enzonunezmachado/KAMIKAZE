@@ -446,3 +446,12 @@ Demanda 25%; dificuldade orgânica 20%; qualidade da SERP 15%; valor econômico 
 
 ### Conclusão
 Nenhum candidato provou alto volume ou baixa concorrência. A presença de concorrentes prova oferta, não demanda nem receita. Ferramenta SEO deve ser tratada como ativo de médio/longo prazo; não é plano confiável para obter R$150 até 06/12. Comparar com serviço manual e oportunidades freelancer. PHASE_03.3 CONTINUE; PHASE_04 não iniciada.
+
+
+
+## Rodada 24 — segmentação por profissão e sinais de compra (26/11/2026)
+Amostra de briefs públicos revela diferenças relevantes entre segmentos. VA/admin tem demanda operacional recorrente, mas projetos de 99Freelas aparecem com 319–587 propostas; um job de apoio remoto de 10h/mês teve 102 propostas. Edição curta de vídeo apresenta jobs repetidos e pacotes mensais, com um exemplo de evento em 17 propostas/22 interessados. Design tem briefs recorrentes de agência (48 artes/mês) e identidade visual, mas exige portfólio. Tradução apresenta projetos grandes e possibilidade de recorrência, porém exige inglês excelente, formação específica ou habilitação. Ver S315–S325.
+
+**Implicação de fit:** explorar microentregas de organização/admin sem vender “assistente virtual genérico”; testar edição curta como nicho potencial somente após construir amostra própria; não priorizar tradução profissional com inglês intermediário; design exige portfólio antes de oferta. Nenhum anúncio isolado prova pagamento ou retenção.
+
+Workana Profile Readiness: reclamações recentes reforçam dor da espera e impossibilidade de enviar propostas; os próprios critérios são comparativos e não controláveis. Compra de checker/serviço independente específico segue não provada. Workaholic já tem matching/CRM/alertas/follow-up; não se confirmou falha independente. S326.
