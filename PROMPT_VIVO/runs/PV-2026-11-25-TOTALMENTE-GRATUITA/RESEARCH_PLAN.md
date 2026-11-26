@@ -105,3 +105,11 @@ Não impor uma quantidade artificial de minutos ou fontes. A profundidade é ada
 
 A meta imediata de R$150 até 06/12/2026 continua sendo objetivo, não justificativa para pular validação, assumir risco desproporcional ou vender algo que o responsável não sabe entregar.
 \n\n## Correção de perfil — 25/11/2026\nA idade atual informada pelo usuário é **18 anos**; referências anteriores a 16 anos estão superadas para decisões operacionais. O usuário afirma ter capacidade e disposição para aprender e desempenhar o que for necessário. Não tratar ausência de experiência profissional como incapacidade; decompor o trabalho em tarefas, competências, aprendizagem, demonstração de qualidade, riscos e controles. Não inventar experiência, clientes, avaliações ou credenciais. Reavaliar plataformas com idade mínima de 18 anos, verificando os demais requisitos vigentes.
+
+## Atualização da pesquisa após correção de idade — rodada 6
+A idade atual do usuário é 18 anos; não aplicar restrições de menoridade. O usuário afirma ter capacidade e disposição para aprender e executar o que for necessário. A pesquisa deve comparar:
+- trabalho de bastidores/orquestração em agências, com escopo delimitado, processo e aprovação;
+- tarefas pontuais de dados/documentos e apoio administrativo com dados públicos;
+- tarefas de coleta/avaliação de dados para IA (voz, transcrição, revisão), distinguindo taxa horária anunciada de horas efetivamente alocadas e dinheiro recebido;
+- white-label técnico, somente quando competência e risco estiverem demonstrados.
+Para cada oportunidade, verificar canal de candidatura, requisitos, remuneração, volume de trabalho, teste, calendário de pagamento, comissões, identidade do contratante, exposição a cliente, risco de dados e compatibilidade com horário/recursos. Não contatar nem candidatar sem autorização. A meta imediata não permite assumir que uma vaga aberta vai contratar ou pagar a tempo.
