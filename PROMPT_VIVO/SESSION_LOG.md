@@ -30,3 +30,13 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Arquivos sincronizados:** knowledge README, Source Ledger S414–S423, Findings, PHASE_03.5, USER_INPUT_LOG, RUN_STATE, RESUME_PACKET e log da execução.
 - **Decisão:** adaptar workflows em skills próprias, sem importar código de terceiros; preservar revisão/aprovação humana, evidência e compliance brasileiro.
 - **Persistência:** CONFIRMADO nos commits individuais desta rodada.
+
+
+### KAM-2026-11-26-003 — Acionador persistente de tráfego pago
+- **Data:** 2026-11-26
+- **Executado:** criada documentação do acionador `MAK-PAID-TRAFFIC-MODULE`, com protocolo de confirmação, arquitetura, etapas/gates, skills, segurança financeira, compliance e handoff.
+- **Pesquisa:** inventário de 49 skills marketing-skills (49/49 slugs únicos conferidos); repositórios Google Ads MCP/SDK, Meta SDKs, Ryze MCP, n8n, AdsOnSheets, clientreport, Meridian e reporting workflow.
+- **Artefato principal:** `PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md`.
+- **Continuidade:** BOOTSTRAP, NEXT_CHAT_PROMPT e CONTINUITY_SYSTEM agora descobrem acionadores dormentes.
+- **Estado:** DORMANT / DOCUMENTED / NOT IMPLEMENTED. Nenhuma implementação, integração, conta, campanha, publicação ou gasto.
+- **Persistência:** commits individuais confirmados.
