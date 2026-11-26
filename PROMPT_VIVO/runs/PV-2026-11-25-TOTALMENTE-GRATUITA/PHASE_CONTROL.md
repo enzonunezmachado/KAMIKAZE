@@ -153,3 +153,8 @@ A crítica “só uma pessoa??” foi interpretada como correção de padrão de
 
 ### Complemento de controle — comunidades (Rodada 24)
 Mapeadas nove comunidades/canais (S327–S335). Nenhuma aprovada para divulgação: diretórios não substituem regras internas, e membros/online não comprovam audiência compradora. Próximo passo de validação é auditoria transparente das regras e canais permitidos, sem contato/publicação até autorização.
+
+
+## Decisão de controle — Rodada 25 (26/11/2026)
+A pedido explícito do usuário, ampliar o universo de pesquisa para “como ganhar dinheiro rápido na internet / como vender online / como conseguir a primeira venda em marketing digital”, sem abandonar a pesquisa de micro-nichos freelancer e aquisição por comunidades. Criada PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE como linha paralela de validação ampla.
+**Gate:** CONTINUE na PHASE_03.4 e manter PHASE_03.3 em CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED. Evidência atual favorece testar uma microentrega digital direta como hipótese de caixa, mas não há comprador confirmado; Prolific/Respondent e testes são complementos incertos; afiliados não são rota de caixa rápida comprovada sem distribuição. Nenhuma candidatura, cadastro, contato, publicação, venda ou gasto autorizado/realizado.
