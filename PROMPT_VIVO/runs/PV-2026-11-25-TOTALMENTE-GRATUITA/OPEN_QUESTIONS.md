@@ -145,3 +145,11 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 105. Qual a remuneração por tarefa validada da TSMG QC e qual o prazo de pagamento?
 106. O catálogo YPAI pode ser filtrado para Brasil sem criar conta e quais vagas brasileiras aparecem como abertas no próprio fluxo de candidatura?
 107. A vaga Field Collection Operator YPAI em São Paulo está efetivamente aceitando candidatura brasileira e qual local/agenda/custo de deslocamento do projeto?
+## Novas perguntas — rodada 12
+108. Qual é a remuneração por email aprovado no OneForma Online Shopping Email Collection para Brasil/PT-BR e quais categorias têm valor maior?
+109. O bônus de 15% por conjunto completo de emails está confirmado em material oficial do projeto e aplica-se ao Brasil?
+110. Quais dados pessoais e de terceiros são mascarados antes da análise humana/uso pelo cliente, e quais campos do .eml original são retidos?
+111. Qual é a finalidade exata, o prazo de retenção, o país de armazenamento, subprocessadores e compartilhamentos dos .eml enviados?
+112. É possível participar apenas com emails próprios e remover/mascarar anexos, números de pedido, endereços e rastreios sem invalidar a originalidade? Se não, qual é o risco residual?
+113. O ciclo de pagamento do projeto de emails segue o calendário geral OneForma e o mínimo US$25?
+114. Há número mínimo/máximo de emails por participante e quantas categorias continuam abertas no Brasil?
