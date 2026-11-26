@@ -17,3 +17,15 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Resultado:** arquivos do sistema de continuidade e documentos dependentes gravados com sucesso no GitHub.
 - **Commit de confirmação mais recente:** 0d87d4f1adf88e7e2fd661a8f1dddda5b5e5f9b1.
 - **Status:** CONFIRMADO.
+
+
+## KAM-2026-11-26-002 — Catálogo open source e inventário Affitor
+- **Data:** 2026-11-26
+- **Pedido:** executar retomada via NEXT_CHAT_PROMPT e preparar listagem/adaptação das skills Affitor e dos outros repositórios estudados, com resenha.
+- **Executado:** leitura do NEXT_CHAT_PROMPT, BOOTSTRAP, continuidade, RESUME_PACKET, estados e documentos MAK/Affitor; inspeção da árvore e registry Affitor; leitura de READMEs/metadados dos repositórios relacionados.
+- **Descoberta:** 53 skills Affitor em oito categorias; README desatualizado com 52. Catálogo descreve as 53 e oito repositórios adicionais.
+- **Criado:** `PROMPT_VIVO/knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md`.
+- **Atualizados:** knowledge README, Source Ledger S414–S423, Findings, PHASE_03.5, USER_INPUT_LOG, RUN_STATE, RESUME_PACKET e logs/estado operacional.
+- **Decisão:** usar como referência metodológica; criar skills próprias do MAK após auditoria de duplicidade. Nenhum código importado/executado e nenhuma ação externa.
+- **Gate:** PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4/03.3 abertas; PHASE_04 QUEUED/NOT_STARTED.
+- **Persistência:** commits individuais confirmados após gravação.
