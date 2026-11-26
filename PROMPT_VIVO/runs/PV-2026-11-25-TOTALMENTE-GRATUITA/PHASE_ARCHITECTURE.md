@@ -155,3 +155,12 @@ Escopo: comparar B2C, profissionais independentes, micro/pequenos negócios e em
 **Regra:** "todos os públicos" significa investigar todos os segmentos, não tentar vender tudo a todos ao mesmo tempo. A seleção posterior será baseada em evidência e no melhor caminho de execução, não em preferência prévia.
 
 **Decisão de fase:** PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED. Nenhum negócio, nicho ou oferta aprovado; nenhuma ação externa autorizada.
+
+
+## PA-020 — Rodada 18: profissionais independentes e comprador intermediário
+**Data:** 25/11/2026. **Fontes:** S186–S196.
+- Briefs de assistente virtual e apoio operacional demonstram demanda, mas concorrência extrema em marketplace.
+- Agências aparecem como compradoras intermediárias de execução/organização, com possibilidade de fee mensal; escopos exigem ferramentas, comunicação, prazos e às vezes formalização.
+- PMEs não devem ser tratadas como compradoras fáceis: pesquisa Serasa indica cautela na expansão de equipe e baixa intenção de contratação flexível.
+- Confiança e prova são transversais; porte maior formaliza mais o processo.
+**Decisão:** manter PHASE_03.2 CONTINUE. Investigar canais não leilão e microentregas operacionais demonstráveis; não aprovar agência/segmento sem evidência de aquisição e margem.
