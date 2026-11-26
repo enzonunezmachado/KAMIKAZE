@@ -140,3 +140,23 @@ Nenhuma oportunidade foi aprovada, candidatura enviada, formulário preenchido, 
 - TELUS: taxa baixa e critérios exigentes de residência/inglês; não priorizar sem confirmar requisitos pessoais.
 - Clickworker: somente após confirmar registro Brasil, método de pagamento e existência de tarefas.
 Nenhuma candidatura ou cadastro realizado.
+
+## 23. Rodada 10 — OneForma Freya, TSMG QC e auditoria de vagas YPAI (S120–S124)
+### Melhor pista atual de trabalho remoto com PT-BR
+- **OneForma Freya (S120):** a página global oficial lista Portuguese (Brazil) entre 36 idiomas abertos; a página oficial indexada para PT-BR anuncia US$6 por hora de áudio, sem experiência ou diploma. Trabalho: transcrever podcasts longos, marcar falantes, timestamps e áudio sintético. Requer português nativo/quase nativo, computador, internet e fones. Lotes semanais, first-come-first-served, volume variável; taxa é por hora de áudio, não por hora efetiva de trabalho.
+- **Pagamento OneForma (S121):** PayPal/Payoneer/Tipalti, dependendo da conta e país, com status Connected obrigatório; pagamentos dia 15 e último dia do mês, para tarefas aprovadas nos períodos correspondentes, processamento 1–3 dias úteis; mínimo US$25. Para receber até 6/12, seria necessário qualificar-se e completar/ter tarefas aprovadas antes do fechamento do ciclo, além de atingir o mínimo. Isso não é garantido. Confirmar que PayPal/Payoneer está disponível para Brasil antes de investir tempo.
+- Atenção: a página local específica apresentou conteúdo incoerente ao abrir (conteúdo de American English), embora a página global liste PT-BR e o resultado oficial específico informe US$6. O fluxo de candidatura/conta deve confirmar o locale e a taxa antes de aceitar.
+### Outra tarefa de QA linguístico
+- **TSMG Quality Control Specialist (S122):** remoto no Brasil; revisão de transcrições e normalização de texto; treinamento e guidelines fornecidos; experiência prévia é diferencial, não requisito. Formulário confirma remuneração por trabalho validado, não horas reais; carga diária selecionável inclui menos de 2h. Taxa, volume e prazo de pagamento não publicados. Pode desenvolver experiência real, mas não contar como receita antes de conhecer a taxa por peça e medir tempo.
+### Auditoria YPAI
+- **S123:** resultados de busca indicam diversas vagas brasileiras abertas a R$30–50/h, mas páginas oficiais de Text/NLP Annotator, Conversational Speech Contributor e Photo Contributor exibem “This position is closed” quando abertas diretamente. O catálogo geral atualmente aparece filtrado para EUA. Não contar vagas YPAI remotas no Brasil como ativas sem confirmação no fluxo de candidatura.
+- **S124:** há anúncios para coleta presencial na cidade de São Paulo (Field Collection Operator e Capture Rig Operator) com taxa indicativa R$30–50/h e pagamentos quinzenais após aprovação; rig operator exige experiência em câmera/áudio/sensor. Field Operator é mais operacional, mas exige deslocamento, coordenação e projeto confirmado. Sem confirmação do status ao vivo, não priorizar ainda.
+### Hierarquia provisória atualizada
+1. **OneForma Freya PT-BR:** melhor equilíbrio entre tarefa definida, sem experiência, taxa local publicada e calendário de pagamento. Ainda depende de qualificação, disponibilidade de lotes, aprovação e método de saque brasileiro.
+2. **CrowdSource Labs:** R$200 por participante, mas a rodada inicial tem data passada; aguardar novo lote.
+3. **Fera Comunicação:** coordenação operacional compatível com organização, mas remuneração e horas desconhecidas e responsabilidade de cliente.
+4. **RWS Search Evaluator:** até US$6/h, mas exige inglês fluente e mínimo de horas.
+5. **TSMG QC:** potencial experiência em QA e pouca barreira formal, mas pagamento por trabalho validado sem taxa publicada.
+6. **Lionbridge áudio:** US$10/h anunciados, sem volume ou ciclo de pagamento confirmado.
+7. **TELUS/Welo:** exigências de inglês, residência, exclusividade ou carga; não priorizar sem confirmar adequação.
+8. **YPAI remoto Brasil:** status inconsistente/fechado em páginas oficiais; não contar como vaga aberta.
