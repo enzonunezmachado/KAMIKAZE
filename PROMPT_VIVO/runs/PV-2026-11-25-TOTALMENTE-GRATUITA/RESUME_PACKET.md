@@ -237,3 +237,16 @@ S186–S196: briefs de assistência virtual e apoio operacional mostram problema
 - Recrutamento envolve experiência e dados pessoais; não sugerir recolha/triagem informal de currículos ou documentos sensíveis.
 - Priorizar pesquisa de nichos subatendidos, curadoria/organização não sensível e parceria com agências/recrutadores; validar disposição a pagar e canal fora de marketplace.
 - PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Nenhum produto/oferta aprovado; nenhum contato ou ação externa; receita R$0, despesas R$0.
+
+
+## 20. Rodada 20 — PHASE_03.3 Community-Led Market Validation (S215–S223; 26/11/2026)
+- Foi criada PHASE_03.3 como subfase investigativa da PHASE_03.2 para testar a aquisição por comunidades e a hipótese FREELANCER_CONVERSION_INTELLIGENCE.
+- **Concorrente direto:** Scoutly anuncia alertas Workana/99Freelas/Freelancer.com, score, análise de concorrência e propostas IA por R$27,90/mês, além de plano grátis limitado. Métricas de 50 mil projetos/mês, 18s e depoimentos são alegações do próprio fornecedor, sem validação independente (S215).
+- **Substituto gratuito forte:** Workaholic é extensão open-source que agrega múltiplas plataformas, aplica filtros e score de skills, envia alertas e mantém CRM local; 63 stars/10 forks no momento. Não há prova de usuários ativos/compradores (S216).
+- Upwork já oferece alertas instantâneos no Freelancer Plus com base em propostas anteriores; 99Freelas já tem notificações de projetos e estados de propostas (S217–S218).
+- Relatos de freelancers mostram dor real de baixa resposta/primeiro cliente, mas canais de aquisição são diversos: indicação, networking, grupos, prospecção e marketplaces. Não são estatísticas representativas (S219–S220b).
+- Uma vaga remunerada da elOS oferece R$1.500/mês por cerca de 8h/semana para participação e aquisição em comunidades; isso prova que community-led growth é um serviço comprado, não que nosso produto converterá (S221).
+- VagasUX proíbe vendas, DMs não solicitadas e pesquisa fora dos canais designados (S222). Regras variam por comunidade; grupos específicos/moderados são preferíveis aos genéricos (S223).
+- **Conclusão:** não criar clone genérico de alertas/propostas. A categoria ampla tem concorrente direto e substitutos grátis; não é possível afirmar saturação total ou vendas dos concorrentes. Investigar se existe lacuna vertical de decisão/curadoria não resolvida.
+- Estratégia comunitária só deve ser transparente: participação real, contribuição útil, divulgação de vínculo quando pertinente, autorização/moderação e respeito às regras. Nada de depoimento, pagamento, uso ou resultado inventado.
+- PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Nenhum contato, post, cadastro, demo, anúncio ou gasto. Receita R$0; despesas R$0.
