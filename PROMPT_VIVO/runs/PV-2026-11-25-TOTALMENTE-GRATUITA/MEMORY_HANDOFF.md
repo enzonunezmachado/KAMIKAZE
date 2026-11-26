@@ -105,3 +105,5 @@ US$25 mínimos de pagamento equivalem a ~4h10 de áudio aprovado e cerca de 16h4
 ## Rodada 12 — OneForma email collection e privacidade
 OneForma Online Shopping Email Collection está aberta para Brasil/PT-BR, sem experiência, paga por email aprovado; exige ao menos três mensagens .eml originais do mesmo pedido de produto físico entregue desde 2024. Taxa por email no Brasil não está publicada. O .eml mantém remetente, destinatário, assunto, corpo e data/hora; a plataforma diz que pode ocultar dados pessoais após upload, mas não detalha suficientemente o que é mascarado, quando, quem acessa, uso e retenção. Classificar BLOQUEADA POR PRIVACIDADE até esclarecimento. Não enviar emails, anexos ou dados pessoais.
 DataForce Mosaic não aceita PT-BR na lista de idiomas; TELUS Internet Safety Evaluator está fechado. Gate CONTINUE; nenhuma ação externa.
+
+OneForma payment policy has a contradiction (S130): homepage says no minimum payout; Help Center says US$25. Do not assume either for the specific project until account/project terms confirm.
