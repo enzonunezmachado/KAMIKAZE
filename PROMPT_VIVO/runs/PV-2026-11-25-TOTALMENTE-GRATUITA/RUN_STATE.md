@@ -73,3 +73,10 @@
 - Mínimo OneForma US$25 exigiria ~4h10 de áudio aprovado, cerca de 16h40 de trabalho no cenário 4:1, antes de onboarding/revisão.
 - Páginas OneForma divergem: Freya v2 lista PT-BR e não exige experiência; outra página de projeto exige experiência e lista somente cinco países; página pt_BR abriu conteúdo incoerente. Elegibilidade de iniciante não confirmada.
 - OneForma continua hipótese, mas não deve ser priorizada como renda rápida sem confirmar o formulário e medir produtividade. Gate CONTINUE; nenhuma candidatura/teste.
+
+## Rodada 12 — 25/11/2026 (S127–S129)
+- OneForma Online Shopping Email Collection: aberta no Brasil/PT-BR, sem experiência, paga por email aprovado; exige 3+ mensagens originais .eml do mesmo pedido de produto físico entregue desde 2024.
+- Valor por email PT-BR não publicado; emails rejeitados não pagam; projeto requer manter remetente, destinatário, assunto, corpo e data/hora originais.
+- A plataforma diz que pode detectar/ocultar dados pessoais após upload, mas não esclarece suficientemente uso/retention/mascaramento específico. Classificada BLOQUEADA POR PRIVACIDADE; não enviar emails ou dados.
+- DataForce Mosaic não aceita PT-BR na lista de idiomas; TELUS Internet Safety Evaluator está fechado.
+- Gate CONTINUE; nenhuma candidatura, email, dado ou formulário enviado.
