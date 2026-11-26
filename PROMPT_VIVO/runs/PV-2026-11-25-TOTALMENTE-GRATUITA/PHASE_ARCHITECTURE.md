@@ -100,3 +100,14 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Lionbridge: survey de US$10 exige smartphone não Android; incompatível com dispositivo conhecido.
 - Fera: vaga recente atualizada como oportunidade de coordenação com remuneração/volume não divulgados.
 **Decisão:** manter PHASE_03.1 em CONTINUE; nenhuma fase encerrada e nenhum contato/candidatura. PHASE_04 permanece QUEUED/NOT_STARTED.
+
+
+## PA-014 — plataformas de avaliação e coordenação de qualidade
+**Data:** 25/11/2026  
+**Motivo:** investigar oportunidades remotas com instruções, critérios de qualidade e pagamento por tarefa, incluindo trabalho de avaliador e suporte de coordenação.
+**Fontes:** S116–S119.
+- RWS Search Evaluator: até US$6/h, Brasil, sem experiência obrigatória, mas inglês fluente e mínimo de horas; PayPal/banco, ciclo não confirmado.
+- TELUS: cerca de US$5/h estimados, mas inglês profissional, residência de 3–5 anos e pagamento variável por tarefa.
+- Clickworker: pagamentos semanais e mínimos publicados, mas disponibilidade de método/registro no Brasil é individual.
+- Welo Junior Quality Coordinator: coordenação de QA 20h/semana, inglês forte, dedicação exclusiva e remuneração não divulgada.
+**Decisão:** manter PHASE_03.1 em CONTINUE. Não iniciar candidatura nem assumir inglês, elegibilidade ou recebimento sem confirmação.
