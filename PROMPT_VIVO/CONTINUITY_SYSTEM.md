@@ -150,3 +150,13 @@ Não perguntar qual fase vem depois. Executar bootstrap/auditoria, incorporar o 
 - [ ] NEXT_CHAT_PROMPT continua válido e não depende de contexto oculto.
 
 **Regra final:** a sessão só está pronta para transferência quando outra IA, sem acesso ao chat anterior, consegue identificar o que estamos fazendo, por que estamos fazendo, o que já foi demonstrado, o que ainda falta e qual é a próxima ação — sem pedir ao usuário que reconte a história.
+
+
+## 11. Módulos dormentes e acionadores de ativação
+O índice `PROMPT_VIVO/knowledge/README.md` pode apontar módulos futuros com estado DORMANT e seus documentos de acionamento. Durante o bootstrap, compare a mensagem atual do usuário com esses acionadores. Quando houver intenção clara:
+1. ler integralmente o documento do acionador;
+2. apresentar escopo, etapas, riscos, recursos, custos e entregáveis;
+3. solicitar a confirmação expressamente definida;
+4. respeitar gates adicionais por ação (contas, integrações, publicações, gastos);
+5. registrar a ativação e atualizar estado/logs.
+Não ativar por menções exploratórias, perguntas gerais ou pesquisa sem pedido de implementação.
