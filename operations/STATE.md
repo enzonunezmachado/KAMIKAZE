@@ -19,6 +19,8 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Pesquisa de mercado/concorrência é hipótese prioritária em investigação, não escolha definitiva.
 - O usuário autorizou um controlador adaptativo: toda solicitação de continuidade exige auditoria de completude; não avançar mecanicamente.
 - Comentários, correções e novas preferências do usuário podem alterar a pesquisa e a próxima ação; registrar em USER_INPUT_LOG.md.
+- O responsável está começando e não tem experiência profissional prévia nas áreas pesquisadas: avaliar capacidade real, curva de aprendizagem, credibilidade honesta, reuniões/postura, riscos e requisitos legais/idade; nunca sugerir fingir experiência.
+- O usuário autorizou pesquisa mais aprofundada, sem pressa artificial: triangular fontes, buscar contraprovas e seguir perguntas decisivas até saturação ou checkpoint.
 - Para novo chat, executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md antes de continuar.
 - PHASE_03.1 está em andamento porque a Fase 03 deixou lacunas críticas. PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED, não executada.
 - Investigar serviço pontual e sistema de monitoramento recorrente assistido por IA; não prometer pesquisa literalmente infinita nem construir antes de validar uso e pagamento.
