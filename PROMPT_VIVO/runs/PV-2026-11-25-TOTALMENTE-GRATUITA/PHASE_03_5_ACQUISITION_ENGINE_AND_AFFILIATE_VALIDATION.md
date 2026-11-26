@@ -248,3 +248,27 @@ Atendendo ao pedido de investigar pessoas que construíram produtos/aplicações
 - **Bloqueio crítico:** demo sem login; endpoints examinados não mostram autenticação/autorização nem isolamento tenant. Same-origin não substitui auth; clientes externos sem Origin continuam permitidos. Não usar dados reais antes de implementar autenticação, autorização, backups e testes.
 - AppJet Terms/Privacy: código/interações não usados para treino e código não retido após coding segundo fornecedor; dados EUA/inferência Canadá; credenciais e variáveis de ambiente são processadas; serviço sem garantia de disponibilidade e pode suspender contas. Não enviar secrets ou dados sensíveis na avaliação.
 - A inspeção foi somente leitura; testes não foram executados e não houve pentest. S451–S453 adicionados ao suplemento de fontes.
+
+
+## Rodada 34 — serviços tecnológicos locais assistidos por IA (26/11/2026)
+
+O usuário propôs uma linha de negócio local: encontrar pequenos negócios na região, diagnosticar a maturidade digital e oferecer soluções simples e personalizadas, com implantação competitiva e manutenção mensal fixa. O objetivo inicial é fechar um primeiro cliente, ganhar experiência e construir portfólio.
+
+Documento de trabalho: `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fontes S454–S466 em `SOURCE_LEDGER_SUPPLEMENT_S454_S466.md`.
+
+### Achados
+- Solutudo lista 62 pizzarias em Taboão da Serra; diretórios locais fornecem nomes, telefones e endereços, mas registros podem estar desatualizados. Lista exploratória inclui Dinomarkis, Bonaiute, Banana Pizzaria 1000 Graus, Pizzaria Souza, Laroc, União e Jardim Salete.
+- Presença digital precisa ser auditada negócio a negócio. Paiva Pizzas já apresenta Instagram, pedido online Saipos, WhatsApp e telefone fixo; Skina da Pizza tem página WABiz; Bom Sucesso tem Linktree, WhatsApp e iFood. Esses casos demonstram risco de oferecer algo redundante.
+- Google Maps/Places: termos proíbem scraping, cópia e exportação de conteúdo do Maps para CRM/base externa. Usar interface manualmente como ponto de descoberta e validar por fontes próprias/diretórios licenciados; não construir scraper, crawler ou extensão.
+- WhatsApp Business: não assumir que telefone público autoriza mensagem fria. Política exige comunicação esperada, opt-in adequado, opt-out e controle de frequência. Preferir visita/ligação comercial breve/e-mail/formulário para pedir permissão antes de enviar apresentação; sem disparos ou automação fria.
+- LGPD: dado público ainda exige finalidade e necessidade; legítimo interesse pede teste de balanceamento (finalidade, necessidade, balanceamento e salvaguardas) e não se aplica a dados sensíveis.
+- Oferta por maturidade: presença básica → página/contato; social/WhatsApp → catálogo/cardápio; operação inicial → site/fluxo; operação estruturada → automação específica; operação avançada → integração após diagnóstico.
+- Preços iniciais foram registrados apenas como hipóteses experimentais (implantação R$300–900 conforme pacote e manutenção R$59–149/mês); precisam validação de mercado, custo e tempo antes de oferecer.
+- Portfólio sugerido: demo fictícia de pizzaria, barbearia e prestador/oficina, identificadas como demonstrações e sem alegar clientes/resultados reais.
+
+### Guardrails
+- Nenhuma empresa foi contatada, nenhuma mensagem/ligação enviada, nenhuma conta criada e nenhum serviço vendido.
+- Não usar IA para inventar problemas, inferir renda ou situação de CNPJ, nem para decidir maturidade só por aparência.
+- Não recolher telefones pessoais, CPF ou dados desnecessários. Não usar dados de Maps para treinar modelos.
+- Não publicar ou implantar sem aprovação explícita. Cliente deve manter titularidade de domínio/contas e custos externos devem ser transparentes.
+- PHASE_03.5 permanece IN_PROGRESS/CONTINUE; não iniciar PHASE_04 nem alterar orçamento R$0.
