@@ -22,3 +22,6 @@
 - Última rodada de PHASE_03.1: S067–S070 adicionam evidência de indicação/pares e canais institucionais, mas ainda indireta para venda de relatório competitivo; gate permanece CONTINUE.
 
 - Rodada 4 S071–S075: evidência de contratação concluída para comparação de catálogo/preços, pricing competitivo, curadoria de produtos e síntese de tendências; recorrência foi solicitada em alguns briefs, mas recompra efetiva não demonstrada. Gate continua CONTINUE.
+
+- Novo critério humano (25/11/2026): responsável iniciante, sem experiência profissional prévia nas áreas pesquisadas. Toda oportunidade deve passar por avaliação de capacidade real, curva de aprendizagem, credibilidade exigida, reuniões/postura, riscos, requisitos legais e progressão de baixo risco. Não sugerir fingir experiência. Ver RESEARCH_PLAN.md e USER_INPUT_LOG.md.
+- Profundidade: usuário autorizou pesquisa mais demorada e aprofundada; usar varredura + aprofundamento + fontes primárias + triangulação + contraprovas + análise de comprador/canal/entrega/pagamento. Não otimizar só por velocidade nem inventar duração fixa.
