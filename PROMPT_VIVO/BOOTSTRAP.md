@@ -3,7 +3,9 @@
 **Obrigatório** sempre que a conversa for nova, o usuário pedir continuidade, mencionar trabalho anterior ou disser “continua/próxima”.
 
 ## 0. Carregar o sistema de continuidade
-Leia primeiro:
+Leia primeiro `PROMPT_VIVO/CURRENT_WORK.md`. Ele é o ponteiro canônico para o último trabalho substantivo desenvolvido/atualizado e para a próxima ação. Não use a fase mais alta ou o arquivo com data mais recente como substituto desse ponteiro.
+
+Leia também:
 1. `PROMPT_VIVO/CONTINUITY_SYSTEM.md`
 2. `PROMPT_VIVO/MASTER_PROMPT.md`
 3. `PROMPT_VIVO/EXECUTION_PROTOCOL.md`
