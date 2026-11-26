@@ -151,3 +151,11 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Gate PHASE_03.1 CONTINUE; nenhuma candidatura/email/formulário enviado.
 
 - OneForma: homepage diz que não há mínimo de saque, Help Center informa US$25; mínimo e ciclo específicos do projeto não confirmados (S130).
+
+
+## Rodada 15 — 25/11/2026
+- Pesquisa em fluxo consolidado, conforme preferência do usuário.
+- Hub Data é candidata condicional de renda imediata: página oficial indica US$5/h residencial / US$6/h no trabalho por hora aprovada, Pix após crédito, kit grátis e elegibilidade 18+ nas Américas; valores e disponibilidade devem ser conferidos no app (S147).
+- Risco central: cessão/licenciamento de gravações e impossibilidade de retirar vídeos já licenciados; termos integrais ainda não foram verificados (S148). Não criar conta/gravar sem aprovação explícita.
+- YPAI fechada; CSL lote inicial expirado; OneForma China-only; OpenTrain sem payout Brasil. Nenhuma oportunidade escolhida.
+- PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Receita R$0, despesas R$0, nenhuma ação externa.
