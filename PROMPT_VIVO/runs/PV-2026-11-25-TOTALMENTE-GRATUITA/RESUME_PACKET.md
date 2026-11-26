@@ -201,3 +201,12 @@ Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma sínt
 - HubData.ia.br é site independente e lista compatibilidade Galaxy S21+, Pixel 6+, iPhone 12+ e taxas distintas; validar no app, sem presumir compatibilidade do aparelho do usuário (S150).
 - YPAI fechada; CSL lote inicial vencido; OneForma projeto PT-BR-China somente para China; OpenTrain sem payout para Brasil; 99Freelas novos pedidos têm competição/escopo intermediário (S144–S153).
 - A trilha de tarefas pagas é auxiliar à missão imediata, não substitui a investigação principal do serviço de inteligência comercial.
+
+
+## Rodada 16 — decisões e direção atualizada
+- Hub Data REJECTED_BY_USER. Não sugerir novamente.
+- Manhua reading não priorizada: copyright/reused content, limiares de YPP e produção longa. Só reabrir em formato de análise original com uso autorizado de imagens.
+- Dados Sebrae/Cetic mostram presença WhatsApp, baixa adoção de CRM e lacunas de decisão; Upwork/Fiverr indicam demanda crescente por integração/QA/dados, mas não comprovam acesso fácil a iniciantes.
+- Jobs atuais: pesquisa de preço/fornecedores é comprada, mas exemplos específicos exigem PE/BA ou inglês bom; edição de Reels tem competição alta; planilhas genéricas têm 696 propostas; automação WhatsApp complexa; edição gamer nichada teve competição inicial menor.
+- Melhor linha a aprofundar: pesquisa comercial online de nicho com fontes públicas e entregável estruturado, combinada com pequenos serviços operacionais específicos; conteúdo é hipótese secundária.
+- Continuar PHASE_03.1; PHASE_04 não iniciou. Próxima rodada: procurar projetos de pesquisa remota que aceitem Brasil/sem inglês fluente, extrair faixas de preço e mapear nichos com dados acessíveis; testar concorrência de microentregáveis e caminhos de distribuição.
