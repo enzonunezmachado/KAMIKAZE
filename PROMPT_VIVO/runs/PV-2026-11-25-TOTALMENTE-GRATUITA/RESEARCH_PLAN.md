@@ -70,3 +70,37 @@ A evidência de compra ficou mais concreta: foram encontrados projetos concluíd
 A hipótese deve ser refinada de “relatório de concorrentes” para “pesquisa aplicada a uma decisão ou rotina empresarial”, sem escolher ainda o segmento. Exemplos de decisão: preço de SKU, seleção de fornecedores/produtos, mudança de posicionamento, monitoramento de mudanças ou síntese de tendências. Não assumir competências tributárias, marketplace avançado ou cliente oculto.
 Canais: dados Serasa/Sebrae sustentam indicação, pares, networking, conteúdo e relacionamento como caminhos gerais de descoberta; ainda falta evidência de aquisição específica de um serviço de pesquisa por esses canais. Não abordar ninguém.
 Gate: CONTINUE PHASE_03.1. Próximo foco: identificar uma hipótese estreita de baixa barreira e alta verificabilidade, com comprador e gatilho temporal claros; encontrar evidência de canal sem leilão e recompra; comparar risco, esforço e prazo de recebimento. PHASE_04 segue QUEUED/NOT_STARTED.
+
+
+## Novo critério obrigatório — adequação ao operador (25/11/2026)
+
+O responsável está começando e não possui experiência profissional prévia nas áreas que estão sendo investigadas. Não presumir domínio de vendas, marketing, programação, consultoria, pesquisa, gestão, negociação, atendimento ou reuniões profissionais. A oportunidade precisa ser viável para uma pessoa iniciante, não para um freelancer sênior imaginário.
+
+Para cada hipótese que chegar à shortlist, avaliar:
+1. **Competência atual:** quais tarefas o responsável já consegue executar com qualidade demonstrável?
+2. **Curva de aprendizagem:** o que precisa aprender, por quais recursos gratuitos e em quanto tempo plausível?
+3. **Prova de capacidade:** como demonstrar qualidade sem inventar experiência, cases, clientes, certificações ou resultados?
+4. **Credibilidade exigida:** o comprador espera um especialista, histórico, portfólio, certificação, referências ou domínio de setor?
+5. **Contato profissional:** há reunião, apresentação, negociação, atendimento ou ambiente que exija experiência/postura específica? Qual preparação concreta seria necessária?
+6. **Risco e responsabilidade:** qual dano um erro pode causar? Há dados sensíveis, decisões financeiras/jurídicas, segurança, contratos ou obrigações que exigem supervisão?
+7. **Idade e proteção:** avaliar requisitos legais e de plataforma, contratos, recebimentos, exposição pública, reuniões presenciais/online e necessidade de participação de responsável adulto. Não presumir elegibilidade legal nem sugerir ocultar idade ou identidade.
+8. **Progressão:** é possível começar com tarefa pequena, escopo claro, revisão/supervisão e risco baixo, acumulando experiência real antes de assumir complexidade?
+
+Não recomendar que o responsável se apresente como especialista ou simule autoridade. Preferir transparência profissional: explicar o que oferece, o que não oferece, como verifica o trabalho e quando precisa consultar alguém mais experiente. Se a oportunidade só funcionar com reputação ou conhecimento que ele ainda não tem, marcar como INADEQUADA AGORA, mesmo que exista demanda.
+
+## Profundidade de pesquisa — padrão aprofundado por padrão
+
+O usuário autorizou dedicar mais tempo e profundidade à pesquisa. Não otimizar apenas por velocidade de resposta. Para cada pergunta que possa alterar a seleção de oportunidade:
+- fazer uma primeira varredura ampla e depois aprofundar os melhores sinais;
+- abrir fontes originais e verificar datas, escopo, status e contexto;
+- triangular com mais de um tipo de fonte independente sempre que possível (ex.: contratação concluída, comprador, concorrente, comunidade, dado setorial, política/plataforma);
+- buscar explicitamente contraprovas, reclamações, alternativas gratuitas, sinais de baixa disposição a pagar e motivos de fracasso;
+- distinguir oferta anunciada, procura declarada, contratação concluída, recompra observada e receita efetivamente recebida;
+- investigar o caminho completo: comprador, gatilho, orçamento, decisão, canal de descoberta, confiança, entrega, pagamento líquido e prazo para receber;
+- avaliar qualidade e atualidade dos dados, vieses da amostra e o que não pode ser inferido;
+- comparar alternativas e não se apaixonar pela primeira hipótese promissora;
+- registrar consultas/linhas pesquisadas, fontes relevantes, evidências negativas e lacunas para evitar repetição entre chats.
+
+Não impor uma quantidade artificial de minutos ou fontes. A profundidade é adaptativa: continuar enquanto uma pergunta decisiva puder ser respondida com ganho material; parar quando houver saturação, baixa utilidade marginal, bloqueio de acesso ou contraprova suficiente. Se a sessão precisar terminar, salvar checkpoint e continuar em outra rodada — não comprimir a pesquisa para caber em uma resposta curta.
+
+A meta imediata de R$150 até 06/12/2026 continua sendo objetivo, não justificativa para pular validação, assumir risco desproporcional ou vender algo que o responsável não sabe entregar.
