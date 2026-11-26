@@ -68,11 +68,16 @@ Continuar PHASE_03.3: auditar reviews/falhas independentes de Scoutly e alternat
 - PROMPT_VIVO/BOOTSTRAP.md e MASTER_PROMPT.md
 - RUN_STATE.md, PHASE_CONTROL.md, PHASE_ARCHITECTURE.md
 - RESEARCH_PLAN.md, MEMORY_HANDOFF.md, USER_INPUT_LOG.md
+- PHASE_03_3_COMMUNITY_LED_MARKET_VALIDATION.md e PHASE_03_3_CHECKPOINT.md
+- PHASE_03_2_BUYER_SEGMENTATION_AND_ACCESS.md
 - PHASE_03_1_PURCHASE_EVIDENCE.md e PHASE_03_1_CHECKPOINT.md
 - SOURCE_LEDGER.md, FINDINGS.md, OPEN_QUESTIONS.md, VALIDATION_MATRIX.md
 - RESOURCE_BUDGET_POLICY.md
 
 Não repetir S054–S066 sem motivo; abrir as fontes originais quando necessário.
+
+## Rodada 21 — atualização de retomada (26/11/2026)
+A crítica à amostra de um único comprador foi incorporada. S227–S244 identificam mais de dez relatos públicos de compra/renovação/uso de recursos e planos em 99Freelas, Workana e Upwork. Compra da categoria está qualitativamente demonstrada; SaaS independente multi-plataforma, retenção e eficácia não. Há reembolsos/cancelamentos e valor percebido misto. S243 mostra demanda declarada por curadoria humana a US$15–30/h, mas exige histórico de Upwork e não é fit imediato. Ver PHASE_03_3_CHECKPOINT.md e SOURCE_LEDGER.md.
 
 ## 9. Rodada 3 — aquisição sem leilão (S067–S070)
 - S067: pesquisa Serasa Experian com 313 PMEs: 47% buscam parceiros/outros empreendedores; 40% conversam com pessoas do ramo; 31% usam artigos/notícias em buscadores; 15% contrataram consultoria para melhorar o negócio. Evidência de canais gerais, não específica para inteligência competitiva.
