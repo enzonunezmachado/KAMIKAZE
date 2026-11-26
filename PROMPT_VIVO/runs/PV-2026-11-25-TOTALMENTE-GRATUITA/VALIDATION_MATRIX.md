@@ -186,3 +186,18 @@
 | Mínimo de saque | US$25 aprovados | Exigiria ~4h10 de áudio aprovado; cenário 4:1 equivale a ~16h40 de trabalho humano |
 | Requisitos | Página Freya v2: sem experiência; outra página de projeto: exige experiência e lista apenas 5 países | Elegibilidade de iniciante PT-BR precisa confirmação no formulário |
 | Conclusão | Ciclo de pagamento pode caber no calendário, mas volume, aprovação e esforço são incertos | Não prometer R$150 até 6/12; não priorizar pelo valor nominal |
+
+## Hipótese K — OneForma Online Shopping Email Collection (Brasil)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Disponibilidade | Página oficial aberta em 17 países incluindo Brasil, 19 idiomas incluindo PT-BR | Categorias podem fechar quando lotam | Aberta na página pública |
+| Requisitos | 18+, português nativo/fluente, PC, emails próprios de produtos físicos entregues desde 2024; 3+ emails por pedido | Precisa ter histórico elegível em inbox própria | A verificar pelo usuário |
+| Tarefa | Exportar emails originais .eml e enviar por categoria | Arquivo mantém remetente, destinatário, assunto, corpo e timestamp | Simples, mas sensível |
+| Remuneração | Pago por email aprovado; valor depende de país e tipo | Valor PT-BR não divulgado; rejeitados não pagam | Não validada |
+| Pagamento | Calendário geral OneForma: 2 vezes/mês, mínimo US$25, método sujeito a conta | Regra específica do projeto não confirmada | Parcial |
+| Privacidade | Plataforma diz que pode detectar/ocultar dados pessoais após upload | Não esclarece claramente quais dados, momento de mascaramento, retenção/compartilhamento dos .eml | Bloqueio até esclarecer |
+| Veredito | Pode ser mais rápida que transcrição se houver emails elegíveis e taxa adequada | Não enviar dados sem esclarecer privacidade | Potencial, bloqueada por privacidade |
+
+## Exclusões da rodada 12
+- DataForce Mosaic: idiomas elegíveis não incluem PT-BR e requer inglês fluente.
+- TELUS Internet Safety Evaluator: página oficial marcada como vaga não ativa.
