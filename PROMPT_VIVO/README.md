@@ -93,3 +93,7 @@ O Prompt Vivo é uma infraestrutura metodológica do Kamikaze, não um negócio 
 ## 8. Regra de evolução
 
 O sistema deve evoluir quando houver evidência de que uma instrução, método, ferramenta ou estrutura pode melhorar resultados. Toda mudança relevante deve ser registrada em `CHANGELOG.md`, com motivo, arquivos afetados, benefício esperado e possíveis efeitos colaterais.
+
+
+## 9. Continuidade e histórico de sessões
+O sistema obrigatório de continuidade está em [CONTINUITY_SYSTEM.md](CONTINUITY_SYSTEM.md). O texto pronto para colar em uma conversa nova está em [NEXT_CHAT_PROMPT.md](NEXT_CHAT_PROMPT.md). O histórico global append-only fica em [SESSION_LOG.md](SESSION_LOG.md), e cada execução mantém seu próprio `SESSION_LOG.md`. O `BOOTSTRAP.md` reconstrói o contexto, audita divergências e orienta a retomada. Checkpoints devem sincronizar estado, fontes, achados, handoff, resume packet e logs; nenhuma persistência pode ser alegada sem confirmação de gravação.
