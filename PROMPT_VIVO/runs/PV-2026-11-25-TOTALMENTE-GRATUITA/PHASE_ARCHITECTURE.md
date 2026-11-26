@@ -37,3 +37,11 @@ A arquitetura é dinâmica. PHASE_00–PHASE_05 são referências iniciais, não
 
 ## Regra de atualização
 Toda mudança futura deve registrar motivo, arquivos afetados, dependências e impacto; sincronizar RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG e operations/STATE. Não apagar histórico.
+
+## PA-008 — Terceira rodada: canais de aquisição e urgência
+**Data:** 25/11/2026. **Fontes:** S067–S070.
+- S067 mostra parceiros/pares e conversas setoriais como fontes de informação para PMEs, além de uso de consultoria.
+- S068 reforça WhatsApp como canal operacional dominante em serviços, mas não prova aquisição nem autoriza mensagens não solicitadas.
+- S069 documenta networking, rodadas e agentes B2B no programa subsidiado Move+ do Sebrae.
+- S070 oferece referência de escopo profissional de pesquisa, sem comparação direta de preço.
+**Decisão:** CONTINUE PHASE_03.1. Canais gerais de confiança são plausíveis; canal específico para vender benchmarking ainda não foi demonstrado. Fase 04 continua QUEUED/NOT_STARTED.
