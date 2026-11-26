@@ -164,3 +164,9 @@ Linha auxiliar de renda de curto prazo (sem substituir a hipótese de inteligên
 
 ## Rodada 18 — profissionais independentes e B2B (S186–S196)
 Assistência virtual, organização e operação de conteúdo foram encontradas em briefs reais, mas com competição de 100–447 propostas/interessados. Agências compradoras intermediárias podem oferecer trabalho operacional recorrente com estratégia e materiais fornecidos, mas exigem confiabilidade, comunicação, ferramentas e prazos. PMEs mostram cautela com contratação de equipe; grandes empresas exigem processos e prova. Próxima rodada: aquisição fora de marketplace (parcerias, comunidades, busca e conteúdo útil), ofertas de entrada com risco baixo e demonstração genérica, preços/tempo efetivos e renovação.
+
+
+## Atualização — Rodada 22 (26/11/2026)
+A PHASE_03.3 permanece ativa. A investigação competitiva mostrou que o agregador/score/proposta genérico está coberto por Scoutly e Workaholic, e que Upwork/Workana impõem restrições severas a automação e scraping. Ferramentas genéricas de análise de brief, scope creep, calculadora, CRM e handoff também existem. Nova micro-nicho a investigar: Workana Profile Readiness/First-30-Days Launch, baseada nos requisitos oficiais de moderação e na dor de espera/reprovação, sem prometer aprovação. Outras ideias ficam em portfolio não aprovado para comparação posterior.
+
+O usuário pediu pesquisa ampla seguida de uma lista de várias ideias e filtro por viabilidade. Restrições: orçamento operacional R$0; não usar limite de cartão ou compromissos financeiros como capital; proteger NEXUS; ChatGPT e Google AI Studio como recursos principais; construtor/banco gratuitos apenas se necessário. Não presumir slot de AI Studio Starter Tier: máximo dois apps ativos e quotas compartilhadas. Priorizar local-first/estático, sem API paga e sem coleta automatizada proibida. Ver RESOURCE_BUDGET_POLICY.md e PHASE_03_3.
