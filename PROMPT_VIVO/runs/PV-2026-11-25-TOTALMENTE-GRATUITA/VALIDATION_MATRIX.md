@@ -201,3 +201,29 @@
 ## Exclusões da rodada 12
 - DataForce Mosaic: idiomas elegíveis não incluem PT-BR e requer inglês fluente.
 - TELUS Internet Safety Evaluator: página oficial marcada como vaga não ativa.
+
+
+## Hipótese L — UserTesting (Brasil)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Elegibilidade | FAQ oficial inclui Brasil em testes novos e clássicos | Pools brasileiros menores; aprovação no practice test necessária | Confirmada geograficamente |
+| Tarefa | Testes de usabilidade, surveys, interação e think-aloud | Convites dependem do perfil e demanda; volume desconhecido | Possível |
+| Remuneração | Valor exibido antes de aceitar cada teste | Não há taxa fixa nem volume garantido | Por convite |
+| Pagamento | PayPal verificado; normalmente 14 dias após teste | Não atende necessariamente à urgência 06/12 | Parcialmente validado |
+| Custos | Cadastro/practice test sem custo | Equipamento, microfone, internet e saque/conversão PayPal | Baixo |
+| Veredito | Boa trilha complementar para testar ao longo do tempo | Não considerar como caixa rápido ou renda estável | Prioridade média |
+
+## Hipótese M — YPAI Data Collection Contributor (Brasil)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Disponibilidade | Página oficial contém banner “This position is closed” | Corpo mantém rótulos antigos “Applications open” | Contraditória; tratar como fechada |
+| Remuneração | Corpo anuncia BRL 30–50/h típicos | Só por convite/projeto e após aprovação; vaga fechada | Não utilizável |
+| Pagamento | Corpo cita PayPal/Wise/banco após aprovação | Não há contrato/projeto ativo confirmado | Não validado |
+| Veredito | Não investir tempo enquanto status contraditório persistir | Não enviar candidatura | Excluída por ora |
+
+## Hipótese N — TSMG QC Specialist
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Processo | Formulário oficial ativo, pede CV, experiência, consentimento e disponibilidade | Não revela taxa ou seleção | Parcial |
+| Pagamento | Por trabalho validado, não hora real | Unidade, preço, tempo, volume, método e ciclo desconhecidos | Modelo confirmado, economics não |
+| Veredito | Pode servir para QA se remuneração efetiva for razoável | Não aceitar sem conhecer pagamento por unidade e retrabalho | Secundária |
