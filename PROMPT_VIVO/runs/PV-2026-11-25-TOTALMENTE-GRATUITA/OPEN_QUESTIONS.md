@@ -74,3 +74,8 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 53. Quais gatilhos de compra têm prazo: abertura/expansão de unidade, lançamento, mudança de preço, entrada em marketplace, seleção de fornecedor ou reação a concorrente?
 54. Em quais categorias há mudanças suficientemente frequentes para um serviço recorrente, e quais evidências de recompra existem?
 55. O canal WhatsApp deve ser usado apenas para atendimento e relacionamento consentido; quais meios inbound/opt-in podem gerar conversas sem spam?
+
+56. Entre as ofertas compradas (comparação de catálogo, pricing, curadoria, tendências), qual tem barreira de habilidade mais baixa e prazo mais curto sem sacrificar qualidade?
+57. Há exemplos de clientes que renovaram ou recompraram serviços de pesquisa/tendências, não apenas pedidos que mencionam frequência?
+58. Como um prestador sem reputação pode conquistar primeiro comprador fora de marketplace: parceria com agência/consultor, conteúdo de busca, comunidade, indicação ou demonstração pública?
+59. Que parte do serviço pode ser padronizada e entregue com fontes públicas, sem NDA, tributação especializada, contato disfarçado ou dados pessoais?
