@@ -139,3 +139,21 @@ Linha auxiliar de renda de curto prazo (sem substituir a hipótese de inteligên
 4. Investigar nichos específicos de edição/produção original, mas não competir genericamente em Reels.
 5. Excluir ofertas de entrada genéricas quando a relação propostas/interessados indicar leilão saturado.
 6. Mapear aquisição fora do marketplace e sinais de demanda repetida, sem publicar/contatar sem aprovação.
+
+
+## Nova frente — PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS (PA-019; 25/11/2026)
+**Pergunta central:** entre pessoas físicas, profissionais independentes, micro/pequenos negócios e empresas estruturadas, quais combinações de comprador + problema + oferta + canal são realisticamente acessíveis a um iniciante que pode aprender e executar, começando com R$0?
+
+**Cobertura obrigatória**
+1. B2C: consumidor final por contexto de necessidade, frequência, urgência, confiança, preço e canal. Distinguir produto digital escalável de serviço individual.
+2. Profissionais independentes: freelancers, criadores, vendedores, consultores e autônomos; investigar gargalos que eles pagam para resolver.
+3. Micro/pequenos negócios: comércio local, alimentação, beleza, serviços, e-commerce e MEIs; mapear gatilhos de compra, canais existentes, autonomia e recorrência.
+4. Empresas estruturadas: pequenas/médias e equipes; mapear processo de compra, autoridade, prova, risco, ciclo e requisitos de fornecedor.
+
+**Para cada combinação:** problema/gatilho; comprador e decisor; frequência; custo de não resolver; capacidade e disposição a pagar; orçamento/benchmark; prova de compra; exigência de confiança; canal de descoberta; concorrência; escopo de entrega; competência necessária e curva de aprendizagem; custos/terceiros; risco de dados/LGPD; ticket; recorrência/retenção; prazo até primeiro pagamento.
+
+**Método:** usar dados oficiais para contexto, projetos reais para sinais de contratação, avaliações/reviews e histórico quando visíveis, entrevistas públicas/comunidades como sinais qualitativos, e contraprovas. Classificar evidência como macro, intenção, anúncio, contratação concluída, recompra ou receita observável. Registrar o que a fonte não prova.
+
+**Não fazer:** não contatar compradores, não enviar proposta, não criar conta, não publicar, não gastar. Não assumir que "empresa paga mais" significa mais fácil; nem que B2C é fácil por ter menos autoridade. Não restringir a pesquisa a sites, pesquisa comercial ou IA.
+
+**Rodada 17:** dados TIC Domicílios 2025/2024; Sebrae 2026; projetos reais 99Freelas de pesquisa, cardápio/site, manutenção mensal; sinais de consumo B2C. Próxima etapa: explorar profissionais independentes e empresas estruturadas, comparar canais e barreiras, procurar prova de compra fora de marketplace e mapear recorrência.
