@@ -327,3 +327,12 @@ Nova hipótese: referral-by-introduction com profissionais conectores. Apresenta
 
 ### Complemento Rodada 29 — workflows n8n
 S399–S401: SankeerthBoddu/n8n-marketing-workflows demonstra padrão de buffer de revisão em Google Sheets, aprovação humana e logging multicanal; é rascunho de referência, não produção validada. signalreason/affiliate-content-automation é pesado e propõe até 1.000 artigos/semana; não adotar. AshmithaRajadurai social manager usa Puppeteer para publicação e precisa auditoria de política/estabilidade. TARA BOT é generalista e afiliado está marcado como futuro. Padrão aproveitável para MAK: IA prepara, humano revisa, publica com autorização e mede.
+
+
+
+
+### Rodada 30 — estudo aprofundado do Affitor (26/11/2026)
+S402 e `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md` documentam auditoria de 53 habilidades/53 entradas de registry no Affitor v1.2.1. O principal aprendizado é a arquitetura modular e o flywheel research → content → distribution → analytics → learning. O MAK incorpora pesquisa antes da produção, verificação em fonte primária, briefs e ângulos baseados em evidência, conteúdo nativo, distribuição aprovada, tracking por etapa e retrospectiva.
+**Expansão central:** o MAK tem duas trilhas: comercial (intenção, compra, payout) e relacional (valor, confiança, conexão consentida, presença útil, lembrança futura, retorno/introdução/compra). Uma pessoa pode não comprar nem indicar agora e ainda assim ter uma experiência positiva que gere lembrança legítima no futuro.
+Limitações do Affitor e decisões de não copiar heurísticas, métricas proxy, claims de viralização, case studies não verificados, recomendações FTC sem adaptação brasileira e automação autônoma foram registradas no documento de estudo.
+Nenhum código foi instalado/executado/importado e nenhuma ação externa foi realizada. PHASE_03.5 e PHASE_03.4 continuam IN_PROGRESS; PHASE_04 não começou.
