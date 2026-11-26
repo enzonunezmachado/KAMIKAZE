@@ -271,3 +271,13 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 
 
 - Atualização 2026-11-26: Affitor auditado em snapshot main; 53 skills canônicas/53 registry entries. Ver documento `knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md` e fontes S403–S413. MAK deve classificar métricas observadas, estimadas, calculadas e heurísticas; não tratar casos numéricos não corroborados como benchmarks; adaptar disclosure a CDC/Decreto/CONAR e regras oficiais; bloquear falsa urgência, bônus inexequíveis e garantias fora do controle.
+
+
+## Atualização de continuidade — 2026-11-26
+- Sistema: `PROMPT_VIVO/CONTINUITY_SYSTEM.md`.
+- Próximo chat: copiar `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`.
+- Logs: `PROMPT_VIVO/SESSION_LOG.md` e `SESSION_LOG.md` nesta execução.
+- O estado detalhado da execução deve ser lido em conjunto com PHASE_CONTROL, PHASE_ARCHITECTURE, RESUME_PACKET e MEMORY_HANDOFF; divergências devem ser reconciliadas antes de pesquisar.
+- **Frentes ativas:** PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS. PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE. PHASE_04 QUEUED/NOT_STARTED.
+- **Próxima ação global:** continuar PHASE_03.5 na inspeção e adaptação de skills do Affitor e validação de afiliados/aquisição, mantendo PHASE_03.3 e 03.4 como linhas paralelas abertas; auditar completude antes de selecionar a trilha de trabalho da próxima rodada.
+- **Persistência:** manter checkpoint após cada lote relevante e antes de transferir a conversa.
