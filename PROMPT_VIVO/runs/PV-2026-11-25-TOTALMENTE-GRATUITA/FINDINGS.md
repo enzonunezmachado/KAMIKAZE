@@ -223,3 +223,24 @@ A homepage OneForma afirma que não há mínimo de saque, enquanto o Help Center
 
 ### Revisão da classificação UserTesting
 A Hipótese L deve ser mantida apenas como alternativa condicional, não prioridade média: Brasil elegível geograficamente, mas fluência em inglês/francês/alemão exigida na entrada, pool brasileiro pequeno e pagamento em 14 dias. Não investir esforço no practice test enquanto o requisito de idioma não for claramente atendido.
+
+
+## 21. Rodada 15 — alternativas de recebimento curto e auditoria de disponibilidade (25/11/2026)
+
+### Descoberta principal: Hub Data merece avaliação prioritária, com ressalvas importantes
+- A página oficial Hub Data informa pagamento por hora de gravação aprovada, não simplesmente tempo gravado: US$5/h em casa e US$6/h no trabalho, com conversão exibida de R$25/R$30; saques por Pix instantâneo ou transferência bancária via Dots; kit inicial gratuito; elegibilidade 18+ nas Américas. Os valores válidos são os exibidos na conta/app e a página foi verificada em 12/09/2026 (S147).
+- O site independente hubdata.ia.br apresenta valores maiores e uma lista de compatibilidade de celulares, mas identifica-se como divulgação independente. Não usar sua tabela de R$15–67,50 como promessa nem como taxa oficial; confirmar modelo de celular e valores no app (S150).
+- Um relato independente do Ajudo descreve pagamentos Pix recebidos e aproveitamento de 83% dos envios pelo autor, mas o artigo contém links de indicação/comissão. É corroboração de que a operação pode pagar, não garantia de disponibilidade ou rendimento para o usuário (S149).
+- O custo não é dinheiro, mas há custo de privacidade/direitos: a Hub declara que gravações podem ser licenciadas para clientes e que gravações já inseridas em datasets licenciados não podem ser retiradas; a empresa diz remover/anonimizar dados pessoais antes do uso. Não gravar pessoas, crianças, documentos, telas ou locais sem autorização. Termos integrais não puderam ser abertos no navegador durante esta rodada (S148).
+- A meta de R$150 equivaleria, na taxa oficial indicativa residencial de R$25/h aprovada, a 6 horas aprovadas, sem considerar recusas/tempo de preparação. Isso é apenas cálculo condicional; não existe garantia de tarefas, aprovação, celular compatível ou prazo real de saque.
+- Decisão: candidata potencial de curto prazo, mas **não recomendada para adesão antes de confirmar compatibilidade do celular, disponibilidade de tarefas e consentimento integral sobre direitos/privacidade**. Não criar conta nem gravar sem autorização do usuário.
+
+### Revalidação de pistas anteriores
+- YPAI Data Collection Contributor continua FECHADA: banner explícito no topo diz que não aceita aplicações, apesar de conteúdo interno desatualizado anunciar BRL 30–50/h (S144).
+- CrowdSource Labs continua mostrando Conversa Real como aberto, mas a prioridade era 07–08/11/2026, já passado. Cadastro geral só registra interesse futuro e não garante seleção (S145).
+- OneForma Portuguese-to-Chinese está aberto apenas para candidatos na China e exige certificação de idioma/familiaridade com XHS; não serve a residente no Brasil (S146).
+- OpenTrain mantém aviso oficial de que pagamentos a freelancers no Brasil não estão disponíveis; excluir apesar do catálogo de vagas (S151).
+- 99Freelas tem novo pedido de mineração de produtos para e-commerce com entrega HTML e call, mas exige experiência intermediária, pesquisa extensa e tem disputa; é sinal de demanda, não caminho prioritário de recebimento rápido (S152). Outro pedido fechado para análise de concorrentes tinha 30 propostas/36 interessados e não mostra vencedor nem pagamento final (S153).
+
+### Implicação estratégica
+A busca de tarefas de coleta de dados pagos revela uma alternativa com sinal de pagamento mais direto do que microtarefas de texto, mas troca remuneração por cessão de material audiovisual pessoal/ambiental. Para prazo curto, a Hub Data tem melhor evidência de payout Pix e potencial taxa nominal, mas a adequação pessoal e a privacidade ainda são gates. O foco principal da PHASE_03.1 continua sendo provar canais/compras para o negócio de inteligência comercial; a trilha de tarefas pagas é uma linha auxiliar para a meta imediata, não uma escolha de negócio Kamikaze.
