@@ -81,3 +81,19 @@
 | Parcerias/networking B2B | Move+ Sebrae usa agentes, rodadas e aproximação comercial | Programa subsidiado e institucional | Parcial |
 | Aquisição específica de relatório competitivo sem leilão | Nenhuma prova direta ainda | Falta evidência de comprador, indicação ou inbound para esse serviço | Não validada |
 | Recompra/assinatura | Nenhuma evidência nova de recompra observada | S062 é intenção declarada, não compra repetida | Não validada |
+
+
+
+## Atualização — Rodada 5 (S076–S086)
+| Dimensão | Evidência | Limite/contraprova | Estado |
+|---|---|---|---|
+| Aquisição via busca | Google: 65% das MEIs usam busca para achar soluções digitais | Estudo geral de plataformas/serviços B2B; ciclo médio de decisão MEI ~2 meses | Parcial |
+| Aquisição via indicação | Survey exploratória SP: 46,6% indicação; ACSP recomenda rede de confiança | Survey n=96, concentração Vila Mariana/Pinheiros; não específico para serviço em validação | Parcial |
+| Portfólio e confiança | 62,7% dizem avaliações muito influentes; 100% consideram perfil completo importante no survey | Pesquisa local exploratória; não mede a eficácia de portfólio demonstrativo sem clientes | Parcial |
+| Operação de e-commerce | Sebrae n=3.081: 59,2% operação concentrada em uma pessoa; rotinas de catálogo/indicadores | Não prova terceirização nem orçamento para freelancer | Parcial |
+| Cadastro/assistência em marketplace | Projetos recentes pedem esse trabalho | 132/176 e 181/263 em dois projetos; alguns exigem experiência apesar de rótulo iniciante | Demanda observada; canal inadequado como prioridade |
+| IA para conteúdo genérico | 50% já usaram IA em marketing; imagens/textos são usos comuns | Uso próprio pode reduzir disposição a pagar por entregas genéricas | Não validada como oferta |
+| Elegibilidade de plataforma aos 16 | Workana e Upwork exigem 18; Fiverr só via conta de responsável | Não presumir permissão em outras plataformas; verificar termos e lei local | Bloqueio parcial |
+| Formalização/contratos | Código Civil prevê incapacidade relativa aos 16–17; MEI 16–18 exige emancipação | Situação individual e modalidade exigem orientação oficial/adulta | BLOQUEADO |
+| Recompra | Nenhuma nova evidência de recompra efetiva | Briefs com frequência desejada não são recompra | Não validada |
+| Recebimento até 06/12 | Jornada MEI ~2 meses; payout de plataformas e legalidade precisam análise | Meta muito curta e canal direto não testado | Não validada |
