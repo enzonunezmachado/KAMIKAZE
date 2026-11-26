@@ -181,3 +181,12 @@ A fonte mais recente de estado é PHASE_03.3_CHECKPOINT.md e o registro da Rodad
 Complemento S286–S293: profile optimization tem sinais de compra da categoria, mas alta concorrência e sem prova de compra de ferramenta específica Workana. A hipótese Workana Profile Readiness segue em pesquisa, não aprovada.
 
 S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/serviços para construir serviço similar/concorrente; não desenvolver integração ou produto dependente de dados Upwork sem autorização escrita e revisão dos termos.
+
+
+## Rodada 30 — 26/11/2026: MAK e referência Affitor
+- S402: auditoria documental/técnica do Affitor/affiliate-skills v1.2.1; 53 habilidades e 53 entradas no registry. Estudo próprio em `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md`.
+- O MAK incorpora arquitetura modular, pesquisa prévia, verificação de ofertas em fonte primária, briefs, conteúdo nativo, distribuição autorizada, métricas por etapa, retrospectiva e feedback estruturado.
+- Extensão de relacionamento: valor entregue → boa experiência → conexão consentida → presença útil → lembrança futura → retorno/introdução/compra, sem exigir conversão imediata.
+- Limitações e práticas não adotadas do Affitor registradas: heurísticas desatualizáveis, proxies de engajamento, FTC como referência não suficiente para Brasil, case studies não corroborados e claims aspiracionais.
+- Nenhum código instalado/executado/importado, nenhuma conta, publicação, contato ou gasto.
+- Estado das fases: PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
