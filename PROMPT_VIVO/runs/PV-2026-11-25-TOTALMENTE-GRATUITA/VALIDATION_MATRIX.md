@@ -323,3 +323,6 @@
 | Comunidades | Meetups com centenas de membros, mas sem eventos atuais; Discords de nicho e regras diversas | PARCIAL | Verificar atividade e regras internas; não confundir membros com audiência alcançável |
 | Stack R$0 | AI Studio Starter Tier até 2 apps, quotas compartilhadas; Cloudflare estático; API Gemini free com uso de conteúdo para melhoria | VIÁVEL COM LIMITES | Prototipar local-first/estático; não usar slots NEXUS sem checagem |
 | Receita em 10 dias | Não há validação de venda de nenhuma ideia nova | NÃO RESPONDIDO | Priorizar serviço manual simples somente após prova de demanda e autorização |
+
+
+| Workana Profile Readiness / revisão de perfil | Requisitos oficiais + 15–30 dias; briefs de profile optimization no 99Freelas com 50 e 88 propostas; jobs Upwork com US$15–260 anunciados e um hire indicado | SINAL DE COMPRA DA CATEGORIA; COMPRA ESPECÍFICA NÃO PROVADA | Pesquisar serviços de revisão focados em Workana e resultados verificáveis; avaliar concorrência e capacidade de entrega |
