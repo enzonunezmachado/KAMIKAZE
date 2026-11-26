@@ -114,3 +114,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Interpretação:** investigar motor de leads, diagnóstico por maturidade, ofertas verticais, modelo recorrente, LGPD/WhatsApp/Google Maps e primeiros candidatos regionais; não executar contato.
 **Aplicado:** documentada hipótese e processo; lista exploratória de pizzarias de Taboão; restrições de scraping/WhatsApp; arquitetura de demos e preços como hipóteses.
 **Limites:** sem mensagens, ligações, visitas, cadastro, publicação, instalação, deploy ou gastos.
+
+
+
+## 2026-11-26 — estrutura de lotes de 20 empresas, ranking e CRM documental
+**Entrada:** usuário propôs pesquisar grupos de 20 empresas, ranquear as oportunidades, registrar quais foram contatadas, não contatadas e por quê; impedir que empresas já documentadas reapareçam como novas em rodadas futuras; permitir reavaliação futura de empresas sem recusa definitiva; manter status de contato/venda/implantação e arquivos separados por empresa/projeto, com custos, receita pontual e mensalidades.
+**Interpretação:** criar uma estrutura documental própria, com registro mestre e IDs únicos, snapshots imutáveis por lote, dossiês individuais, taxonomia de status multidimensional, histórico de contato/permissão/supressão, projetos, contratos recorrentes e ledger financeiro.
+**Aplicado:** criada a estrutura `operations/COMPANY_SOLUTIONS/`, com templates e playbooks. Dois rankings separados (Conversion Fit e Business Value Fit), score heurístico com confidence/coverage e gates de elegibilidade. Regras de deduplicação, reavaliação, opt-out, protótipos e aceites.
+**Limites:** documentação criada, mas módulo não ativado; nenhuma empresa inserida, pesquisa de lote, contato, protótipo específico, proposta, venda, contrato, deploy ou gasto realizado. Orçamento operacional permanece R$0.
