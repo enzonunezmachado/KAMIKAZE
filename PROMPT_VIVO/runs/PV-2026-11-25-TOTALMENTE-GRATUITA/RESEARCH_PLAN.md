@@ -64,3 +64,11 @@ Nenhum cliente deve ser contatado e nenhuma oferta deve ser publicada nesta fase
 
 ## Próxima sequência
 Desenhar fluxo e templates; auditar fontes e ferramentas; realizar teste interno com dados públicos; medir tempo/qualidade; estimar economia unitária; então decidir se há base para piloto controlado.
+
+
+## Controle adaptativo de execução — obrigatório
+Consultar PHASE_CONTROL.md antes de cada transição. "Próxima/continua" autoriza continuar a execução, mas não força mudança de fase nem aprova gate factual. Antes de avançar, auditar completude e escolher entre continuar, subfase, reabrir, avançar, sintetizar ou bloquear.
+
+## Ajuste adaptativo — PHASE_03.1 (vigente)
+A auditoria identificou que a Fase 03 original deixou sem resposta compra específica comprovada, canal sem leilão, comprador estreito e recorrência. A Fase 04 existia apenas como plano; ainda não houve teste operacional. Abriu-se PHASE_03_1_PURCHASE_EVIDENCE para aprofundar essas lacunas antes da viabilidade.
+Primeira rodada encontrou um projeto adjacente concluído (pesquisa de leads) mas não prova de venda repetida de relatórios de concorrentes nem assinatura recorrente. Ver S056–S061. Gate CONTINUE.
