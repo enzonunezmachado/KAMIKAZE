@@ -60,3 +60,7 @@ A auditoria identificou divergências entre indexadores e status oficial: YPAI e
 
 ## Atualização do controlador — Rodada 9 (S116–S119)
 A pesquisa encontrou RWS Search Evaluator (até US$6/h, sem experiência prévia, mas inglês fluente e 5h/semana), TELUS (US$5/h estimados, inglês profissional e residência 3–5 anos), Welo Junior Quality Coordinator (20h/semana, inglês forte, remuneração não divulgada) e Clickworker (pagamento semanal, mas método e registro no Brasil variam por conta). A próxima decisão exige verificar inglês real, residência e disponibilidade do usuário, além de confirmar pagamento e carga. Não presumir esses requisitos. Manter CONTINUE_PHASE e PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura ou conta criada.
+
+## Atualização do controlador — Rodada 10 (S120–S124)
+OneForma Freya surge como hipótese mais promissora para tarefa remota PT-BR: US$6 por hora de áudio, sem experiência/diploma, lotes semanais e pagamento quinzenal por ciclo com mínimo US$25. O volume é variável, o trabalho é por hora de áudio e o locale/método Brasil precisa confirmação na conta. TSMG QC tem treinamento e pagamento por trabalho validado, mas sem taxa/ciclo público. YPAI tem status contraditório/fechado nas páginas oficiais.
+**Decisão:** CONTINUE_PHASE. Próximo passo: aprofundar OneForma (método brasileiro, taxa confirmada no locale, qualificação, prazo de aprovação e produtividade de iniciante) e TSMG (taxa e pagamento). PHASE_04 continua QUEUED/NOT_STARTED. Nenhuma conta, candidatura, formulário ou contato foi realizado.
