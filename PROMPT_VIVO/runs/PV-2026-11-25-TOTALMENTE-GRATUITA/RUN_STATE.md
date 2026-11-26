@@ -27,7 +27,7 @@
 - Profundidade: usuário autorizou pesquisa mais demorada e aprofundada; usar varredura + aprofundamento + fontes primárias + triangulação + contraprovas + análise de comprador/canal/entrega/pagamento. Não otimizar só por velocidade nem inventar duração fixa.
 
 
-- Rodada 5 S076–S086: Google e survey local indicam busca/networking/indicação como canais gerais; Sebrae aponta sobrecarga operacional em e-commerce; tarefas de catálogo têm alta competição; Workana/Upwork exigem 18, Fiverr permite menor apenas sob conta de responsável; Código Civil/MEI exigem cuidado especial aos 16. Gate continua CONTINUE. PHASE_04 não começou. Ver checkpoint, findings e source ledger.
+- Rodada 5 S076–S086 (registro histórico): Google e survey local indicam busca/networking/indicação; Sebrae aponta sobrecarga operacional; tarefas de catálogo têm alta competição. As observações gerais sobre plataformas permanecem como fonte, mas a análise pessoal de menoridade está superada: o usuário tem 18 anos. Gate continua CONTINUE. PHASE_04 não começou.
 \n\n- **Correção de idade e capacidade (25/11/2026):** idade atual informada: 18 anos. Reavaliar Workana, Upwork e outras plataformas sob a idade correta. Não aplicar regras de menoridade. O usuário afirma ter capacidade e disposição para aprender e desempenhar o necessário; avaliar a execução concreta, sem confundir falta de experiência profissional com incapacidade.
 
 ## Rodada 6 — 25/11/2026 (S087–S100)
