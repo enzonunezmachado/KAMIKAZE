@@ -178,3 +178,11 @@
 | Experiência | Experiência é diferencial, treinamento e guidelines fornecidos | Teste/qualidade podem ser exigentes | Favorável |
 | Remuneração | Pagamento por trabalho validado | Taxa, prazo e método não divulgados | Não validada |
 | Veredito | Potencial para experiência e trabalho em blocos | Não contar como dinheiro até conhecer taxa e pagamento | Secundária
+### Auditoria econômica complementar — OneForma Freya
+| Item | Estimativa/condição | Implicação |
+|---|---|---|
+| Taxa anunciada PT-BR | US$6 por hora de áudio | Não confundir com hora efetivamente trabalhada |
+| Tempo de transcrição | Referência Oxford: mínimo ~4h de trabalho por 1h de áudio claro | Receita bruta efetiva estimada ~US$1,50/h antes de custos no cenário 4:1 |
+| Mínimo de saque | US$25 aprovados | Exigiria ~4h10 de áudio aprovado; cenário 4:1 equivale a ~16h40 de trabalho humano |
+| Requisitos | Página Freya v2: sem experiência; outra página de projeto: exige experiência e lista apenas 5 países | Elegibilidade de iniciante PT-BR precisa confirmação no formulário |
+| Conclusão | Ciclo de pagamento pode caber no calendário, mas volume, aprovação e esforço são incertos | Não prometer R$150 até 6/12; não priorizar pelo valor nominal |
