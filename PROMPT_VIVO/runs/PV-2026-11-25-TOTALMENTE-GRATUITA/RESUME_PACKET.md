@@ -406,7 +406,7 @@ Retomar PHASE_03.5 com inspeção mais profunda das skills do Affitor e adaptaç
 
 
 ## Rodada 33 — construção com IA e ferramentas gratuitas (26/11/2026)
-Documento consolidado: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; fontes S436–S450 em `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`.
+Documento consolidado: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; fontes S436–S450 em `SOURCE_LEDGER_SUPPLEMENT_S436_S453.md`.
 - Stockroom/AppJet: evidência mais forte de aplicação full-stack construída e publicada com plano AI-builder gratuito; demo e código públicos. Ressalvas: estudo do fornecedor, dados fictícios, sem autenticação e persistência precisa ser configurada/verificada.
 - MyClaw: 249 ferramentas, custo mensal $0 declarado, mas 0 pagantes no snapshot; Vercel Hobby é não comercial.
 - Somnia e Toolkiya: padrões local-first/client-side; custo total não comprovado.
