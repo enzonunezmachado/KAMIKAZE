@@ -79,3 +79,10 @@ Community-led acquisition is plausible and can be paid work in its own right, bu
 - PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE.
 - PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
 - Revenue: R$0. Expenses: R$0. No contacts, posts, signups, demos or spending performed.
+
+ 
+## Complemento de pesquisa — S224–S226
+- Freelance Match anuncia R$39,99/mês, mas informa que pagamentos ainda não são processados; preço não equivale a venda.
+- FreelaSync anuncia R$14,90 e R$49,90/mês, sem dados públicos de pagantes ou retenção.
+- Uma freelancer relata ter pago R$54,90 pelo plano intermediário do 99Freelas para consultar a média das propostas concorrentes. É um sinal individual de compra por inteligência competitiva nativa, não de SaaS externo.
+- A hipótese de valor por informação assimétrica (preços médios, competição, taxas e sinais do cliente) merece aprofundamento, mas a disposição a pagar por ferramenta independente permanece não validada.
