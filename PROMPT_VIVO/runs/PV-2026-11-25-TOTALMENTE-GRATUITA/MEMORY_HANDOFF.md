@@ -37,3 +37,6 @@ Continuar PHASE_03.1 focando em canais inbound/indicação/parceria sem executar
 
 ## Restrições
 R$0; sem ferramentas/API/assinaturas/anúncios pagos; quota opaca deve ser declarada; não cadastrar cartão para trials; não usar scraping proibido, burlar paywalls ou coletar dados privados; nenhuma ação externa sem aprovação explícita; não misturar Kamikaze com NEXUS/ATLAS.
+
+## Atualização de aquisição S067–S070
+Pesquisa Serasa Experian com 313 PMEs: 47% buscam parceiros/outros empreendedores, 40% conversam com pessoas do ramo, 31% usam artigos/notícias e 15% contrataram consultoria para melhorar o negócio. Sebrae 2026 indica WhatsApp como canal importante para serviços, mas isso não autoriza cold messaging. Move+ usa networking/rodadas/agentes de mercado B2B, porém é programa subsidiado. A pesquisa profissional Sebrae é estruturada e de alto escopo, não comparável ao microserviço. Aquisição específica de relatório competitivo continua não comprovada. Gate CONTINUE; PHASE_04 não começou.
