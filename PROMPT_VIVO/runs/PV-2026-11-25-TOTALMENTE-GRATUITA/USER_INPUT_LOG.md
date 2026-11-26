@@ -1,3 +1,11 @@
+## 2026-11-26 — Preocupação com excesso de pesquisa e momento de testar
+
+**Entrada:** o usuário questionou se o Kamikaze pode estar pensando/pesquisando demais em vez de colocar uma hipótese suficientemente preparada em prática. Não quer testar ideias aleatórias sem critério, mas também não quer esperar por uma certeza impossível nem confundir pesquisa pública com prova de conversão.
+
+**Aplicado:** QUALITY_GATE, RESEARCH_METHOD e EXECUTION_PROTOCOL ganharam um gate explícito entre pesquisa e experimento. Distinguir fatos que podem ser pesquisados de comportamento que exige teste; avaliar valor da informação; definir hipótese, comprador, oferta, canal, métrica, critério de sucesso/interrupção, custo, risco e autorização.
+
+**Regra:** não usar "60% de chance" como número inventado. Usar níveis de evidência e prontidão; quando a próxima pesquisa não puder mudar a decisão e um experimento pequeno, ético, reversível e autorizado puder responder melhor, parar de pesquisar e recomendar o teste. Nenhuma ação externa foi autorizada nesta entrada.
+
 ## 2026-11-26 — Auditoria e melhoria da arquitetura documental e agentes
 
 **Entrada:** o usuário pediu que a comparação com Spec Kit, BMAD, AGENTS.md, LangChain e Diátaxis fosse aplicada ao Kamikaze, com revisão de arquivos/pastas, READMEs obrigatórios, leitura progressiva, regras claras de gravação, redução de resumos extensos e validação automática de sincronização. Também pediu teste de MkDocs com portfólio escrito em Markdown, registro de Diátaxis e Obsidian no NEXUS, e pesquisa futura de agentes gratuitos mantendo controle humano.
