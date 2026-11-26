@@ -4,6 +4,11 @@
 **Status:** IN_PROGRESS  
 **Leitura obrigatória no novo chat:** executar PROMPT_VIVO/BOOTSTRAP.md e começar por este arquivo.
 
+## Ponteiro obrigatório de continuidade (26/11/2026)
+- Antes de escolher o que retomar, leia `PROMPT_VIVO/CURRENT_WORK.md`. Ele identifica a última entrega substantiva e a próxima ação exata.
+- Último trabalho desenvolvido: estrutura `operations/COMPANY_SOLUTIONS/`, DOCUMENTADO / NÃO ATIVADO.
+- Não confundir última linha trabalhada com fase principal de pesquisa; reconciliar RUN_STATE, PHASE_CONTROL, RESUME_PACKET e operations/STATE conforme o ponteiro e logs confirmados.
+
 ## 1. Projeto e missão
 - **Projeto:** Negócio Digital Kamikaze, operação independente para descobrir, validar, produzir e comercializar oportunidades digitais.
 - **Execução:** PV-2026-11-25-TOTALMENTE-GRATUITA.
