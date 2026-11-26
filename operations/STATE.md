@@ -107,3 +107,9 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - S094 parece ter melhor alinhamento com organização/orquestração, mas exige comunicação com clientes, autonomia, disponibilidade e reunião; remuneração não divulgada.
 - S098 tem taxa horária divulgada e requisitos técnicos simples, mas volume, aprovação e pagamento não foram confirmados.
 - PHASE_03.1 permanece IN_PROGRESS / CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou gasto.
+
+
+## Complemento da rodada 7 — plataformas de tarefas para IA
+- S101–S103: Prolific aceita residentes no Brasil com mais de 18 anos, mas usa waitlist e verificação; saque a partir de £6/US$6 aprovados via PayPal, com até 22 dias para aprovação de submissões. Não é aposta para receita imediata sem conta ativa.
+- S104: Outlier tem pagamento semanal, mas exige onboarding e qualificação específica; a vaga PT-BR encontrada era de coding expertise, não uma vaga genérica.
+- Estado comercial permanece: receita R$0, despesas R$0, nenhuma oportunidade aprovada, nenhuma candidatura ou contato.
