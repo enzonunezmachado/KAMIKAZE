@@ -58,3 +58,14 @@
 4. Estimar preço líquido, tempo de entrega e recebimento.
 5. Construir uma amostra demonstrativa pública e medir esforço/qualidade.
 6. Só depois avaliar um piloto pago; não contatar ninguém sem aprovação.
+
+
+## Complemento — PHASE 03.1 (25/11/2026)
+- **Compra relacionada comprovada publicamente:** S058, projeto de estudo de mercado concluído com freelancer vencedor. Evidência parcial: valor final não revelado e escopo orientado a leads/contatos pessoais.
+- **Venda específica de relatório de concorrentes:** não comprovada nesta amostra. S057 e S059 são ofertas sem avaliações.
+- **Reputação da categoria:** S056 é sinal fraco e não atribuível ao serviço específico.
+- **Mercado de software competitivo:** S061 indica categoria estabelecida globalmente, mas não valida nicho/serviço brasileiro.
+- **Canal sem leilão:** ainda não validado.
+- **Recorrência e retenção:** ainda não validadas.
+- **Privacidade:** projetos de coleta de contatos pessoais devem ser separados de pesquisa de informações empresariais públicas e avaliados sob LGPD; não são escopo padrão.
+- **Gate atual:** CONTINUE. A subfase 03.1 permanece aberta.
