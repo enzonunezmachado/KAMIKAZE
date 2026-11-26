@@ -183,3 +183,5 @@ Próximo: pesquisar compra de serviços de revisão/otimização de perfil Worka
 Complemento S286–S293: revisão/otimização de perfis tem sinais de demanda (99Freelas briefs com 50/88 propostas e Upwork jobs com budgets US$15–260; um hire registrado), mas é categoria competitiva. Workana Profile Readiness continua hipótese específica sem prova de compra de ferramenta independente. A plataforma já fornece guias gratuitos; diferencial seria mapa de evidências reais/portfólio, sem prometer aprovação.
 
 S294: Mansão Dev (~528 membros em diretório Discord) tem canais de divulgação/parcerias; regras internas/atividade não verificadas, apenas observação futura.
+
+S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/serviços para construir serviço similar/concorrente; não desenvolver integração ou produto dependente de dados Upwork sem autorização escrita e revisão dos termos.
