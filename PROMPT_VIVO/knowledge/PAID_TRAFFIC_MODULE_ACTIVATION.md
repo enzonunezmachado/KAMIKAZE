@@ -215,24 +215,25 @@ Inventário do snapshot da árvore recursiva consultada em 26/11/2026. Os nomes 
 35. `landing-page-audit-39`
 36. `anomaly-detection`
 
-### Reporting e planejamento
-37. `client-report-narratives`
-38. `weekly-account-summary`
+### Naming, reporting e planejamento
+37. `campaign-naming-convention-builder`
+38. `client-report-narratives`
+39. `weekly-account-summary`
 
 ### Capacidades adjacentes de SEO e visibilidade
-39. `e2e-seo-assistant`
-40. `programmatic-seo-builder`
-41. `programmatic-seo-playbook`
-42. `keyword-cannibalization-check`
-43. `ai-visibility-audit`
-44. `brand-answer-monitoring`
-45. `citation-source-gap-finder`
-46. `content-aeo-optimizer`
-47. `content-repurposer`
-48. `email-sequence-writer`
+40. `e2e-seo-assistant`
+41. `programmatic-seo-builder`
+42. `programmatic-seo-playbook`
+43. `keyword-cannibalization-check`
+44. `ai-visibility-audit`
+45. `brand-answer-monitoring`
+46. `citation-source-gap-finder`
+47. `content-aeo-optimizer`
+48. `content-repurposer`
+49. `email-sequence-writer`
 
 ### Observação de contagem
-O inventário recursivo retornou 49 arquivos `SKILL.md`. A enumeração acima contém 48 slugs únicos listados porque a revisão desta versão precisa conferir o slug remanescente contra a árvore integral antes de considerar o catálogo fechado. Não preencher por suposição; reconciliar no próximo checkpoint de pesquisa. **Status: lista parcial de 48/49; a contagem do repositório é 49.**
+A árvore recursiva retornou 49 arquivos `SKILL.md`, e a enumeração acima agora contém os 49 slugs únicos. A lista é um inventário nominal; descrições e critérios de adoção devem ser aprofundados na ativação. **Status: 49/49 listados; nenhum código importado.**
 
 ## 9. Lacunas a pesquisar quando ativado
 
