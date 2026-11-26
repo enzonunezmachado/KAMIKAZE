@@ -266,3 +266,9 @@ S186–S196: briefs de assistência virtual e apoio operacional mostram problema
 
 ## Rodada 21 — estado vigente (26/11/2026)
 S227–S244 ampliaram a evidência: mais de dez relatos públicos de compra/renovação/uso de planos e recursos em 99Freelas, Workana e Upwork. Isso confirma compra qualitativa da categoria, mas não de SaaS independente multi-plataforma. Há reembolsos, cancelamentos e frustração; retenção e eficácia não estão provadas. Ver PHASE_03_3_CHECKPOINT.md.
+
+
+## Rodada 22 — continuidade atualizada (26/11/2026)
+S245–S285 ampliaram auditoria competitiva, regras de plataformas, ferramentas gratuitas, comunidades e stack. Scoutly cobre o produto genérico; Workaholic é um substituto open-source forte. Upwork e Workana restringem scraping/watchers; qualquer solução deve usar dados fornecidos manualmente pelo usuário ou fontes autorizadas. Ferramentas de brief/scope/pricing/CRM já existem em abundância. Nova hipótese: Workana Profile Readiness/First-30-Days Launch, baseada em requisitos oficiais de moderação de 15–30 dias e dor pública, mas sem prova de compra de ferramenta independente. Comunidades Meetup têm membros, porém eventos antigos/sem próximos eventos; Programadores BR e Editor Livre são os canais digitais de maior potencial para observação, com regras internas ainda a verificar. r/freelanceWriters proíbe pesquisa de mercado disfarçada e r/sideprojects proíbe astroturfing.
+
+O usuário quer uma lista ampla de ideias e filtragem posterior pela realidade técnica/financeira. Restrições: orçamento R$0, não usar cartão ou compromissos como capital, proteger NEXUS, usar ChatGPT/Google AI Studio e ferramentas gratuitas. AI Studio Starter Tier tem limite de dois apps ativos e quotas compartilhadas; o NEXUS já usa esse ecossistema, então não presumir slot disponível. Preferir MVP estático/local-first e não usar API Gemini em produção antes de mapear quota/privacidade. Ver RESOURCE_BUDGET_POLICY.md e checkpoint Rodada 22.
