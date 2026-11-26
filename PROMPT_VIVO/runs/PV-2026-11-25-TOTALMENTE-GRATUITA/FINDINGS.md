@@ -122,3 +122,9 @@ Tarefas operacionais de dados/documentos/conteúdo merecem investigação. O ris
 6. Afiliados/prospecção B2B — manter no mapa; não priorizar para a meta imediata sem validar competências, escopo e risco.
 
 **Status da fase 02:** PARCIAL / IN_PROGRESS. Há clusters e linguagem de compra identificados; faltam amostra maior, canais diretos fora de marketplaces, validação de preços líquidos, prazo de pagamento e prova de capacidade de entrega.
+## 16. Sinais de comunidades: demanda e barreiras de aquisição
+- Em 19/11/2026, um post procurava editor para um perfil de viagens com audiência declarada de 1,5 milhão no Instagram e 250 mil no TikTok, exigindo pelo menos dois vídeos por dia, criatividade, storytelling, retenção e cases (S041). É um pedido explícito, mas a exigência de portfólio e disponibilidade torna a barreira de entrada alta; audiência do contratante é autodeclarada.
+- Em outubro, outro usuário procurava alguém para editar vídeos de TikTok e criar posts para Instagram, perguntando sobre preço (S042). Confirma linguagem de procura, mas não há contratação comprovada.
+- Relatos de editores brasileiros mostram que a captação de clientes é gargalo, mesmo quando existe experiência técnica; recomendações comunitárias apontam indicação, grupos de nicho, portfólio e testes pagos (S043). Isso é evidência do lado da oferta, não prova de demanda.
+- Um prestador relata receber arquivos desorganizados e gastar tempo preparando material antes de editar; uma resposta sugere padronizar o intake com checklist/formulário/pastas (S044). Hipótese: preparação e organização de material podem ser parte de uma oferta operacional, mas precisa validação com compradores.
+- Implicação: vídeo curto é mercado ativo, mas genérico e concorrido. Sem portfólio e aquisição comprovada, não priorizar para primeira venda. Uma oferta que resolva processo específico pode ser mais defensável que vender apenas edição.
