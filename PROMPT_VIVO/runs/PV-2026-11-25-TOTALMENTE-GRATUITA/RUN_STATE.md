@@ -209,3 +209,9 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Programadores BR: diretório indica comunidade grande/ativa; regras internas não verificadas, sem publicação/contato.
 - Próximo: microentregas admin e edição curta, contratos pagos verificáveis e canais não-marketplace com regras públicas.
 - PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED; R$0; nenhuma ação externa.
+
+
+
+### Comunidades — Rodada 24 (S327–S335)
+- Mapeadas 9 opções entre tech, remoto, editores/designers, empreendedores e grupos de freelancers: Programadores BR, TI Discord, HireClover, Multiverse, Editors Community, LEOFGEDITZ, Yuji Editors, Empreendedores SP e Meetup Freelance Brazil.
+- Membros/online são snapshots e não comprovam audiência compradora. Regras internas não verificadas; nenhuma comunidade autorizada para divulgação. Sem contato ou publicação.
