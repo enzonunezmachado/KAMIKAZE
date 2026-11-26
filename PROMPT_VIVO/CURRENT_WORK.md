@@ -6,6 +6,7 @@
 ## Última entrega substantiva
 - **Linha:** Governança da arquitetura documental + validação automatizada + site Markdown + gate pesquisa→experimento.
 - **Entrega:** AGENTS.md em dois níveis; governança da arquitetura; READMEs operacionais; estado estruturado em TOML; snapshots compactos; histórico separado; validador Python; GitHub Actions; MkDocs/portfólio Markdown; regra explícita para parar pesquisa quando o próximo passo de maior valor for um experimento mínimo.
+- **Artefato de decisão:** `PROMPT_VIVO/QUALITY_GATE.md`.
 - **Estado:** DOCUMENTADO / IMPLEMENTAÇÃO DOCUMENTAL GRAVADA; CI pendente de execução/verificação.
 - **Limites:** site não publicado; nenhuma oferta/case real inventado; nenhum contato ou gasto; nenhum agente externo instalado ou executado.
 
