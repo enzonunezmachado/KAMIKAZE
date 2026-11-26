@@ -87,3 +87,16 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Prolific aceita residentes no Brasil com mais de 18 anos, mas usa waitlist e estudos podem levar até 22 dias para aprovação.
 - Outlier tem pagamento semanal, mas a vaga localizada para português brasileiro exigia conhecimento de programação.
 **Decisão:** manter PHASE_03.1 em CONTINUE. Nenhuma plataforma garante acesso/receita imediata; não criar conta ou candidatura sem decisão do usuário.
+
+
+## PA-013 — validação de disponibilidade e meios de pagamento no Brasil
+**Data:** 25/11/2026  
+**Motivo:** resultados de busca mostraram vagas de IA com taxas atraentes, mas status e pagamentos precisavam de confirmação nas páginas oficiais.
+**Mudanças:**
+- YPAI Data/Voice: páginas abertas oficialmente indicam vaga fechada, apesar de snippets/indexadores dizerem “Applications open”.
+- CSL: projeto de R$200 por participante tem janela inicial passada (7–8/11), com possibilidade de futuros lotes; adicionada análise de consentimento e pagamento.
+- OpenTrain: pagamentos a freelancers no Brasil indisponíveis; bloqueia a plataforma independentemente das taxas dos anúncios.
+- Babel: separar taxa EUA/Canadá de taxa potencial no Brasil; uma vaga de voice actor exclui residentes no Brasil.
+- Lionbridge: survey de US$10 exige smartphone não Android; incompatível com dispositivo conhecido.
+- Fera: vaga recente atualizada como oportunidade de coordenação com remuneração/volume não divulgados.
+**Decisão:** manter PHASE_03.1 em CONTINUE; nenhuma fase encerrada e nenhum contato/candidatura. PHASE_04 permanece QUEUED/NOT_STARTED.
