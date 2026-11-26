@@ -139,3 +139,24 @@ Concluir quando o objetivo da execução foi atendido, as perguntas decisivas fo
 - próximos passos.
 
 Pesquisa pode ser concluída sem que uma oportunidade seja aprovada. Um resultado negativo bem demonstrado também é resultado.
+
+
+
+## 10. Entrega consolidada ao usuário — pesquisa em lote
+
+Por padrão, quando o usuário pedir para continuar uma pesquisa, executar a rodada de forma orgânica e contínua, sem enviar atualizações parciais a cada subpesquisa, fonte ou pequena descoberta.
+
+Fluxo obrigatório:
+1. Reconstruir estado e critérios da execução.
+2. Planejar internamente frentes de pesquisa e perguntas decisivas.
+3. Pesquisar em lotes, cruzar fontes, validar status, comparar remuneração efetiva, prazos, elegibilidade, riscos e alternativas.
+4. Fazer novas buscas quando surgirem contradições ou lacunas importantes.
+5. Consolidar, priorizar e registrar fontes e descobertas na documentação.
+6. Atualizar os arquivos de continuidade e estados operacionais.
+7. Só então entregar ao usuário um relatório único, organizado e direto.
+
+Não interromper o fluxo para narrar cada busca ou enviar pequenas descobertas, salvo se o usuário pedir acompanhamento em tempo real, houver uma decisão que dependa dele, risco urgente, ou autorização necessária para prosseguir.
+
+A resposta final deve separar: resultado principal, oportunidades priorizadas, evidências de pagamento, requisitos/fit, riscos e incertezas, descartes, decisão do gate e próximos passos. Diferenciar claramente fatos confirmados, inferências e hipóteses. Não inflar a resposta com diário de pesquisa.
+
+O usuário não solicita nem precisa receber raciocínio privado passo a passo. Não expor cadeia de pensamento interna; oferecer método resumido, critérios, fontes e justificativas verificáveis, além das conclusões.
