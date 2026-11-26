@@ -34,8 +34,11 @@ G. Stack gratuita e gestão de cotas.
 - **Estado atual (26/11/2026): PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION IN_PROGRESS / CONTINUE, subfase da PHASE_03.2.**
 - **PHASE_03.2 está IN_PROGRESS / CONTINUE; PHASE_03.1 está PAUSED / CONTINUE; PHASE_04_FEASIBILITY está QUEUED/NOT_STARTED.** Documentos preparatórios existem, mas nenhum teste operacional foi executado.
 
-## Hipótese específica sob validação
-Serviço pontual de pesquisa/inteligência comercial com dados públicos e possível concierge de monitoramento competitivo recorrente assistido por IA. Não é negócio escolhido.
+## Hipótese histórica transferida da PHASE_03.1
+Serviço pontual de pesquisa/inteligência comercial com dados públicos e possível concierge de monitoramento competitivo recorrente assistido por IA. Continua hipótese não escolhida, em pausa para integração.
+
+## Hipótese ativa — PHASE_03.3 (26/11/2026)
+Inteligência de oportunidades para freelancers e aquisição transparente por comunidades. Investigar se existe valor pago em reduzir desperdício antes de candidatar-se (atividade/histórico do cliente, escopo, orçamento, esforço, concorrência e custo de conexões), sem prometer contratos. A categoria de recursos/plataformas pagas tem evidência qualitativa de compra; SaaS independente, retenção e diferencial ainda não comprovados. Fontes S215–S244; ver PHASE_03_3_COMMUNITY_LED_MARKET_VALIDATION.md.
 
 ### Perguntas da PHASE_03.1
 1. Existem compras/contratações concluídas comparáveis, não apenas anúncios?
