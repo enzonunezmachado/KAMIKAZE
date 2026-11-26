@@ -20,7 +20,7 @@ Sete clusters documentados em DEMAND_MAP.md:
 Pedidos recentes ou indexados mostram compradores descrevendo entregáveis, orçamento mínimo e critérios. Exemplos: projeto WhatsApp publicado em 23/11 com mínimo R$100 (página aberta mostra 216 propostas/392 interessados); projetos de Excel/admin com mínimos R$30 e centenas de propostas; pesquisa de produtos com links, fornecedores e dashboard.
 
 ## Fontes principais
-S029–S040 no SOURCE_LEDGER.md. As páginas abertas e contagens são registradas; algumas fontes são projetos cancelados/encerrados e foram classificadas como históricas.
+S029–S044 no SOURCE_LEDGER.md. Inclui páginas de projetos freelancer e posts comunitários. Algumas fontes são projetos cancelados/encerrados e foram classificadas como históricas; posts do Reddit incluem tanto compradores quanto prestadores e foram separados.
 
 ## Contraprovas
 - Concorrência muito alta para planilhas, cadastro e posts genéricos.
