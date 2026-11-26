@@ -99,3 +99,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Decisão:** criar `MAK-PAID-TRAFFIC-MODULE` em estado DORMANT / DOCUMENTED / NOT IMPLEMENTED. Quando houver intenção clara, apresentar o pacote e pedir confirmação explícita para começar Etapa 0. Etapa 0 é planejamento, não autorização de gasto ou ação externa. Cada campanha, conexão, publicação e gasto exigirá autorização própria.
 **Escopo registrado:** arquitetura modular, etapas e gates, checklist de prontidão, skills, repositórios, compliance/privacidade, segurança financeira, simulação e handoff final.
 **Status:** blueprint e acionador persistidos. Nenhum módulo implementado, código de terceiros importado, conta criada/conectada, anúncio publicado ou gasto realizado.
+
+
+## 2026-11-26 — pedido para continuar pesquisa de construtores com IA e ferramentas gratuitas
+**Entrada:** usuário perguntou se há histórico de pessoas que construíram totalmente gratuitamente com IA e ferramentas poderosas; após primeira amostra, pediu continuidade.
+**Interpretação:** aprofundar casos com artefatos funcionais, stacks, ferramentas, custo real/alegado, evidência de uso/receita e restrições de planos gratuitos; não apenas listar AI builders.
+**Aplicado:** estudo de Stockroom/AppJet, MyClaw Tools, Somnia, Toolkiya, HookLayer, RenderArchi, AssetShark e HypeDesk; revalidação de planos Gemini, Supabase, Cloudflare, Vercel e GitHub Copilot. Criados documentos de casos e suplemento de fontes S436–S450.
+**Limites:** não instalar, clonar, executar, conectar contas, criar/deployar apps, publicar ou gastar; preservar NEXUS e quota do AI Studio.
+**Status:** pesquisa documental persistida; nenhuma implementação ou experimento comercial autorizado.
