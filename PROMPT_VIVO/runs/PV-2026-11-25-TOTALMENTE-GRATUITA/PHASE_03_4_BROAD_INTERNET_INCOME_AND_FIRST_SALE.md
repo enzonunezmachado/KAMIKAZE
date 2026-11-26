@@ -74,3 +74,16 @@ G. Economics and fit: net R$, time-to-first-cash, skill requirements, probabilit
 - PHASE_03.1: PAUSED / CONTINUE.
 - PHASE_04: QUEUED / NOT_STARTED.
 - Revenue: R$0. Expenses: R$0. No external actions performed.
+
+
+## Round 26 — Small channels and detailed first-sale reports (2026-11-26)
+- Added S361–S379 to SOURCE_LEDGER.md.
+- Detailed reports cover community-led service acquisition, email outreach, affiliate commissions, organic niche sales, digital ebooks, microservices discovered through Reddit posts, small YouTube creators, and e-commerce failure.
+- Repeated pattern: distribution, trust, and buyer intent are the bottleneck; product creation and views alone do not produce sales.
+- Small channel: O Gabriel Digital (289 subscribers) reports weeks of proposals, a portfolio and tailored communication before a first Workana project; earnings are self-reported.
+- Very small video (74 views) on filmmaker acquisition highlights introduction/referral and co-delivery; large contract figure unverified.
+- Brazilian landing-page seller reports R$497 + R$90/month after 200 emails, but quality and domain credibility were criticized.
+- Bulk outreach is not endorsed: reports show low response and account bans for spam. Any future outreach must be relevant, individualized, permitted, and explicitly authorized.
+- Affiliate/organic sales are not proven as a fast route without existing audience or personal network.
+- A detailed e-commerce failure shows turnover and sales can coexist with cash-flow collapse, chargebacks, account bans and unsustainable margin.
+- Phase remains IN_PROGRESS / CONTINUE. No actions outside research; no spend.
