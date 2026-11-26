@@ -49,3 +49,10 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Conclusão:** $0 pode produzir um full-stack demonstrável, mas planos gratuitos podem proibir uso comercial, pausar projetos ou limitar IA/CPU; build, produção, distribuição e receita são gates distintos.
 - **Ações externas/gastos:** nenhum.
 - **Persistência:** confirmar commits individuais.
+
+
+### KAM-2026-11-26-004A — Auditoria estática Stockroom/AppJet
+- Inspecionados schema, repositório, transações, rotas, parsing, testes, headers, CSV e Dockerfile; leitura de termos e privacidade AppJet.
+- Encontradas boas práticas de integridade/validação, mas demo sem login e sem auth/tenant authorization visível nas rotas analisadas. Não usar dados reais. Testes não foram executados; sem pentest.
+- AppJet declara processamento EUA/Canadá, não treino/retenção de código após coding, mas processa credenciais/env vars e não garante disponibilidade. S451–S453.
+- Nenhuma conta conectada ou app criado.
