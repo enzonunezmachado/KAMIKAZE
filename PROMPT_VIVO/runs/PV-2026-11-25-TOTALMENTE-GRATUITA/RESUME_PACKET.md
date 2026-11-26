@@ -161,3 +161,10 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - Para atingir mínimo OneForma de US$25: ~4h10 de áudio aprovado, ou ~16h40 de trabalho no cenário 4:1.
 - Páginas OneForma divergem sobre PT-BR e experiência; Freya v2 diz PT-BR aberto/sem experiência, página de projeto diz exige experiência e lista cinco países; página local pt_BR abriu conteúdo incoerente.
 - Não tratar Freya como renda rápida validada; confirmar fluxo e produtividade. Gate CONTINUE.
+
+## 20. Rodada 12 — OneForma Email Collection e privacidade (S127–S129)
+- OneForma Email Collection aberta no Brasil/PT-BR, sem experiência, paga por email aprovado; requer 3+ emails originais .eml do mesmo pedido de produto físico entregue desde 2024.
+- Valor por email no Brasil não publicado. O .eml preserva remetente, destinatário, assunto, corpo e data/hora. A plataforma diz que pode ocultar PII após upload, mas não esclarece suficientemente mascaramento, acesso, uso ou retenção.
+- Classificação: BLOQUEADA POR PRIVACIDADE. Não enviar nenhum email/dado até esclarecimento.
+- DataForce Mosaic não aceita PT-BR; TELUS Internet Safety Evaluator está fechado.
+- Gate CONTINUE; nenhuma candidatura/ação externa.
