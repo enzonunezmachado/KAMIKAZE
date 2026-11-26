@@ -201,3 +201,11 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Em cada checkpoint sincronizar RUN_STATE, PHASE_CONTROL, PHASE_ARCHITECTURE, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG e este arquivo; registrar eventos nos logs.
 - Limite técnico: não há execução em segundo plano. A persistência deve ocorrer durante a sessão, e só é confirmada após resposta positiva do GitHub.
 - **Estado das frentes (2026-11-26):** PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Rodada 31 — catálogo open source e skills (26/11/2026)
+- Novo índice central: [MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md](../PROMPT_VIVO/knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md).
+- Inventário Affitor: 53 skills em oito estágios; lista nominal, links e resenha crítica no catálogo.
+- Repositórios adicionais: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator n8n, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
+- Próxima ação da PHASE_03.5: comparar capacidades propostas com o Prompt Vivo existente e criar apenas skills nativas do MAK sem duplicidade.
+- Nenhuma instalação, execução de código, publicação, contato, conta, deploy ou gasto ocorreu.
