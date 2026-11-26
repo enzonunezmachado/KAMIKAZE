@@ -116,3 +116,47 @@ Aprofundar até que:
 - as buscas adicionais deixem de alterar a conclusão.
 
 Registrar consultas, fontes, datas e limites suficientes para repetir ou atualizar a pesquisa.
+
+
+## 10. Quando parar de pesquisar e passar a testar
+
+Pesquisa pública e experimento respondem a perguntas diferentes. Pesquisa ajuda a entender mercado, compradores, concorrentes, regras, preços, alternativas e riscos. Experimento mede comportamento real diante de uma oferta, protótipo ou interação.
+
+### 10.1 Regra de valor da informação
+Antes de abrir uma nova trilha, perguntar:
+- Qual decisão essa informação pode alterar?
+- Qual resultado mudaria nossa conclusão?
+- A pergunta pode ser respondida por fonte pública confiável?
+- A próxima busca provavelmente reduz incerteza ou repete o que já sabemos?
+- Se não pesquisarmos mais, é possível testar a hipótese com baixo risco e custo?
+
+Se a resposta não puder mudar a decisão ou o desenho do teste, não continuar pesquisando por inércia.
+
+### 10.2 Pesquisa versus experimento
+- **Pesquisar:** elegibilidade, termos, legislação, preços, existência de concorrentes, requisitos técnicos, alternativas e fatos históricos.
+- **Experimentar:** disposição a pagar, conversão, entendimento da oferta, confiança, uso, retenção, recompra e desempenho de canal.
+- **Prototipar:** usabilidade, viabilidade técnica, clareza do fluxo e qualidade da entrega.
+- **Bloquear:** riscos legais, privacidade, segurança, custos ou dependências não resolvidos.
+
+Não tentar provar disposição a pagar apenas acumulando relatos de terceiros quando um teste transparente e autorizado puder responder melhor.
+
+### 10.3 Suficiência não é certeza
+A pesquisa está suficientemente pronta para teste quando existe comprador identificável, problema observável, sinais de comportamento econômico na categoria, alternativas conhecidas, hipótese de diferenciação, canal plausível, entrega executável e riscos controlados. Isso não demonstra que a oferta venderá; apenas justifica o experimento.
+
+Não atribuir porcentagem de sucesso sem dados calibrados. Usar classificação de evidência, confiança qualitativa, prontidão e risco.
+
+### 10.4 Experimento mínimo
+Definir hipótese falsificável, oferta, preço quando aplicável, canal, participantes, métrica, critério de sucesso/interrupção, custo, risco, duração e autorização. Preferir testes pequenos, reversíveis e com aprendizado claro. Não executar contato, publicação, cadastro, despesa ou compromisso externo sem autorização humana.
+
+### 10.5 Resultado negativo útil
+Um teste que não converteu não prova automaticamente que todo o mercado é ruim. Analisar separadamente:
+- hipótese/problema;
+- segmento;
+- oferta e preço;
+- mensagem;
+- canal e origem do tráfego;
+- qualidade da amostra;
+- confiança e timing;
+- execução e qualidade da entrega.
+
+Registrar o que foi realmente testado e quais explicações continuam possíveis. Não declarar “ideia validada” nem “ideia morta” com base em amostra insuficiente.
