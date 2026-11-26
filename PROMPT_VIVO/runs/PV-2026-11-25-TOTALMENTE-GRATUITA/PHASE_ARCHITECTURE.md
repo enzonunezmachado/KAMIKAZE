@@ -45,3 +45,12 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - S069 documenta networking, rodadas e agentes B2B no programa subsidiado Move+ do Sebrae.
 - S070 oferece referência de escopo profissional de pesquisa, sem comparação direta de preço.
 **Decisão:** CONTINUE PHASE_03.1. Canais gerais de confiança são plausíveis; canal específico para vender benchmarking ainda não foi demonstrado. Fase 04 continua QUEUED/NOT_STARTED.
+
+## PA-009 — Quarta rodada: contratação concluída e pesquisa recorrente
+**Data:** 25/11/2026. **Fontes:** S071–S075.
+- S071: pesquisa de preços de catálogo com 44 vinhos, concluída e vencedora identificada; concorrência alta.
+- S072: pricing estratégico de 6–8 SKUs, concluído e vencedor; requer especialização, NDA e tratamento cuidadoso de tributação.
+- S073: cliente espião mensal, histórico de pagamento do comprador e recorrência declarada; status contraditório, não contar como concluído.
+- S074: curadoria de fornecedores/produtos para e-commerce, concluída; continuidade apenas potencial.
+- S075: pesquisa de tendências três vezes por semana, concluída; duração e renovação não conhecidas.
+**Decisão:** CONTINUE PHASE_03.1. Compra de pesquisa aplicada a decisões/rotinas está bem demonstrada, mas canais sem leilão, recompra e adequação de habilidade ainda faltam. PHASE_04 permanece QUEUED/NOT_STARTED.
