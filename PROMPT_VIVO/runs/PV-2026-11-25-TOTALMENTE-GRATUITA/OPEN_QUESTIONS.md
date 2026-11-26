@@ -124,3 +124,14 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 89. Fera Comunicação pode informar remuneração, número de clientes/contas, estimativa de horas por semana, disponibilidade esperada, limites de mensagens fora de horário, contrato e forma de pagamento?
 90. Existem oportunidades de coleta de dados no Brasil com pagamento em reais e lotes ativos após 25/11, com prazo de aprovação/pagamento menor que 10 dias?
 91. Existem tarefas pagas em plataformas internacionais que aceitem Brasil e tenham método de pagamento brasileiro operacional, não apenas anúncio disponível?
+
+
+## Novas perguntas — rodada 9
+92. O inglês exigido pela RWS Search Evaluator (fluente) é compatível com o nível real do usuário? Qual etapa de teste mede isso?
+93. Qual é o ciclo de pagamento da RWS para colaboradores brasileiros, mínimo de saque e eventuais taxas?
+94. A RWS aceita pessoa física sem CNPJ no projeto Search Evaluator? O formulário pergunta capacidade de faturar, enquanto o FAQ geral cita pagamento a indivíduos.
+95. A vaga Welo Junior Quality Coordinator divulga faixa de pagamento em algum canal oficial? Qual volume de reuniões, turnos e disponibilidade?
+96. O requisito de dedicação exclusiva da Welo impede simultaneamente outros trabalhos de avaliação de busca/anúncios, ou apenas projetos concorrentes?
+97. O usuário atende ao requisito de 3 ou 5 anos de residência contínua no Brasil da TELUS? O inglês profissional exigido é comprovável?
+98. Clickworker aceita novos registros no Brasil no momento e oferece PayPal ou Payoneer na seção Payment Details para residentes brasileiros?
+99. Há tarefas disponíveis imediatamente em Clickworker para PT-BR e qual volume/valor por tarefa?
