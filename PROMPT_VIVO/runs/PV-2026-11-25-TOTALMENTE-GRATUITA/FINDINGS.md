@@ -637,3 +637,10 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - **Conclusão:** é viável construir um produto demonstrável por R$0, mas não presumir operação comercial gratuita, escala ilimitada ou segurança de produção. Construção é diferente de distribuição e receita.
 - Documentos: `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`. Fontes S436–S450.
 - Nenhuma ferramenta instalada, app criado, deploy, publicação, conta, contato ou gasto; PHASE_04 continua QUEUED/NOT_STARTED.
+
+
+### Addendum Stockroom/AppJet — auditoria estática e termos
+- Leitura de código confirmou lógica útil: ledger transacional, proteção contra estoque negativo, limites e validação de entradas, neutralização de CSV formula injection, limites de JSON, security headers e Docker non-root.
+- **Não é produção pronta:** o próprio estudo diz que demo não tem login; rotas examinadas não mostram auth/tenant scoping. O teste de same-origin bloqueia CSRF no browser, mas não autentica clientes externos. Nunca usar dados reais nesse estado.
+- AppJet declara não treinar com código/interações e não reter código após coding; processamento/hospedagem em Canadá/EUA; credenciais/env vars são processadas; não promete disponibilidade ininterrupta. Tratar como declarações do fornecedor e revisar antes de conectar repositórios.
+- Testes foram apenas lidos, não executados; nenhuma auditoria dinâmica/pentest. S451–S453.
