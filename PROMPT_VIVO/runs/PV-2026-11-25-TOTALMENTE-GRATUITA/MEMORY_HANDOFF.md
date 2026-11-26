@@ -221,3 +221,14 @@ Antes de concluir qualquer sessão, sincronizar RUN_STATE, RESUME_PACKET, PHASE_
 - Fontes novas: S414–S423. Findings seção 21; PHASE_03.5 Rodada 31; Resume Packet e Run State atualizados.
 - Gate inalterado: PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
 - Nenhuma ação externa ou gasto ocorreu.
+
+
+## Rodada 32 — acionador de implementação de tráfego pago (26/11/2026)
+- O usuário pediu um acionador persistente para construir futuramente um módulo completo de tráfego pago, com etapas, skills, repositórios, documentação, manual e apresentação final.
+- Interpretei "assinador" como "acionador". Documento criado: `PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md`, ID `MAK-PAID-TRAFFIC-MODULE`, estado DORMANT / DOCUMENTED / NOT IMPLEMENTED.
+- Ao receber intenção clara, apresentar o pacote e pedir confirmação explícita para iniciar Etapa 0. Não ativar por perguntas exploratórias.
+- A Etapa 0 autoriza somente revalidação e planejamento documental. Gastos, contas, conexões, mutações, campanhas e publicações exigem autorização própria.
+- Catálogo open source ampliado com 49 skills marketing-skills e 11 referências adicionais para mídia paga, APIs, reporting e MMM; lista e resenha no blueprint e no catálogo central.
+- Bootstrap, NEXT_CHAT_PROMPT e CONTINUITY_SYSTEM receberam instrução para localizar acionadores dormentes.
+- Filosofia atual do Kamikaze não foi congelada como dependência: revalidar na ativação e integrar apenas se fizer sentido.
+- Nenhuma implementação, instalação, conexão, campanha, publicação ou despesa ocorreu. Fases 03.3/03.4/03.5 e gate da 04 permanecem inalterados.
