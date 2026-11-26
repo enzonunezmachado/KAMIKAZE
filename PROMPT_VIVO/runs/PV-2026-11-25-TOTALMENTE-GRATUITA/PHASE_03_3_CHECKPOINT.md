@@ -28,3 +28,12 @@ CONTINUE. Não construir SaaS genérico. Próximo: auditar reclamações e limit
 
 ## Restrições
 R$0. Sem cadastro, contato, publicação, anúncio, assinatura, demonstração ou gasto sem aprovação. Sem depoimento falso, história fabricada, spam ou publicidade disfarçada. Receita Kamikaze permanece R$0.
+
+
+## Atualização do checkpoint — S286–S293 (26/11/2026)
+- 99Freelas: dois briefs de otimização de perfil (50 propostas/56 interessados; 88 propostas/101 interessados). O primeiro está fechado, sem preço/contratação pública; o segundo tem orçamento aberto e também não prova pagamento.
+- Upwork: jobs de otimização de perfil com budgets anunciados de US$15–260; um registro de 1 hire em job específico, sem prova de satisfação/resultado.
+- Conclusão: existe demanda por serviços de revisão de perfil, mas alta concorrência; compra específica de Workana Profile Readiness não provada. A Workana já oferece guias gratuitos.
+- Diferencial a investigar: mapa de evidências reais e estruturação de portfólio por área, checklist de completude e coerência entre habilidades/experiência/serviço. Não prever aprovação nem fabricar experiência.
+- Próximo: investigar quem paga por revisão Workana-specific, casos de resultado e alternativa grátis; comparar com diagnóstico pré-proposta manual e calculadora líquida.
+- Estado: PHASE_03.3 CONTINUE; PHASE_04 não iniciada; R$0; NEXUS protegido; nenhum contato/publicação/deploy/gasto.
