@@ -1,7 +1,7 @@
 # Estado operacional — Kamikaze
 
 **Última atualização:** 25/11/2026  
-**Fase:** recalibração concluída; retomada da descoberta ampla  
+**Fase:** primeira execução Prompt Vivo em andamento — TOTALMENTE GRATUITA  
 **Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
 **Capital inicial:** R$ 0  
 **Receita recebida no Kamikaze:** R$ 0  
@@ -54,6 +54,13 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Banco de oportunidades, agora limpo e sem uma hipótese pré-selecionada.
 
 Esses materiais são insumos de pesquisa, não validação de negócio. Relatos de fóruns e preços publicados não comprovam faturamento nem tamanho de mercado.
+
+## Execução Prompt Vivo ativa
+
+- ID: [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_STATE.md).
+- Objetivo: pesquisar oportunidades digitais e monetização com IA sob custo monetário zero.
+- Estado: PHASE_01_LANDSCAPE em andamento; escopo inicial e primeiro lote exploratório registrados.
+- Política de cotas: [RESOURCE_BUDGET_POLICY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESOURCE_BUDGET_POLICY.md), com teto planejado de 60%, reserva de 30% para recuperação e 10% para incerteza; meta de 90% tratada como objetivo operacional, não garantia.
 
 ## O que ainda não foi feito
 
