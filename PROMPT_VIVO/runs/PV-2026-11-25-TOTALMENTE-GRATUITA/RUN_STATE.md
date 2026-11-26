@@ -182,3 +182,5 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - 99Freelas apresenta briefs de otimização de perfis com 50 propostas/56 interessados e 88 propostas/101 interessados; Upwork mostra jobs com budgets anunciados de US$15–260 e um hire registrado.
 - Categoria de revisão de perfis tem demanda, mas é competitiva; compra específica de checker Workana não provada. Workana já publica guias gratuitos.
 - Diferencial possível: mapa de evidências de experiência real + checklist Workana, sem prever aprovação.
+
+- S295 reforça que Upwork proíbe scraping e uso de seu site/serviços para construir serviço concorrente; não integrar sem autorização formal e revisão dos termos.
