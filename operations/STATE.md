@@ -1,7 +1,7 @@
 # Estado operacional — Kamikaze
 
-**Última atualização:** 25/11/2026  
-**Fase:** PHASE_03_1_PURCHASE_EVIDENCE — evidência de compra e canais sem leilão  
+**Última atualização:** 26/11/2026  
+**Fase ativa:** PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION — validação de compra e aquisição por comunidades (subfase da PHASE_03.2)  
 **Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
 **Capital inicial:** R$ 0  
 **Receita recebida no Kamikaze:** R$ 0  
@@ -50,7 +50,7 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; sem compra/recorrência comprovada.
 - PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE (aguarda integração).
-- PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; plano existe, mas teste operacional não foi executado.
+- PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.\n- PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS / CONTINUE (Rodada 21, S227–S244).\n- PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; teste operacional não executado.
 - Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
 - Matriz: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
 - Viabilidade: [PHASE_04_FEASIBILITY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_04_FEASIBILITY.md), apenas planejamento.
@@ -172,3 +172,7 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 ## Rodada 18 — 25/11/2026
 - S186–S196: assistência virtual e organização têm briefs reais, porém competição extrema; agências aparecem como potenciais compradoras intermediárias de execução/organização com fee mensal; PMEs estão cautelosas com expansão de equipe; confiança e portfólio importam.
 - PHASE_03.2 continua IN_PROGRESS / CONTINUE. PHASE_03.1 pausada, não encerrada. PHASE_04 permanece QUEUED/NOT_STARTED.
+
+
+## Atualização vigente — 26/11/2026
+A fonte mais recente de estado é PHASE_03.3_CHECKPOINT.md e o registro da Rodada 21. PHASE_03.3 está ativa (CONTINUE), PHASE_03.2 permanece aberta, PHASE_03.1 está pausada para integração e PHASE_04 não começou. A hipótese de ferramentas para freelancers tem evidência qualitativa de compra, mas não há validação de SaaS independente ou retenção. Nenhuma ação externa realizada.
