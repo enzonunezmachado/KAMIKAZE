@@ -120,3 +120,13 @@ Não considerar uma vaga viável apenas porque aceita candidatos no Brasil ou ex
 
 ## Filtro adicional — dados pessoais de terceiros e documentos privados
 Para tarefas de coleta de inbox, emails, mensagens, fotos, voz ou documentos, avaliar separadamente: titular dos dados, presença de terceiros, campos identificadores, consentimento, mascaramento antes/depois do upload, acesso humano, subprocessadores, país de armazenamento, finalidade de treinamento, retenção e direito de retirada. Se a plataforma exigir arquivo original com dados pessoais e não esclarecer o fluxo de proteção antes do envio, classificar BLOQUEADA POR PRIVACIDADE e não recomendar submissão. A remuneração não compensa exposição de dados pessoais sem salvaguardas claras.
+
+
+## Atualização — Rodada 15 (25/11/2026)
+Linha auxiliar de renda de curto prazo (sem substituir a hipótese de inteligência comercial):
+1. Priorizar plataformas com payout local verificável, aprovação rápida e taxa por hora/tarefa clara.
+2. Exigir evidência primária de Brasil elegível, método de pagamento e calendário.
+3. Separar hora gravada de hora aprovada e estimar tempo de preparação/rejeição.
+4. Avaliar cessão de direitos, privacidade doméstica, consentimento, compatibilidade de aparelho e disponibilidade de tarefas antes de recomendar.
+5. Excluir vagas com país de contratação incompatível, pagamento indisponível no Brasil, status fechado ou requisito de idioma/experiência não atendido.
+6. Não fazer cadastro, candidatura, screening, gravação, consentimento ou envio de dados sem autorização explícita.
