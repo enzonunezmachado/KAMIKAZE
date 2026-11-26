@@ -28,3 +28,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Catálogo open source do MAK
 - [Catálogo de skills e repositórios open source](MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md): inventário das 53 skills do Affitor, resenha crítica e comparação dos outros repositórios estudados. Índice documental; não representa importação ou aprovação de código.
+
+
+## Módulo futuro — Tráfego Pago
+- [Acionador e blueprint de implementação](PAID_TRAFFIC_MODULE_ACTIVATION.md): estado DORMANT; contém protocolo de confirmação, arquitetura, etapas, gates, segurança financeira, skills e repositórios de referência. Menções exploratórias não ativam o módulo.
