@@ -81,3 +81,9 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 | 25/11/2026 | PHASE_03 encerrada com PASS WITH GAPS | Usuário autorizou transição; auditoria posterior identificou lacunas críticas |
 | 25/11/2026 | Criar controlador adaptativo e PHASE_03.1 | Auditoria de completude antes de cada transição |
 | 25/11/2026 | Criar bootstrap entre chats e pacote de retomada | Garantir reconstrução explícita de contexto e incorporação de feedback |
+
+
+## Atualização de pesquisa — 25/11/2026
+- S067–S070: canais de descoberta de PMEs incluem parceiros/pares, profissionais do setor, conteúdo de busca e networking B2B; dados gerais, não prova de aquisição específica para benchmarking.
+- S071–S075: contratações concluídas em comparação de preços de catálogo, pricing estratégico, curadoria de fornecedores/produtos e pesquisa de tendências frequente. São provas de compra em pesquisa aplicada a decisões/rotinas, mas não comprovam canal sem leilão ou recompra.
+- PHASE_03.1 permanece IN_PROGRESS / CONTINUE. PHASE_04 continua QUEUED/NOT_STARTED. Nenhuma oportunidade aprovada, contato realizado ou receita gerada.
