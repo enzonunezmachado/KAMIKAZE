@@ -23,6 +23,7 @@
 1. Verificar resultado da GitHub Actions `Documentation quality` após as alterações.
 2. Corrigir qualquer falha de links, lint, orçamento de linhas ou build MkDocs.
 3. Depois, continuar a pesquisa conforme PHASE_CONTROL, sem ativar Company Solutions ou PHASE_04 sem autorização.
+4. Pesquisa futura capturada, ainda não iniciada: agentes gratuitos, modelos de orquestração e critérios para delegar tarefas sem perder controle humano.
 
 ## Regra de atualização
 Atualizar este arquivo somente após uma entrega substantiva confirmada. Em cada checkpoint, sincronizar state.toml, STATE.md, RUN_STATE, PHASE_CONTROL quando aplicável, RESUME_PACKET e logs. Não inferir a última entrega por timestamp. Não existe execução em segundo plano.
