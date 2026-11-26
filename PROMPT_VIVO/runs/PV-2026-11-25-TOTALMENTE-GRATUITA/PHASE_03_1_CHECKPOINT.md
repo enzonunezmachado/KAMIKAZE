@@ -157,3 +157,16 @@ PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato ou ação ex
 - S102–S103: saque PayPal a partir de £6/US$6 aprovados; aprovação de submissões pode levar até 22 dias. Não serve como aposta de prazo imediato sem conta já ativa.
 - S104: Outlier paga semanalmente às terças após onboarding, mas exige ID, telefone local, currículo e qualificação específica. A vaga localizada para PT-BR era de programação/coding expertise; não presumir que se encaixa.
 - Gate permanece CONTINUE: ainda faltam prova de alocação, pagamento efetivo e canal rápido. Nenhuma conta criada/candidatura feita.
+
+
+## Rodada 8 — 25/11/2026: disponibilidade real e pagamentos no Brasil
+- S105: YPAI parecia aberta em resultados de busca, mas páginas oficiais abertas agora dizem “This position is closed”. Excluir como vaga ativa.
+- S106–S107: CrowdSource Labs, empresa brasileira com CNPJ publicado, anuncia R$200 por participante em coleta de conversas (400 min por dupla, aprovação final); prioridade da primeira rodada era 7–8/11, já passado. Pode haver lotes futuros; registro geral não garante seleção. Exigir termos/consentimento e pagamento antes de gravar.
+- S108: OpenTrain declara oficialmente que ainda não paga freelancers no Brasil. Eliminar temporariamente como canal, mesmo que os anúncios indiquem taxas altas.
+- S109–S111: OpenTrain AI testing (US$30–49/h) exige inglês forte e cartão; AI Evaluation exige graduação; Language Expert exige conhecimento linguístico avançado. Todos bloqueados por pagamento no Brasil.
+- S112: Babel Conversation Partner tem conversas de 15 min e pagamentos semanais alegados; US$17,50/h é só EUA/Canadá, taxa Brasil não informada e elegibilidade local não confirmada.
+- S113: Babel Voice Actor exclui residentes no Brasil.
+- S114: Lionbridge survey US$10 exige smartphone não Android; incompatível com dispositivo do usuário.
+- S115: Fera Comunicação publicou vaga recente de coordenação operacional de conteúdo, remota/PJ, mensal fixo sem valor divulgado, 26 candidaturas. Escopo envolve curadoria, calendário, cobrança de pendências, agendamento, grupos WhatsApp e Trello/Notion; exige disponibilidade sob demanda e Meet. Potencial fit de organização, mas é responsabilidade real com clientes.
+### Gate
+CONTINUE. A evidência de remuneração em reais da CSL é promissora, mas o lote específico está datado no passado; Fera tem vaga recente mas remuneração/volume não são transparentes; Lionbridge/Babel precisam de confirmação de pagamento/volume. Meta R$150 até 6/12 não garantida. Nenhuma ação externa ou candidatura realizada. PHASE_04 permanece QUEUED/NOT_STARTED.
