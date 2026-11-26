@@ -323,3 +323,7 @@ S386–S393 adicionam prazos oficiais de saque e novos relatos. Hotmart: Pix/bol
 
 ### Rodada 29 — indicação e GitHub (26/11/2026)
 Nova hipótese: referral-by-introduction com profissionais conectores. Apresentar oferta e contexto verdadeiro, ouvir feedback, e se não houver fit perguntar sem pressão se conhecem alguém que poderia se beneficiar; pedir introdução consentida ou oferecer mensagem encaminhável, não dados de contato de terceiros. Disclosure de comissão afiliada; nunca usar história pessoal para criar obrigação. S394–S398: Affitor/affiliate-skills (52 AI skills, MIT) é principal referência para estudar; OpenAffiliate é diretório estruturado de programas (MIT); Postiz é scheduler/analytics robusto mas AGPL e exige infraestrutura; workflow n8n de TikTok gera scripts/captions a partir de planilha, mas é Taglish e não prova conversão; eduubrz affiliate-platform está inativo e é pesado. Nenhum repo instalado/executado. Ver PHASE_03.5 e FINDINGS.
+
+
+### Complemento Rodada 29 — workflows n8n
+S399–S401: SankeerthBoddu/n8n-marketing-workflows demonstra padrão de buffer de revisão em Google Sheets, aprovação humana e logging multicanal; é rascunho de referência, não produção validada. signalreason/affiliate-content-automation é pesado e propõe até 1.000 artigos/semana; não adotar. AshmithaRajadurai social manager usa Puppeteer para publicação e precisa auditoria de política/estabilidade. TARA BOT é generalista e afiliado está marcado como futuro. Padrão aproveitável para MAK: IA prepara, humano revisa, publica com autorização e mede.
