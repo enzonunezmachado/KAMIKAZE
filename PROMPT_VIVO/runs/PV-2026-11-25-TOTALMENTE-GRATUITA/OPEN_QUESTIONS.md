@@ -113,3 +113,14 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 81. Em plataformas de tarefas para IA, quais projetos abertos são realmente compatíveis com português brasileiro sem exigir especialidade técnica?
 82. Qual a diferença entre aprovação de onboarding, acesso a projeto, horas disponíveis e pagamento aprovado?
 83. Existem projetos de gravação de áudio/dados com pagamento em prazo curto e regras claras para brasileiros?
+
+
+## Novas perguntas — rodada 8
+84. A CrowdSource Labs já tem um novo lote depois do prazo inicial de 7–8/11/2026? Qual calendário real e número de participantes?
+85. Qual é o valor e prazo de pagamento do próximo lote CSL, quais critérios de aceitação e política de regravação?
+86. Qual é a finalidade, retenção, licença e uso de voz/biometria em cada lote CSL? O participante pode retirar consentimento e em que momento?
+87. Babel Audio aceita efetivamente residentes no Brasil no projeto Conversation Partner? Qual é a taxa por hora de áudio para Brasil, método de saque disponível e exigências fiscais?
+88. Lionbridge áudio PT-BR informa calendário de pagamento, duração estimada e volume de horas? A taxa US$10 refere-se a tempo gravado ou tempo de tarefa?
+89. Fera Comunicação pode informar remuneração, número de clientes/contas, estimativa de horas por semana, disponibilidade esperada, limites de mensagens fora de horário, contrato e forma de pagamento?
+90. Existem oportunidades de coleta de dados no Brasil com pagamento em reais e lotes ativos após 25/11, com prazo de aprovação/pagamento menor que 10 dias?
+91. Existem tarefas pagas em plataformas internacionais que aceitem Brasil e tenham método de pagamento brasileiro operacional, não apenas anúncio disponível?
