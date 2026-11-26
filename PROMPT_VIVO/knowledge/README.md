@@ -40,3 +40,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Soluções digitais locais e prospecção
 - [MAK — Soluções digitais locais, prospecção e motor de leads](MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md): segmentação por maturidade digital, ofertas por vertical, modelo implantação + manutenção, fontes e limites de leads, LGPD/WhatsApp, pilotos em Taboão e portfólio demonstrativo.
+
+
+## Operação empresarial — lotes, ranking, CRM documental e projetos
+- [Motor de Diagnóstico e Soluções Empresariais](../../operations/COMPANY_SOLUTIONS/README.md): sistema documental para pesquisar lotes de 20 empresas únicas, ranquear por fit de conversão e valor empresarial, registrar decisões/contatos, evitar duplicatas, organizar dossiês, projetos, contratos recorrentes e finanças. Estado DOCUMENTADO / NÃO ATIVADO.
