@@ -106,3 +106,20 @@ S078: Sebrae/E-Commerce Brasil, n=3.081, operação digital concentrada em uma p
 **Nota histórica de elegibilidade:** a pesquisa S081–S084 foi feita sob a premissa incorreta de que o usuário tinha 16 anos. As informações gerais sobre plataformas e legislação permanecem como fontes, mas a conclusão pessoal de bloqueio por menoridade está superada. O usuário corrigiu a idade para **18 anos** em 25/11/2026. Reavaliar plataformas sob a idade correta e os demais termos vigentes.
 Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa realizada.
 \n\n## 13. Correção do usuário — idade e capacidade (25/11/2026)\n- Idade atual: **18 anos**. A premissa anterior de 16 anos estava incorreta.\n- Não aplicar restrições de menoridade nem exigir responsável legal por ser menor.\n- O usuário afirma ter capacidade e disposição para aprender e desempenhar o necessário. Avaliar por tarefa, sem tratar falta de experiência profissional como incapacidade.\n- Manter honestidade sobre histórico, portfólio e credenciais; construir prova de capacidade com amostras e entregas reais.\n- Reavaliar plataformas, contratação e recebimento com a idade correta; continuar PHASE_03.1 pelo controlador adaptativo.
+
+## 14. Rodada 6 — elegibilidade corrigida, bastidores e pagamentos (25/11/2026)
+- O usuário tem **18 anos**; premissa anterior de 16 está superada. Não aplicar restrições de menoridade.
+- S087–S088: Workana e Upwork exigem 18 anos; requisito etário atendido, sem garantia de aprovação.
+- S089: Workana gratuito paga entre dias 1–5 do mês seguinte; saque semanal/meio do mês requer planos pagos.
+- S090: 99Freelas tem comissão de 10%–20%, até 5 dias úteis para cliente aprovar e até 6 dias úteis de repasse após liberação no plano Free.
+- S091: pesquisa documental de 45 empresas concluída com vencedor; tarefa pública, delimitada, 29 propostas.
+- S092: assistente virtual de consultório concluído com vencedora, mas 148 propostas, expediente 8h–17h e dados de pacientes; não priorizar.
+- S093: vaga antiga theROCCO para assistente de Social Media iniciante, sem experiência, pesquisa/organização e aprovação de materiais; não aceita candidaturas.
+- S094: vaga recente Fera Comunicação para coordenação operacional de conteúdo, remota/PJ, sem horário fixo, pagamento mensal fixo sem valor divulgado, curadoria, calendário, follow-up, agendamento, WhatsApp, Trello/Notion e Meet; experiência pesa menos que compromisso; 26 candidaturas.
+- S095: Workana agência busca rede de freelancers em marketing; intenção ampla, comprador com histórico de pagamentos fraco.
+- S096: white-label de tráfego pago existe, mas exige habilidades técnicas intermediárias e lida com orçamento de clientes.
+- S097: Huios declara parcerias white-label/repasse/indicação já realizadas, mas execução exige especialidade.
+- S098: Lionbridge anuncia gravação de áudio PT-BR por US$10/h, remoto/part-time, smartphone e pré-teste; horas e pagamento não divulgados.
+- S099: Lionbridge afirma que não cobra para participar e alerta para golpes.
+- S100: cadastro global Lionbridge exige 18 anos; idade atendida, sem garantia de alocação.
+**Estado:** PHASE_03.1 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou receita.
