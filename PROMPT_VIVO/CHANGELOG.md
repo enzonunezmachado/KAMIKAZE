@@ -39,3 +39,22 @@ Adicionar novas mudanças no topo, com data, motivo, arquivos afetados, impacto 
 - Criada política de cotas com reserva explícita e fallback permitido; percentual de 90% definido como meta de confiabilidade a medir, não promessa.
 - O primeiro lote identificou hipóteses em serviços operacionais de dados/documentos/conteúdo, riscos de automação genérica, custos de dropshipping e taxas de marketplaces.
 - Próxima iteração: aprofundar procura brasileira e verificar caminhos de aquisição/pagamento.
+
+## 2026-11-25 — Governança adaptativa de fases
+
+### Motivo
+O usuário esclareceu que o Prompt Vivo precisa administrar dinamicamente a quantidade e a estrutura das fases: concluir uma fase sem inventar novas quando desnecessárias, mas também criar, modificar, dividir, mesclar, reordenar, pular ou reabrir fases quando a pesquisa exigir.
+
+### Diagnóstico
+O protocolo anterior permitia aprofundar, encerrar linhas e pesquisar em paralelo, mas não definia explicitamente o ciclo de vida completo das fases nem a obrigação de sincronizar o plano e o estado quando a arquitetura mudasse.
+
+### Alterações
+- Adicionada seção obrigatória de arquitetura adaptativa ao EXECUTION_PROTOCOL.md.
+- Atualizado README para deixar claro que PHASE_00–PHASE_05 são modelos, não limite fixo.
+- Toda run deverá manter PHASE_ARCHITECTURE.md para registrar decisões e versões da sequência.
+
+### Governança
+Ajustes locais na execução são permitidos dentro do escopo aprovado; mudanças no protocolo/CORE seguem aprovação humana. Esta alteração central foi autorizada pelo pedido explícito do usuário.
+
+### Teste
+Aplicar imediatamente na execução PV-2026-11-25-TOTALMENTE-GRATUITA ao iniciar PHASE_02_DEMAND.
