@@ -210,3 +210,14 @@ Para transferência entre chats, consultar `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e 
 Frentes atuais: PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Último trabalho: auditoria Affitor S403–S413 e documento MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md. Próxima ação: continuar PHASE_03.5 na adaptação das skills e validação de aquisição/afiliados, mantendo as demais frentes abertas e evitando repetição.
 
 Antes de concluir qualquer sessão, sincronizar RUN_STATE, RESUME_PACKET, PHASE_CONTROL, USER_INPUT_LOG, operations/STATE e logs. Escrita não confirmada deve ser marcada NÃO PERSISTIDO.
+
+
+## Rodada 31 — catálogo open source e skills Affitor (26/11/2026)
+- A retomada foi executada por NEXT_CHAT_PROMPT/BOOTSTRAP; a execução ativa continua PV-2026-11-25-TOTALMENTE-GRATUITA.
+- Catálogo central: `PROMPT_VIVO/knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md` (inventário nominal de 53 skills Affitor + resenha e 8 repositórios relacionados).
+- Affitor: 53 skills no tree/registry; distribuição 11/7/7/8/4/5/5/6. README 52 está desatualizado; affiliate-program-search é ponte de compatibilidade.
+- Outros repos: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator n8n, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
+- Adotar princípios e workflows adaptados; não importar/instalar/rodar código agora. Priorizar skills próprias do MAK sem duplicidade, com evidência, orçamento R$0, compliance brasileiro e aprovação humana.
+- Fontes novas: S414–S423. Findings seção 21; PHASE_03.5 Rodada 31; Resume Packet e Run State atualizados.
+- Gate inalterado: PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
+- Nenhuma ação externa ou gasto ocorreu.
