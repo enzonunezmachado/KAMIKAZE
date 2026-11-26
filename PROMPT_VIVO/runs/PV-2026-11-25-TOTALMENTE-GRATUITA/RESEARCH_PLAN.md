@@ -74,7 +74,7 @@ Gate: CONTINUE PHASE_03.1. Próximo foco: identificar uma hipótese estreita de 
 
 ## Novo critério obrigatório — adequação ao operador (25/11/2026)
 
-O responsável está começando e não possui experiência profissional prévia nas áreas que estão sendo investigadas. Não presumir domínio de vendas, marketing, programação, consultoria, pesquisa, gestão, negociação, atendimento ou reuniões profissionais. A oportunidade precisa ser viável para uma pessoa iniciante, não para um freelancer sênior imaginário.
+O usuário tem 18 anos. Não aplicar restrições de menoridade. Está construindo experiência profissional, mas afirma ter capacidade e disposição para aprender e executar o necessário. Não presumir domínio automático nem incapacidade: avaliar tarefas concretas e evidências de execução.
 
 Para cada hipótese que chegar à shortlist, avaliar:
 1. **Competência atual:** quais tarefas o responsável já consegue executar com qualidade demonstrável?
@@ -86,7 +86,7 @@ Para cada hipótese que chegar à shortlist, avaliar:
 7. **Idade e proteção:** avaliar requisitos legais e de plataforma, contratos, recebimentos, exposição pública, reuniões presenciais/online e necessidade de participação de responsável adulto. Não presumir elegibilidade legal nem sugerir ocultar idade ou identidade.
 8. **Progressão:** é possível começar com tarefa pequena, escopo claro, revisão/supervisão e risco baixo, acumulando experiência real antes de assumir complexidade?
 
-Não recomendar que o responsável se apresente como especialista ou simule autoridade. Preferir transparência profissional: explicar o que oferece, o que não oferece, como verifica o trabalho e quando precisa consultar alguém mais experiente. Se a oportunidade só funcionar com reputação ou conhecimento que ele ainda não tem, marcar como INADEQUADA AGORA, mesmo que exista demanda.
+Não recomendar que o responsável se apresente como especialista ou simule autoridade. Preferir transparência profissional: explicar o que oferece, o que não oferece, como verifica o trabalho e quando precisa consultar alguém mais experiente. Se a oportunidade exigir conhecimento, reputação ou credenciais não demonstráveis, avaliar se é possível aprender, produzir amostra, delimitar escopo ou incluir revisão. Só marcar INADEQUADA AGORA quando a lacuna for material e não puder ser mitigada; falta de histórico profissional, isoladamente, não basta.
 
 ## Profundidade de pesquisa — padrão aprofundado por padrão
 
@@ -104,3 +104,4 @@ O usuário autorizou dedicar mais tempo e profundidade à pesquisa. Não otimiza
 Não impor uma quantidade artificial de minutos ou fontes. A profundidade é adaptativa: continuar enquanto uma pergunta decisiva puder ser respondida com ganho material; parar quando houver saturação, baixa utilidade marginal, bloqueio de acesso ou contraprova suficiente. Se a sessão precisar terminar, salvar checkpoint e continuar em outra rodada — não comprimir a pesquisa para caber em uma resposta curta.
 
 A meta imediata de R$150 até 06/12/2026 continua sendo objetivo, não justificativa para pular validação, assumir risco desproporcional ou vender algo que o responsável não sabe entregar.
+\n\n## Correção de perfil — 25/11/2026\nA idade atual informada pelo usuário é **18 anos**; referências anteriores a 16 anos estão superadas para decisões operacionais. O usuário afirma ter capacidade e disposição para aprender e desempenhar o que for necessário. Não tratar ausência de experiência profissional como incapacidade; decompor o trabalho em tarefas, competências, aprendizagem, demonstração de qualidade, riscos e controles. Não inventar experiência, clientes, avaliações ou credenciais. Reavaliar plataformas com idade mínima de 18 anos, verificando os demais requisitos vigentes.
