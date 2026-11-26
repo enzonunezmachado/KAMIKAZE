@@ -179,3 +179,5 @@ A fonte mais recente de estado é PHASE_03.3_CHECKPOINT.md e o registro da Rodad
 
 
 Complemento S286–S293: profile optimization tem sinais de compra da categoria, mas alta concorrência e sem prova de compra de ferramenta específica Workana. A hipótese Workana Profile Readiness segue em pesquisa, não aprovada.
+
+S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/serviços para construir serviço similar/concorrente; não desenvolver integração ou produto dependente de dados Upwork sem autorização escrita e revisão dos termos.
