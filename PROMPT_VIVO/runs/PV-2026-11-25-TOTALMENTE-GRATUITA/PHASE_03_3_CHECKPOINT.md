@@ -41,3 +41,24 @@ R$0. Sem cadastro, contato, publicação, anúncio, assinatura, demonstração o
 S294: Mansão Dev (~528 membros em diretório) tem canais de divulgação/parcerias, mas é comunidade ampla de programação/design; atividade e regras internas não verificadas. Acrescenta-se à lista de observação, não à lista de divulgação autorizada.
 
 S295: os termos legais/API Upwork proíbem scraping e uso do site/serviços para construir serviço similar/concorrente. Nenhuma integração ou produto dependente de dados Upwork sem autorização escrita/revisão dos termos.
+
+
+## Atualização — Rodada 23: Simple Search Utilities / SEO Microtools (26/11/2026)
+O usuário propôs uma linha de ferramentas simples e muito procuradas via Google (calculadoras, conversores e utilitários). A hipótese foi adicionada ao portfolio para comparação com serviços/ferramentas para freelancers.
+
+**Métrica de oportunidade proposta:** Demanda 25%, dificuldade orgânica 20%, qualidade da SERP 15%, valor econômico 15%, repetição/cluster 10%, facilidade de MVP/manutenção 10%, diferenciação/risco 5%. Cada dimensão recebe nota 0–5; converter ponderadamente para 0–100. Dados ausentes = ND, nunca zero ou estimativa inventada. Não classificar sem volume e SERP analisados.
+
+**Ferramentas:** Keyword Planner estima volume mensal e ideias, mas exige configuração da conta Ads com informação de faturamento (S296). Google Trends mede interesse relativo e sazonalidade, não volume absoluto (S297). Ahrefs oferece gerador e KD gratuitos limitados; KD não substitui auditoria da SERP (S298–S299). Google aceita ferramentas interativas como conteúdo principal, mas exige utilidade/originalidade; conteúdo escalado sem valor e funcionalidades enganosas são abuso (S301–S302). AdSense exige conteúdo próprio/original/de qualidade e 18+, sem mínimo de tráfego explícito na página de elegibilidade consultada (S303).
+
+**Triagem qualitativa (sem volume validado):**
+- Dias úteis: concorrência já inclui ferramentas com feriados, calendário e regras detalhadas (S305–S306).
+- Tinta/piso/reforma: concorrentes funcionais já calculam área, demãos, caixas, argamassa e rejunte (S307, S312, S314).
+- Cortina/tecido/papel de parede: calculadoras específicas existem e podem ligar-se a compra/leads; volume desconhecido (S308–S309).
+- Botijão de gás: nicho técnico e fórmula específica, demanda desconhecida (S311).
+- Impressão 3D: várias calculadoras especializadas, algumas leem G-code/3MF; não priorizar clone (S310).
+- BTU: busca comercial plausível, mas estimativa simples exige ressalvas e não substitui dimensionamento profissional (S313).
+- Ferramentas genéricas: ToolNest apresenta 221 utilitários; commoditização visível (S304).
+
+**Conclusão:** nenhuma ferramenta está aprovada. A pesquisa provou concorrência existente, mas ainda não provou alto volume, baixa concorrência, tráfego, receita ou oportunidade. Ferramenta SEO é ativo de médio/longo prazo, não plano confiável para R$150 até 06/12.
+
+**Próximo:** criar clusters de 30–50 keywords em 5–8 famílias, medir volume/CPC com fontes disponíveis e auditar top 10 SERP por cluster; depois comparar com ideias de freelancers e serviço manual. PHASE_03.3 CONTINUE; PHASE_04 não iniciada; R$0; sem cadastro, anúncio, contato, publicação, deploy ou gasto.
