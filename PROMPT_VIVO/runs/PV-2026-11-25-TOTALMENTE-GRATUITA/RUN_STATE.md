@@ -167,3 +167,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - FreelaSync: R$14,90/49,90 anunciados, sem evidência pública de assinantes (S225).
 - Relato individual de freelancer que pagou R$54,90 no 99Freelas para ver a média das propostas concorrentes; sinal de compra por inteligência competitiva nativa (S226).
 - Não confundir anúncio de preço com venda. Manter PHASE_03.3 em CONTINUE.
+
+
+### Complemento Rodada 22 — S245–S285 (26/11/2026)
+- Scoutly cobre alertas/score/cliente/proposta; Workaholic open-source cobre agregação multi-site, score, CRM, follow-up e currículo. Produto genérico não é diferencial.
+- Upwork alerta contra job watchers/scrapers e Workana proíbe extração/monitoramento automatizado. Não construir crawler/extension/background polling sem autorização formal.
+- Nova micro-nicho: Workana Profile Readiness/First-30-Days Launch; dor de moderação de 15–30 dias e requisitos de perfil/portfólio, mas compra de ferramenta externa não demonstrada.
+- Comunidades: Meetups com centenas de membros, vários inativos; Programadores BR e Editor Livre são melhores candidatos digitais para observação, com regras internas a verificar. r/freelanceWriters proíbe pesquisa de produto disfarçada; r/sideprojects proíbe astroturfing.
+- Viabilidade: AI Studio Starter Tier até 2 apps ativos, quotas compartilhadas; usuário usa o mesmo ecossistema no NEXUS, portanto não presumir slot. Preferir protótipo estático/local-first sem API/backend. R$0, nenhum gasto autorizado.
+- PHASE_03.3 permanece IN_PROGRESS / CONTINUE; PHASE_04 não iniciada.
