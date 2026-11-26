@@ -175,3 +175,13 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 127. No projeto de verificação de identidade uTest, qual é o pagamento, entidade controladora, finalidade, acesso, criptografia, retenção exata e mecanismo de exclusão do documento? Não enviar documento sem resposta.
 128. Quais métodos de pagamento aparecem efetivamente na conta uTest para residentes brasileiros (PayPal, Payoneer ou Wise/banco) e qual calendário do próximo ciclo?
 129. Há projetos uTest que pagam por teste funcional simples e não exigem compartilhar dados bancários, documentos oficiais ou instalar software persistente?
+
+
+## Rodada 15 — perguntas adicionadas (25/11/2026)
+- O celular principal do usuário está na lista de compatibilidade do Hub Data? Confirmar modelo exato somente se o usuário quiser avaliar a oportunidade.
+- Quais são os termos integrais atuais de direitos/licença, retenção, revogação, privacidade e foro do Hub Data? Os links oficiais redirecionaram para uma área não acessível; não presumir que o resumo público substitui o contrato.
+- O app mostra tarefas residenciais disponíveis para a localização do usuário? Isso só pode ser confirmado dentro da conta; não criar conta nem solicitar cadastro sem autorização.
+- Qual é o mínimo de saque e o prazo real entre gravação, revisão, saldo aprovado e Pix? A página oficial indica Pix instantâneo após crédito, mas não publica mínimo nem janela completa de aprovação.
+- O tempo de vídeo aprovado por hora de esforço real é suficiente para alcançar R$150 sem gravar tarefas encenadas ou aumentar exposição doméstica?
+- A página oficial YPAI segue fechada apesar de conteúdo contraditório? Banner explícito de encerramento resolve o status atual; manter apenas monitoramento.
+- CrowdSource Labs abrirá um novo lote com prazo futuro? Sem data nova, não contar.
