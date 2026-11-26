@@ -37,3 +37,24 @@ A evidência de procura ficou mais forte, mas não deve ser exagerada:
 
 ## Próxima ação
 Continuar PHASE_03.1, agora focando em canais inbound/indicação/parceria, compradores com sinais de decisão urgente e diferenciação entre pesquisa remota pública e pesquisa com campo/contato. Não avançar à Fase 04 ainda.
+
+
+## Rodada 3 — canais de aquisição e urgência (25/11/2026)
+**Fontes:** S067–S070.
+- S067 (Serasa Experian, amostra 313 PMEs): 47% buscam parceiros/outros empreendedores; 40% conversam com pessoas do ramo; 31% usam artigos/notícias em buscadores; 15% contrataram consultoria para aprimorar o negócio (vs. 9% antes de abrir). Margem de erro 5,5%, confiança 95%.
+- S068 (Sebrae 2026): em serviços, >80% usam WhatsApp, canal mais importante para 66%; 70% resolvem desafios sozinhos; 40% têm planejamento formal; CRM/automação em menos de 10%.
+- S069 (Sebrae Move+): networking, agentes de mercado, diagnóstico, rodadas e aproximação comercial B2B aparecem como mecanismos usados em programa com mais de 2,8 mil MPEs atendidas; evidência de mecanismo institucional subsidiado, não de aquisição privada independente.
+- S070 (Sebrae): pesquisa profissional é apresentada como processo que inclui problema, metodologia, coleta, análise, relatório e apresentação; preços institucionais de R$5.600/80h e R$7.000/100h não são comparáveis diretamente a microserviço.
+
+### Interpretação
+A evidência apoia investigar indicação, pares, profissionais complementares, conteúdo de busca e networking. Ela não prova que esses canais converteriam para um relatório competitivo. WhatsApp é infraestrutura de relacionamento, não autorização para cold messaging. Demonstração pública com fontes rastreáveis pode ser um ativo inbound, mas precisa ser testada.
+
+### Gate e lacunas
+- Canais de descoberta de PMEs em geral: PARCIALMENTE RESPONDIDO.
+- Canal específico para contratar relatório de concorrentes sem leilão: NÃO RESPONDIDO.
+- Existência de profissionais complementares que indiquem esse serviço: NÃO RESPONDIDO.
+- Segmentos com gatilho urgente e disposição a pagar: PARCIAL.
+- Recompra/assinatura demonstrada: NÃO RESPONDIDA.
+- Preço líquido e prazo de recebimento: NÃO RESPONDIDO.
+
+**Decisão:** CONTINUE PHASE_03.1. Não avançar para PHASE_04 ainda; próxima rodada deve procurar sinais específicos de demanda por benchmarking em segmentos/gatilhos, mapear comunidades/canais inbound e obter evidência de venda/recompra comparável. Nenhuma abordagem externa autorizada.
