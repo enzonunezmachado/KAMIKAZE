@@ -4,18 +4,18 @@
 - Título: Oportunidades Digitais e Monetização com IA — TOTALMENTE GRATUITA
 - Criado/atualizado: 2026-11-25
 - Estado: IN_PROGRESS
-- Fase atual: PHASE_04_FEASIBILITY (escopo definido; testes operacionais pendentes)
+- Fase atual: PHASE_03_1_PURCHASE_EVIDENCE (IN_PROGRESS; gate CONTINUE)
 - Objetivo: descobrir, comparar e priorizar oportunidades digitais que usem IA ou possam ser aceleradas por IA, com custo monetário inicial zero e sem dependência de planos pagos.
 - Meta contextual: buscar R$150 efetivamente recebidos até 06/12/2026; não prometer resultado.
 - Capital autorizado: R$0. Nenhuma compra, assinatura, anúncio, contratação, API paga ou compromisso financeiro.
-- Fases concluídas: PHASE_00_SCOPE (PASS WITH GAPS); PHASE_01_LANDSCAPE (PASS WITH GAPS); PHASE_02_DEMAND (encerrada para transição por decisão explícita; PASS WITH GAPS); PHASE_03_VALIDATION (encerrada para transição por decisão explícita; PASS WITH GAPS).
-- Fase atual: PHASE_04_FEASIBILITY. Avaliar (A) serviço delimitado de inteligência comercial, (B) concierge recorrente de monitoramento competitivo assistido por IA e (C) planilhas rápidas como comparador secundário.
+- Fases concluídas/encerradas para transição: PHASE_00_SCOPE (PASS WITH GAPS); PHASE_01_LANDSCAPE (PASS WITH GAPS); PHASE_02_DEMAND (PASS WITH GAPS); PHASE_03_VALIDATION (PASS WITH GAPS; reavaliada e complementada pela subfase 03.1).
+- PHASE_03_1_PURCHASE_EVIDENCE: aprofundar compras concluídas, canal sem leilão, segmento comprador e recorrência. PHASE_04_FEASIBILITY permanece planejada/aguardando; seu plano existe, mas a execução operacional ainda não começou.
 - Regra de aquisição: não priorizar modelos em que dezenas de freelancers produzem propostas ou amostras não pagas para um único comprador. Não enviar propostas, mensagens, amostras personalizadas ou contatar leads sem autorização humana.
-- Próxima ação: desenhar fluxo ponta a ponta, auditar stack/fonte gratuita, testar internamente um relatório com dados públicos e medir tempo, qualidade e economia unitária.
+- Próxima ação: continuar PHASE_03.1 com pedidos concluídos comparáveis e canais sem leilão; consultar PHASE_CONTROL.md antes de qualquer nova transição.
 - Decisões humanas pendentes: nenhuma oportunidade ou abordagem externa aprovada.
 - Regra crítica: soluções precisam permanecer TOTALMENTE GRATUITAS para começar e operar no escopo definido. Taxas inevitáveis somente após venda devem ser explicitadas e aprovadas.
-- Checkpoints: PHASE_00_SCOPE_CHECKPOINT.md; PHASE_01_LANDSCAPE_CHECKPOINT.md; PHASE_02_DEMAND_CHECKPOINT.md; PHASE_03_VALIDATION_CHECKPOINT.md; PHASE_04_FEASIBILITY_CHECKPOINT.md.
-- Arquitetura adaptativa: PHASE_ARCHITECTURE.md.
+- Checkpoints: PHASE_00_SCOPE_CHECKPOINT.md; PHASE_01_LANDSCAPE_CHECKPOINT.md; PHASE_02_DEMAND_CHECKPOINT.md; PHASE_03_VALIDATION_CHECKPOINT.md; PHASE_03_1_CHECKPOINT.md; PHASE_04_FEASIBILITY_CHECKPOINT.md.
+- Arquitetura adaptativa: PHASE_ARCHITECTURE.md; controlador de transições: PHASE_CONTROL.md.
 - Mapa de demanda: DEMAND_MAP.md.
 - Validação: VALIDATION_MATRIX.md.
 - Viabilidade: PHASE_04_FEASIBILITY.md e PHASE_04_FEASIBILITY_CHECKPOINT.md.
