@@ -4,6 +4,12 @@
 **Versão:** 1.1  
 **Escopo:** esta execução; modelo reutilizável para futuras runs.
 
+## Snapshot vigente — 26/11/2026
+- Foco atual registrado: `PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION` — IN_PROGRESS / CONTINUE.
+- PHASE_03.3 e PHASE_03.4 permanecem linhas paralelas abertas; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE.
+- PHASE_04_FEASIBILITY permanece QUEUED / NOT_STARTED.
+- O snapshot estruturado de referência está em `operations/state.toml`; este controlador documenta a justificativa do gate e a próxima ação permitida.
+
 ## Regra de interação
 Quando o usuário disser "próxima", "continua", "vai", "pode avançar" ou equivalente, interpretar como autorização para continuar o trabalho — não como obrigação de trocar o número da fase nem como aprovação automática de um gate factual.
 Comentários, correções e preferências expressos antes de "próxima" também devem ser incorporados: classificar impacto, registrar em USER_INPUT_LOG.md e reavaliar escopo, método, critérios e arquitetura.
@@ -40,8 +46,8 @@ Em novo chat, executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md antes dos
 ## Formato de decisão ao usuário
 Informar em poucas linhas: fase auditada, decisão (continuar/subfase/avançar), motivo principal, o que foi executado, estado do repositório e próximo passo. Evitar pedir que o usuário escolha a numeração; a IA administra a arquitetura e explica a decisão.
 
-## Aplicação atual
-A auditoria identificou que PHASE_03_VALIDATION foi encerrada para transição antes de responder questões críticas. PHASE_04_FEASIBILITY existe como plano, mas nenhum teste operacional foi executado. PHASE_03_1_PURCHASE_EVIDENCE permanece ativa. Na segunda rodada, S062–S066 acrescentaram evidência parcial de execução, intenção de compra e recorrência declarada, mas não comprovaram venda de relatório remoto competitivo nem canal sem leilão. Portanto, gate CONTINUE; PHASE_04 fica QUEUED/NOT_STARTED.
+## Aplicação histórica — snapshot inicial
+Este parágrafo registra o estado no início da execução e foi preservado como histórico. **Não é o estado vigente.** Para a fase/gate atuais, consultar o último registro de decisão deste arquivo, `RUN_STATE.md` e `operations/state.toml`.
 
 
 
