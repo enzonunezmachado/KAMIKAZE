@@ -25,15 +25,15 @@
 | Dimensão | Evidência atual | Contraprova/limite | Estado |
 |---|---|---|---|
 | Problema | Concorrentes mudam preços, ofertas, produtos, anúncios e posicionamento | Não está demonstrado que o público-alvo monitore isso regularmente | Hipótese |
-| Substitutos gratuitos | Google Alerts e Trends; busca manual; planilhas; IA generalista (S051–S053) | Gratuitos podem ser suficientes para necessidades simples | Mapeados parcialmente |
-| Concorrentes pagos | Ferramentas de monitoramento/SEO e inteligência competitiva já existem; aprofundar escopos e preços | Algumas são caras ou voltadas a equipes maiores | Pesquisa pendente |
+| Substitutos gratuitos | Google Alerts e Trends; Visualping Free (5 páginas/150 verificações por mês); busca manual; planilhas; IA generalista (S051/S052/S054) | Gratuitos podem ser suficientes para necessidades simples | Mapeados |
+| Concorrentes pagos | Debriefing, Similarweb, Semrush, Brand24 e Visualping pago cobrem diferentes sinais e escalas (S054/S055) | Algumas ferramentas são caras ou voltadas a equipes; guia comparativo tem viés de fornecedor | Mapeados parcialmente |
 | Valor potencial | Histórico, detecção de mudanças, contexto, resumo periódico e recomendação | Pode ser apenas conveniência; frequência pode não justificar assinatura | Não validado |
 | Viabilidade técnica | Fluxo manual/semiassistido é possível como concierge | Automação contínua exige fontes estáveis, permissões, cotas e manutenção | Não validada |
 | Confiabilidade | Fontes rastreáveis, snapshots datados e revisão humana podem reduzir erros | Mudanças dinâmicas, bloqueios e páginas incompletas | Parcial |
 | Disposição a pagar | Nenhuma evidência direta ainda | Curiosidade sobre IA não equivale a compra | Não validada |
 | MVP | Serviço manual mensal para poucos concorrentes e uma decisão específica | Não construir software antes de provar retenção/recorrência | Desenho pendente |
 
-**Regra de produto:** nunca prometer pesquisa literalmente infinita, cobertura total, atualização em tempo real ou ausência de erros. O sistema deve declarar fontes, data, cobertura, limitações, mudanças detectadas e itens que exigem confirmação.
+**Implicação competitiva:** não construir um clone genérico. A hipótese de diferenciação deve focar num segmento negligenciado, numa decisão concreta, em fontes locais/portuguesas ou numa síntese que ferramentas genéricas não entreguem bem — e isso precisa ser comprovado.
 
 ## Hipótese C — Planilhas rápidas e padronizadas (comparador)
 
