@@ -1,3 +1,13 @@
+## 2026-11-26 — Auditoria e melhoria da arquitetura documental e agentes
+
+**Entrada:** o usuário pediu que a comparação com Spec Kit, BMAD, AGENTS.md, LangChain e Diátaxis fosse aplicada ao Kamikaze, com revisão de arquivos/pastas, READMEs obrigatórios, leitura progressiva, regras claras de gravação, redução de resumos extensos e validação automática de sincronização. Também pediu teste de MkDocs com portfólio escrito em Markdown, registro de Diátaxis e Obsidian no NEXUS, e pesquisa futura de agentes gratuitos mantendo controle humano.
+
+**Interpretação:** melhorar a arquitetura existente sem migrar cegamente para framework externo; separar fonte canônica, snapshot, resumo e histórico; usar agentes somente quando a tarefa for delimitada e verificável; preservar participação humana em decisões subjetivas.
+
+**Aplicado:** governança documental, AGENTS, README por níveis operacionais, state.toml, snapshots compactos, arquivos históricos preservados, validador Python, GitHub Actions, MkDocs e esqueleto de portfólio Markdown. Proposta Diátaxis/Obsidian registrada em NEXUS-DOCUMENTACAO.
+
+**Limites:** CI ainda pendente; site não publicado; nenhuma integração Obsidian, código Android, agente externo, contato ou gasto realizado. O mecanismo verifica propriedades objetivas, mas não pode garantir que qualquer IA leia/obedeça arquivos sem suporte do ambiente.
+
 # USER INPUT LOG — PV-2026-11-25-TOTALMENTE-GRATUITA
 
 Este arquivo registra comentários, correções, preferências, decisões e autorizações do usuário que alterem a execução. Não é transcrição integral de chat; é um registro operacional resumido e rastreável.
