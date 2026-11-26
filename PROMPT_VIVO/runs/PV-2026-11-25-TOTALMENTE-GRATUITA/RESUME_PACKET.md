@@ -1,6 +1,6 @@
 # RESUME PACKET — PV-2026-11-25-TOTALMENTE-GRATUITA
 
-**Atualizado:** 2026-11-25  
+**Atualizado:** 2026-11-26  
 **Status:** IN_PROGRESS  
 **Leitura obrigatória no novo chat:** executar PROMPT_VIVO/BOOTSTRAP.md e começar por este arquivo.
 
@@ -12,7 +12,7 @@
 - Nenhum negócio foi escolhido. Pesquisa/inteligência competitiva é hipótese em validação, não decisão definitiva.
 
 ## 2. Pesquisa/build em andamento
-A pesquisa começou ampla: usos comerciais de IA, serviços, produtos digitais, e-commerce/dropshipping, conteúdo, automações, agentes, afiliados e outras monetizações. A hipótese que está sendo validada agora é serviço pontual de pesquisa/inteligência comercial e possível monitoramento competitivo recorrente assistido por IA.
+A pesquisa começou ampla. A hipótese ativa da subfase é inteligência de oportunidades para freelancers e aquisição transparente por comunidades. O objetivo é testar compra real, retenção, diferenciação e canal orgânico, sem presumir que o produto seja um SaaS.
 
 **Pergunta de PHASE_03.1:** há compra real de serviços comparáveis, quem compra, quais canais permitem alcançar compradores sem leilões massivos, e existe recorrência efetivamente demonstrada?
 
@@ -23,7 +23,7 @@ A subfase foi aberta porque a Fase 03 anterior deixou sem resposta compra espec�
 - PHASE_01_LANDSCAPE: concluída, PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; lacunas reavaliadas.
-- **PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS; gate CONTINUE.**
+- **PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS; gate CONTINUE.** PHASE_03.2 permanece IN_PROGRESS / CONTINUE; PHASE_03.1 está PAUSED / CONTINUE.
 - PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED operacionalmente; nenhum teste de entrega foi executado.
 - PHASE_05_SYNTHESIS: planejada/adaptável.
 
@@ -61,7 +61,7 @@ A subfase foi aberta porque a Fase 03 anterior deixou sem resposta compra espec�
 - Kamikaze separado de NEXUS e ATLAS.
 
 ## 7. Próximo passo
-Continuar PHASE_03.1: pesquisar aquisição inbound/indicação/parceria sem executar contato, identificar segmentos com decisão urgente, distinguir pesquisa remota pública de trabalho de campo/cliente oculto, procurar evidência de reviews/vendas específicas e avaliar se a recorrência é necessidade real. Gate atual CONTINUE; Fase 04 não começou.
+Continuar PHASE_03.3: auditar reviews/falhas independentes de Scoutly e alternativas; mapear 8–12 comunidades e regras; identificar um wedge vertical de decisão pré-candidatura; comparar assinatura, serviço manual e pagamento por análise. Não iniciar PHASE_04 sem gate explícito.
 
 ## 8. Arquivos para reconstrução completa
 - operations/STATE.md
