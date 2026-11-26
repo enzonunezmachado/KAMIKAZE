@@ -58,3 +58,12 @@
 43. Quais resultados encerrariam a hipótese?
 
 Pendências: concluir pesquisa de concorrência, encontrar evidência de compra, validar canais e capacidade; nenhuma ação externa autorizada.
+
+
+## PHASE_03.1 — novas perguntas prioritárias
+44. Quantos projetos concluídos adicionais de pesquisa de concorrentes/produtos/mercado podem ser encontrados com vencedor identificado?
+45. Alguma oferta específica de pesquisa de mercado tem vendas concluídas, reviews ou reputação verificável?
+46. Há canais inbound/indicação/parceria que permitam vender sem disputar dezenas de propostas?
+47. Quais segmentos compram pesquisa de concorrentes por uma decisão urgente e repetida?
+48. A recorrência é demonstrada por comportamento de compra ou apenas presumida por ferramentas SaaS?
+49. Como distinguir pesquisa corporativa pública de coleta de dados pessoais e quais atividades devem ser excluídas?
