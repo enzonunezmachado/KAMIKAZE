@@ -27,6 +27,14 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Não presumir acesso ao ChatGPT Plus ou execução ilimitada de agentes.
 - NEXUS e ATLAS permanecem projetos separados.
 
+## Recursos operacionais disponíveis
+
+- Inventário físico e operacional: [operations/AVAILABLE_RESOURCES.md](AVAILABLE_RESOURCES.md).
+- Notebook principal com 8 GB de RAM; tablet e celular como dispositivos auxiliares.
+- Maquininha de cartão configurada e testada, com débito, crédito, Pix e QR Code; taxas e condições ainda precisam ser verificadas antes de precificar.
+- Planejamento inicial deve priorizar ferramentas web leves, gratuitas e compatíveis com o hardware disponível.
+- Equipamentos de assistência técnica e caixa de som não definem nem direcionam o escopo comercial do Kamikaze.
+
 ## O que já existe no repositório
 
 - Brief e princípios de validação.
