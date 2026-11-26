@@ -51,3 +51,8 @@ A auditoria encontrou evidência geral de busca e indicação, mas não convers�
 
 ## Atualização após Rodada 7 (S101–S104)
 A investigação de plataformas de tarefas para IA encontrou Prolific (Brasil elegível, porém waitlist e até 22 dias de aprovação) e Outlier (pagamento semanal, mas vaga PT-BR encontrada exigia coding expertise). Esses modelos não resolvem automaticamente a meta imediata. Manter PHASE_03.1 em CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma conta/candidatura ou contato foi realizado.
+
+
+## Atualização do controlador — Rodada 8 (S105–S115)
+A auditoria identificou divergências entre indexadores e status oficial: YPAI está fechada; OpenTrain não paga freelancers no Brasil; CSL tem um projeto anunciado com janela inicial já passada e possível futuro lote; Babel não confirma taxa/eligibilidade local e exclui explicitamente o Brasil em outra vaga; pesquisa Lionbridge exige dispositivo não Android. A vaga Fera está recente, mas sem remuneração/volume.
+**Decisão:** CONTINUE_PHASE. A próxima ação é verificar oportunidade atual de novo lote CSL, condições de consentimento e pagamento, pagamento/volume Lionbridge e termos locais Babel; paralelamente, avaliar o escopo e remuneração da vaga Fera sem contatar o anunciante. Não iniciar Fase 04 nem realizar candidaturas/contatos sem aprovação.
