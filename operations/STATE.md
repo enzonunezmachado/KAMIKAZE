@@ -123,3 +123,11 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Lionbridge survey US$10 exige dispositivo não Android, incompatível (S114); vaga de áudio US$10/h sem volume/calendário de pagamento.
 - Fera Comunicação tem vaga recente de coordenação de conteúdo, valor mensal não divulgado e disponibilidade sob demanda (S115).
 - Gate PHASE_03.1 CONTINUE; PHASE_04 não iniciada; nenhuma candidatura/contato/formulário/receita.
+
+
+## Rodada 9 — 25/11/2026
+- RWS Search Evaluator: até US$6/h, Brasil remoto, sem experiência prévia obrigatória, mas inglês fluente, teste e mínimo de horas; pagamento por tarefa via PayPal/banco, ciclo não confirmado.
+- TELUS: estimativa US$5/h por tarefa, exige inglês profissional e residência contínua 3–5 anos; volume variável.
+- Welo Junior Quality Coordinator: 20h/semana, coordenação de qualidade, inglês forte, dedicação exclusiva e remuneração não divulgada.
+- Clickworker: pagamento semanal, mas registro e método Brasil dependem da conta; não confirmado.
+- Gate PHASE_03.1 CONTINUE; PHASE_04 não iniciada; nenhuma candidatura/conta criada.
