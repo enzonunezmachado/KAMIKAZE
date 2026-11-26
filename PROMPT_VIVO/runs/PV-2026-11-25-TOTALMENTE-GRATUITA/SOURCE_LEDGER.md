@@ -317,3 +317,5 @@
 - Isso valida um serviço genérico de perfil/LinkedIn como categoria competitiva, não uma oportunidade vazia. O segmento Workana Profile Readiness é mais específico por causa da moderação de 15–30 dias, mas ainda não há prova de compra específica desse serviço.
 - A plataforma oferece guias gratuitos e tem regras sobre conteúdo plagiado, dados de contato e portfólio; o diferencial não pode ser apenas repetir instruções. Uma ferramenta útil teria que transformar experiência real e evidências do usuário em um mapa de aderência, exemplos autênticos e checklist de completude.
 - Preços anunciados e jobs com entrevistas não equivalem a receita. Um registro de 1 hire é sinal mais forte, mas ainda não confirma satisfação/resultado.
+
+| S294 | Mansão Dev — https://disboard.org/pt-br/servers/tag/programa%C3%A7%C3%A3o?fl=pt-BR&sort=-member_count | Diretório Discord | Lista cerca de 528 membros e canais de discussão, ajuda, divulgação e parcerias para programação/design. | Diretório de terceiros; regras e atividade interna não verificadas; audiência não é exclusivamente freelancer. |
