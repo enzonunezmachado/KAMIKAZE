@@ -414,3 +414,9 @@ Documento consolidado: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; 
 - Termos/limites: Gemini Free tem condições de dados; Supabase Free pausa por inatividade e não inclui backup automático; Cloudflare Workers tem limites; Vercel Hobby não comercial.
 - Princípio: reduzir serviços; lógica determinística/local; IA só onde necessária; revisão de segurança e backup antes de dados reais.
 - Nenhuma ferramenta, conta ou aplicação foi criada/usada; nenhuma ação externa ou gasto. PHASE_03.5 segue IN_PROGRESS/CONTINUE; PHASE_04 não iniciada.
+
+
+### Addendum — auditoria estática Stockroom/AppJet
+- Código Stockroom inspecionado sem execução: transações de estoque, validações, CSV formula injection protection, limites JSON, headers de segurança e Docker non-root.
+- Bloqueio: demo sem login; endpoints examinados sem autenticação/autorização/tenant isolation visível. Não usar com dados reais. Testes foram lidos, não rodados; não é pentest.
+- AppJet Terms/Privacy: fornecedor declara não usar código/interações para treino e não reter código após coding; processamento EUA/Canadá; credenciais/env vars são processadas; disponibilidade não garantida. Não conectar NEXUS nem compartilhar secrets. Fontes S451–S453.
