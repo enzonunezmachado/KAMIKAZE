@@ -143,3 +143,9 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Mínimo US$25 exige ~4h10 de áudio aprovado, cerca de 16h40 de trabalho na estimativa 4:1.
 - Páginas OneForma divergem sobre locale PT-BR e experiência exigida; não considerar elegibilidade confirmada.
 - Gate PHASE_03.1 CONTINUE; nenhuma candidatura/teste/conta criada.
+
+## Rodada 12 — 25/11/2026
+- OneForma Online Shopping Email Collection aberta para Brasil/PT-BR, sem experiência, paga por email aprovado; exige 3+ mensagens .eml originais do mesmo pedido de produto físico entregue desde 2024.
+- Valor por email no Brasil não publicado; .eml preserva dados do remetente/destinatário/corpo. A plataforma diz que pode ocultar PII após upload, mas não esclarece uso/retention/mascaramento. Bloqueada por privacidade; não enviar dados.
+- DataForce Mosaic não inclui PT-BR; TELUS Internet Safety Evaluator está fechado.
+- Gate PHASE_03.1 CONTINUE; nenhuma candidatura/email/formulário enviado.
