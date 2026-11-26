@@ -158,3 +158,10 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Não construir agregador genérico; investigar lacuna vertical de decisão/curadoria e disposição a pagar. Aquisição comunitária apenas transparente e permitida.
 - PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED.
 - Nenhuma ação externa, contato, post, cadastro, demo, anúncio ou gasto. Receita R$0; despesas R$0.
+
+
+### Complemento Rodada 20 — S224–S226
+- Freelance Match: R$39,99 anunciado, cobrança ainda não habilitada (S224).
+- FreelaSync: R$14,90/49,90 anunciados, sem evidência pública de assinantes (S225).
+- Relato individual de freelancer que pagou R$54,90 no 99Freelas para ver a média das propostas concorrentes; sinal de compra por inteligência competitiva nativa (S226).
+- Não confundir anúncio de preço com venda. Manter PHASE_03.3 em CONTINUE.
