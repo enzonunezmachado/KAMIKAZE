@@ -91,3 +91,17 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 65. Existem exemplos de parceria de produção/apoio nos bastidores em que a agência/consultor retém atendimento e supervisão, mas aceita um iniciante em tarefas delimitadas? Quais requisitos e controles?
 66. Que canais de indicação ou comunidade permitem participação segura e transparente do adolescente, com supervisão quando necessária, sem cold outreach?
 67. Qual modelo pode pagar em prazo compatível com a meta imediata, considerando aprovação, contrato, emissão/recibo, liberação e saque?
+
+
+## Novas perguntas — rodada 6 (S087–S100)
+68. Quais são as condições completas de pagamento e alocação de tarefas em plataformas de AI data/voz, especialmente Lionbridge?
+69. Existe volume de sessões/horas mínimo garantido ou a oferta de US$10/h depende de alocação eventual?
+70. Qual é o prazo entre pré-teste, aprovação, conclusão de tarefa, validação e pagamento?
+71. Quais funções de coordenação operacional em agências podem ser executadas com processo, checklist e aprovação, sem assumir estratégia ou gestão integral de contas?
+72. Qual é o grau de autonomia e exposição a clientes em cada função de bastidores? Quais exigem reuniões, WhatsApp, follow-up e gestão de conflitos?
+73. Como comprovar capacidade de organização e coordenação com uma amostra fictícia de calendário, board de tarefas e relatório de pendências?
+74. Qual é a remuneração efetiva de vagas/contratos comparáveis e quais responsabilidades justificam valor fixo mensal?
+75. Quais agências têm canais públicos de parceria e aceitam apoio operacional, não apenas white-label de especialistas técnicos?
+76. Quais atividades podem ser feitas em horário flexível e pagas por entrega, sem disponibilidade de expediente integral?
+77. Que riscos existem em trabalhos com dados de pacientes, dados pessoais, contas de anúncios ou acesso a credenciais de clientes?
+78. O 99Freelas permite cadastro independente aos 18 e quais documentos de identidade/tributários exige? (não presumir que a ausência de restrição explícita em página de termos substitua verificação)
