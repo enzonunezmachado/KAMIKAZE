@@ -14,7 +14,7 @@
 - PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.
 - PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS / CONTINUE; S215–S244 ampliaram evidência de compra da categoria, sem validar SaaS independente.
 - PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED. Plano e documentos preparatórios existem, mas nenhum teste operacional foi executado.
-- Próxima ação: auditar falhas independentes de Scoutly e alternativas; mapear 8–12 comunidades e suas regras; identificar recorte vertical de decisão pré-candidatura. Não iniciar PHASE_04.
+- Próxima ação: aprofundar evidência de compra específica para Workana Profile Readiness e diagnóstico manual de conversão; comparar 3–5 micro-nichos; verificar atividade/regras de comunidades e falhas independentes das alternativas. Montar portfolio de ideias e filtrar por custo, capacidade e prazo. Não iniciar PHASE_04.
 - Preferência humana: não priorizar marketplaces com leilões massivos de propostas; não enviar mensagens/propostas/amostras personalizadas sem autorização.
 - Restrições: R$0; sem APIs/assinaturas/anúncios pagos; cotas opacas devem ser marcadas; não contatar, publicar, comprar, assinar ou fazer deploy sem autorização.
 - Estado comercial: nenhuma oportunidade aprovada; receita R$0; despesas R$0; nenhum experimento ativo; nenhum cliente contatado.
