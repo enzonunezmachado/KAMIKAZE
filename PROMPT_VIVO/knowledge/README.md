@@ -24,3 +24,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Auditoria de evidências e governança do MAK
 - [MAK — Auditoria de evidências, métricas e adaptação brasileira](MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md): verificação da contagem atual de skills Affitor (53), ponteiros/canônicas, classificação de métricas e heurísticas, confiança dos casos numéricos, disclosure brasileiro e gates de urgência/bônus/garantias.
+
+
+## Catálogo open source do MAK
+- [Catálogo de skills e repositórios open source](MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md): inventário das 53 skills do Affitor, resenha crítica e comparação dos outros repositórios estudados. Índice documental; não representa importação ou aprovação de código.
