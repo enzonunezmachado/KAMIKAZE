@@ -196,3 +196,16 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 - Quais ofertas podem ser testadas com um protótipo demonstrável sem criar trabalho gratuito excessivo?
 - O que constitui prova suficiente de compra para passar a PHASE_04: projeto pago, contratação concluída, orçamento público, entrevistas com compradores ou sinal repetido de demanda?
 - Qual limite de sessões/horas deve encerrar ou reformular a busca por uma hipótese? Proposta de regra: não encerrar o projeto inteiro; encerrar/reformular hipóteses após duas rodadas sem evidência incremental e reavaliar o portfólio após 5 rodadas sem nenhum sinal de compra mais forte que anúncio/listagem.
+
+
+## PHASE_03.2 — perguntas abertas após Rodada 17
+- Quais dores de profissionais independentes têm compra recorrente e menor exigência de autoridade que empresas estruturadas?
+- Quais empresas/microempresas compram serviços de fornecedores novos por canais de confiança, indicação, comunidades, parceiros, conteúdo ou busca, sem leilão de 100+ propostas?
+- Há dados de preço efetivamente pago, e não apenas preço anunciado, para B2C utilitários, serviços a autônomos, manutenção local e pesquisa comercial?
+- Quais problemas são frequentes o suficiente para assinatura e quais são pontuais? Há evidência de renovação/recompra?
+- O comprador consegue avaliar a entrega objetivamente antes de confiar acesso/dados/sistemas?
+- Quais ofertas podem ser demonstradas com dados públicos e amostras genéricas, sem trabalho gratuito personalizado?
+- Quais canais têm compradores acessíveis no raio local de Embu/Taboão/Grande SP e quais são nacionais/remotos? Não realizar contatos.
+- Empresas estruturadas: quais requisitos de fornecedor, documentação, seguro, portfólio, experiência e processo de compras tornam a entrada desproporcional?
+- B2C: quais subgrupos têm problema urgente e intenção de pagamento sem depender de audiência grande ou anúncios pagos?
+- Qual é o custo real de suporte/manutenção mensal e qual escopo pode ser sustentável?
