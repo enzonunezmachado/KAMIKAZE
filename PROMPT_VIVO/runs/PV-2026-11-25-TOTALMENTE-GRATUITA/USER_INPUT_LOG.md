@@ -26,3 +26,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 - **Impacto:** bootstrap integral executado; pesquisa continuada em fluxo único; nenhuma mudança na meta, orçamento ou autorizações externas.
 - **Arquivos afetados:** RESUME_PACKET.md, RUN_STATE.md, MEMORY_HANDOFF.md, PHASE_CONTROL.md, SOURCE_LEDGER.md, FINDINGS.md, OPEN_QUESTIONS.md.
 - **Status:** APLICADO.
+
+
+## 2026-11-25 — rejeição Hub Data e nova orientação de pesquisa
+- **Entrada:** usuário rejeitou a Hub Data por não querer filmar/registrar tarefas domésticas para produzir dados de IA. Disse que aceita criar/gravar conteúdo voluntariamente, mas expressou dúvidas sobre leitura de manhua por duração, inglês e voz/IA. Pediu continuidade da pesquisa focada online, reflexão honesta sobre competitividade e relatório intermediário sem conclusão definitiva.
+- **Classificação:** preferência/limite pessoal + nova hipótese + orientação estratégica.
+- **Impacto:** Hub Data = REJECTED_BY_USER; não insistir. Manhua reading = hipótese investigada e não priorizada por copyright/reused content. Aumentar investigação de serviços online específicos, operação/WhatsApp, pesquisa comercial e conteúdo original. Preparar relatório de situação.
+- **Comunicação:** entregar consolidação em bloco, sem interrupções por subpesquisa.
+- **Status:** APLICADO.
