@@ -563,3 +563,14 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - **Produto caro vs comissão:** não escolher pelo ticket isolado. Avaliar comissão líquida por venda, adequação ao público, fricção de compra, confiança, refund rate quando acessível, clareza da página e prova do produto. Uma comissão de R$150 pode exigir oferta cara ou alta porcentagem, mas pode converter pior; comparar cenários.
 - **Operação:** montar conteúdo nativo para redes, presença em comunidades, distribuição individual permitida e tracking simples. Evitar seguir pessoas em massa, grupos de ofertas sem valor real e disparos; relatos mostram risco de baixa retenção e aquisição artificial (S391–S392).
 - **Status:** PHASE_03.5 IN_PROGRESS; nenhum produto selecionado, perfil criado, afiliação solicitada, post publicado ou contato realizado. PHASE_04 não iniciada.
+
+
+## Rodada 29 — indicação por relacionamento e GitHub (26/11/2026)
+- **Nova hipótese de aquisição:** profissionais que atendem o público-alvo podem funcionar como conectores. Apresentar uma oferta real, ouvir feedback e, se não houver fit pessoal, pedir uma introdução voluntária para alguém que tenha a necessidade. Melhor pedir uma introdução encaminhada pela própria pessoa do que pedir dados de contato de terceiros.
+- O princípio não é "fazer a pessoa se sentir obrigada a ajudar". A história pessoal pode contextualizar o projeto, mas não deve ser usada para gerar culpa ou obrigação. Disclosure de comissão afiliada é obrigatório na prática de confiança.
+- **S394 Affitor/affiliate-skills:** 52 skills de IA para o ciclo de afiliados, incluindo pesquisa, tendências, conteúdo com fontes, landing pages, distribuição, analytics e compliance; MIT; 816 stars/223 forks no snapshot. Melhor candidato a estudo de prompts/workflows. Claims e demos não comprovam performance; parte das capacidades depende de APIs externas.
+- **S395 OpenAffiliate:** registro estruturado de programas, com termos, comissões, cookies, payout e restrições; CLI/API/SDK/MCP; MIT. Usar como índice, verificar cada programa no site oficial.
+- **S396 Postiz:** scheduling/analytics multirrede, 42,4k stars/8,1k forks; AGPL-3.0. Potencial ferramenta posterior, mas self-host exige infraestrutura e apps sociais próprios; não é prioridade para R$0.
+- **S397 n8n TikTok Affiliate Promo Generator:** workflow de geração de scripts/captions/hashtags a partir de planilha e envio de notificação; Taglish, teste limitado a 3 produtos; útil como padrão de pipeline, sem prova de vendas.
+- **S398 eduubrz affiliate-platform:** projeto brasileiro com IA/WhatsApp/analytics, mas README diz não estar em desenvolvimento ativo; stack pesada e APIs oficiais pendentes. Não adotar.
+- **Decisão:** estudar e adaptar ideias do Affitor skills e OpenAffiliate; Postiz apenas se a operação multicanal crescer; workflow n8n como referência. Nada instalado/executado. Nenhum contato, pedido de indicação ou publicação realizado.
