@@ -130,3 +130,47 @@ The MAK should not be a single autonomous bot. Compose a light operating system 
 - **signalreason/affiliate-content-automation (S400):** technically broad affiliate SEO/content system with topic clusters, landing pages, A/B CTAs and analytics, but queues up to 1,000 articles/week and needs Go, Python, Next, Postgres and Redis. Reject as initial architecture: overbuilt and risks low-value mass content.
 - **AshmithaRajadurai/agentic-ai-social-media-manager (S401):** n8n + Gemini + Cloudinary + Instagram Graph API/Puppeteer auto-publishing. Do not adopt Puppeteer-based social actions without platform-policy and reliability audit; no outcome evidence.
 - **TARA BOT** was also inspected: it is a general Telegram shopping/flight assistant; affiliate template is marked future/coming soon, so not a useful current affiliate automation candidate.
+
+
+## Rodada 30 — auditoria aprofundada do Affitor/affiliate-skills e adaptação ao MAK (26/11/2026)
+
+### Escopo efetivamente inspecionado
+Repositório público: https://github.com/Affitor/affiliate-skills — versão declarada em `VERSION`: 1.2.1; licença MIT. Foram examinados README, QUICKSTART, SKILL.md raiz, CLAUDE.md, bootstrap, mapa de funil, mapa de flywheel, protocolo de feedback, referências de disclosure, regras de plataforma, frameworks de oferta, estratégia de distribuição, provedores de dados sociais, registry, evals, package.json, adaptador de API, CLI/servidor/cache e habilidades individuais de pesquisa, conteúdo, distribuição, landing pages, analytics e meta. Árvore atual: 53 arquivos SKILL.md e 53 entradas no registry.
+
+### Leitura arquitetural
+- A contribuição mais forte não é qualquer prompt isolado: é a decomposição do trabalho em habilidades especializadas com entradas/saídas estruturadas e handoffs explícitos.
+- O funil cobre descoberta/verificação de programas, inteligência de conteúdo, produção nativa por plataforma, páginas/CTAs, distribuição, analytics, automação e planejamento/compliance/retrospectiva.
+- O flywheel fecha o ciclo: resultados de conversão e desempenho retornam à pesquisa de ofertas, nichos, formatos e ângulos. O MAK deve incorporar também retorno de relacionamento, lembrança e indicação, que o funil afiliado tradicional não representa suficientemente.
+- O princípio de fonte da verdade é útil: habilidade individual e referência canônica acima de README/marketing; dados externos são não confiáveis até verificação; saídas estruturadas alimentam etapas seguintes; feedback registra falhas, dados ausentes, alucinação e quebras de schema.
+- O modelo de produção mais útil para nossa realidade é: pesquisa com fontes → brief → conteúdo nativo → revisão humana → autorização/publicação → registro → leitura de sinais → retrospectiva → nova hipótese.
+
+### Componentes aproveitáveis (adaptar, não importar)
+1. **Find-and-verify affiliate program:** usar diretório como índice de candidatos, nunca como prova. Confirmar comissão, tipo/duração, cookie/atribuição, payout mínimo/frequência/método, elegibilidade, restrições e reembolsos diretamente no site oficial/rede autorizada. Cada campo precisa de citação/trecho ou estado "não publicado/não confirmado". Não pontuar comissão se o termo não foi verificado.
+2. **Trending content scout:** antes de criar, pesquisar conteúdos do mesmo problema/segmento em cada canal; registrar URL, data, criador, formato, hook, views e interações disponíveis, janela e fonte. Distinguir métrica observada de estimativa. Não inferir compartilhamentos, impressões ou taxas quando ausentes.
+3. **Content angle ranker:** gerar vários ângulos concretos e comparar por relevância para o público, evidência de demanda, diferenciação, adequação ao canal, capacidade real de produzir e custo/tempo. Pontuações só com critérios e dados explícitos; usar ND quando faltar evidência.
+4. **Content research brief:** criar brief factual com problema, audiência, contexto, perguntas reais, objeções, fontes, evidências, exemplos, lacunas e ângulos. Separar fatos, relatos e hipóteses.
+5. **Platform-native content skills:** adaptar uma ideia central ao formato e cultura de cada rede; não copiar e colar a mesma peça em todo lugar. A pessoa precisa receber valor mesmo sem clicar ou comprar.
+6. **Content pillar / repurposing:** uma pesquisa ou peça-mãe pode render derivados, mas cada derivado precisa ter utilidade independente e adequação real ao canal. Não usar meta de 15–30 peças como obrigação; qualidade e capacidade de distribuição primeiro.
+7. **Landing/page creator:** página enxuta deve responder para quem é, qual problema resolve, o que faz/não faz, demonstração, preço, alternativas, limitações, garantia e CTA. Não inventar depoimentos, ratings, resultados, escassez, garantias ou estatísticas.
+8. **Conversion tracker + performance report:** rastrear origem e conteúdo com nomenclatura consistente; separar alcance, atenção, interesse, intenção, clique, compra aprovada, comissão líquida, reembolso e saque. Relatórios devem mostrar denominadores, período, dados ausentes e tamanho de amostra.
+9. **Funnel planner:** escolher sequência conforme recursos, prazo, canais e experiência; não impor calendário genérico nem assumir que todo canal deve ser aberto de uma vez.
+10. **Compliance checker + feedback protocol:** revisar divulgação de comissão, claims, direitos de conteúdo, regras de canal, privacidade e integridade; registrar falhas e corrigir processo, não apenas o texto final.
+11. **Relationship/referral extension (MAK original):** registrar conexões consentidas, valor entregue, preferência de canal, contexto da conversa, permissão para acompanhar, retorno espontâneo, lembrança, introdução voluntária e origem de oportunidade. Uma conexão pode gerar valor futuro sem compra/indicação imediata.
+
+### Auditoria crítica: o que não devemos copiar cegamente
+- O README/CLAUDE/bootstrap apresentam contagens divergentes (50, 52 e 53 em diferentes pontos); a árvore atual e registry indicam 53 habilidades. Registry está marcado como gerado em 2026-10-19, enquanto VERSION é 1.2.1. Isso recomenda conferir arquivos reais, não confiar em marketing/contagem isolada.
+- A habilidade antiga `affiliate-program-search` é apenas ponte de compatibilidade para `find-and-verify-affiliate-program`; o antigo scoring de comissão/mercado/concorrência não deve ser usado como evidência de termos nem como score oficial. A skill canônica proíbe inventar OAS score e exige citação do programa.
+- `trending-content-scout` reconhece fallback por busca web, mas o resultado pode não expor likes/comentários/impressões; a fórmula de engagement não deve ser aplicada quando os campos não existem. A estimativa de shares no YouTube e o ajuste específico do Reddit são proxies frágeis, não métricas comparáveis entre plataformas.
+- As regras de plataforma do repositório são heurísticas e podem ficar desatualizadas. Não assumir que links no corpo do LinkedIn são sempre penalizados, que uma regra genérica 10:1 vale para todo subreddit ou que uma plataforma permite determinado formato. Consultar regras atuais da comunidade/plataforma antes da ação.
+- A referência FTC é centrada nos EUA. Para operação no Brasil, complementar com CDC, CONAR, LGPD, regras do canal e legislação aplicável. Disclosure claro e ostensivo de comissão é princípio operacional mínimo; a referência FTC não substitui orientação jurídica brasileira.
+- Os frameworks de oferta incluem bônus, garantias e urgência. Só usar benefícios realmente entregáveis, garantias autorizadas e prazos/escassez reais. Nunca fabricar depoimentos, autoridade, resultados, contagem regressiva ou pressão emocional.
+- Os estudos de caso numéricos do repositório não vêm acompanhados de evidência independente suficiente no próprio arquivo; tratá-los como exemplos publicados pelo mantenedor, não como benchmarks validados. O arquivo declara ausência de resultados comunitários verificados.
+- A promessa de "viral" e benchmarks de conversão no texto de algumas skills é linguagem aspiracional. Não prometer viralização, ROI, renda ou multiplicadores sem dados próprios.
+- O CLI affiliate-check consulta OpenAffiliate, normaliza campos e mantém cache em daemon Bun. É útil para descoberta técnica, mas não prova a atualidade/qualidade do registro nem substitui conferência primária. O QUICKSTART sugere setup com Bun/clone e em alguns cenários plano pago de ChatGPT; não é requisito do MAK, que deve começar sem instalar nada.
+- O repositório tem documentação de qualidade/evals, mas os testes incluem expectativas antigas de scoring; é necessário verificar se os evals acompanham a skill canônica antes de tratá-los como prova de qualidade.
+
+### Decisão para o MAK
+Adotar a arquitetura e os princípios, não instalar nem importar o repositório. O MAK será um sistema adaptado ao Brasil, ao orçamento zero e ao perfil/tempo operacional real. Manter o Prompt Vivo como fonte de verdade. Nenhuma API paga, ferramenta, conta, automação, postagem ou contato foi criado/executado.
+
+### Relação com a meta imediata
+A arquitetura de aquisição/relacionamento é um ativo de médio prazo. Não substitui a busca por receita recebida até 06/12/2026. Afiliados podem ter aprovação, atribuição, janela de reembolso e payout incompatíveis com prazo curto. Serviço pontual e venda direta legítima podem ter ciclo menor, mas exigem entrega e comprador identificados. Não declarar o MAK validado até testar.
