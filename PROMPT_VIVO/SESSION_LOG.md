@@ -14,3 +14,10 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Resultado:** checkpoint obrigatório, log cronológico, prompt de novo chat e regra de sincronização do estado.
 - **Limitação:** continuidade não é execução em segundo plano; requer checkpoint enquanto há sessão e ferramenta de persistência disponível.
 - **Persistência:** CONFIRMAR após concluir as gravações GitHub deste evento.
+
+
+### KAM-2026-11-26-001A — Confirmação de persistência
+- **Data:** 2026-11-26
+- **Resultado:** arquivos do sistema de continuidade e documentos dependentes gravados com sucesso no GitHub.
+- **Commit de confirmação mais recente:** 0d87d4f1adf88e7e2fd661a8f1dddda5b5e5f9b1.
+- **Status:** CONFIRMADO.
