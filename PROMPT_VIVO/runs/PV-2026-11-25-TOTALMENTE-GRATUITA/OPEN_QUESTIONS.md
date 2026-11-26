@@ -22,3 +22,12 @@
 15. Quais serviços têm riscos de confiança, manutenção, integração ou privacidade?
 
 Pendências: investigar comunidades brasileiras e Reddit original; abrir fontes primárias; validar preços/limites; separar missão de curto prazo de modelos de longo prazo.
+
+
+## Novas perguntas após lote 2
+16. Como se diferenciar em tarefas de entrada de dados quando um único projeto recebe centenas de propostas?
+17. Quais serviços digitais podem ser vendidos por indicação/contato direto sem depender de marketplace saturado?
+18. Qual é o prazo real de aprovação e saque de cada plataforma para projeto pequeno?
+19. O que exatamente o usuário consegue entregar com qualidade em planilhas, documentos, edição e pesquisa? Validar por mini teste antes de ofertar.
+20. Quais alternativas de pagamento pessoa física podem gerar tarifa quando usadas comercialmente? Conferir o banco e as regras vigentes.
+21. Há uma forma de monetizar conteúdo em prazo curto sem audiência? A evidência atual sugere que não via programa de anúncios.
