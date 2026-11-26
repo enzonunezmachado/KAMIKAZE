@@ -385,3 +385,12 @@ Retomar PHASE_03.5 com inspeção mais profunda das skills do Affitor e adaptaç
 - `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`
 - `PROMPT_VIVO/SESSION_LOG.md`
 - `SESSION_LOG.md` nesta execução
+
+
+## Rodada 31 — inventário open source (26/11/2026)
+- Retomada feita pelo NEXT_CHAT_PROMPT/BOOTSTRAP.
+- Catálogo completo: `PROMPT_VIVO/knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md`.
+- Affitor: 53 skills na árvore/registry, em oito estágios; lista integral, links e resenha no catálogo. README ainda informa 52.
+- Repositórios adicionais: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator n8n, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
+- Decisão: adaptar conceitos em skills nativas do MAK, não importar os pacotes. Padrão: IA prepara → humano revisa → humano autoriza → execução permitida → métricas → aprendizado.
+- Próxima ação: comparar as capacidades propostas na PHASE_03.5 com o Prompt Vivo existente, eliminar duplicidades e criar apenas as que agreguem capacidade concreta.
