@@ -219,3 +219,16 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 - Para pequenas empresas, quais serviços podem ser contratados como projeto de baixo risco sem homologação/contrato complexo?
 - Qual o preço realmente pago e quanto tempo de trabalho é exigido em apoio operacional de agência/assistente virtual?
 - Que evidência comprova renovação de fee mensal em vez de apenas intenção de parceria?
+
+
+## Rodada 21 — perguntas refinadas (26/11/2026)
+60. Quais falhas do Scoutly podem ser comprovadas por usuários independentes, além das promessas do próprio site?
+61. Há reclamações/reviews específicos sobre falsos positivos, dados desatualizados, cliente sem intenção de contratar, cobertura incompleta, alertas irrelevantes e erros de score?
+62. Qual a proporção de compradores que renovam, cancelam ou pedem reembolso nos planos 99Freelas/Workana/Upwork? Dados públicos são enviesados; não inferir churn de reclamações isoladas.
+63. Freelancers pagariam por uma camada independente de análise de cliente/job se plataformas já oferecem bid ranges, conexões, alertas e insights?
+64. Quais campos de histórico/atividade do cliente podem ser usados legalmente e de forma confiável, sem scraping que viole termos?
+65. Quais profissões têm briefs estruturados e métricas objetivas para avaliação de fit, esforço e rentabilidade?
+66. O comprador pagaria por software ou por curadoria manual/concierge que economize Connects e tempo? Qual frequência de uso e ticket?
+67. Como demonstrar precisão de recomendações com histórico de oportunidades e resultados reais, sem prometer taxa de sucesso?
+68. Quais comunidades permitem feedback/pesquisa transparente e quais proíbem promoção? Mapear 8–12 comunidades com regras e fit.
+69. A hipótese pode ser testada com demonstração de 5–10 oportunidades públicas, sem publicação/contato até autorização?
