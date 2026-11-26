@@ -613,3 +613,15 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - Priorizar skills próprias MAK para verificação de ofertas, inteligência de público/conteúdo, adaptação por canal, tracking, retrospectiva, compliance brasileiro e relacionamento consentido. Padrão operacional: IA prepara → humano revisa → humano autoriza → execução permitida → métricas → aprendizado.
 - Não adotar agora self-host Postiz, AffiliateOS, publicação autônoma, scraping, geração massiva ou infraestrutura com APIs/custos. OpenAffiliate é índice auxiliar; validar termos em fonte oficial.
 - Nenhum repositório foi instalado, clonado, executado ou importado; nenhuma conta, publicação, contato, deploy, compra ou gasto ocorreu.
+
+
+## 22. Acionador e blueprint do futuro módulo de tráfego pago — Rodada 32 (26/11/2026)
+- Criado `knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md` como acionador persistente `MAK-PAID-TRAFFIC-MODULE`, estado DORMANT / DOCUMENTED / NOT IMPLEMENTED.
+- Protocolo: intenção explícita → apresentar pacote de implementação e riscos → perguntar confirmação para começar Etapa 0. A confirmação da Etapa 0 autoriza somente revalidação e planejamento documental. Gastos, contas, integrações, alterações e publicação permanecem com aprovações separadas.
+- Blueprint organiza módulos em Strategy/Readiness, Research/Planning, Creative/Conversion, Tracking/Privacy/Compliance, Campaign Operations e Learning/Governance.
+- Implementação proposta em 9 etapas, da revalidação ao handoff; campanha real é gate independente.
+- Inventariadas 49 skills do repositório marketing-skills (árvore recursiva), além das 53 Affitor já catalogadas.
+- Repositórios de referência adicionais: Google Ads MCP oficial, Google Ads Python SDK, Meta Business SDK Python/Node, Ryze MCP, n8n workflows, AdsOnSheets, Meta→Supabase, clientreport, Google Meridian e AI Marketing Reporting Workflow.
+- Resenha: começar por skills documentais, unit economics, planejamento, análise de exports e reporting com cálculos determinísticos. APIs e automações só quando necessárias, com revisão de permissões, segurança, privacidade, custos e aprovação humana. Meridian é avançado e requer dados/compute. Ryze é fornecedor externo com planos pagos declarados; não presumir acesso gratuito.
+- A filosofia Kamikaze atual não foi congelada como dependência. Na ativação, revalidar arquitetura e integrar apenas onde fizer sentido.
+- Nenhum repositório foi instalado, clonado ou executado; nenhuma conta foi criada/conectada; nenhum anúncio, campanha ou gasto foi autorizado/realizado. As fases de pesquisa ativa do Kamikaze não foram alteradas.
