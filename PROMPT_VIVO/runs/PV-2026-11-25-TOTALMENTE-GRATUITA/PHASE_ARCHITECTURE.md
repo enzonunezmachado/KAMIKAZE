@@ -171,3 +171,12 @@ Escopo: comparar B2C, profissionais independentes, micro/pequenos negócios e em
 - PHASE_03.2 permanece IN_PROGRESS / CONTINUE; PHASE_03.1 está PAUSED / CONTINUE; PHASE_04 está QUEUED / NOT_STARTED.
 - Rodada 21 ampliou evidência de compra de recursos/plataformas para freelancers (S227–S244), mas não provou compra/retention de SaaS independente.
 - Nenhuma alteração no CORE, protocolo central ou salvaguardas.
+
+
+## PA-021 — Rodada 25: renda online ampla e primeira venda
+**Data:** 26/11/2026. **Fontes:** S336–S360.
+- Escopo ampliado por solicitação do usuário: ganhar dinheiro rápido online, vender serviços/produtos digitais, marketing de afiliados, primeira venda, pesquisas/testes, microtarefas e criadores pequenos.
+- Evidência: Prolific aceita Brasil, mas usa waitlist; relatos de participantes brasileiros mostram fluxo variável. Respondent tem estudos seletivos e baixa frequência típica declarada. UserTesting exige inglês/francês/alemão fluente e payout usual de 14 dias. uTest/OneForma têm ciclos de pagamento e aprovação. Hotmart permite afiliação gratuita, mas não fornece tráfego nem garante conversão.
+- Relatos de canais pequenos mostram processos úteis, mas são autorrelatos sem verificação financeira independente.
+- Hipótese de caixa mais promissora a testar: microentrega digital de escopo fechado, com comprador direto e prova de execução; afiliados/SEO como construção de médio prazo, não caixa garantido.
+- Criada PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE, em paralelo à PHASE_03.3. Sem alteração de CORE/protocolo central; nenhuma ação externa ou gasto.
