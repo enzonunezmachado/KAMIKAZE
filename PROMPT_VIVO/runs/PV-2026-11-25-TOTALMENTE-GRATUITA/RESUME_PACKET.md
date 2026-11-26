@@ -140,3 +140,11 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - Lionbridge survey US$10 exige smartphone NON-ANDROID; incompatível com aparelho Android (S114). A vaga de áudio PT-BR US$10/h não divulga horas nem prazo de pagamento.
 - Fera Comunicação: vaga recente para coordenação operacional de conteúdo, PJ, mensal fixo sem valor divulgado, sem horário fixo mas disponibilidade sob demanda e contato com clientes (S115).
 **Estado:** PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura, contato, formulário ou receita.
+
+
+## 17. Rodada 9 — avaliação de busca e coordenação de qualidade (S116–S119)
+- RWS Search Engine Evaluator: até US$6/h, 5–20h/semana, Brasil remoto, sem experiência prévia obrigatória; inglês fluente, teste e equipamento. FAQ confirma pagamento por tarefa via PayPal ou banco, ciclo não confirmado.
+- TELUS: cerca de US$5/h estimados por tarefa aprovada, volume variável; inglês profissional e residência no Brasil por 3 ou 5 anos conforme vaga.
+- Welo Junior Quality Coordinator: 20h/semana, relatórios, feedback, suporte a raters e reuniões; inglês forte, exclusividade, prova; remuneração não divulgada.
+- Clickworker: pagamentos semanais, mínimos PayPal €10/Payoneer €20, mas disponibilidade Brasil e registro precisam ser confirmados dentro da conta.
+- Gate CONTINUE; nenhuma conta/candidatura feita.
