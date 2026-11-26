@@ -377,3 +377,22 @@ Nenhuma fonte S296–S314 fornece volume mensal confiável para as keywords espe
 - Upwork exibe grande catálogo de edição e VA; os números de categoria são contagens de páginas do fornecedor, não dados independentes de liquidez ou chance de contratação.
 - Workana Profile Readiness: continua existindo dor oficial de moderação 15–30 dias e reclamações recentes, mas nenhuma evidência nova de compra de ferramenta independente focada em preparação Workana. Serviço de revisão de perfil geral já é concorrido.
 - Comunidades: Programadores BR é grande e ativo no diretório público; não foi possível verificar regras internas completas. Sem autorização explícita e sem leitura das regras atuais, permanece observação apenas, não canal de publicação.
+
+
+
+## Rodada 24 — comunidades e canais de observação (S327–S335; 26/11/2026)
+
+| ID | Fonte | Tipo | Achado | Limite |
+|---|---|---|---|---|
+| S327 | Programadores BR — https://discord.com/servers/755483507698172045 | Diretório oficial Discord | ~39,6 mil membros e milhares online no snapshot; vagas/projetos, linguagens e designers. | Não prova que todos são freelancers/compradores; regras internas não verificadas. |
+| S328 | Tecnologia da Informação — https://discord.com/servers/tecnologia-da-informacao-1513415957178220584 | Diretório oficial Discord | ~5.053 membros/238 online; declara vagas, freelance, open source e networking. | Servidor recente; regras internas e atividade dos canais não verificadas. |
+| S329 | HireClover Community — https://hireclover.com/pt/community | Comunidade própria | Discord gratuito de trabalho remoto em tecnologia, vagas, indicações, salários, revisão de currículo e entrevistas. | Público tech/remoto, não necessariamente freelancers; regras de divulgação não descritas na landing page. |
+| S330 | Multiverse | Editores & Designers — https://discovercord.com/categoria/design-edicao | Diretório de terceiros | Snapshot ~18,2 mil membros/748 online; comunidade declarada de editores e designers. | Dados e descrição do diretório; regras internas e proporção de profissionais ativos não verificadas. |
+| S331 | Editors Community — https://discovercord.com/categoria/design-edicao | Diretório de terceiros | Snapshot ~13 mil membros/331 online; editores mobile/PC, tutoriais, recursos e projetos. | Não confirma canal de trabalho remunerado nem regras de divulgação. |
+| S332 | LEOFGEDITZ Video Edit & Design — https://discordcatalog.com/servers/creative-arts/leofgeditz-video-edit-design-762552360244740118 | Diretório de terceiros | Snapshot observado 17/11/2026: 10.746 membros/1.480 online; se descreve como marketplace de edição/design. | Dados observados em data anterior; claims próprios, regras e transações não auditadas. |
+| S333 | Yuji Editors Community — https://dclist.gg/pt-br/servers/reg-editors-community | Diretório de terceiros | 90 membros/16 online no snapshot, comunidade de editores e oportunidades; +15 membros em 30 dias. | Pequena; estatística de diretório; regras e atividade de oportunidades não verificadas. |
+| S334 | Empreendedores em São Paulo — https://www.meetup.com/pt-br/empreendedores-em-sao-paulo/ | Meetup | 7.857 membros e 95 eventos passados; público de empreendedores/PMEs e networking. | Eventos exibidos são antigos, inclusive último listado em 2025; membros não equivalem a participantes ativos. |
+| S335 | Meetup Freelance Brazil — https://www.meetup.com/topics/freelance/br/ | Diretório Meetup | 1.948 membros, 16 grupos; São Paulo Programadores Freelancer 249, WeFreela RJ 387, CodeFreelas Talks POA 438, Remote Workers RJ 248. | Vários grupos sem eventos recentes; atividade atual desigual. |
+
+### Síntese de comunidades
+Oito+ comunidades foram mapeadas entre freelancers, tech, editores, designers e empreendedores. Melhores candidatas para observação futura: HireClover (público de trabalho remoto e revisão de currículo), Programadores BR/TI (oportunidades tech), LEOFGEDITZ/Multiverse/Editors Community (público de edição/design), e Empreendedores SP (potenciais compradores B2B). Não há autorização confirmada para publicar em nenhuma; regras internas precisam ser lidas antes de participar/divulgar. Diretórios públicos e número de membros não comprovam acesso comercial, atividade dos canais nem disposição a pagar. Nenhum contato/post foi realizado.
