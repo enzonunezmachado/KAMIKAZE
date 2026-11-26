@@ -69,3 +69,15 @@
 - **Recorrência e retenção:** ainda não validadas.
 - **Privacidade:** projetos de coleta de contatos pessoais devem ser separados de pesquisa de informações empresariais públicas e avaliados sob LGPD; não são escopo padrão.
 - **Gate atual:** CONTINUE. A subfase 03.1 permanece aberta.
+
+
+## Atualização de evidência — aquisição sem leilão (S067–S070)
+| Dimensão | Evidência nova | Limite | Estado |
+|---|---|---|---|
+| Descoberta por indicação/pares | Serasa: 47% das PMEs buscam parceiros/outros empreendedores; 40% conversam com pessoas do ramo | Não específica para pesquisa competitiva | Parcial |
+| Consultoria como gasto | 15% contrataram consultoria para aprimorar/mudar o negócio na amostra Serasa | Não informa categoria, preço ou frequência | Parcial |
+| Conteúdo inbound | 31% usam artigos/notícias em buscadores | Não prova geração de leads para benchmarking | Parcial |
+| WhatsApp | Sebrae 2026: >80% dos negócios de serviços usam; canal mais importante para 66% | Canal de relacionamento, não prova de prospecção; cold messaging excluído | Contextual |
+| Parcerias/networking B2B | Move+ Sebrae usa agentes, rodadas e aproximação comercial | Programa subsidiado e institucional | Parcial |
+| Aquisição específica de relatório competitivo sem leilão | Nenhuma prova direta ainda | Falta evidência de comprador, indicação ou inbound para esse serviço | Não validada |
+| Recompra/assinatura | Nenhuma evidência nova de recompra observada | S062 é intenção declarada, não compra repetida | Não validada |
