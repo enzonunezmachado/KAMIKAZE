@@ -202,3 +202,11 @@ Opções: Programadores BR, TI Discord, HireClover, Multiverse Editores & Design
 
 ## Handoff — Rodada 30 (26/11/2026)
 Estudo aprofundado do Affitor/affiliate-skills v1.2.1 concluído em modo leitura. Ver `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md` e S402. Foram examinadas 53 habilidades e 53 entradas no registry, além de referências compartilhadas, bootstrap, evals e implementação da API/CLI/cache. Aprendizados aproveitáveis: módulos com schemas/handoffs; pesquisa e verificação de oferta antes de produzir; brief factual e ângulos; conteúdo nativo por canal; distribuição com autorização; tracking por etapa; retrospectiva e feedback. Limitações: divergências de contagem/registry, métricas proxy, regras de plataforma heurísticas, FTC não substitui legislação brasileira, case studies sem validação independente e claims aspiracionais. Não instalar/importar/executar. MAK agora possui trilha comercial e trilha de relacionamento/memória de marca: entregar valor, gerar boa experiência, conexão consentida, presença útil, lembrança futura, retorno e introdução voluntária. Nenhuma conta, publicação, contato, automação ou gasto. PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Sistema de continuidade e estado mais recente — 2026-11-26
+Para transferência entre chats, consultar `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e usar `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`. Os logs append-only são `PROMPT_VIVO/SESSION_LOG.md` e este run's `SESSION_LOG.md`.
+
+Frentes atuais: PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Último trabalho: auditoria Affitor S403–S413 e documento MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md. Próxima ação: continuar PHASE_03.5 na adaptação das skills e validação de aquisição/afiliados, mantendo as demais frentes abertas e evitando repetição.
+
+Antes de concluir qualquer sessão, sincronizar RUN_STATE, RESUME_PACKET, PHASE_CONTROL, USER_INPUT_LOG, operations/STATE e logs. Escrita não confirmada deve ser marcada NÃO PERSISTIDO.
