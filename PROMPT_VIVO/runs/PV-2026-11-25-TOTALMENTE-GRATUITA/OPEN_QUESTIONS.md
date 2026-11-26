@@ -135,3 +135,13 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 97. O usuário atende ao requisito de 3 ou 5 anos de residência contínua no Brasil da TELUS? O inglês profissional exigido é comprovável?
 98. Clickworker aceita novos registros no Brasil no momento e oferece PayPal ou Payoneer na seção Payment Details para residentes brasileiros?
 99. Há tarefas disponíveis imediatamente em Clickworker para PT-BR e qual volume/valor por tarefa?
+
+## Novas perguntas — rodada 10
+100. O fluxo atual de inscrição OneForma Freya confirma Portuguese (Brazil), taxa US$6 por hora de áudio e aceita novos candidatos brasileiros?
+101. O método PayPal ou Payoneer pode ser conectado por um residente no Brasil e qual é o custo efetivo de saque/conversão?
+102. Quanto tempo demora a qualificação Freya e quando os primeiros lotes de PT-BR são liberados?
+103. Qual é o tempo real de trabalho para transcrever uma hora de áudio PT-BR, incluindo diarização e timestamps? Qual a produtividade de iniciante?
+104. O primeiro ciclo OneForma após 25/11 permitiria aprovação até 30/11 e pagamento até 6/12, considerando mínimo US$25? Não presumir.
+105. Qual a remuneração por tarefa validada da TSMG QC e qual o prazo de pagamento?
+106. O catálogo YPAI pode ser filtrado para Brasil sem criar conta e quais vagas brasileiras aparecem como abertas no próprio fluxo de candidatura?
+107. A vaga Field Collection Operator YPAI em São Paulo está efetivamente aceitando candidatura brasileira e qual local/agenda/custo de deslocamento do projeto?
