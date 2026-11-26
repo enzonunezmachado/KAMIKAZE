@@ -218,3 +218,11 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Etapa 0 é planejamento documental; qualquer conta, integração, campanha, publicação ou gasto exige autorização separada.
 - Catálogo de repositórios/skills atualizado com pesquisa específica de tráfego pago.
 - Não modifica execução ativa nem fases/gates de pesquisa. Nenhuma ação externa ou gasto realizado.
+
+
+## Pesquisa — construção com IA e ferramentas gratuitas (26/11/2026)
+- Estudo: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`.
+- Fontes: `PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/SOURCE_LEDGER_SUPPLEMENT_S436_S450.md` (S436–S450).
+- Caso mais forte: Stockroom/AppJet, com demo e código público; build/deploy no Free declarado pelo fornecedor. MyClaw: stack $0/mês declarada, 0 pagantes e Vercel Hobby não comercial. Somnia/Toolkiya: padrões local-first/client-side, custos não comprovados.
+- Não houve instalação, clone, execução, app, deploy, conta, contato, publicação ou gasto. Preservar NEXUS e quotas existentes.
+- Fases: PHASE_03.3/03.4/03.5 continuam IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
