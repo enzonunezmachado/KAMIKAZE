@@ -56,3 +56,9 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Encontradas boas práticas de integridade/validação, mas demo sem login e sem auth/tenant authorization visível nas rotas analisadas. Não usar dados reais. Testes não foram executados; sem pentest.
 - AppJet declara processamento EUA/Canadá, não treino/retenção de código após coding, mas processa credenciais/env vars e não garante disponibilidade. S451–S453.
 - Nenhuma conta conectada ou app criado.
+
+
+### KAM-2026-11-26-005 — Serviços tecnológicos locais assistidos por IA
+- Documentada linha de serviços locais com diagnóstico de maturidade, implantação competitiva e manutenção recorrente; lista exploratória de pizzarias em Taboão e política de prospecção responsável.
+- Fontes S454–S466; documento `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`.
+- Nenhum contato, mensagem, instalação, publicação, venda ou gasto ocorreu.
