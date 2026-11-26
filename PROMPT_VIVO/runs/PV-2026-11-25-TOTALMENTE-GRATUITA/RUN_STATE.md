@@ -83,3 +83,13 @@
 
 ## Complemento — pagamento OneForma (S130)
 Homepage declara ausência de mínimo de saque, Help Center indica US$25. Divergência oficial; mínimo/ciclo específico NÃO CONFIRMADOS. Não usar valor de US$25 como certeza para previsão de receita.
+
+## Rodada 13 — 25/11/2026 (S131–S138)
+- UserTesting inclui oficialmente Brasil em testes novos e clássicos; pools brasileiros menores. Pagamento variável por teste, valor informado antes de aceitar, PayPal verificado e normalmente 14 dias após conclusão; practice test não pago. Trilha complementar, não renda garantida até 06/12.
+- YPAI Data Collection Contributor: banner oficial indica vaga fechada, embora corpo ainda diga Applications open e exiba taxa de R$30–50/h. Tratar como fechada até confirmação, não candidatar.
+- TSMG QC: formulário confirma pagamento por trabalho validado, mas taxa por unidade, volume e ciclo continuam ausentes.
+- Meridial: vaga de faixa US$6–65/h exige perfil linguístico especializado; graduação relacionada ideal. Não priorizar.
+- Defrilex: PT-BR sem experiência obrigatória, porém exige opt-in de dados pessoais de uso de IA/busca/streaming/email; remuneração não publicada. Bloqueio de privacidade até análise de consentimento.
+- sōtem: sem tarefas pagas abertas e PayPal desabilitado; não operacional.
+- Estudo uTest/User Interviews de US$75 retornou 410 Gone; excluir.
+- Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma conta, candidatura, screening, formulário, gravação, consentimento ou envio de documentos foi realizado. Receita R$0; despesas R$0.
