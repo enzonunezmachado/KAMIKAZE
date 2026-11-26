@@ -57,3 +57,11 @@ S078 Sebrae/E-Commerce Brasil (n=3.081): 59,2% da operação digital de pequenos
 Elegibilidade: Workana exige 18 e declara indisponibilidade para menores; Upwork exige 18; Fiverr permite 13–17 apenas por conta do responsável legal, com supervisão e transparência. Código Civil considera 16–17 relativamente incapazes para certos atos; MEI aos 16–18 exige emancipação. Não usar contas falsas/emprestadas nem contornar. A rota de recebimento/contratação aos 16 requer orientação e participação adulta adequada; não presumir.
 Gate CONTINUE; Fase 04 segue QUEUED/NOT_STARTED. Nenhum contato, proposta, publicação ou gasto.
 \n\n## Correção prioritária de perfil — 25/11/2026\nA idade atual do usuário é **18 anos**. Toda análise anterior baseada em 16 anos está superada para decisões pessoais. O usuário afirma que tem capacidade e disposição para aprender e desempenhar o que for necessário. Não criar barreiras artificiais por idade nem presumir incapacidade por falta de experiência profissional. Manter honestidade sobre histórico e credenciais.
+
+## Rodada 6 — continuidade da pesquisa
+A rodada 6 adicionou S087–S100. Idade correta: 18 anos. O usuário afirma capacidade/disposição para aprender e executar o necessário; não presumir incapacidade por falta de histórico profissional.
+Duas trilhas novas merecem aprofundamento:
+1. Apoio operacional/orquestração de conteúdo para agências: S094 é vaga recente da Fera Comunicação, remota, PJ, sem exclusividade nem horário fixo, com valor mensal fixo não divulgado; envolve curadoria, calendário, follow-up, agendamento, WhatsApp com clientes, Trello/Notion e conversa por Meet. Exige disponibilidade, comunicação e autonomia. S093 é exemplo antigo de apoio supervisionado sem experiência.
+2. Tarefas de gravação de áudio para IA: Lionbridge S098 anuncia US$10/h, remoto, PT-BR, smartphone e ambiente silencioso; pré-teste e aprovação. Horas disponíveis e calendário de pagamento não foram divulgados. Ver S099/S100 para segurança e idade.
+Pagamentos: Workana gratuito tem ciclo 1–5 do mês seguinte; 99Freelas Free repassa em até 6 dias úteis depois da liberação, mas o cliente tem até 5 dias úteis para aprovar. Não são garantias de dinheiro imediato.
+Nenhuma candidatura, contato, proposta ou ação externa. Gate CONTINUE; Fase 04 não começou.
