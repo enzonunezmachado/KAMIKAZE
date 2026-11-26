@@ -99,3 +99,11 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - A análise anterior de elegibilidade aos 16 foi baseada em premissa incorreta e está superada: idade atual informada pelo usuário é 18 anos. Reavaliar Workana/Upwork e outras plataformas sob a idade correta, respeitando os demais termos.
 - PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
 \n\n## Correção de perfil — 25/11/2026\n- Idade atual informada: **18 anos**. A referência anterior a 16 anos está superada.\n- O usuário afirma ter capacidade e disposição para aprender e desempenhar as tarefas necessárias. Avaliar por tarefa, sem confundir falta de experiência profissional com incapacidade.\n- Manter honestidade sobre experiência, portfólio e credenciais; reavaliar plataformas com idade mínima de 18 anos.
+
+## Rodada 6 — 25/11/2026
+- Correção de perfil: idade atual 18 anos; premissa anterior de 16 anos superada. Usuário afirma capacidade/disposição para aprender e executar; não confundir falta de experiência profissional com incapacidade.
+- S087–S100: Workana/Upwork exigem 18; pagamento Workana gratuito ocorre no início do mês seguinte; 99Freelas pode levar até 5 dias úteis para aprovação + 6 dias úteis de repasse após liberação.
+- Novas hipóteses: apoio operacional/orquestração de conteúdo em agência (S093/S094) e tarefas de gravação de áudio PT-BR para IA na Lionbridge a US$10/h (S098). Ambas ainda sem receita ou seleção garantida.
+- S094 parece ter melhor alinhamento com organização/orquestração, mas exige comunicação com clientes, autonomia, disponibilidade e reunião; remuneração não divulgada.
+- S098 tem taxa horária divulgada e requisitos técnicos simples, mas volume, aprovação e pagamento não foram confirmados.
+- PHASE_03.1 permanece IN_PROGRESS / CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou gasto.
