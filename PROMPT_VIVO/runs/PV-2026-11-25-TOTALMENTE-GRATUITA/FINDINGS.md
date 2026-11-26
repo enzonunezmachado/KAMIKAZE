@@ -425,3 +425,24 @@ A demanda por otimização de perfil é observável em vários briefs, incluindo
 A hipótese mais específica Workana Profile Readiness continua diferenciada pelo gate de moderação de 15–30 dias, mas não há evidência de compradores pagando por um produto independente dedicado a isso. A Workana oferece guias gratuitos; o valor precisaria estar na transformação de experiência real e provas de trabalho em perfil/portfólio claro e consistente, sem alegar que o checker prevê aprovação. (S262–S265, S292–S293)
 
 **Restrição adicional (S295):** os termos legais/API da Upwork proíbem scraping e também o uso do site/serviços para construir serviço similar/concorrente. Portanto, qualquer ferramenta que use conteúdo Upwork como base de produto competitivo fica excluída sem autorização formal e revisão jurídica; não presumir que API key resolve essa restrição.
+
+
+
+## Rodada 23 — Simple Search Utilities / SEO Microtools (S296–S314)
+
+### Hipótese nova
+Ferramentas simples e gratuitas encontradas via Google podem formar ativos SEO: calculadoras, conversores e utilitários que resolvem uma tarefa diretamente. Uma ferramenta pode cobrir uma keyword principal e várias consultas long-tail. A hipótese é válida para pesquisa, não aprovada para construção.
+
+### Métrica ponderada proposta
+Demanda 25%; dificuldade orgânica 20%; qualidade da SERP 15%; valor econômico 15%; repetição/cluster 10%; facilidade de MVP/manutenção 10%; diferenciação/risco 5%. Notas 0–5 por dimensão convertidas para 0–100. Dados ausentes = ND; não usar pontuação numérica enquanto volume e SERP não forem medidos. Keyword Planner estima buscas mensais, mas requer configuração de conta Ads com faturamento; Trends é relativo, não volume absoluto; Ahrefs KD é proxy de dificuldade e precisa de análise manual. (S296–S299)
+
+### Sinais e contraprovas
+- Google considera ferramentas interativas como conteúdo principal, mas prioriza utilidade, originalidade e precisão; páginas repetitivas em escala sem valor ou ferramentas enganosas são abuso. (S301–S302)
+- AdSense requer conteúdo próprio, original e de qualidade, 18+ e conformidade; não há mínimo de tráfego explícito na página de elegibilidade consultada. (S303)
+- SERPs verificadas mostram concorrentes ativos em dias úteis, tinta, piso, cortina/tecido, papel de parede, botijão de gás, impressão 3D e BTU. (S305–S314)
+- ToolNest lista 221 ferramentas genéricas, indicando comoditização dos utilitários amplos. (S304)
+- Impressão 3D tem várias calculadoras brasileiras avançadas; dias úteis e calculadoras de obra também têm resultados detalhados. Não priorizar clones genéricos.
+- Cortina/tecido/papel de parede e botijão são candidatos de nicho para investigar, mas volume e potencial econômico continuam ND.
+
+### Conclusão
+Nenhum candidato provou alto volume ou baixa concorrência. A presença de concorrentes prova oferta, não demanda nem receita. Ferramenta SEO deve ser tratada como ativo de médio/longo prazo; não é plano confiável para obter R$150 até 06/12. Comparar com serviço manual e oportunidades freelancer. PHASE_03.3 CONTINUE; PHASE_04 não iniciada.
