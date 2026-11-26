@@ -111,3 +111,13 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - YPAI fechada (S144); CSL lote prioritário vencido (S145); OneForma China-only (S146); OpenTrain sem payout Brasil (S151); novos pedidos 99Freelas não prioritários por leilão/escopo (S152–S153).
 - Gate PHASE_03.1 segue CONTINUE; PHASE_04 segue QUEUED/NOT_STARTED. Receita R$0, despesas R$0, sem conta/candidatura/gravação/contato/proposta ou ação externa.
 - Próxima ação: buscar mais opções de recebimento curto com payout e elegibilidade claros; Hub Data é candidata condicional, pendente de privacidade e aparelho.
+
+
+## Rodada 16 — 25/11/2026
+- Usuário rejeitou Hub Data; não sugerir novamente. Nenhuma conta/gravação realizada.
+- Hipótese manhua: não priorizada; leitura de capítulos de terceiros enfrenta reused content/copyright, e YPP exige limiares altos para anúncios (S154–S156).
+- Demanda online existe, mas é heterogênea. Evidências macro: 43% das empresas 10–49 não têm site; 81% das pequenas que venderam online usaram mensagens; CRM em apenas 6% dos micronegócios de serviço; dores de decisão em preço/caixa/vendas (S157–S159).
+- Upwork/Fiverr indicam crescimento em AI integration, QA, data cleaning, PDF-to-Excel e automação, mas são sinais de marketplace, não renda garantida (S160–S162).
+- 99Freelas indica competição forte em landing pages (71 propostas em poucas horas; outro projeto 471 propostas/513 interessados); relatos Reddit mostram aquisição de clientes como gargalo (S163–S165).
+- PHASE_03.1 CONTINUE; PHASE_04 QUEUED. Receita R$0, despesas R$0, nenhuma ação externa.
+- Próxima rodada: mapear e validar ofertas online específicas em operação WhatsApp, pesquisa B2B, PDF/Excel, QA manual e edição de conteúdo original. Não avançar por métricas de busca isoladas.
