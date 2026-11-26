@@ -91,3 +91,7 @@ Investigar se o excesso de candidatos/propostas cria compradores em dois lados: 
 A PHASE_03.2 permanece aberta e passa a incluir a subfase investigativa PHASE_03.3 COMMUNITY-LED MARKET VALIDATION. Objetivo: testar aquisição orgânica por comunidades e a hipótese de inteligência de conversão para freelancers.
 S215–S223 revelam concorrente direto Scoutly (R$27,90/mês), substituto gratuito Workaholic, alertas nativos nas plataformas e comunidades com regras restritivas. Portanto, não construir um agregador genérico. A lacuna potencial deve estar em curadoria/decisão vertical com vantagem explicável e não replicada pelos produtos existentes; isso ainda não está provado.
 A aquisição por comunidade é plausível, inclusive há projeto freelance remunerado de community-led growth (S221), mas cada comunidade deve ser tratada conforme regras. Nenhum post, contato, cadastro ou gasto realizado. PHASE_03.2 IN_PROGRESS / CONTINUE.
+
+
+### Complemento da Rodada 20 — S224–S226
+Preços publicados por Freelance Match e FreelaSync não provam transações; Freelance Match declara que ainda não processa pagamentos. Há, porém, um relato individual de freelancer que pagou R$54,90 ao 99Freelas para consultar a média de propostas concorrentes (S224–S226). Isso indica que inteligência competitiva pode ter valor percebido, mas não comprova demanda por ferramenta externa. PHASE_03.3 continua CONTINUE.
