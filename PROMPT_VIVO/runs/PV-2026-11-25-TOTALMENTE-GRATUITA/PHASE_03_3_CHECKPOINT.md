@@ -39,3 +39,5 @@ R$0. Sem cadastro, contato, publicação, anúncio, assinatura, demonstração o
 - Estado: PHASE_03.3 CONTINUE; PHASE_04 não iniciada; R$0; NEXUS protegido; nenhum contato/publicação/deploy/gasto.
 
 S294: Mansão Dev (~528 membros em diretório) tem canais de divulgação/parcerias, mas é comunidade ampla de programação/design; atividade e regras internas não verificadas. Acrescenta-se à lista de observação, não à lista de divulgação autorizada.
+
+S295: os termos legais/API Upwork proíbem scraping e uso do site/serviços para construir serviço similar/concorrente. Nenhuma integração ou produto dependente de dados Upwork sem autorização escrita/revisão dos termos.
