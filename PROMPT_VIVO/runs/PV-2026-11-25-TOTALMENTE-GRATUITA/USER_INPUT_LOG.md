@@ -64,3 +64,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Impacto:** adotar funil de aquisição e métricas intermediárias; analisar views, visitas ao perfil, seguidores, salvamentos, comentários, cliques, conversas, leads e vendas em conjunto, com janela temporal e origem. Não tratar views como venda nem como sinal vazio. Investigar afiliados como rota de baixo custo com atenção a qualidade do produto, comissão líquida, aprovação, atribuição/cookies, reembolso, payout, materiais permitidos e canais reais de distribuição. Desenhar uma operação multicanal com rotina sustentável e facilitação, sem automação abusiva, spam, perfis falsos ou autopromoção proibida.
 **Arquivos afetados:** PHASE_03.4, nova PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION, SOURCE_LEDGER, FINDINGS, OPEN_QUESTIONS, VALIDATION_MATRIX, RUN_STATE, PHASE_CONTROL, RESUME_PACKET, MEMORY_HANDOFF e operations/STATE.
 **Status:** APLICADO PARCIALMENTE; rodada de pesquisa afiliados e mecanismos de aquisição continua.
+
+
+## 2026-11-26 — mecanismo de indicação por relacionamento e pesquisa GitHub
+**Entrada:** usuário propôs abordar profissionais que atuam no público relacionado ao produto, apresentar a solução com contexto honesto do projeto e ouvir sua opinião. Se a pessoa não tiver interesse/necessidade, explorar se conhece alguém que possa se beneficiar e pedir uma introdução voluntária; o objetivo é criar oportunidades por confiança e reciprocidade, não parecer uma venda insistente. Também pediu pesquisar projetos públicos no GitHub por affiliate/afiliado, marketing digital e automação com IA para reutilizar componentes úteis na operação.
+**Classificação:** hipótese de aquisição por relacionamento/indicação + solicitação de pesquisa técnica open source.
+**Impacto:** criar mecanismo de referral-by-introduction com disclosure de comissão, consentimento, pedido sem pressão e sem coletar contatos de terceiros sem autorização. Oferecer uma mensagem encaminhável para a pessoa compartilhar; não condicionar ajuda a compra/indicação nem explorar culpa/obrigação. Auditar repositórios por licença, atividade, código real, dependências, APIs, custos, segurança, manutenção e aderência ao MAK; não instalar, executar ou importar sem auditoria e aprovação.
+**Fontes:** S394–S398.
+**Status:** APLICADO NA DOCUMENTAÇÃO; pesquisa de repositórios continua.
