@@ -61,3 +61,9 @@
 - Welo Junior Quality Coordinator: 20h/semana, coordenação de QA, relatórios, suporte e reuniões; inglês forte, exclusividade, teste e remuneração não divulgada.
 - Clickworker: pagamento semanal com mínimos, mas registro/método de pagamento variam por país; Brasil não confirmado.
 - Gate CONTINUE. Não assumir elegibilidade por inglês ou residência sem confirmar; nenhuma candidatura/conta criada.
+
+## Rodada 10 — 25/11/2026 (S120–S124)
+- OneForma Freya: PT-BR listado entre 36 locales abertos; taxa oficial indexada de US$6 por hora de áudio, sem experiência/diploma, batches semanais first-come-first-served; pagamento dia 15 e último dia do mês, 1–3 dias úteis, mínimo US$25, método por conta/país. Página PT-BR específica apresentou conteúdo inconsistente ao abrir; confirmar taxa e locale no fluxo.
+- TSMG QC Specialist: revisão de transcrições PT-BR com treinamento, experiência diferencial; pagamento por trabalho validado, taxa/ciclo desconhecidos.
+- YPAI: resultados indexados parecem abertos, mas páginas oficiais de várias vagas remotas Brasil mostram “closed”; não considerar ativas sem confirmação.
+- Gate CONTINUE. Nenhuma conta, candidatura, formulário ou contato. PHASE_04 não começou.
