@@ -20,3 +20,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Estudo aplicado ao Motor de Aquisição Kamikaze
 - [MAK — Estudo Affitor e adaptação metodológica](MAK_AFFITOR_METHOD_ADAPTATION.md): auditoria do repositório Affitor/affiliate-skills v1.2.1 e síntese dos padrões que podem ser adaptados ao Kamikaze sem importar código. Inclui arquitetura modular, flywheel, pesquisa, conteúdo, distribuição, mensuração, compliance, feedback e a extensão de relacionamento/memória de marca.
+
+
+## Auditoria de evidências e governança do MAK
+- [MAK — Auditoria de evidências, métricas e adaptação brasileira](MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md): verificação da contagem atual de skills Affitor (53), ponteiros/canônicas, classificação de métricas e heurísticas, confiança dos casos numéricos, disclosure brasileiro e gates de urgência/bônus/garantias.
