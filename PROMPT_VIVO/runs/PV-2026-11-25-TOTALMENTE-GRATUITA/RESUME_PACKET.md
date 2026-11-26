@@ -82,3 +82,12 @@ Não repetir S054–S066 sem motivo; abrir as fontes originais quando necessári
 - Conclusão: indicação, pares, networking, profissionais complementares e conteúdo de busca merecem teste; aquisição específica de relatório competitivo continua não comprovada.
 - Gate segue CONTINUE na PHASE_03.1; PHASE_04 permanece QUEUED/NOT_STARTED.
 - Próxima ação: identificar gatilhos de compra com prazo e segmentos concretos; mapear canais inbound/comunidades e evidência específica de compra/recompra; sem contatos externos.
+
+## 10. Rodada 4 — evidência de compras concluídas (S071–S075)
+- S071: 99Freelas, pesquisa de 44 vinhos em pelo menos cinco lojas cada, Concluído com vencedor; 34 propostas/47 interessados. Compra forte em comparação de catálogo/preços, mas leilão competitivo.
+- S072: 99Freelas, pricing estratégico de 6–8 SKUs no Mercado Livre, Concluído com vencedor; concorrentes, posicionamento, margem e preço de lançamento; exige experiência específica, NDA e cuidado tributário.
+- S073: Workana, cliente espião mensal via WhatsApp, comprador com 20 projetos pagos de 21 e recorrência pretendida; página tem status contraditório (“Realizado” e “Aberto”), então não contar como compra concluída/recompra.
+- S074: 99Freelas, curadoria de produtos e fornecedores para e-commerce, Concluído com vencedor; continuidade apenas potencial.
+- S075: 99Freelas, pesquisa de tendências com relatórios três vezes por semana, Concluído com vencedor; duração/renovação desconhecida.
+- Nova leitura: evidência de compra é forte para pesquisa aplicada a decisão/rotina empresarial, não para um relatório genérico de concorrentes. Recorrência desejada existe em alguns briefs, mas recompra efetiva não foi comprovada.
+- Gate CONTINUE em PHASE_03.1. Próximo: encontrar canal sem leilão e selecionar hipótese de baixa barreira/entrega verificável, sem contatar ninguém.
