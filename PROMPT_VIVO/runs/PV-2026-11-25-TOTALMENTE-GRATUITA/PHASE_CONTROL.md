@@ -75,3 +75,7 @@ OneForma Email Collection está oficialmente aberta para Brasil/PT-BR e paga por
 
 ## Nota de pagamento OneForma — S130
 A homepage afirma que não há mínimo de saque; o Help Center informa US$25. Não assumir nenhum dos dois para o projeto Email Collection/Freya até confirmação específica. Manter gate CONTINUE.
+
+## Atualização do controlador — Rodada 13 (S131–S138)
+A pesquisa encontrou uma rota complementar mais clara: UserTesting aceita contribuidores no Brasil, mas o pool local é menor; os pagamentos são variáveis, via PayPal, normalmente 14 dias após cada teste. Não atende como promessa de caixa até 06/12. A página YPAI Brasil tem banner de vaga encerrada apesar de rótulos antigos de candidatura aberta; prevalece o banner. TSMG confirma pagamento por trabalho validado, mas não publica taxa nem prazo. Meridial exige perfil linguístico especializado; Defrilex depende de consentimento para dados pessoais de uso digital sem publicar remuneração; sōtem não tem tarefas pagas abertas; estudo uTest encontrado expirou.
+**Decisão:** CONTINUE_PHASE. Próxima rodada deve aprofundar UserTesting (requisitos brasileiros, frequência/valor, PayPal), buscar novos lotes CSL, esclarecer TSMG antes de qualquer trabalho e procurar vagas de coordenação operacional com remuneração transparente. Não iniciar Fase 04, não preencher cadastros, não fazer screening, não enviar documentos/dados, não consentir com coleta e não contatar empresas sem autorização.
