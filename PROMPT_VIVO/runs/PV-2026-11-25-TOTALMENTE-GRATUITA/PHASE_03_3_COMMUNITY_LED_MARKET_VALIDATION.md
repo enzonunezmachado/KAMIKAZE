@@ -145,3 +145,5 @@ A Workana já publica guias gratuitos e regras de perfil/portfólio; diferencial
 **Atualização da hipótese:** Workana Profile Readiness tem dor oficial, sinais de intenção de compra da categoria mais ampla e baixa evidência de compra específica. Deve competir não com “mais um gerador de bio”, mas com assistência prática de estruturação de provas/portfólio para iniciantes. Manter CONTINUE; não construir ainda.
 
 S294 adiciona Mansão Dev (~528 membros em diretório), com canais de divulgação/parcerias; audiência ampla de programação/design e regras internas ainda não verificadas. Não classificar como canal apto a promoção antes de conferir atividade e regras dentro do servidor.
+
+S295 complementa a restrição: os termos legais/API da Upwork também proíbem usar o site/serviços para construir serviço similar/concorrente e restringem scraping/uso de conteúdo. Não desenvolver integração ou camada competitiva dependente de dados Upwork sem autorização escrita e revisão jurídica dos termos.
