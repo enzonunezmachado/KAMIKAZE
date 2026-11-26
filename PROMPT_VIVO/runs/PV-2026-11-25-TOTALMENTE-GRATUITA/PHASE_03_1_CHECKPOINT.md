@@ -186,3 +186,8 @@ Gate CONTINUE. Nenhuma candidatura ou conta criada; nenhum pagamento recebido.
 - S123 YPAI: páginas oficiais abertas diretamente mostram vagas Text/NLP, Conversational Speech e Photo fechadas apesar de snippets de busca “Applications open”. Não tratar como vagas ativas.
 - S124 YPAI São Paulo presencial: Field Collection Operator/Rig Operator, taxa indicativa R$30–50/h; status precisa confirmação, deslocamento e experiência/agenda são barreiras.
 Gate CONTINUE. OneForma é a melhor hipótese de renda de curto prazo até aqui, mas nenhum cadastro, teste, candidatura ou trabalho foi realizado. PHASE_04 continua QUEUED/NOT_STARTED.
+## Rodada 11 — economia efetiva e requisitos OneForma (S125–S126)
+- S125: Oxford indica mínimo aproximado de 4 horas de trabalho humano para transcrever 1 hora de áudio claro. Com taxa de US$6 por hora de áudio, cenário de 4:1 resulta em cerca de US$1,50 por hora efetiva, antes de custos; timestamps, múltiplos falantes, áudio difícil e revisão podem elevar o tempo.
+- S126: páginas OneForma divergem: Freya v2 lista PT-BR aberto e sem experiência; página Multilingual Podcast Transcription lista só 5 países e exige experiência. A página específica pt_BR também abriu conteúdo incoerente de American English. Não tratar elegibilidade de iniciante como confirmada até o formulário de destino.
+- Para atingir mínimo US$25 seriam necessários ~4h10 de áudio aprovado, equivalentes a pelo menos ~16h40 de trabalho humano na referência 4:1. O prazo de pagamento pode caber em tese, mas a produtividade torna a meta R$150 até 6/12 improvável sem volume/tempo confirmados.
+Gate CONTINUE. OneForma permanece hipótese, não recomendação final nem candidatura realizada.
