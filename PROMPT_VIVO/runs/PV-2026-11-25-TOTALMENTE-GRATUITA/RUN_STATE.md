@@ -67,3 +67,9 @@
 - TSMG QC Specialist: revisão de transcrições PT-BR com treinamento, experiência diferencial; pagamento por trabalho validado, taxa/ciclo desconhecidos.
 - YPAI: resultados indexados parecem abertos, mas páginas oficiais de várias vagas remotas Brasil mostram “closed”; não considerar ativas sem confirmação.
 - Gate CONTINUE. Nenhuma conta, candidatura, formulário ou contato. PHASE_04 não começou.
+
+## Rodada 11 — 25/11/2026 (S125–S126)
+- Oxford estima pelo menos 4 horas de trabalho humano por 1 hora de áudio claro; com Freya a US$6 por hora de áudio, cenário 4:1 equivale a ~US$1,50 por hora efetiva antes de custos.
+- Mínimo OneForma US$25 exigiria ~4h10 de áudio aprovado, cerca de 16h40 de trabalho no cenário 4:1, antes de onboarding/revisão.
+- Páginas OneForma divergem: Freya v2 lista PT-BR e não exige experiência; outra página de projeto exige experiência e lista somente cinco países; página pt_BR abriu conteúdo incoerente. Elegibilidade de iniciante não confirmada.
+- OneForma continua hipótese, mas não deve ser priorizada como renda rápida sem confirmar o formulário e medir produtividade. Gate CONTINUE; nenhuma candidatura/teste.
