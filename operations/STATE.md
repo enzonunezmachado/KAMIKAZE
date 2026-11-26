@@ -40,8 +40,8 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Arquitetura inicial criada em [`PROMPT_VIVO/`](../PROMPT_VIVO/README.md).
 - Master Prompt para iniciar ou retomar execuções: [`PROMPT_VIVO/MASTER_PROMPT.md`](../PROMPT_VIVO/MASTER_PROMPT.md).
 - Protocolo, método de pesquisa, padrão de evidências, auditoria de qualidade e autoaperfeiçoamento documentados.
-- Seis fases reutilizáveis criadas; cada pesquisa concreta terá sua própria pasta em `PROMPT_VIVO/runs/`.
-- A arquitetura foi criada; ainda não foi executada uma pesquisa completa usando o fluxo de ponta a ponta.
+- PHASE_00–PHASE_05 são modelos iniciais; o Prompt Vivo agora tem arquitetura adaptativa para adicionar, modificar, dividir, mesclar, reordenar, pular ou reabrir fases conforme evidências. Cada pesquisa concreta mantém sua própria pasta em `PROMPT_VIVO/runs/` e um `PHASE_ARCHITECTURE.md`.
+- Primeira execução real iniciada: escopo e landscape concluídos com PASS WITH GAPS; mineração de demanda em andamento. O fluxo completo ainda não foi testado até a síntese final.
 
 ## O que já existe no repositório
 
@@ -59,8 +59,8 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 
 - ID: [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_STATE.md).
 - Objetivo: pesquisar oportunidades digitais e monetização com IA sob custo monetário zero.
-- Estado: PHASE_01_LANDSCAPE em andamento; escopo inicial e primeiro lote exploratório registrados.
-- Política de cotas: [RESOURCE_BUDGET_POLICY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESOURCE_BUDGET_POLICY.md), com teto planejado de 60%, reserva de 30% para recuperação e 10% para incerteza; meta de 90% tratada como objetivo operacional, não garantia.
+- Estado: PHASE_00_SCOPE e PHASE_01_LANDSCAPE concluídas (PASS WITH GAPS); PHASE_02_DEMAND em andamento, com sete clusters mapeados e checkpoint parcial.
+- Arquitetura adaptativa: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md). Mapa de demanda: [DEMAND_MAP.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/DEMAND_MAP.md). Política de cotas: [RESOURCE_BUDGET_POLICY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESOURCE_BUDGET_POLICY.md), com teto planejado de 60%, reserva de 30% para recuperação e 10% para incerteza; meta de 90% tratada como objetivo operacional, não garantia.
 
 ## O que ainda não foi feito
 
@@ -72,13 +72,12 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 
 ## Próxima sequência recomendada
 
-1. Retomar a leitura dos lotes de pesquisa e evitar repetir achados.
-2. Abrir uma nova rodada que investigue explicitamente como pessoas e empresas usam IA para gerar receita e operar negócios.
-3. Investigar separadamente dropshipping/e-commerce, conteúdo curto e modelos de serviço/produto digital, incluindo custos e contraprovas.
-4. Identificar oportunidades com comprador alcançável e caminho de venda plausível.
-5. Comparar poucas candidatas com base em evidências e capacidade real de entrega.
-6. Escolher um teste comercial prioritário, definir oferta/preço/canal e buscar a primeira venda.
-7. Atualizar este arquivo após cada decisão ou resultado verificável.
+1. Continuar PHASE_02_DEMAND: pedidos recentes, comunidades e canais diretos.
+2. Investigar preço líquido, comissões, prazo de recebimento e capacidade real de entrega.
+3. Aplicar o gate da Fase 02; adaptar fases seguintes somente se houver ganho real.
+4. Validar poucas candidatas e escolher um teste comercial sem gasto antecipado.
+5. Obter aprovação humana antes de qualquer abordagem, publicação ou proposta.
+6. Atualizar este arquivo após cada decisão ou resultado verificável.
 
 ## Regras de aprovação
 
@@ -97,3 +96,6 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 | 25/11/2026 | Retirar lista de estabelecimentos e experimento associado | Eram derivados de uma hipótese rejeitada |
 | 25/11/2026 | Meta imediata atualizada para R$ 150 até 06/12/2026 | Meta financeira corrigida pelo usuário |
 | 25/11/2026 | Retomar pesquisa ampla de modelos digitais e usos comerciais de IA | Não escolher nicho ou modelo antes da investigação |
+
+| 25/11/2026 | Adotar arquitetura adaptativa de fases no Prompt Vivo | O processo precisa criar/modificar etapas quando a evidência exigir, sem criar burocracia |
+| 25/11/2026 | Iniciar PHASE_02_DEMAND da run TOTALMENTE GRATUITA | Landscape suficiente para mapear pedidos e problemas reais; sete clusters iniciais registrados |
