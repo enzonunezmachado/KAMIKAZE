@@ -97,3 +97,24 @@
 | Formalização/contratos | Código Civil prevê incapacidade relativa aos 16–17; MEI 16–18 exige emancipação | Situação individual e modalidade exigem orientação oficial/adulta | BLOQUEADO |
 | Recompra | Nenhuma nova evidência de recompra efetiva | Briefs com frequência desejada não são recompra | Não validada |
 | Recebimento até 06/12 | Jornada MEI ~2 meses; payout de plataformas e legalidade precisam análise | Meta muito curta e canal direto não testado | Não validada |
+
+
+## Hipótese C — Apoio operacional e coordenação de conteúdo para agências
+| Dimensão | Evidência atual | Contraprova/limite | Estado |
+|---|---|---|---|
+| Demanda | Vagas de apoio operacional de Social Media e coordenação de conteúdo; Fera anuncia função remota sem horário fixo e com remuneração mensal fixa (S093/S094) | S093 é antiga; S094 remuneração não divulgada e 26 candidaturas; vagas não comprovam contratação do usuário | Sinal recente |
+| Escopo | Curadoria de tendências, calendário, follow-up, organização de tarefas, agendamento e relatórios simples | Pode envolver gestão de contas, comunicação com clientes, múltiplos stakeholders e prazos | Delimitável com controles |
+| Fit operacional | Coordenação, organização, acompanhamento e estruturação de processos | Exige boa comunicação, escrita, autonomia e ferramentas de agência | Potencial, precisa teste |
+| Barreira de entrada | Experiência pesa menos que compromisso em S094; S093 explicitamente não exige experiência | Não há prova de que iniciante sem portfólio será contratado; há reunião e contato com clientes | Parcial |
+| Remuneração | S094 menciona valor mensal fixo | Valor não divulgado; sem economics unitária | Não validada |
+| Canal | Vagas abertas em LinkedIn e redes de freelancers | Candidaturas concorridas; nenhuma abordagem/candidatura autorizada | Parcial |
+| Risco | Trabalho operacional com aprovação de liderança | Erros de agendamento/publicação, exposição de dados, falhas de comunicação e acesso a contas | Mitigável com checklist/permissões |
+
+## Hipótese D — tarefas de gravação de áudio para IA
+| Dimensão | Evidência atual | Contraprova/limite | Estado |
+|---|---|---|---|
+| Demanda/oferta | Lionbridge anuncia projeto remoto PT-BR por US$10/h (S098) | Anúncio não informa horas disponíveis, seleção, duração nem pagamento | Sinal concreto, não receita |
+| Requisitos | Smartphone, português claro, ambiente silencioso, seguir instruções e pré-teste | Aprovação necessária; qualidade pode reprovar gravações | Baixa barreira técnica |
+| Remuneração | US$10/h anunciado | Sem garantia de horas; câmbio, impostos e método de pagamento desconhecidos | Não validada |
+| Canal | Candidatura oficial Lionbridge | Sem candidatura feita; evitar páginas falsas e taxas | Parcial |
+| Segurança | Empresa declara canais oficiais e nunca solicita dinheiro (S099) | Confirmar contrato e dados no fluxo oficial | Parcial |
