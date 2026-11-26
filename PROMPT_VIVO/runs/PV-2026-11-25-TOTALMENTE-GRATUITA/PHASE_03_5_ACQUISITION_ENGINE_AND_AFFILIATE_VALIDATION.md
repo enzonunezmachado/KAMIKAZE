@@ -123,3 +123,10 @@ The user's story about starting the project independently to help pay for colleg
 
 ### Current design implication
 The MAK should not be a single autonomous bot. Compose a light operating system from reusable components: research/offer verification, content planning and repurposing, human-reviewed publishing, relationship/intro tracking, link/click measurement and weekly learning. Automate preparation and organization first; keep outreach, introductions and publishing under human control.
+
+
+### Additional GitHub reconnaissance — S399–S401
+- **SankeerthBoddu/n8n-marketing-workflows (S399):** strongest practical workflow pattern for our constraints: AI drafts per platform → Google Sheets review buffer → explicit approval/webhook → posting → post-ID logging. The maintainer labels it as a draft/reference, not battle-tested production. Adapt the human-approval and logging patterns; don't assume the workflow is plug-and-play.
+- **signalreason/affiliate-content-automation (S400):** technically broad affiliate SEO/content system with topic clusters, landing pages, A/B CTAs and analytics, but queues up to 1,000 articles/week and needs Go, Python, Next, Postgres and Redis. Reject as initial architecture: overbuilt and risks low-value mass content.
+- **AshmithaRajadurai/agentic-ai-social-media-manager (S401):** n8n + Gemini + Cloudinary + Instagram Graph API/Puppeteer auto-publishing. Do not adopt Puppeteer-based social actions without platform-policy and reliability audit; no outcome evidence.
+- **TARA BOT** was also inspected: it is a general Telegram shopping/flight assistant; affiliate template is marked future/coming soon, so not a useful current affiliate automation candidate.
