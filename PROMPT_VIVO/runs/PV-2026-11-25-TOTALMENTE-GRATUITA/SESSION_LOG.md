@@ -68,3 +68,10 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Documento:** `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fontes S454–S466.
 - **Guardrails:** sem scraping Maps, sem WhatsApp frio, sem dados pessoais desnecessários; nenhum contato feito.
 - **Estado:** hipótese em pesquisa; nenhuma implementação ou gasto.
+
+
+
+## 2026-11-26 — sistema de lotes e gestão de empresas
+- **Decisão:** trabalhar com lotes de 20 empresas únicas, ranking por fit de conversão e valor empresarial, e histórico persistente para deduplicar rodadas futuras.
+- **Estrutura:** `operations/COMPANY_SOLUTIONS/` com registro mestre, batch snapshots, dossiês individuais, contatos/permissões/supressão, projetos, contratos recorrentes, financeiro e playbooks.
+- **Estado:** DOCUMENTADO / NÃO ATIVADO; nenhuma pesquisa de lote, contato, venda ou gasto.
