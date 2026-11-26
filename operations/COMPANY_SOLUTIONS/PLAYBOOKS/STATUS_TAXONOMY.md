@@ -19,6 +19,7 @@ Não usar um único status para representar tudo. Cada dimensão responde a uma 
 - DISQUALIFIED — não elegível.
 
 ## 3. Contato (contact_status)
+- NOT_CONTACTED — não foi selecionada para contato ou nenhuma tentativa foi feita; pode ser reavaliada conforme os critérios do lote.
 - NOT_ELIGIBLE — não há caminho legítimo/adequado de contato.
 - PERMISSION_NEEDED — é necessário pedir autorização antes de encaminhar proposta pelo canal desejado.
 - PERMISSION_REQUESTED — pedido de autorização feito.
@@ -52,7 +53,7 @@ Não usar um único status para representar tudo. Cada dimensão responde a uma 
 ## Regras para cenários comuns
 | Cenário | Pesquisa | Contato | Venda | Reavaliação |
 |---|---|---|---|---|
-| Ficou no fim do ranking, sem contato | RANKED | NOT_ELIGIBLE/NOT_CONTACTED | NOT_APPROACHED | YES/CONDITIONAL |
+| Ficou no fim do ranking, sem contato | RANKED | NOT_CONTACTED | NOT_APPROACHED | YES/CONDITIONAL |
 | Não havia canal apropriado | HOLD | NOT_ELIGIBLE | NOT_APPROACHED | CONDITIONAL |
 | Pediu autorização e não respondeu | SCREENED | PERMISSION_REQUESTED | NOT_APPROACHED | CONDITIONAL |
 | Autorizou, recebeu proposta, não respondeu | RANKED | NO_RESPONSE | LOST (após encerrar ciclo) | CONDITIONAL |
