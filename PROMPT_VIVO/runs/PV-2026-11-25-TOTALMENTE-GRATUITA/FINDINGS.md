@@ -42,3 +42,83 @@ Tarefas operacionais de dados/documentos/conteúdo merecem investigação. O ris
 - Investigar primeiro serviços digitais específicos de dados/documentos/organização e conteúdo com entrega clara, mas sem assumir competência técnica não demonstrada.
 - Plataformas freelancer podem gerar oportunidades rápidas, porém a concorrência é alta e o pagamento pode demorar após entrega/aprovação.
 - Conteúdo orgânico e dropshipping tradicional são baixa prioridade para a missão de caixa em 11 dias; permanecem linhas de longo prazo ou modelos alternativos a estudar.
+
+## 12. Mapa de demanda — PHASE_02_DEMAND (primeiro lote)
+
+### Cluster A — Operação administrativa e organização de dados
+- Pedidos recorrentes incluem preencher/organizar planilhas, cadastrar e atualizar dados, digitar/formatar documentos e conferir informações. Um projeto publicado em 08/11 descreve explicitamente essas tarefas e tem mínimo de R$30, mas acumulava 688 propostas e 904 interessados quando aberto (S029).
+- Outro projeto pede organizar planilhas, conferir dados simples e entregar relatório básico; 505 propostas/620 interessados (S030).
+- Um terceiro inclui fórmulas, dashboards, gráficos e automação de planilhas; 259 propostas/327 interessados (S031).
+- Dor observável: transformar informação dispersa em registros organizados e confiáveis, com atenção a detalhes e prazo.
+- Comprador provável: pequeno negócio, profissional, equipe administrativa ou pessoa com projeto que acumula dados.
+- Sinal: pedidos explícitos com entregáveis e orçamento mínimo. Força: MÉDIA para existência de demanda; BAIXA para facilidade de conquistar cliente por concorrência alta.
+- Limite de capacidade: planilhas com fórmulas/macros/VBA/dashboard não devem ser oferecidas sem teste de competência.
+
+### Cluster B — Atendimento e organização de pedidos via WhatsApp
+- Projeto publicado em 23/11 pede atendimento de dúvidas de clientes para empresas, nível iniciante, mínimo de R$100; a página aberta mostra 216 propostas e 392 interessados (S032).
+- Em Freelancer.com.br aparecem pedidos de atendimento ao cliente via WhatsApp e organização de pedidos, além de assistente virtual para coworking (S040).
+- Dor observável: volume de perguntas, necessidade de resposta cordial/rápida, registro e acompanhamento de pedidos.
+- Comprador provável: empresa com canal WhatsApp ativo e volume de mensagens que precisa de cobertura operacional.
+- Sinal: contratação explícita e orçamento mínimo. Força: MÉDIA para existência; BAIXA para probabilidade individual devido à concorrência e necessidade de disponibilidade/experiência.
+- Possível entrega: organização de FAQ, respostas padrão revisadas, categorização de mensagens e planilha de acompanhamento. Atendimento em tempo real exige disponibilidade e acesso seguro, não deve ser prometido sem condições.
+
+### Cluster C — Pesquisa de mercado, concorrência e produtos
+- Pedido detalhado de pesquisa de concorrentes solicita preços, ofertas, canais, diferenciais e síntese organizada; mínimo R$60, 39 propostas/49 interessados, mas o projeto foi cancelado (S036).
+- Um pedido de mineração de produtos de nicho para e-commerce solicita 10 produtos, evidências de demanda internacional, comparação de concorrentes/preços brasileiros, fornecedores e dashboard HTML; 8 propostas/11 interessados na captura (S033).
+- Um pedido de pesquisa de importação solicita cinco fornecedores e cotação/MOQ; na mesma página havia 10 propostas/24 interessados (S033).
+- Dor observável: reduzir incerteza antes de comprar estoque, importar, lançar ou competir; transformar pesquisa dispersa em decisão.
+- Comprador provável: lojista, importador, empreendedor e empresa pequena/média.
+- Sinal: briefs detalhados, escopo, critérios de qualidade e entregáveis. Força: MÉDIA-ALTA para existência de compra de pesquisa; capacidade técnica e prazo de entrega são barreiras.
+- Oportunidade não é 'pesquisa com IA' genérica: é relatório auditável com links, preço, evidência, comparação e limitações. Não usar IA para inventar dados ou links.
+
+### Cluster D — Cadastro e otimização de catálogo em marketplaces
+- Pedido de cadastro de produtos exige título, descrição, preço, categoria, atributos e imagens; projeto encerrado/cancelado com 81 propostas/131 interessados (S037).
+- Dor observável: manter catálogo correto e padronizado em múltiplos canais.
+- Comprador provável: seller de Mercado Livre/Shopee/Amazon ou operação de e-commerce.
+- Sinal: contratação explícita histórica. Força: MÉDIA-BAIXA porque a fonte é antiga/cancelada; requer procurar anúncios atuais.
+- IA pode ajudar em rascunhos de título/descrição, mas dados, atributos, política da plataforma e preço precisam de conferência humana.
+
+### Cluster E — Conteúdo para redes sociais e vídeo curto
+- Projeto de 8 peças minimalistas para Instagram, mínimo R$50, registrou 167 propostas/191 interessados (S038).
+- Freelancer.com.br lista projetos de edição de vídeo curto, gestão de redes e TikTok Shop (S039).
+- Dor observável: produção recorrente de materiais para apresentar serviços, manter canais e transformar vídeos longos em cortes.
+- Comprador provável: profissional liberal, criador, pequeno negócio e marca.
+- Sinal: pedidos de contratação e listas de projetos; concorrência elevada em peças genéricas. Força: MÉDIA para demanda, BAIXA para entrada sem portfólio.
+- Diferenciação necessária: nicho, pacote com escopo claro, rapidez e adequação à identidade do cliente; não competir apenas em 'faço post com IA'.
+
+### Cluster F — Afiliados e operação de conteúdo comercial
+- Um cliente procura terceirizar estruturação de contas, pesquisa de produtos, vitrines, conteúdo, divulgação e acompanhamento em Shopee, Mercado Livre, Amazon e TikTok Shop (S035).
+- Dor observável: o dono quer operar afiliados, mas não tem tempo para pesquisar, produzir e publicar.
+- Comprador provável: empreendedor que quer delegar operação. Sinal: briefing detalhado; risco: escopo grande, resultados dependem de vendas e aprovação de contas.
+- Força: MÉDIA para procura de gestão operacional; baixa compatibilidade com meta de caixa rápida sem cases e experiência.
+
+### Cluster G — Prospecção B2B e geração de leads
+- Projeto de prospecção pede lista de até 50 empresas, decisores, canais, pesquisa breve, mensagem personalizada e registro, com restrições explícitas contra disparos em massa e bases compradas (S034).
+- Dor observável: empresas precisam identificar compradores potenciais, mas não querem perder tempo pesquisando e qualificando contatos.
+- Comprador provável: fornecedor B2B com ICP definido e equipe comercial.
+- Sinal: projeto com escopo e processo claros. Força: MÉDIA; risco operacional/LGPD e necessidade de abordagem autorizada.
+
+## 13. Padrões de linguagem dos compradores
+- 'organização', 'cadastro', 'atualização', 'conferência', 'atenção aos detalhes', 'prazo' (S029–S031).
+- 'atender dúvidas', 'WhatsApp', 'responder', 'organização de pedidos' (S032, S040).
+- 'identificar concorrentes', 'preços praticados', 'oportunidades', 'links', 'fornecedores', 'provar demanda' (S033, S036).
+- 'título', 'descrição', 'preço', 'categoria', 'características', 'imagens' (S037).
+- '8 peças', 'feed ou stories', 'minimalista', 'orgânica' (S038).
+
+## 14. Contraprovas e barreiras
+- Concorrência extremamente alta em tarefas genéricas de planilha, cadastro e posts; contagem de propostas não mostra qualidade nem conversão, mas alerta para baixa diferenciação.
+- Atendimento de WhatsApp parece ter orçamento mínimo maior, mas exige horário, rapidez, qualidade, acesso a dados e responsabilidade com clientes.
+- Pesquisa de mercado pode pagar mais que entrada de dados, mas briefs exigem rigor, fonte, links válidos e, por vezes, inglês, HTML e domínio de marketplaces.
+- Gestão de afiliados e prospecção B2B têm escopo recorrente e risco maior; não são entregas simples de uma pessoa sem portfólio.
+- Pedidos cancelados/encerrados são evidência histórica de problema, não lead atual nem garantia de compra.
+- Plataformas de freelancer são apenas um canal; propostas e interessados não equivalem a pagamentos realizados.
+
+## 15. Priorização de investigação (não decisão comercial)
+1. Pesquisa operacional de nicho com entregável delimitado (ex.: comparação de concorrentes/preços com fontes e planilha) — sinal de compra mais explícito e menor necessidade de software próprio; exige demonstrar qualidade.
+2. Organização de dados/documentos em lote pequeno e bem definido — fácil de explicar, mas muito concorrido e sujeito a pressão de preço.
+3. Preparação de respostas/FAQ e organização de pedidos para WhatsApp — demanda observada, porém suporte contínuo pode exigir disponibilidade incompatível.
+4. Cadastro de catálogo — investigar projetos atuais e ferramentas/canais; validar precisão e acesso.
+5. Conteúdo/vídeo — demanda presente, mas portfólio, edição e diferenciação são barreiras.
+6. Afiliados/prospecção B2B — manter no mapa; não priorizar para a meta imediata sem validar competências, escopo e risco.
+
+**Status da fase 02:** PARCIAL / IN_PROGRESS. Há clusters e linguagem de compra identificados; faltam amostra maior, canais diretos fora de marketplaces, validação de preços líquidos, prazo de pagamento e prova de capacidade de entrega.
