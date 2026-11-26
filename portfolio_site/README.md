@@ -1,11 +1,12 @@
 # Portfolio site — fonte Markdown
 
-Este diretório contém a fonte do site demonstrativo do Kamikaze. O conteúdo é escrito em Markdown; o MkDocs apenas o transforma em HTML estático.
+Este diretório contém a fonte do site demonstrativo do Kamikaze. O conteúdo é escrito em Markdown; o MkDocs o transforma em HTML estático.
 
 ## Como funciona
-- Configuração: `../../mkdocs.yml` (na raiz do repositório).
+- Configuração: [mkdocs.yml](../mkdocs.yml), na raiz do repositório.
+- Dependências: [requirements-docs.txt](../requirements-docs.txt).
 - Conteúdo: `docs/*.md`.
-- Build local: `pip install -r ../../requirements-docs.txt` e depois `mkdocs build --strict` a partir da raiz.
+- Build local: instalar as dependências e executar `mkdocs build --strict` a partir da raiz.
 - Saída: `site/` (gerada; não editar manualmente).
 
 ## Governança
