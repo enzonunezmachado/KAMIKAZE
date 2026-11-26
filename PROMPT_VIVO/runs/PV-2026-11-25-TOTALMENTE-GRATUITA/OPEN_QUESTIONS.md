@@ -21,26 +21,40 @@
 14. Qual a realidade da monetização de conteúdo curto para conta pequena?
 15. Quais serviços têm riscos de confiança, manutenção, integração ou privacidade?
 
-Pendências: investigar comunidades brasileiras e Reddit original; abrir fontes primárias; validar preços/limites; separar missão de curto prazo de modelos de longo prazo.
+## Questões transferidas da Fase 02
+16. Como se diferenciar em tarefas de entrada de dados quando um projeto recebe centenas de propostas?
+17. Quais serviços podem ser vendidos por indicação/contato direto sem depender de marketplace saturado?
+18. Qual o prazo real de aprovação e saque de cada plataforma?
+19. O que o usuário consegue entregar com qualidade em planilhas, documentos e pesquisa?
+20. Quais alternativas de pagamento podem gerar tarifa comercial?
+21. Há pedidos recentes de pesquisa de mercado com orçamento final conhecido?
+22. Que pesquisa pode ser entregue em 24–48h com links conferidos e escopo controlado?
+23. Como alcançar compradores sem spam: comunidades com pedidos explícitos, indicação, parceria e demonstração pública?
+24. É possível demonstrar pesquisa com dados públicos sem alegar case de cliente?
 
+## Perguntas centrais da Fase 03 — validação do serviço
+25. Quem paga por pesquisa de mercado enxuta: lojista, prestador local, seller, agência, consultor ou empreendedor em fase de decisão?
+26. Qual decisão urgente faz a pesquisa valer dinheiro?
+27. Quais escopos têm preço e prazo aceitáveis sem exigir expertise que ainda não foi demonstrada?
+28. Como provar qualidade e confiança sem avaliações ou histórico de clientes?
+29. Quais concorrentes têm avaliações verificáveis e evidência pública de pedidos concluídos?
+30. Há canais de aquisição em que o comprador procura diretamente um especialista ou pede indicação, sem disputa massiva?
+31. Qual preço líquido e prazo de recebimento cabem na meta de R$150 até 06/12?
 
-## Novas perguntas após lote 2
-16. Como se diferenciar em tarefas de entrada de dados quando um único projeto recebe centenas de propostas?
-17. Quais serviços digitais podem ser vendidos por indicação/contato direto sem depender de marketplace saturado?
-18. Qual é o prazo real de aprovação e saque de cada plataforma para projeto pequeno?
-19. O que exatamente o usuário consegue entregar com qualidade em planilhas, documentos, edição e pesquisa? Validar por mini teste antes de ofertar.
-20. Quais alternativas de pagamento pessoa física podem gerar tarifa quando usadas comercialmente? Conferir o banco e as regras vigentes.
-21. Há uma forma de monetizar conteúdo em prazo curto sem audiência? A evidência atual sugere que não via programa de anúncios.
+## Perguntas centrais da Fase 03 — validação do produto recorrente
+32. Que informação um pequeno negócio precisa monitorar toda semana/mês?
+33. O que muda com frequência suficiente para justificar assinatura?
+34. Quais ferramentas gratuitas já cobrem alertas e tendências? Qual trabalho manual sobra?
+35. Compradores pagariam por histórico, comparação e interpretação, em vez de usar Google Alerts/Trends ou IA genérica?
+36. Que segmento tem fontes públicas acessíveis e decisões repetidas?
+37. Como desenhar MVP manual/concierge sem construir software?
+38. Qual frequência realista de atualização e custo humano/IA por cliente?
+39. Quais dados são instáveis, incompletos ou não permitidos para coleta automatizada?
 
-## Perguntas novas da PHASE_02_DEMAND
-22. Quais pedidos de pesquisa de mercado estão realmente ativos e qual o orçamento final, não apenas mínimo?
-23. Que tipo de pesquisa pode ser entregue em 24–48h com links conferidos e escopo controlado?
-24. Quais nichos de pequenos negócios têm problemas repetidos de catálogo, pedidos, documentos e informação?
-25. Como alcançar compradores fora de plataformas sem spam: comunidades com pedidos explícitos, indicações, parcerias e conteúdo de demonstração?
-26. Qual serviço pode ser demonstrado com uma amostra pública sem usar dados de terceiros nem fingir case?
-27. Quais trabalhos exigem disponibilidade síncrona, inglês, portfólio, softwares pagos ou expertise que tornam inviável a entrada imediata?
-28. Como estimar o valor líquido depois da comissão e do prazo de liberação de cada plataforma?
-29. Há demanda pagante para preparar e organizar materiais de clientes antes de edição/criação, ou a dor é apenas do prestador?
-30. Quais requisitos mínimos de portfólio/case são pedidos em projetos de vídeo e conteúdo?
-31. Quais comunidades permitem pedidos e respostas comerciais sem violar regras locais?
-32. É possível demonstrar serviço de pesquisa com amostra pública e rastreável, sem experiência anterior alegada?
+## Aquisição e experimento
+40. Quais canais podem alcançar potenciais compradores sem spam, anúncios, proposta em massa ou trabalho gratuito?
+41. Qual demonstração pública útil pode gerar inbound ou indicação sem simular cliente?
+42. O que conta como evidência forte: pagamento, pré-venda, pedido explícito, reunião com orçamento, resposta positiva ou só curiosidade?
+43. Quais resultados encerrariam a hipótese?
+
+Pendências: concluir pesquisa de concorrência, encontrar evidência de compra, validar canais e capacidade; nenhuma ação externa autorizada.
