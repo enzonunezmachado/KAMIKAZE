@@ -100,3 +100,9 @@ O objetivo específico será fornecido pelo usuário na mensagem que acompanha e
 
 ### Regra de comunicação — pesquisa consolidada
 Execute pesquisas em fluxo contínuo e consolidado. Não envie ao usuário atualizações pequenas após cada subpesquisa. Faça planejamento, buscas paralelas, validação cruzada, avaliação econômica e atualização documental antes de apresentar o resultado. Entregue uma única síntese organizada ao concluir a rodada, exceto quando houver decisão/consentimento necessário, risco urgente ou pedido explícito de acompanhamento. Não exponha cadeia de pensamento privada; apresente método resumido, evidências, fontes, incertezas e decisões.
+
+
+## Regra obrigatória — continuidade e histórico entre sessões
+Antes de retomar, leia `PROMPT_VIVO/CONTINUITY_SYSTEM.md` e execute `BOOTSTRAP.md`. O sistema de continuidade define os logs globais e por execução, o estado canônico, o checkpoint e o texto pronto para novo chat em `NEXT_CHAT_PROMPT.md`.
+
+Durante o trabalho, registre cada lote relevante e decisão. Antes de encerrar, trocar de chat ou perceber limite de contexto, execute o checkpoint completo: fontes, achados, questões abertas, controlador, estado, handoff, resume packet, operations/STATE e logs. A gravação só é considerada concluída após confirmação do GitHub. Novo chat deve reconstruir e auditar o contexto e continuar a pesquisa automaticamente, sem pedir repetição de informações nem reiniciar trabalho concluído.
