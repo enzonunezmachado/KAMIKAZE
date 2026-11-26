@@ -31,3 +31,13 @@ CONTINUE. Não aprovar segmento nem iniciar PHASE_04.
 - Serasa: 52,7% PMEs sem plano de ampliar equipe; somente 3,3% das PMEs pesquisadas citam freelancers entre as modalidades de expansão. Não é medição de compra avulsa, mas alerta contra prospecção genérica.
 - Confiança: avaliações, portfólio, comunicação e cumprimento de prazo importam; grandes empresas têm processo mais formal.
 - Gate permanece CONTINUE. Próximo: aquisição sem marketplace, prova demonstrável, preço/tempo efetivos e evidência de recompra.
+
+
+## Rodada 20 — 26/11/2026
+- Criada PHASE_03.3 como subfase da PHASE_03.2, com foco em community-led acquisition e inteligência de conversão.
+- Concorrência direta relevante: Scoutly a R$27,90/mês (alegações não auditadas) e Workaholic open-source gratuito com agregação multi-plataforma, score, alertas e CRM.
+- Alertas nativos já existem no Upwork e 99Freelas.
+- Dor de freelancers aparece em relatos comunitários, mas não há evidência de disposição a pagar por um diferencial específico.
+- Aquisição comunitária é potencialmente viável, mas há comunidades que proíbem vendas/DMs/pesquisas fora dos canais permitidos.
+- Próximo: buscar avaliações independentes, reclamações, limitações e falhas dos concorrentes; identificar nichos onde análise de orçamento/esforço/fit e dados do cliente ainda não sejam bem atendidos; mapear comunidades específicas e suas regras.
+- Gate: CONTINUE. PHASE_04 não inicia. Nenhuma ação externa realizada.
