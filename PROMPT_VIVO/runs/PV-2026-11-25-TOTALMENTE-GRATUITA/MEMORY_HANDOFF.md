@@ -124,3 +124,9 @@ OneForma payment policy has a contradiction (S130): homepage says no minimum pay
 - uTest tem projetos PT-BR, mas os anúncios encontrados não constituem uma tarefa segura/confirmada com pagamento imediato: Greenbox tinha início passado; projeto ID verification exige documento oficial retido até 12 meses e não publica remuneração.
 - Pagamento uTest é semimensal por PayPal/Payoneer/Wise conforme disponibilidade regional, sem volume garantido.
 - Próximo passo: procurar projeto uTest PT-BR com data futura, remuneração clara e sem dados sensíveis; manter PHASE_03.1 em CONTINUE.
+
+
+## Rodada 15 — handoff (25/11/2026)
+A pesquisa em fluxo contínuo encontrou a Hub Data como alternativa potencial de renda curta: página oficial informa US$5/h residencial e US$6/h no trabalho por hora aprovada, conversão indicativa R$25/R$30, Pix instantâneo após crédito, kit gratuito, 18+ e cobertura Américas (S147). Porém o usuário cederia direitos sobre gravações, que podem ser licenciadas; gravações já licenciadas não podem ser retiradas. Termos integrais oficiais não abriram; privacidade é gate, assim como compatibilidade do celular e disponibilidade de tarefas (S148–S150). Não criar conta/gravar sem autorização.
+YPAI fechada, CSL com prazo prioritário vencido, OneForma China-only, OpenTrain sem payout Brasil. 99Freelas continua com forte competição e escopo de pesquisa intermediário.
+Manter PHASE_03.1 CONTINUE e PHASE_04 QUEUED/NOT_STARTED. Próxima ação: continuar busca por payout rápido e baixo risco, sem abandonar pergunta original de compra/canais para inteligência comercial.
