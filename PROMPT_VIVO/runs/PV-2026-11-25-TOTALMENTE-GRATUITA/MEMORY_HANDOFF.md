@@ -136,3 +136,11 @@ Manter PHASE_03.1 CONTINUE e PHASE_04 QUEUED/NOT_STARTED. Próxima ação: conti
 O usuário rejeitou Hub Data: não quer gravar rotina doméstica para treinamento de IA. Não insistir. Aceita criar vídeos voluntariamente, mas manhua reading não foi priorizada: YouTube não monetiza leituras exclusivas de materiais de terceiros e Lei 9.610 protege textos/desenhos; voz própria ou IA não resolve copyright/reused content. Um canal precisa 1.000 inscritos + 4.000h ou 10M Shorts para receita de anúncios (S154–S156).
 O usuário pediu relatório intermediário honesto sobre oportunidades e competitividade, mantendo busca online. A evidência sugere que oportunidades existem, mas serviços genéricos (landing pages) têm competição forte; há lacunas potenciais em operações de WhatsApp, precificação/caixa/vendas, CRM leve, pesquisa B2B, PDF/Excel, QA e produção de conteúdo original. Dados macro Sebrae/Cetic e tendências Upwork/Fiverr sustentam hipóteses, não compra garantida (S157–S166).
 Preferência de comunicação: pesquisa orgânica em fluxo contínuo, sem enviar microdescobertas; entregar relatório consolidado. PHASE_03.1 continua ativa, PHASE_04 aguardando.
+
+
+## Handoff — PA-019 / PHASE_03.2 (25/11/2026)
+- O usuário quer que a pesquisa considere todos os públicos com os quais possa aprender a trabalhar: B2C, profissionais independentes, MEIs/pequenos negócios e empresas estruturadas. Não selecionar público por suposição; comparar barreiras de confiança, canais, ticket, ciclo, capacidade e recorrência.
+- Exemplos de site + manutenção e pesquisa recorrente são hipóteses do usuário, não ofertas aprovadas. Não assumir que R$50/mês é preço viável nem que manutenção exige pouco trabalho.
+- PHASE_03.1 foi pausada, não encerrada; faltava segmentação de compradores. PHASE_03.2 é a fase ativa.
+- Rodada 17 S175–S185: dados B2C e pequenos negócios + projetos concretos de cardápio/site/manutenção/pesquisa. Intenção é clara em alguns casos, mas marketplace extremamente competitivo; manutenção recorrente aparece como pedido, sem prova de renovação. Profissionais independentes e empresas estruturadas ainda não pesquisados o suficiente.
+- Não iniciar PHASE_04. Nenhum contato/proposta/publicação/cadastro/gasto autorizado. Continuar pesquisa consolidada, não enviar microatualizações.
