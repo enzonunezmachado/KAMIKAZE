@@ -56,3 +56,7 @@ A investigação de plataformas de tarefas para IA encontrou Prolific (Brasil el
 ## Atualização do controlador — Rodada 8 (S105–S115)
 A auditoria identificou divergências entre indexadores e status oficial: YPAI está fechada; OpenTrain não paga freelancers no Brasil; CSL tem um projeto anunciado com janela inicial já passada e possível futuro lote; Babel não confirma taxa/eligibilidade local e exclui explicitamente o Brasil em outra vaga; pesquisa Lionbridge exige dispositivo não Android. A vaga Fera está recente, mas sem remuneração/volume.
 **Decisão:** CONTINUE_PHASE. A próxima ação é verificar oportunidade atual de novo lote CSL, condições de consentimento e pagamento, pagamento/volume Lionbridge e termos locais Babel; paralelamente, avaliar o escopo e remuneração da vaga Fera sem contatar o anunciante. Não iniciar Fase 04 nem realizar candidaturas/contatos sem aprovação.
+
+
+## Atualização do controlador — Rodada 9 (S116–S119)
+A pesquisa encontrou RWS Search Evaluator (até US$6/h, sem experiência prévia, mas inglês fluente e 5h/semana), TELUS (US$5/h estimados, inglês profissional e residência 3–5 anos), Welo Junior Quality Coordinator (20h/semana, inglês forte, remuneração não divulgada) e Clickworker (pagamento semanal, mas método e registro no Brasil variam por conta). A próxima decisão exige verificar inglês real, residência e disponibilidade do usuário, além de confirmar pagamento e carga. Não presumir esses requisitos. Manter CONTINUE_PHASE e PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura ou conta criada.
