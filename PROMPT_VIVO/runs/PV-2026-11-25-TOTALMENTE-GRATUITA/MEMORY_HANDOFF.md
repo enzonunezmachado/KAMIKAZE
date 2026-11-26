@@ -144,3 +144,10 @@ Preferência de comunicação: pesquisa orgânica em fluxo contínuo, sem enviar
 - PHASE_03.1 foi pausada, não encerrada; faltava segmentação de compradores. PHASE_03.2 é a fase ativa.
 - Rodada 17 S175–S185: dados B2C e pequenos negócios + projetos concretos de cardápio/site/manutenção/pesquisa. Intenção é clara em alguns casos, mas marketplace extremamente competitivo; manutenção recorrente aparece como pedido, sem prova de renovação. Profissionais independentes e empresas estruturadas ainda não pesquisados o suficiente.
 - Não iniciar PHASE_04. Nenhum contato/proposta/publicação/cadastro/gasto autorizado. Continuar pesquisa consolidada, não enviar microatualizações.
+
+
+## Rodada 18 — S186–S196
+- Assistência virtual/organização tem demanda declarada, mas leilões genéricos com centenas de propostas; não usar como rota principal de aquisição.
+- Agências podem contratar apoio operacional recorrente quando fornecem estratégia e materiais; hipótese de canal intermediário com melhor encaixe, mas exige confiabilidade, comunicação, ferramentas e prazos.
+- PMEs estão cautelosas e não devem ser presumidas como compradoras fáceis; grandes empresas têm barreiras formais.
+- Próxima etapa: validar aquisição sem marketplace, prova demonstrável, preço/tempo e renovação.
