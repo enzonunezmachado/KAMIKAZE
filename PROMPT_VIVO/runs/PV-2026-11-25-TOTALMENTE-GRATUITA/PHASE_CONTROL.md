@@ -166,3 +166,7 @@ O usuário corrigiu a interpretação de métricas de audiência: views são sin
 
 ## Atualização do controlador — Rodada 29 (26/11/2026)
 O usuário acrescentou hipótese de aquisição por relacionamento: apresentar a solução a profissionais relevantes, obter opinião honesta e, quando não houver fit, solicitar uma introdução voluntária a alguém que possa se beneficiar. Operação deve ser transparente quanto à comissão, sem pressão emocional, sem pedir dados de terceiros sem consentimento; preferir mensagem encaminhável/introdução consentida. Também pediu pesquisa de automações open source no GitHub. S394–S398 analisam Affitor affiliate-skills, OpenAffiliate, Postiz, n8n TikTok generator e eduubrz affiliate-platform. Prioridade de estudo: Affitor skills + OpenAffiliate; Postiz futuro; workflow n8n como padrão; eduubrz não adotar. Nenhum repo instalado/executado e nenhuma ação externa. PHASE_03.5 permanece IN_PROGRESS; PHASE_04 não iniciada.
+
+
+### Complemento Rodada 29 — triagem de automações adicionais
+S399–S401 adicionados: workflow n8n com buffer de revisão/approval/logging é padrão útil; pipeline de 1.000 artigos/semana é rejeitado; automação social com Puppeteer exige auditoria e não será usada por ora. TARA BOT não tem função afiliada pronta. Próxima etapa deve inspecionar skills individuais do Affitor e comparar com nosso Prompt Vivo, sem instalar/executar nada.
