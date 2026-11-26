@@ -1,7 +1,7 @@
 # Estado operacional — Kamikaze
 
 **Última atualização:** 25/11/2026  
-**Fase:** primeira execução Prompt Vivo em andamento — TOTALMENTE GRATUITA  
+**Fase:** PHASE_03_VALIDATION — primeira rodada de validação em andamento  
 **Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
 **Capital inicial:** R$ 0  
 **Receita recebida no Kamikaze:** R$ 0  
@@ -26,6 +26,9 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Não pagar ferramentas, APIs, hospedagem ou anúncios sem autorização explícita.
 - Não presumir acesso ao ChatGPT Plus ou execução ilimitada de agentes.
 - NEXUS e ATLAS permanecem projetos separados.
+- Pesquisa de mercado/concorrência passa a ser uma hipótese prioritária de validação, não uma escolha definitiva.
+- Investigar também a hipótese de um produto de monitoramento recorrente com IA; não prometer pesquisa literalmente infinita nem construir antes de validar pagamento.
+- Não priorizar leilões de propostas em que dezenas de freelancers disputam um único comprador. Planilhas rápidas ficam como comparador apenas se houver comprador/canal e pagamento claros.
 
 ## Recursos operacionais disponíveis
 
@@ -37,30 +40,22 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 
 ## Sistema Prompt Vivo
 
-- Arquitetura inicial criada em [`PROMPT_VIVO/`](../PROMPT_VIVO/README.md).
-- Master Prompt para iniciar ou retomar execuções: [`PROMPT_VIVO/MASTER_PROMPT.md`](../PROMPT_VIVO/MASTER_PROMPT.md).
+- Arquitetura inicial criada em [PROMPT_VIVO/README.md](../PROMPT_VIVO/README.md).
+- Master Prompt para iniciar ou retomar execuções: [PROMPT_VIVO/MASTER_PROMPT.md](../PROMPT_VIVO/MASTER_PROMPT.md).
 - Protocolo, método de pesquisa, padrão de evidências, auditoria de qualidade e autoaperfeiçoamento documentados.
-- PHASE_00–PHASE_05 são modelos iniciais; o Prompt Vivo agora tem arquitetura adaptativa para adicionar, modificar, dividir, mesclar, reordenar, pular ou reabrir fases conforme evidências. Cada pesquisa concreta mantém sua própria pasta em `PROMPT_VIVO/runs/` e um `PHASE_ARCHITECTURE.md`.
-- Primeira execução real iniciada: escopo e landscape concluídos com PASS WITH GAPS; mineração de demanda em andamento. O fluxo completo ainda não foi testado até a síntese final.
-
-## O que já existe no repositório
-
-- Brief e princípios de validação.
-- Skills para pesquisa ampla e operação de oportunidades com custo zero.
-- Auditorias de ferramentas e repositórios de pesquisa.
-- Pesquisa exploratória em comunidades diversas (lotes 001 e 002).
-- Pesquisa de casos e aprendizados de monetização.
-- Pesquisa sobre ferramentas e agentes gratuitos.
-- Banco de oportunidades, agora limpo e sem uma hipótese pré-selecionada.
-
-Esses materiais são insumos de pesquisa, não validação de negócio. Relatos de fóruns e preços publicados não comprovam faturamento nem tamanho de mercado.
+- PHASE_00–PHASE_05 são modelos iniciais; arquitetura adaptativa permite adicionar, modificar, dividir, mesclar, reordenar, pular ou reabrir fases conforme evidências.
+- Primeira execução real: PHASE_00 e PHASE_01 concluídas; PHASE_02 encerrada para transição com PASS WITH GAPS por decisão explícita do usuário; PHASE_03_VALIDATION em andamento.
+- GitHub guarda a memória operacional, evidências e handoffs.
 
 ## Execução Prompt Vivo ativa
 
 - ID: [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_STATE.md).
 - Objetivo: pesquisar oportunidades digitais e monetização com IA sob custo monetário zero.
-- Estado: PHASE_00_SCOPE e PHASE_01_LANDSCAPE concluídas (PASS WITH GAPS); PHASE_02_DEMAND em andamento, com sete clusters mapeados e checkpoint parcial.
-- Arquitetura adaptativa: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md). Mapa de demanda: [DEMAND_MAP.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/DEMAND_MAP.md). Política de cotas: [RESOURCE_BUDGET_POLICY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESOURCE_BUDGET_POLICY.md), com teto planejado de 60%, reserva de 30% para recuperação e 10% para incerteza; meta de 90% tratada como objetivo operacional, não garantia.
+- Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
+- Mapa de demanda: [DEMAND_MAP.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/DEMAND_MAP.md).
+- Matriz de validação: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
+- Checkpoint da Fase 03: [PHASE_03_VALIDATION_CHECKPOINT.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_03_VALIDATION_CHECKPOINT.md).
+- Política de cotas: [RESOURCE_BUDGET_POLICY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESOURCE_BUDGET_POLICY.md), com teto planejado de 60%, reserva de 30% para recuperação e 10% para incerteza; quota atual permanece opaca.
 
 ## O que ainda não foi feito
 
@@ -68,15 +63,15 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 - Nenhum comprador foi entrevistado para uma oferta Kamikaze.
 - Nenhuma venda ou receita foi registrada.
 - Nenhum agente/ferramenta de pesquisa foi instalado ou testado como operação contínua.
-- Nenhum fluxo de produção ou distribuição foi validado.
+- Nenhum fluxo de produção, aquisição ou distribuição foi validado.
 
 ## Próxima sequência recomendada
 
-1. Continuar PHASE_02_DEMAND: pedidos recentes, comunidades e canais diretos.
-2. Investigar preço líquido, comissões, prazo de recebimento e capacidade real de entrega.
-3. Aplicar o gate da Fase 02; adaptar fases seguintes somente se houver ganho real.
-4. Validar poucas candidatas e escolher um teste comercial sem gasto antecipado.
-5. Obter aprovação humana antes de qualquer abordagem, publicação ou proposta.
+1. Continuar PHASE_03_VALIDATION: buscar evidência de compra e reviews, validar compradores e dor recorrente, mapear aquisição direta sem spam e leilão de propostas.
+2. Comparar serviço de inteligência comercial, produto de monitoramento recorrente e entrega rápida de planilhas como hipótese secundária.
+3. Testar capacidade com uma amostra demonstrativa pública, sem alegar case e sem usar dados privados.
+4. Estimar preço líquido, esforço, taxas e prazo de recebimento.
+5. Só então desenhar um piloto comercial; obter aprovação humana antes de qualquer abordagem, publicação ou proposta.
 6. Atualizar este arquivo após cada decisão ou resultado verificável.
 
 ## Regras de aprovação
@@ -96,6 +91,5 @@ Esses materiais são insumos de pesquisa, não validação de negócio. Relatos 
 | 25/11/2026 | Retirar lista de estabelecimentos e experimento associado | Eram derivados de uma hipótese rejeitada |
 | 25/11/2026 | Meta imediata atualizada para R$ 150 até 06/12/2026 | Meta financeira corrigida pelo usuário |
 | 25/11/2026 | Retomar pesquisa ampla de modelos digitais e usos comerciais de IA | Não escolher nicho ou modelo antes da investigação |
-
 | 25/11/2026 | Adotar arquitetura adaptativa de fases no Prompt Vivo | O processo precisa criar/modificar etapas quando a evidência exigir, sem criar burocracia |
-| 25/11/2026 | Iniciar PHASE_02_DEMAND da run TOTALMENTE GRATUITA | Landscape suficiente para mapear pedidos e problemas reais; sete clusters iniciais registrados |
+| 25/11/2026 | Encerrar PHASE_02 com PASS WITH GAPS e iniciar PHASE_03_VALIDATION | Usuário autorizou avançar e priorizar validação de pesquisa de mercado como serviço e produto recorrente assistido por IA |
