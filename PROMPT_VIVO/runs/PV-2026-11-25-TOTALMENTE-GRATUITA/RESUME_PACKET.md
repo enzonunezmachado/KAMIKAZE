@@ -336,3 +336,10 @@ S402 e `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md` documentam audit
 **Expansão central:** o MAK tem duas trilhas: comercial (intenção, compra, payout) e relacional (valor, confiança, conexão consentida, presença útil, lembrança futura, retorno/introdução/compra). Uma pessoa pode não comprar nem indicar agora e ainda assim ter uma experiência positiva que gere lembrança legítima no futuro.
 Limitações do Affitor e decisões de não copiar heurísticas, métricas proxy, claims de viralização, case studies não verificados, recomendações FTC sem adaptação brasileira e automação autônoma foram registradas no documento de estudo.
 Nenhum código foi instalado/executado/importado e nenhuma ação externa foi realizada. PHASE_03.5 e PHASE_03.4 continuam IN_PROGRESS; PHASE_04 não começou.
+
+
+## Atualização — auditoria Affitor e governança do MAK (2026-11-26)
+- Novo documento: `knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md`.
+- Contagem confirmada em snapshot Affitor main: 53 skills canônicas, 53 entradas registry, 8 estágios; README 52 está desatualizado e changelog 50 é histórico.
+- Regras adicionadas: classes de evidência para métricas, distinção política/heurística, níveis de confiança de casos, disclosure brasileiro e bloqueios para urgência/bônus/garantias sem sustentação.
+- Fontes S403–S413.
