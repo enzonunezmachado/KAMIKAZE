@@ -1,8 +1,8 @@
-# Checkpoint parcial — PHASE 02: Mineração de demanda
+# Checkpoint — PHASE 02: Mineração de demanda
 
 **Data:** 2026-11-25  
-**Estado:** IN_PROGRESS — lote 1 concluído, fase não encerrada  
-**Gate provisório:** PASS WITH GAPS para continuar aprofundando; não avançar ainda para validação final.
+**Estado:** CLOSED_FOR_TRANSITION — encerrada para priorização por decisão explícita do usuário  
+**Gate:** PASS WITH GAPS. Este encerramento não significa que todas as lacunas foram resolvidas.
 
 ## O que foi pesquisado
 Pedidos públicos em 99Freelas e categorias de projetos Freelancer.com.br. Foram abertas páginas de projetos de organização de planilhas, relatórios, automação de Excel, atendimento WhatsApp, posts para Instagram, cadastro de produtos, pesquisa de concorrentes e listagens de projetos de vídeo/atendimento.
@@ -29,12 +29,16 @@ S029–S044 no SOURCE_LEDGER.md. Inclui páginas de projetos freelancer e posts 
 - Projetos cancelados não provam contratação nem oportunidade atual.
 - Propostas/interessados não equivalem a receita.
 
-## Lacunas
+## Lacunas transferidas para PHASE_03_VALIDATION
 - Canais de aquisição direta sem spam.
 - Preço líquido e prazo de pagamento real.
 - Pedidos recentes fora dos marketplaces.
 - Capacidade prática de produzir cada entrega com qualidade.
 - Amostra ainda limitada e concentrada em plataformas de freelancers.
+- Evidência de compra concluída e disposição a pagar por pesquisa comercial.
+- Recorrência da dor e disposição a pagar por monitoramento contínuo.
 
-## Decisão
-Manter PHASE_02_DEMAND aberta. Não criar fase nova: os sete clusters cabem na fase atual. Próximo lote deve aprofundar demandas recentes, canais diretos e esforço de entrega. Nenhum contato ou proposta foi enviado.
+## Decisão de transição
+O usuário solicitou explicitamente avançar para a Fase 03 e investigar pesquisa de mercado como serviço e como possível produto recorrente com IA. A Fase 02 foi encerrada para priorização com PASS WITH GAPS; suas lacunas foram transferidas, sem serem consideradas respondidas. A Fase 03 foi adaptada para validar serviço de inteligência comercial e sistema de monitoramento recorrente, mantendo planilhas rápidas apenas como comparador secundário.
+
+Nenhum contato, proposta ou teste externo foi enviado. Nenhuma venda ou gasto ocorreu.
