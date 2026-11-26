@@ -122,3 +122,10 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Interpretação:** criar uma estrutura documental própria, com registro mestre e IDs únicos, snapshots imutáveis por lote, dossiês individuais, taxonomia de status multidimensional, histórico de contato/permissão/supressão, projetos, contratos recorrentes e ledger financeiro.
 **Aplicado:** criada a estrutura `operations/COMPANY_SOLUTIONS/`, com templates e playbooks. Dois rankings separados (Conversion Fit e Business Value Fit), score heurístico com confidence/coverage e gates de elegibilidade. Regras de deduplicação, reavaliação, opt-out, protótipos e aceites.
 **Limites:** documentação criada, mas módulo não ativado; nenhuma empresa inserida, pesquisa de lote, contato, protótipo específico, proposta, venda, contrato, deploy ou gasto realizado. Orçamento operacional permanece R$0.
+
+
+## 2026-11-26 — atualização automática do ponteiro de trabalho
+**Entrada:** o usuário pediu que a atualização do projeto aponte automaticamente para a última linha/entrega desenvolvida ou atualizada.
+**Interpretação:** instituir um ponteiro canônico único, atualizado em cada checkpoint substantivo, e fazer bootstrap, prompt de novo chat e estado operacional consultarem esse ponteiro em vez de manterem focos independentes.
+**Aplicado:** criado `PROMPT_VIVO/CURRENT_WORK.md`; atualizados BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT e operations/STATE. O ponteiro distingue última entrega substantiva da fase principal de pesquisa.
+**Limite técnico:** a atualização é automática como regra obrigatória do fluxo de checkpoint durante uma sessão ativa; não há execução em segundo plano depois que o chat termina. A gravação só é considerada concluída após confirmação do GitHub.
