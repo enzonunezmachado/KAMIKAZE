@@ -19,7 +19,7 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Pesquisa de mercado/concorrência é hipótese prioritária em investigação, não escolha definitiva.
 - O usuário autorizou um controlador adaptativo: toda solicitação de continuidade exige auditoria de completude; não avançar mecanicamente.
 - Comentários, correções e novas preferências do usuário podem alterar a pesquisa e a próxima ação; registrar em USER_INPUT_LOG.md.
-- O responsável está começando e não tem experiência profissional prévia nas áreas pesquisadas: avaliar capacidade real, curva de aprendizagem, credibilidade honesta, reuniões/postura, riscos e requisitos legais/idade; nunca sugerir fingir experiência.
+- O responsável tem 18 anos. Não aplicar restrições de menoridade. Está construindo experiência profissional, mas afirma ter capacidade e disposição para aprender e executar o necessário; avaliar tarefas concretas, sem presumir incapacidade nem descartar oportunidades apenas por falta de histórico. Manter transparência sobre experiência real.
 - O usuário autorizou pesquisa mais aprofundada, sem pressa artificial: triangular fontes, buscar contraprovas e seguir perguntas decisivas até saturação ou checkpoint.
 - Para novo chat, executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md antes de continuar.
 - PHASE_03.1 está em andamento porque a Fase 03 deixou lacunas críticas. PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED, não executada.
@@ -96,5 +96,6 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - S076/S085/S086: pesquisa e networking/indicação são canais gerais relevantes, mas não provam conversão para a oferta; jornada de decisão MEI pode levar ~2 meses.
 - S077/S078: IA em marketing já é comum; pequenos negócios concentram operação digital em uma pessoa, mas isso não prova terceirização.
 - S079/S080: serviços de cadastro de catálogo têm demanda anunciada e concorrência extrema (132–181 propostas); não priorizar marketplace.
-- Elegibilidade aos 16 é dependência real: Workana/Upwork exigem 18; Fiverr só via conta de responsável; MEI 16–18 requer emancipação segundo manual oficial. Não contornar termos nem assumir elegibilidade. Nenhum contato ou venda.
+- A análise anterior de elegibilidade aos 16 foi baseada em premissa incorreta e está superada: idade atual informada pelo usuário é 18 anos. Reavaliar Workana/Upwork e outras plataformas sob a idade correta, respeitando os demais termos.
 - PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
+\n\n## Correção de perfil — 25/11/2026\n- Idade atual informada: **18 anos**. A referência anterior a 16 anos está superada.\n- O usuário afirma ter capacidade e disposição para aprender e desempenhar as tarefas necessárias. Avaliar por tarefa, sem confundir falta de experiência profissional com incapacidade.\n- Manter honestidade sobre experiência, portfólio e credenciais; reavaliar plataformas com idade mínima de 18 anos.
