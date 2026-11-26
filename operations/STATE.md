@@ -190,3 +190,14 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Limitações e práticas não adotadas do Affitor registradas: heurísticas desatualizáveis, proxies de engajamento, FTC como referência não suficiente para Brasil, case studies não corroborados e claims aspiracionais.
 - Nenhum código instalado/executado/importado, nenhuma conta, publicação, contato ou gasto.
 - Estado das fases: PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Sistema de continuidade — atualização 2026-11-26
+- **Protocolo obrigatório:** [PROMPT_VIVO/CONTINUITY_SYSTEM.md](../PROMPT_VIVO/CONTINUITY_SYSTEM.md).
+- **Prompt pronto para novo chat:** [PROMPT_VIVO/NEXT_CHAT_PROMPT.md](../PROMPT_VIVO/NEXT_CHAT_PROMPT.md).
+- **Histórico global append-only:** [PROMPT_VIVO/SESSION_LOG.md](../PROMPT_VIVO/SESSION_LOG.md).
+- **Log da execução ativa:** [SESSION_LOG.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/SESSION_LOG.md).
+- Novo chat deve executar BOOTSTRAP, identificar esta execução pelo STATE, ler RESUME_PACKET e logs, auditar divergências e continuar a pesquisa.
+- Em cada checkpoint sincronizar RUN_STATE, PHASE_CONTROL, PHASE_ARCHITECTURE, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG e este arquivo; registrar eventos nos logs.
+- Limite técnico: não há execução em segundo plano. A persistência deve ocorrer durante a sessão, e só é confirmada após resposta positiva do GitHub.
+- **Estado das frentes (2026-11-26):** PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
