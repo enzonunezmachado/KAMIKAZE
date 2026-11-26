@@ -574,3 +574,11 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - **S397 n8n TikTok Affiliate Promo Generator:** workflow de geração de scripts/captions/hashtags a partir de planilha e envio de notificação; Taglish, teste limitado a 3 produtos; útil como padrão de pipeline, sem prova de vendas.
 - **S398 eduubrz affiliate-platform:** projeto brasileiro com IA/WhatsApp/analytics, mas README diz não estar em desenvolvimento ativo; stack pesada e APIs oficiais pendentes. Não adotar.
 - **Decisão:** estudar e adaptar ideias do Affitor skills e OpenAffiliate; Postiz apenas se a operação multicanal crescer; workflow n8n como referência. Nada instalado/executado. Nenhum contato, pedido de indicação ou publicação realizado.
+
+
+### Complemento GitHub — S399–S401
+- SankeerthBoddu/n8n-marketing-workflows é referência útil para o MAK: gerar rascunhos específicos por rede, colocar em buffer no Sheets, exigir aprovação humana e registrar IDs/resultados. O próprio autor informa que os fluxos são rascunhos para teste, não produção comprovada.
+- signalreason/affiliate-content-automation tem pipeline de SEO/afiliados com clusters, landing pages e A/B, mas propõe 1.000 artigos por semana e arquitetura Go/Redis/Postgres/Next; rejeitado como base inicial por custo/complexidade e risco de conteúdo massivo sem valor.
+- AshmithaRajadurai/agentic-ai-social-media-manager usa n8n/Gemini e publicação via Graph API/Puppeteer; não adotar sem auditoria de políticas e confiabilidade.
+- TARA BOT não é ferramenta de afiliados operacional: seu template de afiliado consta como futuro.
+- Padrão técnico a reter: **IA prepara → humano revisa → publicação autorizada → métricas registradas → aprendizado**. Automação não deve inventar depoimentos, publicar sem revisão ou mandar mensagens em massa.
