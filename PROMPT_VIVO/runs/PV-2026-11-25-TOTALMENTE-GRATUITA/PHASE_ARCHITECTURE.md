@@ -63,3 +63,18 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Tarefas operacionais de e-commerce têm demanda aparente, mas pedidos recentes exibem 132–181 propostas e exigem prática; conteúdo genérico com IA está comoditizado.
 - Workana e Upwork exigem 18 anos; Fiverr permite menor somente via conta de responsável e supervisão. Brasil: 16–17 relativamente incapaz para certos atos; MEI 16–18 requer emancipação. Elegibilidade/recebimento requerem rota legal e adulto responsável quando aplicável.
 **Decisão:** CONTINUE PHASE_03.1. Abrir perguntas específicas sobre rota legal de recebimento, parceria supervisionada, canais de confiança e demonstração de competência. PHASE_04 continua QUEUED/NOT_STARTED.
+
+
+## PA-011 — correção de idade e ampliação da investigação para trabalho de bastidores
+**Data:** 25/11/2026  
+**Motivo:** o usuário corrigiu a idade atual para 18 anos (não 16) e esclareceu que possui capacidade/disposição para aprender e desempenhar o necessário; a ausência de experiência profissional não deve ser tratada como incapacidade.
+
+**Mudanças:**
+- Invalidar como restrição pessoal as conclusões da rodada 5 baseadas em menoridade.
+- Manter fontes S081–S084 como referências históricas/gerais, mas reavaliar elegibilidade pessoal com 18 anos.
+- Adicionar S087–S100 sobre elegibilidade, pagamentos, tarefas documentais, trabalho operacional de agência, white-label e tarefas de áudio para IA.
+- Ampliar a comparação para duas trilhas: apoio operacional/orquestração de conteúdo e tarefas pontuais de dados/voz para IA.
+- Manter PHASE_03.1 em CONTINUE; nenhuma oportunidade aprovada, candidatura ou contato realizado.
+- Sincronizar RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG, checkpoint, FINDINGS, SOURCE_LEDGER, OPEN_QUESTIONS, VALIDATION_MATRIX e operations/STATE.
+
+**Impacto no gate:** nenhuma fase é encerrada. PHASE_04 permanece QUEUED/NOT_STARTED.
