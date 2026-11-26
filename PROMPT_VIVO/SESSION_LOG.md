@@ -62,3 +62,9 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Documentada linha de serviços locais com diagnóstico de maturidade, implantação competitiva e manutenção recorrente; lista exploratória de pizzarias em Taboão e política de prospecção responsável.
 - Fontes S454–S466; documento `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`.
 - Nenhum contato, mensagem, instalação, publicação, venda ou gasto ocorreu.
+
+
+
+## 2026-11-26 — estrutura documental de empresas e projetos
+- Criado `operations/COMPANY_SOLUTIONS/` para lotes de 20 empresas únicas, ranking, deduplicação, dossiês, status de contato/venda/entrega, projetos, contratos recorrentes e financeiro.
+- Estado DOCUMENTADO / NÃO ATIVADO; sem empresas inseridas, lote, contato, projeto, venda ou gasto.
