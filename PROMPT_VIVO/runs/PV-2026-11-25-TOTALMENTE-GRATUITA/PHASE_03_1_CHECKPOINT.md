@@ -178,3 +178,11 @@ CONTINUE. A evidência de remuneração em reais da CSL é promissora, mas o lot
 - S118 Clickworker: pagamentos semanais, mínimos PayPal €10 / Payoneer €20, mas métodos variam por país e registro Brasil pode estar fechado; confirmar no painel antes de executar trabalho.
 - S119 Welo Junior Quality Coordinator: 20h/semana, coordenação de qualidade, relatórios, suporte e reuniões; inglês forte, português fluente, teste e exclusividade; remuneração não divulgada.
 Gate CONTINUE. Nenhuma candidatura ou conta criada; nenhum pagamento recebido.
+
+## Rodada 10 — OneForma Freya e TSMG QC (S120–S124)
+- S120 OneForma Freya lista Portuguese (Brazil) como idioma aberto; taxa oficial indexada de US$6 por hora de áudio, sem experiência/diploma, transcrição de podcasts, batches semanais first-come-first-served e volume variável.
+- S121 OneForma paga dias 15 e último dia do mês para trabalho aprovado, processamento 1–3 dias úteis, mínimo US$25; PayPal/Payoneer/Tipalti sujeitos à disponibilidade por país/conta e status Connected. A página PT-BR específica apresentou conteúdo incoerente ao abrir, então confirmar locale/taxa dentro do fluxo antes de aceitar.
+- S122 TSMG Quality Control Specialist: revisão de transcrições, treinamento fornecido, experiência diferencial não obrigatória; remuneração por trabalho validado, taxa e prazo desconhecidos.
+- S123 YPAI: páginas oficiais abertas diretamente mostram vagas Text/NLP, Conversational Speech e Photo fechadas apesar de snippets de busca “Applications open”. Não tratar como vagas ativas.
+- S124 YPAI São Paulo presencial: Field Collection Operator/Rig Operator, taxa indicativa R$30–50/h; status precisa confirmação, deslocamento e experiência/agenda são barreiras.
+Gate CONTINUE. OneForma é a melhor hipótese de renda de curto prazo até aqui, mas nenhum cadastro, teste, candidatura ou trabalho foi realizado. PHASE_04 continua QUEUED/NOT_STARTED.
