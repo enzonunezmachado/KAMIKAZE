@@ -148,3 +148,12 @@
 | Babel Conversation | Página diz pagamento semanal e conversas de 15 min | Taxa de US/Canada não se aplica automaticamente; elegibilidade Brasil não confirmada | Não validada |
 | OpenTrain | Anúncios de tarefas em português com taxas altas | Pagamento a freelancers no Brasil indisponível | Bloqueada |
 | YPAI | Páginas de R$30–50/h | Páginas oficiais mostram vaga fechada | Bloqueada |
+
+
+## Hipótese H — Avaliação de busca/anúncios e QA de conteúdo para IA
+| Opção | Sinal | Barreira/risco | Estado |
+|---|---|---|---|
+| RWS Search Engine Evaluator | Brasil remoto, até US$6/h, 5–20h/semana, sem experiência prévia; pagamento por tarefa via PayPal/banco | Inglês fluente, teste, computador/antivírus, mínimo de horas; ciclo de pagamento e detalhes brasileiros não confirmados | Parcial, depende de inglês |
+| TELUS Online Ad Rater / Personalized Internet Assessor | Brasil remoto, estimativa US$5/h, tarefas aprovadas | Fluência profissional em inglês, residência contínua 3–5 anos, volume variável, teste e ID | Parcial, requisitos exigentes |
+| Welo Junior Quality Coordinator | Brasil remoto, coordenação de qualidade, relatórios, suporte e reuniões; 20h/semana | Inglês forte, dedicação exclusiva, teste, sem remuneração divulgada | Sinal recente, não validado |
+| Clickworker | Ciclo semanal; PayPal €10/Payoneer €20 em países elegíveis | Brasil/método precisam ser confirmados dentro da conta; disponibilidade de tarefas varia | Condicional |
