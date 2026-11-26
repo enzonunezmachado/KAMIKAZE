@@ -139,3 +139,6 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Arquivos originais mantêm remetente/destinatário/assunto/corpo/data; a plataforma apenas diz que pode ocultar dados pessoais no upload. Retenção/uso/mascaramento específicos não estão claros.
 - DataForce Mosaic não aceita PT-BR nos idiomas listados; TELUS Internet Safety Evaluator está fechado.
 **Decisão:** manter CONTINUE; tratar a hipótese de emails como BLOQUEADA POR PRIVACIDADE até esclarecer masking, acesso, uso e retenção. Não enviar emails, anexos ou dados.
+
+
+- **PA-018 — 25/11/2026:** acrescentada linha auxiliar de investigação de renda imediata por tarefas remuneradas/AI data collection, sem alterar o objetivo central nem promover essas plataformas a negócio Kamikaze. Motivo: missão imediata de R$150 até 06/12 e as rodadas 13–15 já estavam investigando esse tipo de canal. Dependências: payout verificável, elegibilidade Brasil, disponibilidade real, prazo de aprovação, privacidade e capacidade. PHASE_03.1 continua ativa; PHASE_04 não inicia por causa desta linha auxiliar. Entregáveis: S144–S153, findings e perguntas abertas.
