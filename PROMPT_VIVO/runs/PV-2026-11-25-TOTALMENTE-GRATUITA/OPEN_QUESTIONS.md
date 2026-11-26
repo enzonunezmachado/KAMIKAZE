@@ -153,3 +153,15 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 112. É possível participar apenas com emails próprios e remover/mascarar anexos, números de pedido, endereços e rastreios sem invalidar a originalidade? Se não, qual é o risco residual?
 113. O ciclo de pagamento do projeto de emails segue o calendário geral OneForma e o mínimo US$25?
 114. Há número mínimo/máximo de emails por participante e quantas categorias continuam abertas no Brasil?
+
+
+## Novas perguntas — rodada 13
+115. UserTesting permite cadastro e practice test de residente no Brasil sem restrições adicionais? Qual equipamento mínimo e quais idiomas/formatos aparecem para brasileiros?
+116. Qual é a frequência real de convites para um perfil brasileiro semelhante ao do usuário, e qual valor médio por teste concluído? Não inferir da tabela de preços global.
+117. O usuário já possui PayPal verificado e apto a receber pagamentos internacionais? Quais custos efetivos de conversão/saque seriam aplicáveis?
+118. A vaga TSMG QC pode informar taxa por unidade validada, tempo médio por unidade, volume semanal, política de rejeição/retrabalho, método e prazo de pagamento antes da aceitação?
+119. A YPAI Data Collection Contributor Brasil reabre em algum momento ou confirma oficialmente encerramento? Qual estado aparece após clicar no fluxo de candidatura sem enviar dados?
+120. Defrilex pode fornecer antes do consentimento um SoW/Consent Form completo, fontes específicas de dados, finalidade, clientes, países de armazenamento, retenção, exclusão, sublicenciamento e remuneração?
+121. CrowdSource Labs abriu novo lote após a rodada inicial de 7–8/11? Qual data, prazo de pagamento e consentimento de voz?
+122. Fera Comunicação informa faixa mensal, número de clientes, carga estimada, disponibilidade síncrona, contrato e data de pagamento?
+123. UserTesting Brasil disponibiliza pagamentos via PayPal em BRL ou USD e há limitações regionais de saque? Confirmar na documentação/conta antes de contar receita.
