@@ -185,3 +185,14 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 - O tempo de vídeo aprovado por hora de esforço real é suficiente para alcançar R$150 sem gravar tarefas encenadas ou aumentar exposição doméstica?
 - A página oficial YPAI segue fechada apesar de conteúdo contraditório? Banner explícito de encerramento resolve o status atual; manter apenas monitoramento.
 - CrowdSource Labs abrirá um novo lote com prazo futuro? Sem data nova, não contar.
+
+
+## Rodada 16 — perguntas abertas
+- Quais subnichos de pequenos negócios têm dor operacional clara no WhatsApp e conseguem pagar por organização/automação leve?
+- Há projetos reais recentes de PDF→Excel, limpeza de planilha, catálogo, pesquisa de concorrentes e lead research com escopo e orçamento públicos? Quais requisitos e concorrência?
+- Quais serviços podem ser entregues com ferramentas gratuitas, navegador e habilidades treináveis em 1–3 dias, sem depender de API paga?
+- Qual canal além de marketplaces pode trazer demanda já existente sem spam ou publicidade paga: comunidades profissionais, grupos com regras, parcerias, conteúdo demonstrativo, diretórios de fornecedores?
+- Para conteúdo próprio, que nichos permitem produção original com custo baixo e sem depender de uso de material protegido?
+- Quais ofertas podem ser testadas com um protótipo demonstrável sem criar trabalho gratuito excessivo?
+- O que constitui prova suficiente de compra para passar a PHASE_04: projeto pago, contratação concluída, orçamento público, entrevistas com compradores ou sinal repetido de demanda?
+- Qual limite de sessões/horas deve encerrar ou reformular a busca por uma hipótese? Proposta de regra: não encerrar o projeto inteiro; encerrar/reformular hipóteses após duas rodadas sem evidência incremental e reavaliar o portfólio após 5 rodadas sem nenhum sinal de compra mais forte que anúncio/listagem.
