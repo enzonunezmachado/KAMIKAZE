@@ -38,3 +38,10 @@
 - Levantar preço final, comissão e prazo de liberação para serviços pequenos.
 - Criar amostra demonstrativa com dados públicos e fictícios, sem alegar que é case de cliente.
 - Comparar esforço estimado e risco de erro de cada oferta.
+
+## Sinais comunitários complementares
+- Um contratante procura editor com capacidade de dois vídeos/dia, storytelling e cases para perfil de grande audiência declarada (S041). Demanda explícita, mas exigência alta.
+- Uma pessoa procura editor de TikTok e posts Instagram e pergunta sobre preço (S042); sinal direto, mas não há prova de contratação.
+- Editores relatam que encontrar clientes é mais difícil do que aprender ferramentas; indicações, grupos de nicho, portfólio e testes pagos aparecem nas respostas (S043).
+- Um editor relata que arquivos desorganizados enviados pelo cliente geram retrabalho; padronizar intake pode reduzir atrito (S044). É uma hipótese operacional a testar, não uma dor de comprador já comprovada.
+- Conclusão: a oferta genérica de edição está sujeita à concorrência e à exigência de portfólio. Diferenciação por resultado, nicho e processo de recebimento merece mais estudo.
