@@ -232,3 +232,17 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 67. Como demonstrar precisão de recomendações com histórico de oportunidades e resultados reais, sem prometer taxa de sucesso?
 68. Quais comunidades permitem feedback/pesquisa transparente e quais proíbem promoção? Mapear 8–12 comunidades com regras e fit.
 69. A hipótese pode ser testada com demonstração de 5–10 oportunidades públicas, sem publicação/contato até autorização?
+
+
+## Rodada 22 — novas perguntas (26/11/2026)
+70. Workana Profile Readiness: quantas reclamações recentes são de novatos e qual a incidência de perfis pendentes/reprovados? Que parte é resolvida com informações públicas e quais requisitos são realmente controláveis pelo freelancer?
+71. Há ferramenta/serviço independente que revise perfis Workana antes da moderação? Há compradores, preços pagos, avaliações e resultados sem promessa de aprovação?
+72. Qual segmento vertical (editores de vídeo, designers, VAs, redatores, tradutores, desenvolvedores) apresenta a maior lacuna entre requisitos de perfil, prova de portfólio e clareza de escopo?
+73. Que dados podem ser usados em produto de diagnóstico sem scraping, extensão, background polling ou violação dos termos? É possível operar somente com texto/URL colados manualmente e exports permitidos?
+74. Quais falhas reais e independentes existem em Scoutly/Workaholic: falsos positivos, score sem calibração, dados desatualizados, ruído de alertas, privacidade, suporte e compatibilidade?
+75. Quais 3–5 comunidades digitais estão ativas hoje, têm público freelancer e permitem pesquisa/produto de forma transparente? Quais regras exigem autorização prévia?
+76. O que se pode validar em R$0 com uma amostra de perfis e briefs fornecidos voluntariamente, sem publicar, coletar dados sensíveis ou fazer promessas?
+77. Qual ideia pode ser entregue em 1–3 dias sem API paga, backend, login, domínio, cobrança recorrente ou manutenção pesada?
+78. O usuário possui algum slot livre de AI Studio Starter Tier, ou NEXUS ocupa a capacidade? Não presumir; confirmar antes de deploy.
+79. Quais ideias são mais rápidas para gerar receita inicial via serviço manual/one-off do que via assinatura SaaS?
+80. Qual o impacto das ferramentas/quotas do Kamikaze no trabalho ativo do NEXUS? Evitar competição por contexto, quota e tempo.
