@@ -147,3 +147,58 @@ A Workana já publica guias gratuitos e regras de perfil/portfólio; diferencial
 S294 adiciona Mansão Dev (~528 membros em diretório), com canais de divulgação/parcerias; audiência ampla de programação/design e regras internas ainda não verificadas. Não classificar como canal apto a promoção antes de conferir atividade e regras dentro do servidor.
 
 S295 complementa a restrição: os termos legais/API da Upwork também proíbem usar o site/serviços para construir serviço similar/concorrente e restringem scraping/uso de conteúdo. Não desenvolver integração ou camada competitiva dependente de dados Upwork sem autorização escrita e revisão jurídica dos termos.
+
+
+## Nova linha de investigação — SIMPLE SEARCH UTILITIES / SEO MICROTOOLS (Rodada 23; S296–S314)
+
+O usuário sugeriu ferramentas muito simples, procuradas repetidamente no Google, como calculadoras e conversores. A hipótese passa a integrar o portfolio sem substituir a pesquisa de freelancers.
+
+### Tese
+Construir uma ou poucas ferramentas gratuitas, rápidas, mobile-first e úteis, cada uma com página própria para uma consulta específica. A ferramenta pode atrair tráfego orgânico de intenção funcional (“calcular X”, “quantos X preciso”, “converter X”) e, em escala, monetizar por anúncios, afiliados relevantes ou geração de leads. A ferramenta em si deve resolver a tarefa sem exigir cadastro ou bloquear resultado.
+
+### Métrica de oportunidade — não confundir busca com negócio
+Cada candidato será avaliado por sete dimensões:
+1. **Demanda (25%)** — volume mensal BR de keyword principal + cluster de variações, tendência e sazonalidade.
+2. **Dificuldade orgânica (20%)** — KD como referência, força dos domínios/páginas no top 10, backlinks e autoridade real dos concorrentes.
+3. **Qualidade da SERP (15%)** — os resultados atuais resolvem bem? Há calculadoras ruins, incompletas, desatualizadas, sem versão mobile ou sem especificidade brasileira?
+4. **Valor econômico (15%)** — CPC/valor comercial, intenção de compra, afiliados/lead generation plausíveis e adequação a anúncios.
+5. **Repetição/cluster (10%)** — frequência de uso, variedade de consultas correlatas e possibilidade de uma ferramenta cobrir várias long-tails úteis.
+6. **Facilidade de MVP/manutenção (10%)** — construção local-first, sem API paga/backend, fórmula testável e baixa manutenção.
+7. **Diferenciação/risco (5%)** — benefício real não atendido, confiabilidade, atualização de regras/dados e risco regulatório/técnico.
+
+**Regra de pontuação:** notas 0–5 por dimensão, convertidas para 0–100 pelos pesos. Dados ausentes ficam como ND, nunca como zero nem como estimativa inventada. Sem volume e SERP auditados, a oportunidade fica **não classificada**, mesmo que pareça simples.
+
+### Ferramentas de pesquisa e limites
+- Google Keyword Planner fornece estimativas de buscas mensais e sugestões, mas exige configurar conta Google Ads com informação de faturamento; não autoriza campanha ou gasto. S296.
+- Google Trends compara interesse relativo, região, sazonalidade e consultas relacionadas; escala relativa não é volume absoluto. S297.
+- Ahrefs Free Keyword Generator/KD pode fornecer ideias e métricas limitadas; KD não substitui revisão manual da SERP. S298–S299.
+- A análise manual da SERP deve verificar top 10, tipo de página, intenção, qualidade funcional, mobile, atualização, autoridade e recursos de busca.
+- AdSense exige conteúdo original, próprio e de qualidade e conformidade; a página oficial consultada não lista um mínimo de tráfego, mas aprovação e monetização não são garantidas. S303.
+- Google recomenda conteúdo útil e original; ferramentas interativas podem ser conteúdo principal. Páginas em escala quase duplicadas/sem valor ou funcionalidades enganosas entram em conflito com políticas. S301–S302.
+
+### Primeira triagem qualitativa de microferramentas
+- **Dias úteis / prazo com feriados brasileiros:** demanda plausível e recorrência por trabalho/estudo/prazos, mas SERP já tem vários concorrentes detalhados (ConnectWeek, Calculadora do Mundo e outros). Diferenciação teria de ser feriados municipais/estaduais, convenções de contagem e clareza do calendário, com manutenção de dados. Não aprovada.
+- **Tinta / piso / materiais de reforma:** necessidade concreta ligada a compra; existem calculadoras detalhadas de tinta, piso, argamassa e rejunte. Oportunidade pode estar em microcasos específicos e lista de compra/orçamento, não em clone genérico. Não aprovada.
+- **Cortina / tecido / papel de parede:** resultados específicos e úteis; intenção pode conectar a compra de materiais e leads. Volume ainda desconhecido e nicho pode ser pequeno. Não aprovada.
+- **Duração/custo do botijão de gás:** ferramenta simples, mas depende de fatores técnicos e dados corretos; precisa validação e pode ter busca menor. Não aprovada.
+- **Custo de impressão 3D:** há múltiplas ferramentas brasileiras especializadas e funcionalidades avançadas (G-code/3MF, custos e preço). Concorrência visível; não priorizar clone. Não aprovada.
+- **BTU de ar-condicionado:** busca funcional plausível e intenção comercial, porém cálculo simplificado pode induzir compra errada; limites e ressalvas técnicas são obrigatórios. Não aprovada.
+- **Ferramentas genéricas (contador de palavras, JSON, porcentagem, idade, conversores):** catálogo como ToolNest já reúne centenas de ferramentas; alta comoditização. Não priorizar sem cluster ou lacuna concreta. S304.
+
+### Evidência e limites atuais
+S305–S314 são evidência de concorrentes/funcionalidades presentes na SERP, não volume de busca, usuários, receita ou dificuldade orgânica quantificada. Não há base para declarar qualquer uma dessas ferramentas “alto volume” ou “baixa concorrência” ainda.
+
+### Implicação comercial
+Ferramenta SEO nova é ativo de médio/longo prazo. Sem tráfego existente, domínio/autoridade e indexação, não é uma hipótese confiável para gerar R$150 até 06/12/2026. Separar explicitamente:
+- renda imediata: serviço/entrega manual com comprador identificado;
+- ativo SEO: ferramenta simples para construir audiência ao longo de semanas/meses, sem promessa de receita rápida.
+
+### Próxima rodada
+1. Montar clusters de 30–50 consultas em português BR para 5–8 famílias de calculadoras/conversores, incluindo long-tail e variações.
+2. Obter estimativas de volume/CPC via Keyword Planner e/ou Ahrefs free, sem inserir orçamento de campanha; documentar limitações de acesso.
+3. Analisar top 10 da SERP de cada cluster, não apenas a existência de concorrentes.
+4. Identificar páginas com baixa qualidade, fórmulas incompletas, atualização ausente, mobile ruim ou ausência de localização brasileira.
+5. Avaliar monetização por anúncios/afiliados/leads com cenários conservadores, deixando RPM/CPC como ND até evidência.
+6. Manter comparação com ideias freelancer e serviço manual. Não iniciar PHASE_04 nem construir/deploy sem gate e autorização.
+
+**Estado:** PHASE_03.3 IN_PROGRESS / CONTINUE. PHASE_04 QUEUED / NOT_STARTED. Orçamento R$0. Nenhum cadastro, anúncio, contato, publicação, deploy ou gasto.
