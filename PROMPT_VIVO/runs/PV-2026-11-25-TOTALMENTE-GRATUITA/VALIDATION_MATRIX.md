@@ -157,3 +157,24 @@
 | TELUS Online Ad Rater / Personalized Internet Assessor | Brasil remoto, estimativa US$5/h, tarefas aprovadas | Fluência profissional em inglês, residência contínua 3–5 anos, volume variável, teste e ID | Parcial, requisitos exigentes |
 | Welo Junior Quality Coordinator | Brasil remoto, coordenação de qualidade, relatórios, suporte e reuniões; 20h/semana | Inglês forte, dedicação exclusiva, teste, sem remuneração divulgada | Sinal recente, não validado |
 | Clickworker | Ciclo semanal; PayPal €10/Payoneer €20 em países elegíveis | Brasil/método precisam ser confirmados dentro da conta; disponibilidade de tarefas varia | Condicional |
+
+## Hipótese I — OneForma Freya (transcrição PT-BR)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Acesso | Página global OneForma lista Portuguese (Brazil) entre 36 locales abertos | Página local abriu conteúdo inconsistente; confirmar no fluxo | Parcial/forte |
+| Tarefa | Transcrever podcasts 30–60+ min, identificar falantes, timestamps e sinalizar áudio sintético | Exige atenção auditiva e escrita; produtividade real desconhecida | Delimitada |
+| Experiência | Não exige experiência anterior ou diploma; qualificação curta | Aprovação no teste é necessária | Favorável |
+| Taxa | US$6 por hora de áudio aprovada (PT-BR) | Não é hora efetivamente trabalhada; tempo pode ser várias vezes maior | Publicada, confirmar |
+| Volume | Lotes semanais first-come-first-served | Sem horas mínimas/garantidas; pode esgotar rápido | Incerto |
+| Pagamento | PayPal/Payoneer/Tipalti conforme país; ciclos 15 e último dia; mínimo US$25 | Método Brasil depende da conta; aprovação e ciclo podem impedir meta até 6/12 | Parcial |
+| Custos | Sem taxa de plataforma; computador, internet e fones | Conversão/saque podem ter custos externos | Baixo |
+| Veredito | Melhor hipótese atual para tarefa remota PT-BR | Não garante renda nem pagamento antes de 6/12 | Priorizar validação |
+
+## Hipótese J — TSMG QC Specialist (Portuguese Brazil)
+| Dimensão | Evidência | Limite | Estado |
+|---|---|---|---|
+| Acesso | Vaga remota Brasil, part/full time | Processo de seleção e volume não conhecidos | Parcial |
+| Tarefa | QC de transcrição, pontuação, capitalização, normalização e fidelidade ao áudio | Exige escrita cuidadosa e consistência | Delimitada |
+| Experiência | Experiência é diferencial, treinamento e guidelines fornecidos | Teste/qualidade podem ser exigentes | Favorável |
+| Remuneração | Pagamento por trabalho validado | Taxa, prazo e método não divulgados | Não validada |
+| Veredito | Potencial para experiência e trabalho em blocos | Não contar como dinheiro até conhecer taxa e pagamento | Secundária
