@@ -14,9 +14,9 @@
 ## 2. Pesquisa/build em andamento
 A pesquisa começou ampla. A hipótese ativa da subfase é inteligência de oportunidades para freelancers e aquisição transparente por comunidades. O objetivo é testar compra real, retenção, diferenciação e canal orgânico, sem presumir que o produto seja um SaaS.
 
-**Pergunta de PHASE_03.1:** há compra real de serviços comparáveis, quem compra, quais canais permitem alcançar compradores sem leilões massivos, e existe recorrência efetivamente demonstrada?
+**Pergunta ativa da PHASE_03.3:** existe uma micro-nicho freelancer com dor recorrente, comprador e diferenciação demonstráveis, que possa ser alcançada organicamente e construída com R$0 sem violar termos ou prejudicar o NEXUS?
 
-A PHASE_03.3 está ativa como subfase de validação comunitária e de compra para inteligência de oportunidades de freelancers. A PHASE_03.1 foi pausada para integração e a PHASE_04 não inicia sem gate explícito.
+A PHASE_03.3 está ativa. A pesquisa mostrou que agregadores/score genéricos estão cobertos por Scoutly e Workaholic e que Upwork/Workana restringem scraping/monitoramento automatizado. Nova hipótese: Workana Profile Readiness/First-30-Days Launch; há dor oficial e sinais de compra da categoria de revisão de perfis, mas compra específica desse produto ainda não está provada.
 
 ## 3. Estado exato das fases
 - PHASE_00_SCOPE: concluída, PASS WITH GAPS.
