@@ -85,3 +85,8 @@ A pesquisa encontrou uma rota complementar mais clara: UserTesting aceita contri
 ## Atualização do controlador — correção UserTesting e rodada 14 (S139–S143)
 A UserTesting inclui Brasil, mas a inscrição/practice test exige fluência em inglês, francês ou alemão; o usuário informa inglês intermediário, então a plataforma cai para baixa prioridade. uTest tem projetos PT-BR, porém o Greenbox encontrado iniciou em 30/10 e não foi confirmado como ativo; projeto de ID verification aparece ativo, mas exige escanear documento retido por até 12 meses e não divulga remuneração. Pagamentos uTest ocorrem duas vezes ao mês por PayPal/Payoneer/Wise conforme disponibilidade, sem garantia de volume.
 **Decisão:** CONTINUE_PHASE. Próximo foco é localizar projetos uTest PT-BR com janela futura, pagamento e privacidade claros; continuar busca de lotes CSL, taxa/ciclo TSMG e oportunidades operacionais. Não iniciar Fase 04, não enviar documentos, dados bancários ou consentimentos.
+
+
+
+## Preferência operacional do usuário — pesquisa consolidada (25/11/2026)
+O usuário prefere que as pesquisas sejam executadas organicamente em fluxo contínuo, sem mensagens parciais após cada pequena busca. Planejar frentes, pesquisar, cruzar fontes, resolver contradições, comparar remuneração/risco/fit e atualizar a documentação primeiro; apresentar ao usuário um único relatório final organizado por rodada. Só interromper antes se houver decisão ou autorização necessária, risco urgente ou solicitação de acompanhamento. Não expor cadeia de pensamento privada; comunicar método resumido, evidências, fontes, incertezas e conclusões.
