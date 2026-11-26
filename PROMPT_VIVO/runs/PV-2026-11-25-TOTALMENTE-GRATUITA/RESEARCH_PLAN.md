@@ -64,3 +64,9 @@ Continuar PHASE_03.1 em canais inbound/indicação/parceria, segmentos com decis
 
 ## Controle adaptativo
 Consultar PHASE_CONTROL.md antes de cada transição. "Próxima/continua" autoriza continuar a execução, mas não força mudança de fase nem aprova gate factual. Comentários do usuário podem alterar escopo, critérios, método ou prioridade e devem ser registrados em USER_INPUT_LOG.md. Preservar histórico e sincronizar RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF, PHASE_ARCHITECTURE e operations/STATE.
+
+## Atualização após rodadas S067–S075 (25/11/2026)
+A evidência de compra ficou mais concreta: foram encontrados projetos concluídos com vencedor identificado para (a) comparação de catálogo/preços de 44 produtos em cinco lojas, (b) pricing estratégico para 6–8 SKUs, (c) curadoria de fornecedores/produtos para e-commerce e (d) pesquisa de tendências com três entregas semanais. Outros briefs descrevem pesquisa mensal de cliente oculto e possível continuidade, mas com status ou renovação não comprovados.
+A hipótese deve ser refinada de “relatório de concorrentes” para “pesquisa aplicada a uma decisão ou rotina empresarial”, sem escolher ainda o segmento. Exemplos de decisão: preço de SKU, seleção de fornecedores/produtos, mudança de posicionamento, monitoramento de mudanças ou síntese de tendências. Não assumir competências tributárias, marketplace avançado ou cliente oculto.
+Canais: dados Serasa/Sebrae sustentam indicação, pares, networking, conteúdo e relacionamento como caminhos gerais de descoberta; ainda falta evidência de aquisição específica de um serviço de pesquisa por esses canais. Não abordar ninguém.
+Gate: CONTINUE PHASE_03.1. Próximo foco: identificar uma hipótese estreita de baixa barreira e alta verificabilidade, com comprador e gatilho temporal claros; encontrar evidência de canal sem leilão e recompra; comparar risco, esforço e prazo de recebimento. PHASE_04 segue QUEUED/NOT_STARTED.
