@@ -207,3 +207,19 @@ A homepage OneForma afirma que não há mínimo de saque, enquanto o Help Center
 7. **Freya, sōtem e vagas especializadas:** baixa prioridade para meta imediata por economics, ausência de tarefas ou requisitos.
 
 **Conclusão da rodada:** nenhuma nova oportunidade garante recebimento até 06/12. UserTesting é uma rota plausível para criar uma fonte complementar, não uma solução de caixa imediata. Gate da PHASE_03.1 permanece CONTINUE; PHASE_04 não inicia.
+
+
+
+## 27. Correção da rodada 13 e rodada 14 — idioma e projetos uTest (S139–S143)
+### UserTesting rebaixada por idioma
+- Apesar do Brasil constar entre países aceitos, a FAQ oficial exige fluência em inglês, francês ou alemão para inscrição e practice test. O usuário informa inglês intermediário; portanto, não recomendar como prioridade nem contar com aprovação. Após aprovação, podem existir tarefas em outros idiomas, mas isso não remove o requisito inicial (S139).
+- O cadastro exige PayPal verificado e practice test não remunerado; mesmo se o idioma fosse superado, o pagamento costuma ocorrer em 14 dias (S137). Status: baixa prioridade/fit não demonstrado.
+
+### uTest: oportunidade real como plataforma, mas projetos encontrados não garantem dinheiro rápido
+- Project Greenbox PT-BR anuncia US$35 por cinco chamadas aceitas, estimadas em 1–2h, mas o início indicado é 30/10/2026, já passado. Sem confirmação de lote atual, não classificar como ativo (S140).
+- Projeto de verificação de identidade lista Brasil e status Active com início 24/11; envolve escanear documento oficial e retenção por até 12 meses. A remuneração não aparece na página consultada. Devido ao dado altamente sensível e ao prazo de retenção, não recomendar participação sem conhecer consentimento, finalidade, acesso, segurança, exclusão e pagamento (S141).
+- uTest processa pagamentos duas vezes por mês via PayPal, Payoneer ou transferência local Wise, dependendo da disponibilidade regional. Termos não garantem número mínimo de projetos (S142–S143).
+- O resultado é uma plataforma que merece monitoramento, mas não há nesta rodada projeto atual de PT-BR com pagamento e privacidade suficientemente claros para recomendação imediata.
+
+### Revisão da classificação UserTesting
+A Hipótese L deve ser mantida apenas como alternativa condicional, não prioridade média: Brasil elegível geograficamente, mas fluência em inglês/francês/alemão exigida na entrada, pool brasileiro pequeno e pagamento em 14 dias. Não investir esforço no practice test enquanto o requisito de idioma não for claramente atendido.
