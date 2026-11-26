@@ -233,3 +233,14 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Hipótese: sites/cardápios/catálogos/formulários/automação leve para negócios locais, com implantação + manutenção e escopo proporcional à maturidade.
 - Fontes S454–S466; candidatos exploratórios em Taboão, não qualificados. Respeitar Google Maps no-scraping, WhatsApp opt-in e LGPD.
 - Nenhum contato ou gasto realizado; PHASE_03.5 continua aberta, PHASE_04 não iniciada.
+
+
+
+## Motor de Diagnóstico e Soluções Empresariais — estrutura documental (26/11/2026)
+- Índice operacional: [operations/COMPANY_SOLUTIONS/README.md](COMPANY_SOLUTIONS/README.md).
+- Criado sistema para lotes de 20 empresas únicas, ranking comparativo, deduplicação, dossiês individuais, histórico de contato/permissão/supressão, projetos, contratos recorrentes e registro financeiro.
+- Conversion Fit e Business Value Fit são scores heurísticos, não probabilidades estatísticas. Confidence e coverage acompanham a pontuação.
+- Status de pesquisa, prioridade, contato, venda, entrega e contrato são independentes. Não selecionar, não responder, recusar e pedir opt-out têm consequências diferentes.
+- Empresa já registrada não entra como nova em lotes seguintes; reavaliação mantém o ID e exige motivo/evidência novos. Recusa/opt-out respeitados.
+- Estado: DOCUMENTADO / NÃO ATIVADO. Nenhum lote foi pesquisado; nenhum registro de empresa inserido; nenhum contato, protótipo específico, venda, projeto, contrato ou gasto foi realizado.
+- Caixa informado: R$50; dívida informada: R$250; orçamento autorizado continua R$0.
