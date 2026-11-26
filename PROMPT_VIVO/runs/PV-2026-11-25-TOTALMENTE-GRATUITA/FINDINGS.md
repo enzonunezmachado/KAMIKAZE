@@ -495,3 +495,62 @@ CVM descreve pirâmides como estruturas sustentadas por aportes de novos partici
 - Comparar cenários para atingir R$150 líquido (1×R$150, 2×R$75, 3×R$50) e tempo operacional por entrega.
 
 **Gate:** criada a investigação PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE. PHASE_03.3 permanece aberta em paralelo, PHASE_04 continua QUEUED/NOT_STARTED. Nenhum cadastro, candidatura, contato, publicação, venda, gasto ou deploy foi realizado. Receita R$0; despesas R$0.
+
+
+## Rodada 26 — canais pequenos e relatos descritivos de primeira venda (26/11/2026)
+Pesquisa aprofundada em Reddit, comunidades de marketing digital e YouTube, com foco em relatos de pessoas comuns, posts de baixa repercussão e descrições do caminho de aquisição. Fontes S361–S379. Os números de receita permanecem autorrelatos, salvo confirmação externa que não foi encontrada.
+
+### Casos brasileiros de venda de serviço
+1. **Guuh-dev — primeira landing page:** declara ter enviado 200 e-mails e recebido interesse no dia seguinte; vendeu página simples que redirecionava ao WhatsApp por R$497 e manutenção de R$90/mês; disse ter concluído em quatro horas. O produto foi criticado por design genérico de IA e domínio provisório. Aprendizado: escopo estreito pode ser vendido, mas qualidade percebida, credibilidade e domínio importam. Não copiar o volume de 200 e-mails nem assumir conversão. (S362)
+2. **O Gabriel Digital — 289 inscritos:** relata semanas de propostas na Workana, portfólio de estudos, proposta personalizada e comunicação frequente; declara projeto de R$1.750. É um exemplo de canal pequeno e transparência sobre rejeição/ansiedade, mas não um caminho de 24 horas. (S373)
+3. **Filmmaker em corte de 74 views:** relato fala de autossabotagem e de um conhecido que ajudou a entrar no mercado; o primeiro trabalho foi coexecutado. O contrato de R$87 mil mencionado é excepcional e não verificado. Aprendizado transferível: parceria/indicação pode reduzir barreira de confiança e permitir primeira entrega compartilhada. (S372)
+4. **Prospecção frustrada:** prestador relata 98% de não resposta a mensagens genéricas; outro quase fechou 2 clientes em 200 mensagens, mas foi banido por spam. Não recomendar disparo em massa, scraping de contatos ou mensagens frias repetitivas. Uma abordagem precisa ser individual, legítima, contextual e dentro das regras. (S367–S369)
+
+### Relatos brasileiros de marketing digital e venda orgânica
+- Um iniciante em Instagram relata 7.400 visualizações e somente 23 seguidores, ainda sem venda; estava construindo a página de um produto low-ticket. Isso é evidência de que alcance isolado não demonstra intenção de compra. (S365)
+- Outro vendedor afirma ter feito primeiras vendas orgânicas com oferta específica para um subnicho de uma comunidade engajada; destaca que públicos dentro de um mesmo tema têm dores e critérios de compra diferentes. Sem dados de receita, funil ou provas. (S364)
+- Um relato anterior sobre venda de oferta digital de terceiros diz que o autor evitava DM fria, publicava conteúdo curto diretamente ligado ao problema em comunidades onde a conversa já existia e respondia a quem demonstrava interesse. A venda e o método não foram auditados. (S343)
+- Conclusão: os relatos favorecem especificidade de público/problema e conteúdo contextual; não demonstram que perfis sem rosto ou conteúdo de curiosidade geram vendas automaticamente.
+
+### Casos internacionais e canais de distribuição
+- Um criador de microserviço de revisão de pitch deck relata que a primeira cliente chegou porque encontrou uma publicação contextual no Reddit e lembrou da oferta quando precisou. (S376)
+- Criador de ebook de US$5 diz que Pinterest não trouxe engajamento e que a primeira venda provavelmente veio de publicações em subreddits relevantes. (S374)
+- Um maker relata 500 visitas e um comprador após publicar em Product Hunt, Reddit, Hacker News, Instagram e rede pessoal; enfatiza clareza da página e checkout fácil. (S377)
+- Outro relato de primeira venda registra 17 mil views em comunidade específica e duas vendas de uma ferramenta de treino de fala, com funcionalidade gratuita e análise paga. (S379)
+- Contracaso: equipe relata dois anos sem vendas em projetos anteriores; só conseguiu duas vendas após pivotar para problema mais claro, reconhecendo que distribuição e confiança eram mais difíceis que construir. (S375)
+- Interpretação: não existe “canal mágico”. O canal funcionou quando havia correspondência entre problema, público e contexto da publicação. Visualizações podem não virar venda; audiência pequena pode converter, mas isso não pode ser inferido sem dados.
+
+### Caso brasileiro de e-commerce: venda não é lucro nem caixa
+Um autor relata R$300 em comissões ao indicar um curso à rede pessoal, primeira venda de uma loja de roupas sem marketing e parceria com influenciadora que teria gerado R$5 mil em 24h. A operação depois enfrentou compras parceladas em cartão de terceiro, repasse D+14, falta de caixa, margem insuficiente, ban de conta de anúncios, chargebacks e saldo retido; encerrou a loja. (S363)
+**Lição crítica:** faturamento bruto, comissão, lucro e dinheiro disponível são métricas diferentes. Dropshipping/estoque, influenciadores pagos ou permuta, anúncios e capital de giro não são rotas adequadas ao orçamento R$0 e prazo atual.
+
+### Relato de trajetória mais longa
+Um comentário de profissional brasileiro afirma que começou prestando serviços, construiu cases e retenção e só depois migrou para consultoria e outros negócios; diz que demorou mais de um ano para ter renda extra consistente e quase quatro anos de experiência em agências para ganhar melhor. É autorrelato, mas é um contrapeso importante a promessas de renda imediata. (S366)
+
+### Síntese comparativa dos mecanismos observados
+| Mecanismo | Evidência observada | Limite para R$150 em poucos dias |
+|---|---|---|
+| Responder a demanda existente em comunidade (Discord/Reddit) | Relato de 3 clientes via Discord; microserviço encontrado por post contextual | Precisa encontrar comunidade adequada, regras e problema real; confiança leva tempo |
+| Oferta direta personalizada a negócio | 200 e-mails → um cliente declarado; outreach em Instagram com baixa resposta | Alto esforço, risco de spam e sem garantia; não fazer disparo |
+| Portfólio e proposta sob medida em marketplace | Canal de 289 inscritos relata semanas até primeiro cliente | Concorrência e tempo de espera |
+| Conteúdo orgânico de nicho | Relatos de vendas de oferta nichada e produto low-ticket | Views/seguidores não provam conversão; requer repetição e tempo |
+| Indicação/parceria | Primeiro cliente por amigo de amigo; filmmaker coexecuta primeiro projeto | Depende de rede e confiança; não necessariamente acessível |
+| Lançamento de produto digital em comunidades | Primeira venda atribuída ao Reddit/subreddit; 500 visitas/1 venda em outro caso | Comunidades podem proibir autopromoção; tráfego e compra não garantidos |
+| Afiliados | Comissão inicial de R$300 via rede pessoal num caso, mas produto era curso | Rede pessoal e confiança foram decisivas; não prova tráfego orgânico replicável |
+| E-commerce/influenciador | R$5k/24h alegados, seguidos de crise de caixa e encerramento | Exige capital, fornecedor, logística, contingência e gestão; excluído da meta R$0 |
+
+### Conclusões atualizadas
+1. **A barreira dominante não é criar o produto; é distribuição + confiança + intenção de compra.** Relatos repetem que construir site/app/ebook é relativamente fácil, mas encontrar a pessoa certa e fazê-la confiar é o gargalo. (S361, S375, S377)
+2. **Microentregas específicas podem ser vendidas com portfólio de demonstração, mas não presumir que qualquer entrega simples vale R$150.** Um caso declara R$497 por landing page; outro R$1.750 por projeto de programação, ambos com habilidade e contexto próprios. (S362–S373)
+3. **Participar ajudando em comunidades é um mecanismo plausível, não uma licença para se infiltrar ou fingir ser cliente.** O exemplo mais detalhado relata ajuda pública antes de compartilhar portfólio; transparência e regras são essenciais. (S361)
+4. **Prospecção em massa é rejeitada pela própria evidência:** taxa de resposta baixa e bloqueios por spam. Priorizar leads que expressaram necessidade e contato contextual, se autorizado. (S367–S369)
+5. **Afiliados sem audiência não estão validados como caixa rápido.** O exemplo brasileiro com comissão usou rede de contatos; os demais relatos orgânicos não oferecem métricas verificáveis. (S343, S363–S365)
+6. **O horizonte de R$150 até 06/12 continua incerto.** Não encontramos evidência robusta de um método que garanta pagamento em 10 dias sem capital, audiência ou rede de compradores.
+7. **Não avançar PHASE_04.** PHASE_03.4 permanece IN_PROGRESS / CONTINUE; ampliar amostra e mapear ofertas concretas e compradores acessíveis antes de escolher execução.
+
+### Próximas ações
+- Aprofundar serviços digitais de escopo mínimo e compradores que já pediram ajuda (posts de contratação, pedidos de indicação, comunidades de nicho e criadores/agências com gargalos visíveis).
+- Procurar mais canais de YouTube com menos de 1.000 inscritos e vídeos com menos de 1.000 views, incluindo relatos de fracasso e primeira venda, sem tratar títulos de “24h” como prova.
+- Ler comentários e follow-ups dos relatos para extrair oferta, preço, lead source, tempo, objeções, forma de pagamento e entrega.
+- Identificar comunidades em que pedidos de ajuda e contratação são permitidos; não publicar, contatar ou simular participação sem autorização.
+- Comparar microserviços de baixa barreira com a capacidade real de criar uma amostra em poucas horas e vender por R$50–150.
