@@ -394,3 +394,12 @@ Retomar PHASE_03.5 com inspeção mais profunda das skills do Affitor e adaptaç
 - Repositórios adicionais: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator n8n, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
 - Decisão: adaptar conceitos em skills nativas do MAK, não importar os pacotes. Padrão: IA prepara → humano revisa → humano autoriza → execução permitida → métricas → aprendizado.
 - Próxima ação: comparar as capacidades propostas na PHASE_03.5 com o Prompt Vivo existente, eliminar duplicidades e criar apenas as que agreguem capacidade concreta.
+
+
+## Módulo futuro de tráfego pago — acionador persistente (26/11/2026)
+- Documento: `PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md`.
+- ID `MAK-PAID-TRAFFIC-MODULE`; estado DORMANT / DOCUMENTED / NOT IMPLEMENTED.
+- Intenção explícita de implementar → apresentar escopo, etapas, entregáveis, custos/riscos e pedir confirmação para iniciar Etapa 0. Menções exploratórias não ativam.
+- Etapa 0 é planejamento; contas, integrações, publicação e gasto exigem autorizações separadas.
+- Catálogo inclui 49 skills marketing-skills e referências Google Ads MCP/SDK, Meta SDKs, Ryze MCP, n8n, AdsOnSheets, clientreport e Meridian.
+- Não altera fases de pesquisa ativas nem autoriza mídia paga.
