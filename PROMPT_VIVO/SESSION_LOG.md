@@ -40,3 +40,12 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Continuidade:** BOOTSTRAP, NEXT_CHAT_PROMPT e CONTINUITY_SYSTEM agora descobrem acionadores dormentes.
 - **Estado:** DORMANT / DOCUMENTED / NOT IMPLEMENTED. Nenhuma implementação, integração, conta, campanha, publicação ou gasto.
 - **Persistência:** commits individuais confirmados.
+
+
+### KAM-2026-11-26-004 — Casos de construção com IA e ferramentas gratuitas
+- **Data:** 2026-11-26
+- **Executado:** pesquisa consolidada de aplicações criadas com IA e planos gratuitos; Stockroom/AppJet (demo + código público), MyClaw Tools (249 ferramentas, 0 pagantes no snapshot), Somnia, Toolkiya, HookLayer, RenderArchi, AssetShark e HypeDesk. Auditoria de limites oficiais Gemini, Supabase, Cloudflare, Vercel e GitHub Copilot.
+- **Artefatos:** `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`; fases/estado atualizados.
+- **Conclusão:** $0 pode produzir um full-stack demonstrável, mas planos gratuitos podem proibir uso comercial, pausar projetos ou limitar IA/CPU; build, produção, distribuição e receita são gates distintos.
+- **Ações externas/gastos:** nenhum.
+- **Persistência:** confirmar commits individuais.
