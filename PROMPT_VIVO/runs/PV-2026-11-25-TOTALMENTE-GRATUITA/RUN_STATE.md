@@ -18,3 +18,5 @@
 - Estado comercial: nenhuma oportunidade aprovada; receita R$0; despesas R$0; nenhum experimento ativo; nenhum cliente contatado.
 - Retomada entre chats: PROMPT_VIVO/BOOTSTRAP.md e RESUME_PACKET.md; registrar feedback em USER_INPUT_LOG.md.
 - Arquivos de controle: PHASE_CONTROL.md; PHASE_ARCHITECTURE.md; RESEARCH_PLAN.md; MEMORY_HANDOFF.md; SOURCE_LEDGER.md; FINDINGS.md; OPEN_QUESTIONS.md; VALIDATION_MATRIX.md; RESOURCE_BUDGET_POLICY.md.
+
+- Última rodada de PHASE_03.1: S067–S070 adicionam evidência de indicação/pares e canais institucionais, mas ainda indireta para venda de relatório competitivo; gate permanece CONTINUE.
