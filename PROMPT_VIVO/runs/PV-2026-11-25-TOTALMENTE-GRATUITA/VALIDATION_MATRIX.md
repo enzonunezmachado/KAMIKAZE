@@ -326,3 +326,19 @@
 
 
 | Workana Profile Readiness / revisão de perfil | Requisitos oficiais + 15–30 dias; briefs de profile optimization no 99Freelas com 50 e 88 propostas; jobs Upwork com US$15–260 anunciados e um hire indicado | SINAL DE COMPRA DA CATEGORIA; COMPRA ESPECÍFICA NÃO PROVADA | Pesquisar serviços de revisão focados em Workana e resultados verificáveis; avaliar concorrência e capacidade de entrega |
+
+
+
+## Rodada 23 — Simple Search Utilities / SEO Microtools
+
+| Família | Evidência da SERP | Demanda/volume | Concorrência | Estado |
+|---|---|---|---|---|
+| Dias úteis / datas | Vários calculadores com feriados e metodologia | ND | Concorrência visível e funcional | Não classificada |
+| Tinta / piso / materiais | Calculadoras com área, demãos, embalagens, perdas, argamassa e rejunte | ND | Concorrência visível e funcional | Não classificada |
+| Cortina / tecido / papel de parede | Calculadoras específicas por medida, franzimento, faixas e rolos | ND | Alguns concorrentes especializados; espaço desconhecido | Exploratória |
+| Botijão de gás | Calculadora de duração/custo com dados técnicos | ND | Poucos resultados específicos na amostra, não prova baixa KD | Exploratória |
+| Impressão 3D | Vários concorrentes brasileiros com custos avançados e leitura de arquivos | ND | Concorrência especializada forte | Baixa prioridade |
+| BTU ar-condicionado | Calculadoras comerciais com ressalvas técnicas | ND | Concorrência presente; risco de cálculo simplificado | Não classificada |
+| Utilitários genéricos | Catálogo com 221 ferramentas em um concorrente | ND | Comoditização forte | Baixa prioridade |
+
+**Regra:** nenhuma nota global sem volume mensal por cluster, SERP top 10 e CPC/valor econômico. Métrica ponderada definida na PHASE_03.3_CHECKPOINT. S296–S314.
