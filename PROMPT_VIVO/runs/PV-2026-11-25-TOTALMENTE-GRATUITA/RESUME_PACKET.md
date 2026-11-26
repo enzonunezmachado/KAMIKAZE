@@ -430,3 +430,15 @@ Documento: `PROMPT_VIVO/knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fo
 - Google Maps: sem scraping/cópia/exportação de conteúdo. WhatsApp: telefone público não significa opt-in; não enviar cold bulk DMs. Preferir pedir autorização por canal comercial apropriado. LGPD e legítimo interesse documentados.
 - Portfólio: demos fictícias de pizzaria, barbearia e prestador. Faixas de preço são hipóteses não validadas.
 - Nenhum contato, publicação, venda, instalação ou gasto ocorreu. PHASE_03.5 continua; PHASE_04 não iniciada.
+
+
+
+## Novo sistema operacional — Motor de Diagnóstico e Soluções Empresariais (26/11/2026)
+- Estrutura: [operations/COMPANY_SOLUTIONS/README.md](../../../../operations/COMPANY_SOLUTIONS/README.md).
+- Objetivo: lotes de 20 empresas únicas, pesquisa comparável, ranking de Conversion Fit e Business Value Fit, decisão de contato/prototipagem, histórico completo e deduplicação entre rodadas.
+- Arquivos centrais: CONTROL_TOWER; COMPANY_MASTER_REGISTER; CONTACT_AND_SUPPRESSION_REGISTER; REVENUE_AND_COST_REGISTER; BATCHES/BATCH_TEMPLATE; COMPANIES/COMPANY_DOSSIER_TEMPLATE; PROJECTS/PROJECT_TEMPLATE; RECURRING/CONTRACT_TEMPLATE; playbooks de ranking, status e governança.
+- Cada empresa tem Company ID permanente. Lotes futuros excluem empresas já registradas da contagem de novas; reavaliação explícita usa o mesmo ID. Recusa e opt-out não podem ser tratados como simples baixa prioridade.
+- Status separados: pesquisa, prioridade, contato, venda, entrega e contrato. Financeiro separa proposta, contratado, faturado, recebido, custos e MRR.
+- Estado: DOCUMENTADO / NÃO ATIVADO. Nenhuma empresa ou lote cadastrado/executado, nenhum contato, proposta, venda, projeto, contrato ou gasto realizado.
+- Orçamento operacional segue R$0; o caixa informado de R$50 e dívida de R$250 não autorizam gastos.
+- Próxima ação somente após autorização: auditar templates e executar lote piloto de 20 empresas novas, sem contato externo automático.
