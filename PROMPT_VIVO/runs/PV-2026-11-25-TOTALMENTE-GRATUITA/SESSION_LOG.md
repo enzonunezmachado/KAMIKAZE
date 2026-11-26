@@ -75,3 +75,11 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Decisão:** trabalhar com lotes de 20 empresas únicas, ranking por fit de conversão e valor empresarial, e histórico persistente para deduplicar rodadas futuras.
 - **Estrutura:** `operations/COMPANY_SOLUTIONS/` com registro mestre, batch snapshots, dossiês individuais, contatos/permissões/supressão, projetos, contratos recorrentes, financeiro e playbooks.
 - **Estado:** DOCUMENTADO / NÃO ATIVADO; nenhuma pesquisa de lote, contato, venda ou gasto.
+
+
+## KAM-2026-11-26-006 — Ponteiro canônico de trabalho atual
+- Criado `PROMPT_VIVO/CURRENT_WORK.md` para identificar a última entrega substantiva e a próxima ação de retomada.
+- Atualizados BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT, operations/STATE e RESUME_PACKET para consultar o ponteiro.
+- A última entrega permanece a estrutura de gestão de empresas, DOCUMENTADO / NÃO ATIVADO; a pesquisa principal continua separada e requer reconciliação dos estados legados.
+- Regra de atualização em todo checkpoint substantivo; sem execução em segundo plano após encerramento da sessão.
+- Persistência confirmada nos commits desta rodada.
