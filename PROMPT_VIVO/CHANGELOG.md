@@ -1,3 +1,29 @@
+## 2026-11-26 — Governança documental, estado canônico e validação
+
+### Motivação
+A auditoria comparativa com Spec Kit, BMAD, AGENTS.md, LangChain Deep Agents e Diátaxis identificou risco de duplicação de estado, resumos extensos, dependência de disciplina manual e falta de verificação executável.
+
+### Mudanças
+- Adicionados `AGENTS.md` na raiz e em `PROMPT_VIVO/` com instruções de leitura e escrita para agentes compatíveis.
+- Criado `ARCHITECTURE_GOVERNANCE.md` com função dos arquivos, fontes canônicas, navegação por READMEs, granularidade e classificação inspirada em Diátaxis.
+- Criados/atualizados READMEs para operations, runs e a execução ativa.
+- Criado `operations/state.toml` como snapshot estruturado verificável.
+- Reduzidos `operations/STATE.md`, `RUN_STATE.md` e `RESUME_PACKET.md`; conteúdo anterior preservado em `STATE_HISTORY.md` e `RUN_HISTORY.md`.
+- Atualizados BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT, CURRENT_WORK e índices.
+- Criado `scripts/validate_docs.py` para verificar arquivos obrigatórios, budgets de linhas, links selecionados e sincronização TOML/Markdown.
+- Criado workflow GitHub Actions para validar documentação, construir site MkDocs e executar markdownlint.
+- Adicionado MkDocs com fonte do portfólio em Markdown; site ainda não publicado.
+- Capturada a preferência por agentes sob governança humana: tarefas delimitadas podem ser delegadas; pesquisa subjetiva e decisões de prioridade permanecem supervisionadas.
+
+### Limites
+- CI ainda precisa executar e ter seu resultado inspecionado.
+- O validador verifica propriedades objetivas; não substitui auditoria semântica.
+- AGENTS.md não é universalmente reconhecido por todas as IAs.
+- Não foram instalados agentes externos, ferramentas locais ou extensões.
+- Nenhuma publicação, contato, despesa ou ação comercial ocorreu.
+
+---
+
 # Histórico de evolução — Prompt Vivo
 
 ## 2026-11-25 — Criação da arquitetura inicial
