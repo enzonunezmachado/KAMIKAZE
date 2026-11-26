@@ -173,3 +173,6 @@ Nenhuma candidatura ou cadastro realizado.
 - **TELUS Internet Safety Evaluator (S129):** apesar de snippet recente com US$5/h, página oficial está marcada como não ativa. Excluir como vaga atual.
 ### Comparação atual
 OneForma Email Collection passa a ser hipótese de maior potencial de rapidez se o usuário tiver 3+ emails elegíveis por pedido e se as condições de privacidade forem aceitáveis; remuneração e prazo específico continuam desconhecidos. Não recomendar envio de dados pessoais até esclarecer proteção. Freya continua com baixa remuneração efetiva por áudio; TSMG QC sem taxa; Fera sem valor; nenhuma opção garante R$150 até 6/12.
+
+## Complemento da rodada 12 — divergência de pagamento OneForma (S130)
+A homepage OneForma afirma que não há mínimo de saque, enquanto o Help Center de pagamentos descreve mínimo de US$25. Não resolver a divergência por suposição; para a hipótese Email Collection e Freya, classificar o mínimo e o calendário como NÃO CONFIRMADOS até verificar o projeto/conta ou obter confirmação oficial. Isso reduz ainda mais a confiabilidade de prever pagamento até 6/12.
