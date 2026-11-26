@@ -91,3 +91,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Classificação:** instrução de continuidade + pedido de inventário técnico e resenha crítica.
 **Impacto:** executar NEXT_CHAT/BOOTSTRAP, conferir estado ativo e criar catálogo centralizado com as 53 skills Affitor e os outros repositórios estudados. Distinguir referência, adaptação proposta e código efetivamente adotado. Não importar/instalar/executar sem autorização.
 **Status:** APLICADO NA DOCUMENTAÇÃO; nenhuma skill de terceiros foi importada ou executada.
+
+
+## 2026-11-26 — pedido para criar acionador futuro de implementação de tráfego pago
+**Entrada:** usuário pediu um mecanismo persistente que reconheça quando decidir implementar tráfego pago; antes de iniciar, apresentar o que será criado, organização, etapas, skills, repositórios e manual/handoff final. Quer módulo completo e bem estruturado, com integração à filosofia Kamikaze somente se fizer sentido; filosofia e arquitetura devem ser reavaliadas no futuro.
+**Interpretação:** "assinador" foi entendido como **acionador** (gatilho de ativação). Menções exploratórias não devem ativá-lo.
+**Decisão:** criar `MAK-PAID-TRAFFIC-MODULE` em estado DORMANT / DOCUMENTED / NOT IMPLEMENTED. Quando houver intenção clara, apresentar o pacote e pedir confirmação explícita para começar Etapa 0. Etapa 0 é planejamento, não autorização de gasto ou ação externa. Cada campanha, conexão, publicação e gasto exigirá autorização própria.
+**Escopo registrado:** arquitetura modular, etapas e gates, checklist de prontidão, skills, repositórios, compliance/privacidade, segurança financeira, simulação e handoff final.
+**Status:** blueprint e acionador persistidos. Nenhum módulo implementado, código de terceiros importado, conta criada/conectada, anúncio publicado ou gasto realizado.
