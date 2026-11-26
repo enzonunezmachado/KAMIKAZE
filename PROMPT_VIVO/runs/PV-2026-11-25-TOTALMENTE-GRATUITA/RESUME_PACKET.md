@@ -276,3 +276,5 @@ O usuário quer uma lista ampla de ideias e filtragem posterior pela realidade t
 
 ## Complemento Rodada 22 — S286–S293
 Profile optimization tem sinais de compra da categoria: dois briefs no 99Freelas com 50 e 88 propostas e jobs no Upwork com budgets anunciados de US$15–260; um job registra 1 hire. Porém a concorrência é alta e não há evidência de compra de ferramenta Workana-specific. Workana já fornece guias gratuitos; uma oferta teria de transformar experiência real e portfólio em evidência estruturada, não apenas reescrever bio. Ver S286–S293.
+
+S294 adiciona Mansão Dev (~528 membros) como canal de observação possível, com divulgação/parcerias descritas no diretório; regras e atividade internas não verificadas. Nenhuma comunidade está aprovada para divulgação sem conferir as regras atuais.
