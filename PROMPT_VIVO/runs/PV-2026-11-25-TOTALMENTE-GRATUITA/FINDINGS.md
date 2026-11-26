@@ -644,3 +644,12 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - **Não é produção pronta:** o próprio estudo diz que demo não tem login; rotas examinadas não mostram auth/tenant scoping. O teste de same-origin bloqueia CSRF no browser, mas não autentica clientes externos. Nunca usar dados reais nesse estado.
 - AppJet declara não treinar com código/interações e não reter código após coding; processamento/hospedagem em Canadá/EUA; credenciais/env vars são processadas; não promete disponibilidade ininterrupta. Tratar como declarações do fornecedor e revisar antes de conectar repositórios.
 - Testes foram apenas lidos, não executados; nenhuma auditoria dinâmica/pentest. S451–S453.
+
+
+## Rodada 34 — serviços tecnológicos locais assistidos por IA
+- Nova hipótese comercial: implantação competitiva de sites, cardápios, catálogos, formulários e automações leves, com manutenção recorrente; personalizar escopo segundo maturidade digital e processo real do negócio.
+- Solutudo lista 62 pizzarias em Taboão. Leads exploratórios com telefones: Dinomarkis (11 95155-2170), Bonaiute (11 4701-9292), Banana 1000 Graus (11 94100-0342), Pizzaria Souza (11 95957-4283), Laroc (11 4701-9899), União (11 94741-9225). Jardim Salete tem dados conflitantes entre diretórios e precisa validação; não usar número sem confirmação.
+- Não classificar os candidatos como sem site. A auditoria inicial encontrou Paiva Pizzas com Saipos/WhatsApp e Skina da Pizza com WABiz; oferecer site genérico seria redundante.
+- Google Maps não pode ser raspado nem usado para construir base externa; termos proíbem copiar nomes/endereço/reviews. Descoberta manual + verificação independente é o caminho prudente.
+- Telefone publicado não equivale a opt-in de WhatsApp. Não enviar mensagens frias em massa; pedir permissão via canal comercial apropriado e respeitar opt-out. LGPD exige finalidade/necessidade e balanceamento para legítimo interesse.
+- Faixas de implantação/manutenção são hipóteses a validar, não preços de mercado. Nenhuma abordagem ou venda ocorreu. S454–S466.
