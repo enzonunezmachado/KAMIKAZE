@@ -455,3 +455,43 @@ Amostra de briefs públicos revela diferenças relevantes entre segmentos. VA/ad
 **Implicação de fit:** explorar microentregas de organização/admin sem vender “assistente virtual genérico”; testar edição curta como nicho potencial somente após construir amostra própria; não priorizar tradução profissional com inglês intermediário; design exige portfólio antes de oferta. Nenhum anúncio isolado prova pagamento ou retenção.
 
 Workana Profile Readiness: reclamações recentes reforçam dor da espera e impossibilidade de enviar propostas; os próprios critérios são comparativos e não controláveis. Compra de checker/serviço independente específico segue não provada. Workaholic já tem matching/CRM/alertas/follow-up; não se confirmou falha independente. S326.
+
+
+## Rodada 25 — pesquisa ampla: renda rápida online e primeira venda (26/11/2026)
+A pedido do usuário, o escopo foi ampliado para além de freelancers e ferramentas: ganhar dinheiro online, vender produtos/serviços digitais, afiliados, estudos remunerados, testes de usabilidade, microtarefas e relatos de criadores pequenos. Fontes S336–S360.
+
+### Conclusão executiva para a meta de R$150 até 06/12
+Nenhum método pesquisado garante R$150. As opções se dividem em três grupos:
+- **Venda direta de uma microentrega digital:** melhor hipótese para tentar caixa rápido, pois um comprador pode pagar R$75–150 por uma entrega fechada; ainda exige encontrar comprador e entregar algo demonstrável. Não temos contrato/pagamento confirmado para o usuário. Priorizar pesquisa/organização de informações, limpeza e formatação de planilhas, organização de documentos, cadastro/descrição de produtos e legendagem simples somente se houver competência e amostra.
+- **Estudos remunerados/testes:** legítimos, mas dependem de elegibilidade, seleção, volume e prazos. Prolific aceita residentes no Brasil e maiores de 18, mas usa waitlist; relatos brasileiros mostram renda variável (um relata £38,74 em 67 submissões no primeiro mês; outro relata £15 num dia excepcional). Respondent paga estudos após seleção e verificação, mas diz que a maioria recebe 1–3 convites/mês. Toluna pode levar até 3 semanas para recompensa. UserTesting exige fluência em inglês/francês/alemão e paga normalmente em 14 dias; não encaixa no inglês intermediário do usuário nem no prazo imediato. uTest/OneForma têm ciclos quinzenais e limites mínimos/validação. Não contar com essas plataformas como plano único.
+- **Afiliados/produtos digitais:** Hotmart permite cadastro gratuito, mas a afiliação depende do produtor, a comissão varia e a atribuição usa regras/cookies. A taxa e o prazo de liberação só incidem após venda; isso não resolve o gargalo principal, que é tráfego qualificado e confiança. Sem audiência, conteúdo consistente, distribuição permitida ou rede de contatos, a primeira venda em poucos dias é incerta. Não comprar curso, tráfego, domínio ou ferramenta.
+
+### Evidência de criadores pequenos e relatos
+- O Gabriel Digital (289 seguidores no snapshot; 5.420 views) relata primeiro freela após semanas, usando proposta personalizada, portfólio de estudos e comunicação; declara R$1.750, mas não há prova independente do pagamento (S341).
+- Lucas | Renda com YouTube (196 seguidores; 35 views) declara primeira comissão Amazon de R$21,08 e crescimento posterior com conteúdo de nicho e parcerias; os valores maiores são alegações do próprio criador, sem verificação independente (S342).
+- Reddit tem relato de vendas sem aparecer, usando perfil de nicho e conteúdo repetível, mas sem números verificáveis (S343).
+- Esses casos reforçam que canais pequenos podem monetizar quando atingem público com intenção e resolvem uma necessidade; não validam a promessa de primeira venda rápida nem uma fórmula replicável.
+
+### Marketing de afiliados — mecanismo e limites
+Cadastro gratuito e link de afiliado não equivalem a vendas. É necessário escolher produto legítimo, verificar página, suporte, política de reembolso, reputação, comissão, regras de divulgação e compatibilidade com público real. Não usar spam, grupos sem permissão, depoimentos inventados, cloaking, anúncios pagos ou promessas de renda. A primeira venda depende de distribuição e confiança. Não há evidência suficiente para priorizar afiliados como rota até 06/12.
+
+### Sinais de alerta
+CVM descreve pirâmides como estruturas sustentadas por aportes de novos participantes, frequentemente com promessa de ganho fácil e exigência de entrada/recrutamento. Excluir qualquer oportunidade que cobre taxa/kit/depósito para liberar tarefas, saque ou nível; qualquer modelo cujo ganho dependa de recrutar pessoas em vez de vender valor real; e qualquer curso/mentoria que prometa renda garantida. (S340)
+
+### Ranking provisório para teste posterior (não aprovação)
+1. Microserviço digital com escopo fixo, amostra própria e preço inicial claro — melhor chance de gerar uma venda única, mas aquisição ainda não provada.
+2. Estudos pagos (Prolific/Respondent) como complemento oportunístico, não como previsão de renda; Prolific depende de entrada na waitlist e Respondent de perfil/convite.
+3. Vagas de anotação/avaliação de IA em português — investigar requisitos e candidatura oficial, mas não confundir anúncio de faixa salarial com contratação/horas disponíveis; vaga micro1 específica exige português fluente e experiência relacionada preferencial.
+4. Afiliados orgânicos — ativo de aprendizado e longo prazo; não confiar como caixa imediato sem canal/distribuição.
+5. Pesquisas generalistas/Toluna — complemento de baixo valor e resgate lento.
+6. UserTesting — descartar para este objetivo por requisito de fluência em idioma estrangeiro e pagamento usual em 14 dias.
+7. Hub Data — excluída da definição “totalmente digital”, pois exige gravação de tarefas físicas e compatibilidade de dispositivo.
+
+### Próximas investigações
+- Mapear microentregas digitais com demanda recente e prova de pagamento/avaliação, sem restringir a VA ou edição.
+- Buscar canais públicos com pedidos explícitos de ajuda e regras claras para oferta, além de pequenas agências/criadores que terceirizam entregas; não publicar nem contatar sem autorização.
+- Estudar primeira venda de afiliados por conteúdo de busca, vídeo curto e comunidades permitidas, com amostras reais de criadores pequenos; separar tutorial de vendedor de evidência independente.
+- Validar condições atuais, elegibilidade e payout de Prolific, Respondent, uTest, OneForma, Clickworker e plataformas de anotação IA; medir tempo até aprovação e saque.
+- Comparar cenários para atingir R$150 líquido (1×R$150, 2×R$75, 3×R$50) e tempo operacional por entrega.
+
+**Gate:** criada a investigação PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE. PHASE_03.3 permanece aberta em paralelo, PHASE_04 continua QUEUED/NOT_STARTED. Nenhum cadastro, candidatura, contato, publicação, venda, gasto ou deploy foi realizado. Receita R$0; despesas R$0.
