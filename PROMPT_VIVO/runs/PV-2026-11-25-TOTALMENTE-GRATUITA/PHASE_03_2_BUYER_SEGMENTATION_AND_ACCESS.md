@@ -85,3 +85,9 @@ Investigar se o excesso de candidatos/propostas cria compradores em dois lados: 
 3. No lado comprador, triagem e shortlist têm orçamento, mas exigem competência em recrutamento, proteção de dados e confiança; não é microserviço imediato para iniciante sem supervisão.
 4. Para primeiro pagamento, investigar parceria com agências/recrutadores e entrega de pesquisa/organização não sensível, em vez de concorrer diretamente em marketplaces saturados.
 5. Não aprovar oferta, produto, preço ou segmento. PHASE_03.2 continua IN_PROGRESS / CONTINUE; PHASE_03.1 continua PAUSED / CONTINUE; PHASE_04 continua QUEUED / NOT_STARTED.
+
+
+## Rodada 20 — PHASE_03.3 como trilha subordinada (26/11/2026)
+A PHASE_03.2 permanece aberta e passa a incluir a subfase investigativa PHASE_03.3 COMMUNITY-LED MARKET VALIDATION. Objetivo: testar aquisição orgânica por comunidades e a hipótese de inteligência de conversão para freelancers.
+S215–S223 revelam concorrente direto Scoutly (R$27,90/mês), substituto gratuito Workaholic, alertas nativos nas plataformas e comunidades com regras restritivas. Portanto, não construir um agregador genérico. A lacuna potencial deve estar em curadoria/decisão vertical com vantagem explicável e não replicada pelos produtos existentes; isso ainda não está provado.
+A aquisição por comunidade é plausível, inclusive há projeto freelance remunerado de community-led growth (S221), mas cada comunidade deve ser tratada conforme regras. Nenhum post, contato, cadastro ou gasto realizado. PHASE_03.2 IN_PROGRESS / CONTINUE.
