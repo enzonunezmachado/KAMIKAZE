@@ -31,3 +31,12 @@ Pendências: investigar comunidades brasileiras e Reddit original; abrir fontes 
 19. O que exatamente o usuário consegue entregar com qualidade em planilhas, documentos, edição e pesquisa? Validar por mini teste antes de ofertar.
 20. Quais alternativas de pagamento pessoa física podem gerar tarifa quando usadas comercialmente? Conferir o banco e as regras vigentes.
 21. Há uma forma de monetizar conteúdo em prazo curto sem audiência? A evidência atual sugere que não via programa de anúncios.
+
+## Perguntas novas da PHASE_02_DEMAND
+22. Quais pedidos de pesquisa de mercado estão realmente ativos e qual o orçamento final, não apenas mínimo?
+23. Que tipo de pesquisa pode ser entregue em 24–48h com links conferidos e escopo controlado?
+24. Quais nichos de pequenos negócios têm problemas repetidos de catálogo, pedidos, documentos e informação?
+25. Como alcançar compradores fora de plataformas sem spam: comunidades com pedidos explícitos, indicações, parcerias e conteúdo de demonstração?
+26. Qual serviço pode ser demonstrado com uma amostra pública sem usar dados de terceiros nem fingir case?
+27. Quais trabalhos exigem disponibilidade síncrona, inglês, portfólio, softwares pagos ou expertise que tornam inviável a entrada imediata?
+28. Como estimar o valor líquido depois da comissão e do prazo de liberação de cada plataforma?
