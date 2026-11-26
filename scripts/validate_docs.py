@@ -10,22 +10,23 @@ ROOT = Path(__file__).resolve().parents[1]
 RUN = "PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA"
 
 REQUIRED_FILES = [
-    "AGENTS.md", "README.md", "PROMPT_VIVO/AGENTS.md",
-    "PROMPT_VIVO/README.md", "PROMPT_VIVO/CURRENT_WORK.md",
-    "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md", "PROMPT_VIVO/BOOTSTRAP.md",
+    "AGENTS.md", "README.md",
+    "PROMPT_VIVO/AGENTS.md", "PROMPT_VIVO/README.md",
+    "PROMPT_VIVO/CURRENT_WORK.md", "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md",
+    "PROMPT_VIVO/BOOTSTRAP.md", "PROMPT_VIVO/QUALITY_GATE.md",
     "operations/README.md", "operations/state.toml", "operations/STATE.md",
     "operations/STATE_HISTORY.md", "operations/COMPANY_SOLUTIONS/README.md",
     "PROMPT_VIVO/runs/README.md", f"{RUN}/README.md",
-    "PROMPT_VIVO/PHASES/README.md", "scripts/README.md",
-    ".github/README.md", ".github/workflows/README.md", "portfolio_site/docs/README.md",
     f"{RUN}/RUN_STATE.md", f"{RUN}/RUN_HISTORY.md",
     f"{RUN}/PHASE_CONTROL.md", f"{RUN}/RESUME_PACKET.md",
     "PROMPT_VIVO/knowledge/README.md", "PROMPT_VIVO/PHASES/README.md",
-    "PROMPT_VIVO/templates/README.md", "scripts/README.md", ".github/README.md",
-    ".github/workflows/README.md", "mkdocs.yml",
-    "requirements-docs.txt", "portfolio_site/README.md",
-    "portfolio_site/docs/index.md", "portfolio_site/docs/README.md", "scripts/validate_docs.py",
-    ".github/workflows/docs-quality.yml",
+    "PROMPT_VIVO/templates/README.md", "scripts/README.md",
+    ".github/README.md", ".github/workflows/README.md",
+    ".github/workflows/docs-quality.yml", "scripts/validate_docs.py",
+    "mkdocs.yml", "requirements-docs.txt",
+    "portfolio_site/README.md", "portfolio_site/docs/README.md",
+    "portfolio_site/docs/index.md", "portfolio_site/docs/solucoes.md",
+    "portfolio_site/docs/projetos.md", "portfolio_site/docs/processo.md",
 ]
 
 LINE_BUDGETS = {
@@ -34,6 +35,7 @@ LINE_BUDGETS = {
     "PROMPT_VIVO/BOOTSTRAP.md": 180,
     "PROMPT_VIVO/CURRENT_WORK.md": 100,
     "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md": 260,
+    "PROMPT_VIVO/QUALITY_GATE.md": 180,
     "operations/STATE.md": 100,
     f"{RUN}/README.md": 100,
     f"{RUN}/RUN_STATE.md": 100,
@@ -47,8 +49,11 @@ NAV_FILES = [
     "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md", "operations/README.md",
     "operations/STATE.md", "PROMPT_VIVO/runs/README.md",
     f"{RUN}/README.md", f"{RUN}/RUN_STATE.md",
-    f"{RUN}/RESUME_PACKET.md", "portfolio_site/README.md",
-    "portfolio_site/docs/index.md", "portfolio_site/docs/README.md",
+    f"{RUN}/RESUME_PACKET.md", "PROMPT_VIVO/PHASES/README.md",
+    "PROMPT_VIVO/templates/README.md", "scripts/README.md",
+    ".github/README.md", ".github/workflows/README.md",
+    "portfolio_site/README.md", "portfolio_site/docs/README.md",
+    "portfolio_site/docs/index.md",
 ]
 
 
@@ -96,11 +101,18 @@ def main() -> int:
                 content = path.read_text(encoding="utf-8")
                 for needle in needles:
                     if needle and needle not in content:
-                        errors.append(f"{relative} is out of sync with operations/state.toml: missing {needle}")
+                        errors.append(
+                            f"{relative} is out of sync with operations/state.toml: missing {needle}"
+                        )
 
-        for key, expected in phases.items():
-            if expected not in (ROOT / f"{RUN}/RUN_STATE.md").read_text(encoding="utf-8"):
-                errors.append(f"RUN_STATE.md is out of sync with state.toml phase {key}: {expected}")
+        run_state_path = ROOT / f"{RUN}/RUN_STATE.md"
+        if run_state_path.is_file():
+            run_state = run_state_path.read_text(encoding="utf-8")
+            for key, expected in phases.items():
+                if expected not in run_state:
+                    errors.append(
+                        f"RUN_STATE.md is out of sync with state.toml phase {key}: {expected}"
+                    )
 
     for relative in NAV_FILES:
         source = ROOT / relative
