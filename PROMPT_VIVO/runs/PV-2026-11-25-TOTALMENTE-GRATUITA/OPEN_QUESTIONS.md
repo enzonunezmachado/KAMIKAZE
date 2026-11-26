@@ -209,3 +209,13 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 - Empresas estruturadas: quais requisitos de fornecedor, documentação, seguro, portfólio, experiência e processo de compras tornam a entrada desproporcional?
 - B2C: quais subgrupos têm problema urgente e intenção de pagamento sem depender de audiência grande ou anúncios pagos?
 - Qual é o custo real de suporte/manutenção mensal e qual escopo pode ser sustentável?
+
+
+## Atualização PHASE_03.2 — após Rodada 18
+- A hipótese de agências como compradoras intermediárias tem evidência de briefs, mas existe canal não leilão acessível para novo prestador sem portfólio?
+- Que microtarefas operacionais podem ser entregues com amostra demonstrável e baixo risco (pesquisa de referências, organização de Drive, QA de publicação, relatório semanal, follow-up)?
+- Como formalização MEI/CNPJ impacta os projetos recorrentes e qual alternativa legal existe sem abrir custos antes da validação?
+- Para B2C, qual microproblema pode ser alcançado organicamente sem audiência e sem anúncio?
+- Para pequenas empresas, quais serviços podem ser contratados como projeto de baixo risco sem homologação/contrato complexo?
+- Qual o preço realmente pago e quanto tempo de trabalho é exigido em apoio operacional de agência/assistente virtual?
+- Que evidência comprova renovação de fee mensal em vez de apenas intenção de parceria?
