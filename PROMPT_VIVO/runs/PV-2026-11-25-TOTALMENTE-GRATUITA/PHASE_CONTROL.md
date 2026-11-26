@@ -102,3 +102,17 @@ O usuário rejeitou Hub Data por não querer registrar atividades domésticas pa
 Pesquisa de manhua: leitura de capítulos de terceiros é fraca por reused content do YouTube e direitos autorais brasileiros; voz própria/IA não resolve. Não priorizar; reavaliar apenas em formato de crítica/análise original e uso autorizado de imagens.
 Pesquisa macro: existe demanda digital, mas serviço genérico é concorrido. Cetic.br e Sebrae sugerem lacunas operacionais em WhatsApp, CRM, precificação, caixa e vendas; Upwork/Fiverr apontam crescimento de tarefas específicas, enquanto 99Freelas demonstra concorrência intensa em landing pages genéricas.
 **Decisão:** CONTINUE_PHASE_03.1. Não avançar à PHASE_04 ainda. Próxima rodada deve aprofundar hipóteses operacionais e de pesquisa comercial, com exemplos atuais de projetos e validação de preço/escopo, sem microatualizações ao usuário. Reavaliar cada hipótese após duas rodadas sem evidência incremental; após cinco rodadas sem evidência de compra mais forte que anúncio/listagem, reestruturar o portfólio e considerar teste de venda supervisionado (com aprovação) ou mudança de estratégia, sem encerrar automaticamente todo o Kamikaze.
+
+
+## Atualização PA-019 — auditoria e nova subfase (25/11/2026)
+**Entrada do usuário:** investigar todos os públicos, desde que sejam segmentos com os quais ele possa aprender a lidar e executar; não assumir B2C ou B2B como escolha. Considerar diferença entre autoridade exigida por empresas, venda direta a pessoas físicas e recorrência em negócios pequenos. Exemplos de site/manutenção e pesquisa mensal são hipóteses, não decisões.
+
+**Auditoria de PHASE_03.1_PURCHASE_EVIDENCE**
+- RESPONDIDO: há compradores que pagam por pesquisa aplicada, coleta/comparação de preços, pesquisa de produtos, sites, cardápios digitais e manutenção; existem sinais de demanda em pessoas físicas/consumidores digitais e pequenos negócios.
+- PARCIAL: canal de aquisição sem leilão; confiança/autoridade; recompra real; disposição a pagar por serviços recorrentes; adequação de entrega para iniciante.
+- NÃO RESPONDIDO: comparação sistemática entre segmentos e economia de aquisição por segmento.
+- Conclusão: não encerrar PHASE_03.1. Pausar dependência e criar PHASE_03.2 para preencher a dimensão do comprador. A nova fase pode retroalimentar 03.1.
+
+**Novo critério transversal:** avaliar o caminho completo público → problema/gatilho → descoberta → confiança → compra → entrega → recompra/indicação. Separar demanda do problema, intenção de contratar, contratação concluída, recompra comprovada e canal acessível. Não converter estatística de uso em prova de compra de nosso serviço.
+
+**Ação:** executar PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS. PHASE_04 continua bloqueada até a síntese das duas subfases e um gate explícito.
