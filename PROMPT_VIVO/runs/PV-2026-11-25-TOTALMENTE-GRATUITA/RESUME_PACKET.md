@@ -434,7 +434,7 @@ Documento: `PROMPT_VIVO/knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fo
 
 
 ## Novo sistema operacional — Motor de Diagnóstico e Soluções Empresariais (26/11/2026)
-- Estrutura: [operations/COMPANY_SOLUTIONS/README.md](../../../../operations/COMPANY_SOLUTIONS/README.md).
+- Estrutura: [operations/COMPANY_SOLUTIONS/README.md](../../../operations/COMPANY_SOLUTIONS/README.md).
 - Objetivo: lotes de 20 empresas únicas, pesquisa comparável, ranking de Conversion Fit e Business Value Fit, decisão de contato/prototipagem, histórico completo e deduplicação entre rodadas.
 - Arquivos centrais: CONTROL_TOWER; COMPANY_MASTER_REGISTER; CONTACT_AND_SUPPRESSION_REGISTER; REVENUE_AND_COST_REGISTER; BATCHES/BATCH_TEMPLATE; COMPANIES/COMPANY_DOSSIER_TEMPLATE; PROJECTS/PROJECT_TEMPLATE; RECURRING/CONTRACT_TEMPLATE; playbooks de ranking, status e governança.
 - Cada empresa tem Company ID permanente. Lotes futuros excluem empresas já registradas da contagem de novas; reavaliação explícita usa o mesmo ID. Recusa e opt-out não podem ser tratados como simples baixa prioridade.
