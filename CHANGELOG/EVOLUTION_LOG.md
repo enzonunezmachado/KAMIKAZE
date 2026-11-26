@@ -41,3 +41,24 @@ O histórico pessoal do responsável não deve determinar o mercado escolhido. A
 ## Como manter este histórico
 
 Adicionar uma nova seção no topo sempre que houver uma mudança relevante de identidade, escopo, meta, critérios, estratégia ou decisão. Registrar o motivo, os arquivos alterados, o que foi removido/preservado e o novo estado. Não apagar decisões antigas deste histórico; corrigir o rumo com uma nova entrada.
+
+
+## 2026-11-25 — Criação do sistema Prompt Vivo
+
+### Motivo
+O usuário propôs uma estrutura viva de arquivos Markdown que instrui a IA a conduzir pesquisas profundas em etapas, registrar resultados, atualizar os próprios prompts, criar especializações e retomar trabalhos em novos chats.
+
+### Alterações
+- Criada a pasta `PROMPT_VIVO/` com README, CORE, Master Prompt, protocolo de execução, método de pesquisa, padrão de evidências, Quality Gate, autoaperfeiçoamento, memória/transferência e template.
+- Criadas seis fases de pesquisa reutilizáveis, de definição de escopo à síntese e decisão.
+- Criadas pastas-base para execuções, conhecimento especializado e templates.
+- Integrado o sistema à documentação principal do Kamikaze e ao estado operacional.
+
+### Princípios definidos
+- Cada execução tem memória própria e checkpoints persistentes.
+- A IA pode melhorar métodos e criar módulos especializados, mas mudanças na arquitetura central e no escopo exigem aprovação.
+- A pesquisa deve ser rastreável, ampla, crítica e baseada em evidências.
+- A documentação permite continuidade entre chats, desde que o próximo chat consiga acessar os arquivos.
+
+### Estado
+Arquitetura inicial criada. Ainda falta executar um ciclo real de pesquisa com o Prompt Vivo para avaliar a eficácia e ajustar o sistema com base no uso.
