@@ -16,11 +16,15 @@ REQUIRED_FILES = [
     "operations/README.md", "operations/state.toml", "operations/STATE.md",
     "operations/STATE_HISTORY.md", "operations/COMPANY_SOLUTIONS/README.md",
     "PROMPT_VIVO/runs/README.md", f"{RUN}/README.md",
+    "PROMPT_VIVO/PHASES/README.md", "scripts/README.md",
+    ".github/README.md", ".github/workflows/README.md", "portfolio_site/docs/README.md",
     f"{RUN}/RUN_STATE.md", f"{RUN}/RUN_HISTORY.md",
     f"{RUN}/PHASE_CONTROL.md", f"{RUN}/RESUME_PACKET.md",
-    "PROMPT_VIVO/knowledge/README.md", "mkdocs.yml",
+    "PROMPT_VIVO/knowledge/README.md", "PROMPT_VIVO/PHASES/README.md",
+    "PROMPT_VIVO/templates/README.md", "scripts/README.md", ".github/README.md",
+    ".github/workflows/README.md", "mkdocs.yml",
     "requirements-docs.txt", "portfolio_site/README.md",
-    "portfolio_site/docs/index.md", "scripts/validate_docs.py",
+    "portfolio_site/docs/index.md", "portfolio_site/docs/README.md", "scripts/validate_docs.py",
     ".github/workflows/docs-quality.yml",
 ]
 
@@ -44,7 +48,7 @@ NAV_FILES = [
     "operations/STATE.md", "PROMPT_VIVO/runs/README.md",
     f"{RUN}/README.md", f"{RUN}/RUN_STATE.md",
     f"{RUN}/RESUME_PACKET.md", "portfolio_site/README.md",
-    "portfolio_site/docs/index.md",
+    "portfolio_site/docs/index.md", "portfolio_site/docs/README.md",
 ]
 
 
