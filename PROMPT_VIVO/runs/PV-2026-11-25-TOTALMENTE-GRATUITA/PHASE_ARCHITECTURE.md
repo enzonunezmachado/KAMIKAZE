@@ -54,3 +54,12 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - S074: curadoria de fornecedores/produtos para e-commerce, concluída; continuidade apenas potencial.
 - S075: pesquisa de tendências três vezes por semana, concluída; duração e renovação não conhecidas.
 **Decisão:** CONTINUE PHASE_03.1. Compra de pesquisa aplicada a decisões/rotinas está bem demonstrada, mas canais sem leilão, recompra e adequação de habilidade ainda faltam. PHASE_04 permanece QUEUED/NOT_STARTED.
+
+
+
+## PA-010 — Quinta rodada: canal, capacidade de iniciante e elegibilidade
+**Data:** 25/11/2026. **Fontes:** S076–S086.
+- Google e survey local indicam busca/networking/indicação como caminhos gerais, mas não comprovam conversão para pesquisa competitiva; jornada de compra B2B pode levar ~2 meses.
+- Tarefas operacionais de e-commerce têm demanda aparente, mas pedidos recentes exibem 132–181 propostas e exigem prática; conteúdo genérico com IA está comoditizado.
+- Workana e Upwork exigem 18 anos; Fiverr permite menor somente via conta de responsável e supervisão. Brasil: 16–17 relativamente incapaz para certos atos; MEI 16–18 requer emancipação. Elegibilidade/recebimento requerem rota legal e adulto responsável quando aplicável.
+**Decisão:** CONTINUE PHASE_03.1. Abrir perguntas específicas sobre rota legal de recebimento, parceria supervisionada, canais de confiança e demonstração de competência. PHASE_04 continua QUEUED/NOT_STARTED.
