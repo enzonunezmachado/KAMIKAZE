@@ -113,3 +113,13 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - S101–S103: Prolific aceita residentes no Brasil com mais de 18 anos, mas usa waitlist e verificação; saque a partir de £6/US$6 aprovados via PayPal, com até 22 dias para aprovação de submissões. Não é aposta para receita imediata sem conta ativa.
 - S104: Outlier tem pagamento semanal, mas exige onboarding e qualificação específica; a vaga PT-BR encontrada era de coding expertise, não uma vaga genérica.
 - Estado comercial permanece: receita R$0, despesas R$0, nenhuma oportunidade aprovada, nenhuma candidatura ou contato.
+
+
+## Rodada 8 — 25/11/2026
+- YPAI: páginas oficiais exibem vaga fechada (S105), apesar de snippets indexados.
+- CrowdSource Labs: projeto remoto de conversa em dupla anunciado por R$200/pessoa após aprovação; janela inicial 7–8/11 já passou, possíveis próximos lotes sem garantia (S106–S107).
+- OpenTrain não paga freelancers no Brasil (S108); excluir como canal até mudança oficial.
+- Babel Conversation: taxa local e elegibilidade no Brasil não confirmadas; Babel Voice Actor exclui residentes no Brasil (S112–S113).
+- Lionbridge survey US$10 exige dispositivo não Android, incompatível (S114); vaga de áudio US$10/h sem volume/calendário de pagamento.
+- Fera Comunicação tem vaga recente de coordenação de conteúdo, valor mensal não divulgado e disponibilidade sob demanda (S115).
+- Gate PHASE_03.1 CONTINUE; PHASE_04 não iniciada; nenhuma candidatura/contato/formulário/receita.
