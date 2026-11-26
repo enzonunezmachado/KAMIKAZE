@@ -1,35 +1,28 @@
-# CURRENT WORK — Ponteiro automático de continuidade
+# CURRENT WORK — Ponteiro canônico de continuidade
 
-**Última atualização:** 2026-11-26
-**Regra:** este arquivo é o primeiro ponteiro para identificar o trabalho mais recentemente desenvolvido/atualizado no Kamikaze. Não inferir o foco apenas pelo número da fase ou pelo nome mais recente de arquivo.
+**Atualizado:** 26/11/2026  
+**Função:** identificar a última entrega substantiva e a próxima ação de retomada. Não determina, por si só, a fase ativa da pesquisa.
 
-## Último trabalho desenvolvido
-- **Linha:** Motor de Diagnóstico e Soluções Empresariais
-- **Local:** `operations/COMPANY_SOLUTIONS/`
-- **Última entrega:** estrutura documental para lotes de 20 empresas, ranking, registro mestre, dossiês, contatos/supressão, projetos, contratos recorrentes e financeiro.
-- **Estado:** DOCUMENTADO / NÃO ATIVADO.
-- **O que NÃO aconteceu:** nenhum lote foi pesquisado, nenhuma empresa cadastrada/contatada, nenhuma proposta enviada, nenhum projeto/contrato/implantação ou gasto realizado.
-- **Referência:** `operations/COMPANY_SOLUTIONS/README.md` e `CONTROL_TOWER.md`.
+## Última entrega substantiva
+- **Linha:** Governança da arquitetura documental + validação automatizada + site Markdown.
+- **Entrega:** AGENTS.md em dois níveis; governança da arquitetura; READMEs operacionais; estado estruturado em TOML; snapshots compactos; histórico separado; validador Python; GitHub Actions; MkDocs e esqueleto de portfólio demonstrativo em Markdown.
+- **Estado:** DOCUMENTADO / IMPLEMENTAÇÃO DOCUMENTAL GRAVADA; CI pendente de execução/verificação.
+- **Limites:** site não publicado; nenhuma oferta/case real inventado; nenhum contato ou gasto; nenhum agente externo instalado ou executado.
 
-## Linha de pesquisa principal ainda ativa
-- **Execução:** `PV-2026-11-25-TOTALMENTE-GRATUITA`
-- **Foco:** pesquisa ampla de oportunidades digitais e monetização com IA; frentes PHASE_03.1–03.5 permanecem com lacunas e estados que precisam ser reconciliados.
-- **PHASE_04_FEASIBILITY:** QUEUED / NOT_STARTED; não iniciar sem gate factual e autorização apropriada.
-- **Orçamento operacional:** R$0.
-- **Meta contextual:** buscar R$150 recebidos até 06/12/2026; objetivo, não garantia.
+## Linha operacional anterior preservada
+- **Motor de Diagnóstico e Soluções Empresariais:** `operations/COMPANY_SOLUTIONS/`.
+- **Estado:** DOCUMENTADO / NÃO ATIVADO. Nenhum lote, cadastro de empresa, contato, proposta, projeto, contrato ou gasto foi realizado.
 
-## Próxima ação obrigatória ao retomar
-1. Auditar os registros mais recentes em `PROMPT_VIVO/SESSION_LOG.md` e no log da execução.
-2. Reconciliar os estados divergentes entre `operations/STATE.md`, `RUN_STATE.md`, `PHASE_CONTROL.md` e `RESUME_PACKET.md`, usando eventos confirmados e o trabalho mais recente como evidência.
-3. Atualizar este ponteiro e todos os resumos/atalhos dependentes no mesmo checkpoint.
-4. Só então continuar a pesquisa ou ativar a linha empresarial, conforme a decisão registrada e autorização do usuário.
+## Pesquisa principal
+- **Execução:** `PV-2026-11-25-TOTALMENTE-GRATUITA`.
+- **Foco registrado:** PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION — IN_PROGRESS / CONTINUE.
+- PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2–03.4 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED.
+- Fonte estruturada: `operations/state.toml`; detalhes: RUN_STATE e PHASE_CONTROL.
 
-## Regra de atualização automática operacional
-Este é o ponteiro canônico. Em toda unidade relevante de trabalho, a IA responsável pelo checkpoint deve:
-1. identificar qual linha/artefato foi efetivamente mais recentemente desenvolvido ou atualizado;
-2. atualizar este arquivo com entrega, estado, evidências, limites e próxima ação;
-3. sincronizar os arquivos de entrada (BOOTSTRAP, NEXT_CHAT_PROMPT e operations/STATE) para apontarem para este arquivo, sem manter cópias independentes do foco atual;
-4. atualizar RUN_STATE/RESUME_PACKET quando o estado da execução mudar;
-5. confirmar a gravação no GitHub antes de declarar a atualização concluída.
+## Próxima ação
+1. Verificar resultado da GitHub Actions `Documentation quality` após as alterações.
+2. Corrigir qualquer falha de links, lint, orçamento de linhas ou build MkDocs.
+3. Depois, continuar a pesquisa conforme PHASE_CONTROL, sem ativar Company Solutions ou PHASE_04 sem autorização.
 
-**Importante:** o ponteiro não muda só porque um arquivo foi tocado, nem porque uma fase foi criada. Só muda após trabalho substantivo confirmado. A atualização ocorre no checkpoint da sessão ativa; não existe execução em segundo plano nem atualização após o chat terminar.
+## Regra de atualização
+Atualizar este arquivo somente após uma entrega substantiva confirmada. Em cada checkpoint, sincronizar state.toml, STATE.md, RUN_STATE, PHASE_CONTROL quando aplicável, RESUME_PACKET e logs. Não inferir a última entrega por timestamp. Não existe execução em segundo plano.
