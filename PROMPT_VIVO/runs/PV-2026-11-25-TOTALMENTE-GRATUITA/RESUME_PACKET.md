@@ -250,3 +250,10 @@ S186–S196: briefs de assistência virtual e apoio operacional mostram problema
 - **Conclusão:** não criar clone genérico de alertas/propostas. A categoria ampla tem concorrente direto e substitutos grátis; não é possível afirmar saturação total ou vendas dos concorrentes. Investigar se existe lacuna vertical de decisão/curadoria não resolvida.
 - Estratégia comunitária só deve ser transparente: participação real, contribuição útil, divulgação de vínculo quando pertinente, autorização/moderação e respeito às regras. Nada de depoimento, pagamento, uso ou resultado inventado.
 - PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Nenhum contato, post, cadastro, demo, anúncio ou gasto. Receita R$0; despesas R$0.
+
+
+### Complemento da Rodada 20 — S224–S226
+- Freelance Match anuncia R$39,99/mês, mas declara que pagamentos ainda não são processados; não contar como venda comprovada (S224).
+- FreelaSync anuncia planos de R$14,90 e R$49,90, sem dados públicos de assinantes ou retenção (S225).
+- Uma freelancer relata ter pago R$54,90 pelo plano intermediário do 99Freelas para visualizar a média das propostas concorrentes, evidência individual de compra por inteligência competitiva, mas de um recurso nativo da plataforma (S226).
+- Isso reforça a hipótese de monetização por informação/decisão, não prova de demanda por SaaS externo.
