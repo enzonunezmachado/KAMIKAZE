@@ -593,3 +593,13 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - Limitações identificadas: contagem de habilidades divergente entre docs (50/52/53); registry gerado em 19/10/2026 apesar da versão 1.2.1; skill antiga de busca é ponte para skill canônica de verificação; scoring legado não é score oficial; scout usa proxies/estimativas quando faltam dados; regras de plataformas são heurísticas e devem ser verificadas; FTC é referência americana, não substitui CDC/CONAR/LGPD no Brasil; casos numéricos não estão independentemente validados no próprio repo; algumas promessas de viralização/ROI são aspiracionais; CLI requer Bun/execução local e consulta a registro externo, sem provar qualidade dos programas.
 - Não copiar os benchmarks, claims, heurísticas, automações ou pontuações como fatos. Não instalar, clonar, executar ou publicar workflows. O repositório foi estudado em modo leitura.
 - **Decisão:** adotar padrões arquiteturais e de qualidade no Prompt Vivo/Kamikaze, reescrevendo em linguagem e processos próprios; não importar código nem depender de APIs pagas.
+
+
+## 19. Auditoria de evidência e governança do MAK — 26/11/2026
+- A auditoria do Affitor encontrou 53 skills canônicas no snapshot atual, não 52; 50 é contagem histórica da release 1.2.0. Ver S403 e documento de governança.
+- Os scores sociais e benchmarks do Affitor contêm proxies/estimativas; não tratar como métricas exatas ou previsão de compra. Aplicar taxonomia de evidência a cada número.
+- Recomendações de plataforma são heurísticas até serem apoiadas por política oficial ou experimento comparável.
+- Casos HeyGen/Semrush/Webflow do repositório não têm corroboração primária suficiente; não usar como benchmarks ou promessas. Evals não provam eficácia comercial.
+- Disclosure FTC precisa ser adaptado para Brasil: CDC, Decreto 7.962/2013, CONAR Guia 2026 e regras de cada plataforma. TikTok exige ferramenta de disclosure para conteúdo promocional; Meta prevê rótulo de parceria paga para branded content.
+- Percentuais de lift, bônus 3–10x, garantias e urgência do material Affitor não têm validação suficiente no repo; usar apenas alegações verdadeiras, bônus entregáveis, garantias sob controle do operador e escassez verificável.
+- Gate de compliance e claims incorporado ao MAK; nenhum teste ou publicação foi realizado.
