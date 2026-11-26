@@ -34,3 +34,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 - **Impacto:** Hub Data = REJECTED_BY_USER; não insistir. Manhua reading = hipótese investigada e não priorizada por copyright/reused content. Aumentar investigação de serviços online específicos, operação/WhatsApp, pesquisa comercial e conteúdo original. Preparar relatório de situação.
 - **Comunicação:** entregar consolidação em bloco, sem interrupções por subpesquisa.
 - **Status:** APLICADO.
+
+
+## 25/11/2026 — ampliação de segmentação de compradores (APLICADO)
+**Entrada:** o usuário quer investigar todos os públicos com os quais possa aprender a lidar: pessoas físicas, profissionais independentes, pequenos negócios e empresas. Observou que empresas podem pagar mais, mas exigem autoridade, confiança e prova; negócios pequenos podem ter problemas digitais/operacionais e comprar implantação + manutenção; isso é hipótese, não garantia de aquisição. O usuário não quer assumir que consegue converter automaticamente um comércio local nem que empresas aceitam qualquer fornecedor.
+
+**Impacto:** ampliar a pesquisa além da lista de serviços e avaliar quem compra, por que compra, como descobre fornecedores, que prova exige, quanto paga, quão acessível é a aquisição e se existe recorrência verdadeira. Todos os segmentos serão pesquisados; a seleção final será por evidência e capacidade de execução, não por preferência prévia. Exemplos de site, manutenção mensal e pesquisa recorrente permanecem hipóteses.
+
+**Arquivos:** PHASE_ARCHITECTURE, PHASE_CONTROL, RUN_STATE, RESEARCH_PLAN, FINDINGS, OPEN_QUESTIONS, VALIDATION_MATRIX, SOURCE_LEDGER, novo PHASE_03_2_BUYER_SEGMENTATION_AND_ACCESS, checkpoint 03.2, RESUME_PACKET, MEMORY_HANDOFF e operations/STATE.
