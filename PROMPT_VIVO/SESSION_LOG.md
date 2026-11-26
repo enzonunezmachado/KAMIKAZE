@@ -68,3 +68,11 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 ## 2026-11-26 — estrutura documental de empresas e projetos
 - Criado `operations/COMPANY_SOLUTIONS/` para lotes de 20 empresas únicas, ranking, deduplicação, dossiês, status de contato/venda/entrega, projetos, contratos recorrentes e financeiro.
 - Estado DOCUMENTADO / NÃO ATIVADO; sem empresas inseridas, lote, contato, projeto, venda ou gasto.
+
+
+### KAM-2026-11-26-006 — Ponteiro canônico de trabalho atual
+- **Pedido:** fazer o sistema apontar automaticamente para a última linha/entrega desenvolvida ou atualizada.
+- **Executado:** criado `PROMPT_VIVO/CURRENT_WORK.md` como ponteiro único; atualizado BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT e operations/STATE; adicionado apontamento no RESUME_PACKET e registro da entrada do usuário.
+- **Regra:** em cada checkpoint substantivo, atualizar o ponteiro e sincronizar atalhos; distinguir última entrega de linha de pesquisa ainda ativa; não inferir foco pela data/nome de arquivo.
+- **Limite:** checkpoint exige sessão/ferramenta ativa; não existe execução em segundo plano após o chat terminar.
+- **Persistência:** commits confirmados para os arquivos listados neste evento.
