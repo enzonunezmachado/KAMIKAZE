@@ -151,3 +151,13 @@ Preferência de comunicação: pesquisa orgânica em fluxo contínuo, sem enviar
 - Agências podem contratar apoio operacional recorrente quando fornecem estratégia e materiais; hipótese de canal intermediário com melhor encaixe, mas exige confiabilidade, comunicação, ferramentas e prazos.
 - PMEs estão cautelosas e não devem ser presumidas como compradoras fáceis; grandes empresas têm barreiras formais.
 - Próxima etapa: validar aquisição sem marketplace, prova demonstrável, preço/tempo e renovação.
+
+
+
+## Rodada 19 — S197–S214 / economia do excesso de oferta
+- Nova hipótese: OPPORTUNITY_OVERSUPPLY_ECONOMY. Investigar compradores tanto entre profissionais que disputam oportunidades quanto entre contratantes sobrecarregados por candidaturas.
+- Freelance Match (R$39,99/mês) e FreelaSync (R$14,90–49,90/mês) já cobrem busca, match, propostas e pipeline; clone genérico não é prioridade.
+- ATS e recrutamento gerenciado têm preços públicos (R$49/mês até R$790/licença e R$598–747 por vaga), mas exigem confiança e podem envolver dados pessoais/sensíveis.
+- 99Freelas: exemplos recentes de 319–538+ propostas em assistência/triagem/suporte; snapshots variam. Um projeto de triagem mostra vencedor, sem pagamento confirmado.
+- Melhor próximo foco: identificar lacunas verticais e canais de parceria/referral, priorizando pesquisa/curadoria/organização não sensível; não construir SaaS nem assumir papel de RH ainda.
+- Estado: PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Sem ações externas.
