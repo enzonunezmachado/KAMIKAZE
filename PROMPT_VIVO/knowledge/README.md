@@ -16,3 +16,7 @@ Esta pasta contém módulos reutilizáveis de conhecimento por domínio, criados
 - perguntas ainda abertas.
 
 Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer de pesquisa documentada e distinguir conhecimento duradouro de informação que envelhece.
+
+
+## Estudo aplicado ao Motor de Aquisição Kamikaze
+- [MAK — Estudo Affitor e adaptação metodológica](MAK_AFFITOR_METHOD_ADAPTATION.md): auditoria do repositório Affitor/affiliate-skills v1.2.1 e síntese dos padrões que podem ser adaptados ao Kamikaze sem importar código. Inclui arquitetura modular, flywheel, pesquisa, conteúdo, distribuição, mensuração, compliance, feedback e a extensão de relacionamento/memória de marca.
