@@ -264,3 +264,32 @@ O Affitor é forte como **biblioteca de workflows e arquitetura de raciocínio p
 - Agentic AI social media manager: https://github.com/AshmithaRajadurai/agentic-ai-social-media-manager
 - hidrix-tools: https://github.com/sonpiaz/hidrix-tools
 
+
+
+## 4. Extensão de pesquisa — futuro módulo de tráfego pago (26/11/2026)
+
+O acionador e blueprint completos estão em [PAID_TRAFFIC_MODULE_ACTIVATION.md](PAID_TRAFFIC_MODULE_ACTIVATION.md). O estado é DORMANT / DOCUMENTED / NOT IMPLEMENTED: não autoriza gasto, criação de contas, conexão, alteração ou publicação de anúncios.
+
+### Nova biblioteca de skills: marketing-skills
+- Repositório: https://github.com/irinabuht12-oss/marketing-skills
+- Snapshot da árvore recursiva: 49 arquivos `SKILL.md`; inventário nominal completo no documento do acionador.
+- Capacidades relevantes: auditoria Google/Meta/LinkedIn/Reddit Ads; estrutura de contas; pesquisa de termos; desperdício; orçamento e pacing; lances; CPA/ROAS; fadiga criativa; sobreposição de públicos; tracking/UTM; landing page; atribuição; experimentos; relatórios.
+- Resenha: referência de processos e checklists, não evidência de eficácia dos thresholds ou benchmarks. Algumas skills são genéricas e algumas dependem de Ryze MCP. Verificar a licença, a origem, as instruções e a dependência externa antes de adaptar. Não instalar pacote como está.
+
+### Repositórios adicionais investigados
+| Repositório | Papel potencial | Decisão preliminar |
+|---|---|---|
+| [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) | MCP oficial Google Ads, leitura/relatórios e mutações protegidas por Propose & Confirm | Referência técnica forte; exige projeto Google Cloud, OAuth e developer token; considerar mais tarde |
+| [googleads/google-ads-python](https://github.com/googleads/google-ads-python) | SDK oficial Python para Google Ads API | Referência oficial; não necessário para primeira versão documental |
+| [meta/facebook-python-business-sdk](https://github.com/meta/facebook-python-business-sdk) | SDK oficial Meta em Python | Referência oficial; requer app, token e permissões |
+| [meta/facebook-nodejs-business-sdk](https://github.com/meta/facebook-nodejs-business-sdk) | SDK oficial Meta em Node.js | Referência oficial; mesmas exigências de autenticação |
+| [irinabuht12-oss/google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) | MCP hospedado com ferramentas de Ads e Analytics | Cautela: fornecedor Ryze, trial/planos pagos e acesso sensível a contas |
+| [irinabuht12-oss/n8n-google-meta-ads](https://github.com/irinabuht12-oss/n8n-google-meta-ads) | Workflows n8n apoiados em MCP e serviços externos | Inspiração; dependências externas, não plug-and-play |
+| [konkomaji/AdsOnSheets](https://github.com/konkomaji/AdsOnSheets) | Dashboard/alertas Meta Ads em Sheets + Apps Script | Útil como referência de monitoramento; exige token e permissões |
+| [eduard0-g0mes/meta-ads-n8n-supabase](https://github.com/eduard0-g0mes/meta-ads-n8n-supabase) | Extração de insights Meta para Supabase/Sheets | Padrão de ingestão; requer infra e secrets |
+| [nawazxz/clientreport](https://github.com/nawazxz/clientreport) | Relatórios GA4/Google Ads/Meta self-hosted | Referência de reporting; revisar conectores e segurança |
+| [google/meridian](https://github.com/google/meridian) | Marketing Mix Modeling e planejamento agregado | Avançado; dados históricos e compute tornam-no inadequado ao começo |
+| [mccannac/ai-marketing-reporting-workflow](https://github.com/mccannac/ai-marketing-reporting-workflow) | Relatório de Ads com validação, cálculos determinísticos e aprovação humana | Boa arquitetura de governança; autor declara design spec, não produto implantado |
+
+**Princípio de arquitetura que emerge:** começar com planejamento, análise de dados exportados, cálculo determinístico, skills documentais e revisão humana. Conectar APIs apenas se houver necessidade comprovada e aprovação. Ações de escrita em contas devem usar proposta + confirmação específica. A publicação e o orçamento exigem autorização própria.
+
