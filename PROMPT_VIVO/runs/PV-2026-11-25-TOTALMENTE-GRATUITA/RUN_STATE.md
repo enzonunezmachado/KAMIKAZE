@@ -6,7 +6,7 @@
 - Estado: IN_PROGRESS
 - Fase atual: PHASE_03_3_COMMUNITY_LED_MARKET_VALIDATION (IN_PROGRESS; gate CONTINUE; subfase da PHASE_03.2)
 - Objetivo: descobrir e priorizar oportunidades digitais usando IA ou aceleradas por IA, com custo inicial zero e sem dependência de planos pagos.
-- Pesquisa ativa: evidência de compra, comprador, canal sem leilão e recorrência para serviço de pesquisa/inteligência comercial e possível monitoramento competitivo assistido por IA. Hipótese em investigação, não negócio escolhido.
+- Pesquisa ativa: PHASE_03.3 — validar inteligência de oportunidades para freelancers, compra/retention, diferenciação e aquisição transparente por comunidades. Hipótese em investigação, não negócio escolhido.
 - Meta contextual: buscar R$150 recebidos até 06/12/2026; objetivo, não garantia.
 - Capital autorizado: R$0. Nenhuma compra, assinatura, anúncio, contratação, API paga ou compromisso financeiro.
 - Fases encerradas: PHASE_00_SCOPE (PASS WITH GAPS); PHASE_01_LANDSCAPE (PASS WITH GAPS); PHASE_02_DEMAND (PASS WITH GAPS); PHASE_03_VALIDATION (PASS WITH GAPS, com lacunas transferidas).
