@@ -226,3 +226,10 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Caso mais forte: Stockroom/AppJet, com demo e código público; build/deploy no Free declarado pelo fornecedor. MyClaw: stack $0/mês declarada, 0 pagantes e Vercel Hobby não comercial. Somnia/Toolkiya: padrões local-first/client-side, custos não comprovados.
 - Não houve instalação, clone, execução, app, deploy, conta, contato, publicação ou gasto. Preservar NEXUS e quotas existentes.
 - Fases: PHASE_03.3/03.4/03.5 continuam IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
+
+
+## Linha paralela — serviços digitais locais
+- Documento: `PROMPT_VIVO/knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`.
+- Hipótese: sites/cardápios/catálogos/formulários/automação leve para negócios locais, com implantação + manutenção e escopo proporcional à maturidade.
+- Fontes S454–S466; candidatos exploratórios em Taboão, não qualificados. Respeitar Google Maps no-scraping, WhatsApp opt-in e LGPD.
+- Nenhum contato ou gasto realizado; PHASE_03.5 continua aberta, PHASE_04 não iniciada.
