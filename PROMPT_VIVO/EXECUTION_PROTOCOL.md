@@ -61,6 +61,37 @@ A IA pode encerrar uma linha quando:
 
 Registrar o motivo do encerramento.
 
+## 5.1 Arquitetura adaptativa de fases (obrigatória)
+
+A sequência PHASE_00–PHASE_05 é um modelo inicial reutilizável, não uma esteira fixa nem um limite de seis fases. A IA responsável pela execução deve administrar o ciclo de vida das fases conforme o problema, as evidências e os gates.
+
+### Ações permitidas durante uma execução
+- **Avançar:** iniciar a próxima fase adequada quando o gate permitir.
+- **Aprofundar:** manter a fase aberta e criar subetapas/lotes quando faltarem evidências decisivas.
+- **Dividir:** separar uma fase em duas ou mais quando ela acumular perguntas heterogêneas ou frentes que exigem métodos diferentes.
+- **Mesclar:** combinar fases redundantes quando a separação não agregar qualidade.
+- **Reordenar:** alterar a sequência quando uma dependência ou descoberta exigir outra ordem.
+- **Modificar:** ajustar objetivos, perguntas, métodos e entregáveis das fases futuras para refletir o que foi aprendido.
+- **Adicionar:** criar fase nova quando surgir dimensão relevante não coberta pelo plano atual (ex.: aquisição, economia unitária, privacidade, experimentação, retenção, regulamentação).
+- **Pular/encerrar:** marcar fase ou linha como não necessária, inaplicável, redundante ou sem valor adicional, sempre registrando justificativa e evidências.
+- **Reabrir:** retornar a fase anterior se nova evidência invalidar premissa, decisão ou conclusão.
+
+### Critérios de decisão
+A IA deve avaliar: (1) a fase atual respondeu ao objetivo? (2) há perguntas críticas sem resposta? (3) uma fase existente cobre essas perguntas? (4) uma nova fase aumenta a clareza/controle ou apenas cria burocracia? (5) qual dependência, custo, risco e quota são afetados?
+
+Não criar fase só para manter numeração ou simetria. Não encerrar fase apenas porque acabou o prompt. O critério é a suficiência das evidências e do entregável.
+
+### Governança e rastreabilidade
+1. A IA pode fazer ajustes locais e adaptativos nas fases da execução (Nível 1), sem pedir autorização adicional, desde que permaneçam dentro do escopo e das salvaguardas aprovadas.
+2. Quando a mudança for reutilizável, criar/atualizar instrução especializada (Nível 2) e registrar no changelog.
+3. Toda alteração na arquitetura de uma execução deve ser registrada em PHASE_ARCHITECTURE.md dentro da run, com ID, motivo, data, fases afetadas, mudança, dependências, impacto nas cotas, entregáveis e decisão de gate.
+4. Atualizar RESEARCH_PLAN.md, RUN_STATE.md e MEMORY_HANDOFF.md para refletir a arquitetura vigente. Não deixar a lista de fases desatualizada.
+5. Preservar instruções originais; modificar de forma versionada ou registrar o delta, sem apagar histórico.
+6. Alterações no CORE, hierarquia, salvaguardas ou neste protocolo central continuam sujeitas ao Nível 3 e à aprovação humana, salvo autorização explícita já dada pelo usuário.
+
+### Critério de encerramento de uma fase
+Uma fase pode ser concluída sem criar outra quando seus critérios foram atendidos e não existe trabalho adicional que altere a decisão. Nesse caso, avançar para a fase existente mais útil ou para síntese. Uma fase pode gerar novas fases mesmo que a lista original termine; não existe limite fixo de quantidade.
+
 ## 6. Pesquisa paralela
 
 Dividir a execução em frentes quando isso aumentar cobertura sem prejudicar consistência. Exemplos:
