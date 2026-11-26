@@ -142,3 +142,16 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 
 
 - **PA-018 — 25/11/2026:** acrescentada linha auxiliar de investigação de renda imediata por tarefas remuneradas/AI data collection, sem alterar o objetivo central nem promover essas plataformas a negócio Kamikaze. Motivo: missão imediata de R$150 até 06/12 e as rodadas 13–15 já estavam investigando esse tipo de canal. Dependências: payout verificável, elegibilidade Brasil, disponibilidade real, prazo de aprovação, privacidade e capacidade. PHASE_03.1 continua ativa; PHASE_04 não inicia por causa desta linha auxiliar. Entregáveis: S144–S153, findings e perguntas abertas.
+
+
+## PA-019 — criação da PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS (25/11/2026)
+**Motivo:** o usuário pediu revisão de fase e ampliação explícita da pesquisa para todos os públicos que possam ser atendidos com capacidade aprendida: pessoas físicas, profissionais independentes, microempreendedores/pequenos negócios e empresas estruturadas. A pesquisa anterior analisava sobretudo o que vender, sem segmentar adequadamente quem compra, barreira de confiança, capacidade de pagamento, canal e adequação de iniciante.
+
+**Auditoria da PHASE_03.1:** S056–S075 comprovam compras pontuais e alguns sinais de recorrência pretendida em pesquisa comercial, mas não demonstram recompra efetiva nem canal de aquisição previsível sem marketplace. S157–S174 e S175–S185 ampliam sinais macro e exemplos de contratação, mas não fecham a questão do comprador acessível. Portanto, PHASE_03.1 não passa; fica PAUSED/DEPENDENCY enquanto a subfase de segmentação produz a camada ausente.
+
+**Nova subfase:** PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS — IN_PROGRESS / CONTINUE.
+Escopo: comparar B2C, profissionais independentes, micro/pequenos negócios e empresas estruturadas; identificar problemas, gatilhos, capacidade/disposição de pagamento, confiança/autoridade, canais de aquisição, competição, ticket, recorrência e acessibilidade operacional. Considerar serviços, produtos digitais, conteúdo, ferramentas e modelos híbridos; não pré-selecionar pesquisa de mercado ou criação de sites.
+
+**Regra:** "todos os públicos" significa investigar todos os segmentos, não tentar vender tudo a todos ao mesmo tempo. A seleção posterior será baseada em evidência e no melhor caminho de execução, não em preferência prévia.
+
+**Decisão de fase:** PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED. Nenhum negócio, nicho ou oferta aprovado; nenhuma ação externa autorizada.
