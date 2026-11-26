@@ -130,3 +130,12 @@ Linha auxiliar de renda de curto prazo (sem substituir a hipótese de inteligên
 4. Avaliar cessão de direitos, privacidade doméstica, consentimento, compatibilidade de aparelho e disponibilidade de tarefas antes de recomendar.
 5. Excluir vagas com país de contratação incompatível, pagamento indisponível no Brasil, status fechado ou requisito de idioma/experiência não atendido.
 6. Não fazer cadastro, candidatura, screening, gravação, consentimento ou envio de dados sem autorização explícita.
+
+
+## Rodada 16 — atualização de foco
+1. Aprofundar pesquisa comercial remota com dados públicos: preços, catálogos, concorrentes, fornecedores nacionais, reputação, posicionamento e lacunas.
+2. Procurar pedidos com orçamento/taxa, localização Brasil e requisito de idioma compatível; registrar proposta/interessados e status.
+3. Investigar entregáveis menores e vendáveis em 1–3 dias: relatório de concorrentes, auditoria de catálogo/WhatsApp, planilha de preços, monitoramento simples de concorrentes, organização de dados.
+4. Investigar nichos específicos de edição/produção original, mas não competir genericamente em Reels.
+5. Excluir ofertas de entrada genéricas quando a relação propostas/interessados indicar leilão saturado.
+6. Mapear aquisição fora do marketplace e sinais de demanda repetida, sem publicar/contatar sem aprovação.
