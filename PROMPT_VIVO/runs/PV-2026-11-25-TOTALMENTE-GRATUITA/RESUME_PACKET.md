@@ -73,3 +73,12 @@ Continuar PHASE_03.1: pesquisar aquisição inbound/indicação/parceria sem exe
 - RESOURCE_BUDGET_POLICY.md
 
 Não repetir S054–S066 sem motivo; abrir as fontes originais quando necessário.
+
+## 9. Rodada 3 — aquisição sem leilão (S067–S070)
+- S067: pesquisa Serasa Experian com 313 PMEs: 47% buscam parceiros/outros empreendedores; 40% conversam com pessoas do ramo; 31% usam artigos/notícias em buscadores; 15% contrataram consultoria para melhorar o negócio. Evidência de canais gerais, não específica para inteligência competitiva.
+- S068: estudo Sebrae 2026: em serviços, >80% usam WhatsApp e é canal mais importante para 66%; 70% resolvem desafios sozinhos; só 40% têm planejamento formal; CRM/automação abaixo de 10%. WhatsApp é canal de relacionamento, não autorização para spam.
+- S069: Move+ Sebrae usa agentes, networking, rodadas e aproximação comercial B2B; programa subsidiado, não benchmark direto de venda privada.
+- S070: Sebrae descreve pesquisa de mercado como processo estruturado e lista preços institucionais elevados, não comparáveis ao microserviço.
+- Conclusão: indicação, pares, networking, profissionais complementares e conteúdo de busca merecem teste; aquisição específica de relatório competitivo continua não comprovada.
+- Gate segue CONTINUE na PHASE_03.1; PHASE_04 permanece QUEUED/NOT_STARTED.
+- Próxima ação: identificar gatilhos de compra com prazo e segmentos concretos; mapear canais inbound/comunidades e evidência específica de compra/recompra; sem contatos externos.
