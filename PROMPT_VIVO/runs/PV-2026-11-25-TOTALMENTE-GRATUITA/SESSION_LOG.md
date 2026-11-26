@@ -60,3 +60,11 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Resultado:** boas práticas de validação e integridade, porém demo sem autenticação e sem autorização/tenant isolation visível nas rotas examinadas; não usar dados reais. Termos AppJet declaram processamento EUA/Canadá, tratamento de credenciais/env vars e não retenção de código após coding; disponibilidade não garantida.
 - **Limite:** leitura estática; nenhum teste executado ou pentest. S451–S453.
 - **Persistência:** confirmar commits individuais.
+
+
+### KAM-2026-11-26-005 — Serviços tecnológicos locais assistidos por IA
+- **Pedido:** pesquisar oferta de soluções tecnológicas personalizadas a negócios regionais, com implantação competitiva e manutenção recorrente; encontrar contatos públicos e adaptar oferta à maturidade.
+- **Pesquisa:** 62 pizzarias listadas em Taboão na Solutudo; contatos exploratórios em diretórios; comparação de presença digital de Paiva Pizzas (Saipos/WhatsApp) e Skina da Pizza (WABiz); políticas Google Maps, WhatsApp Business e guia ANPD.
+- **Documento:** `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fontes S454–S466.
+- **Guardrails:** sem scraping Maps, sem WhatsApp frio, sem dados pessoais desnecessários; nenhum contato feito.
+- **Estado:** hipótese em pesquisa; nenhuma implementação ou gasto.
