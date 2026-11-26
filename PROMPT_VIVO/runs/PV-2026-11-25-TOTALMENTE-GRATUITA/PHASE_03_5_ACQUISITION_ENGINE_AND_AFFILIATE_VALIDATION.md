@@ -174,3 +174,17 @@ Adotar a arquitetura e os princípios, não instalar nem importar o repositório
 
 ### Relação com a meta imediata
 A arquitetura de aquisição/relacionamento é um ativo de médio prazo. Não substitui a busca por receita recebida até 06/12/2026. Afiliados podem ter aprovação, atribuição, janela de reembolso e payout incompatíveis com prazo curto. Serviço pontual e venda direta legítima podem ter ciclo menor, mas exigem entrega e comprador identificados. Não declarar o MAK validado até testar.
+
+
+## Rodada de auditoria documental — Affitor / governança do MAK (2026-11-26)
+- Criado `knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md` com auditoria de sete ressalvas e protocolo aplicável ao MAK.
+- Contagem reproduzida no snapshot `f4cb063a0ee83b1b9e5167e396ab46cc9123dadc`: 53 arquivos `skills/*/*/SKILL.md`, 53 entradas em `registry.json`, correspondência integral, sem faltantes ou duplicatas. Distribuição: research 11, content 7, blog 7, landing 8, distribution 4, analytics 5, automation 5, meta 6.
+- Divergência explicada: 50 é número histórico do changelog 1.2.0 (03/04/2026); 52 permanece em README/QUICKSTART desatualizados; 53 é o estado atual verificado. Não editar o repositório de terceiros.
+- `affiliate-program-search` é ponteiro de compatibilidade para `find-and-verify-affiliate-program`, conforme registry e changelog 1.2.1; não contar como capacidade independente sem qualificação.
+- Métricas: fórmula de engagement ponderada e shares estimados são proxies; search snippets são aproximações; scores do angle-ranker são heurísticas, não previsões calibradas. Aplicar taxonomia OBSERVED_PLATFORM / OBSERVED_THIRD_PARTY / SEARCH_SNIPPET / CALCULATED / ESTIMATED / HEURISTIC / HYPOTHESIS / UNKNOWN.
+- Regras de plataforma do arquivo shared são recomendações/heurísticas, não políticas oficiais universais. Política exige fonte oficial, data, região e escopo; padrões observados e hipóteses devem ficar separados.
+- Três casos numéricos em case-studies.md não têm documentação de origem suficiente no repositório; seção de resultados comunitários está vazia. Tratar como C0/C1 não corroborado, nunca como benchmark ou promessa. Evals testam formato, não sucesso comercial.
+- Compliance: FTC é referência comparativa dos EUA, não base normativa principal no Brasil. Incorporar CDC arts. 30, 31, 36–38; Decreto 7.962/2013; CONAR Guia atualizado em 26/05/2026 com vigência 01/06/2026; e políticas atuais das plataformas. TikTok exige content disclosure setting para promoção própria ou de terceiro com incentivo; Meta exige paid partnership label para branded content em troca de valor.
+- Claims de conversão 2–5x, 15–30%, 200–400%, valores de bônus 3–10x e outras percentagens não têm suporte metodológico rastreável no repo. Não reutilizar como fatos.
+- Gate MAK: urgência só com prazo/escassez real; bônus reais e entregáveis; exclusividade comprovável; garantia limitada ao controle e capacidade do afiliado; sem promessas de renda/resultados não sustentadas.
+- Nenhuma skill foi executada, nenhum teste do Affitor foi rodado, nenhuma campanha publicada, e nenhuma alteração foi feita no repositório Affitor. Pesquisa documental somente.
