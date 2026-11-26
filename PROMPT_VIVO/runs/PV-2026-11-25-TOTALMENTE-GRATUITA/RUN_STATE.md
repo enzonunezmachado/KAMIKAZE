@@ -215,3 +215,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 ### Comunidades — Rodada 24 (S327–S335)
 - Mapeadas 9 opções entre tech, remoto, editores/designers, empreendedores e grupos de freelancers: Programadores BR, TI Discord, HireClover, Multiverse, Editors Community, LEOFGEDITZ, Yuji Editors, Empreendedores SP e Meetup Freelance Brazil.
 - Membros/online são snapshots e não comprovam audiência compradora. Regras internas não verificadas; nenhuma comunidade autorizada para divulgação. Sem contato ou publicação.
+
+
+## Rodada 25 — 26/11/2026: escopo ampliado para renda online e primeira venda
+- A pedido do usuário, criada PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE, cobrindo renda rápida online, vendas digitais, marketing de afiliados, estudos remunerados, testes, microtarefas e relatos de pequenos criadores.
+- S336–S360 adicionam fontes oficiais e relatos: Prolific aceita Brasil, mas tem waitlist; relatos brasileiros mostram variação; Respondent oferece estudos selecionados com baixa frequência típica; UserTesting exige inglês/francês/alemão fluente e paga normalmente em 14 dias; uTest/OneForma pagam em ciclos; Hotmart oferece afiliação gratuita, mas tráfego/conversão não vêm incluídos.
+- Pequenos canais apresentam relatos úteis (O Gabriel Digital, 289 seguidores; Lucas | Renda com YouTube, 196 seguidores), porém resultados não são independentemente verificados.
+- Hipótese provisória mais rápida: vender microentrega digital fechada diretamente; não validada ainda. Afiliados e SEO são de médio prazo; pesquisas/testes são complementares e incertos.
+- Excluída Hub Data do foco totalmente digital por exigir gravação de tarefas físicas. Não usar UserTesting como rota imediata devido ao requisito de fluência e payout usual de 14 dias.
+- PHASE_03.4 IN_PROGRESS / CONTINUE; PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Receita R$0; despesas R$0; sem ações externas.
