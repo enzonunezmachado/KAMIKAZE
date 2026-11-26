@@ -58,3 +58,27 @@ A evidência apoia investigar indicação, pares, profissionais complementares, 
 - Preço líquido e prazo de recebimento: NÃO RESPONDIDO.
 
 **Decisão:** CONTINUE PHASE_03.1. Não avançar para PHASE_04 ainda; próxima rodada deve procurar sinais específicos de demanda por benchmarking em segmentos/gatilhos, mapear comunidades/canais inbound e obter evidência de venda/recompra comparável. Nenhuma abordagem externa autorizada.
+
+
+## Rodada 4 — contratações concluídas e pesquisa recorrente (25/11/2026)
+**Fontes:** S071–S075.
+- S071: 99Freelas, comparação de 44 vinhos em pelo menos cinco lojas cada, status Concluído, vencedor identificado, 34 propostas/47 interessados. Forte evidência de contratação em pesquisa de preços; competição intensa.
+- S072: 99Freelas, pricing estratégico de 6–8 SKUs para Mercado Livre, status Concluído, vencedor identificado, 9 propostas/12 interessados. Incluía análise de concorrentes, posicionamento, margem e preço de lançamento; exigia experiência em marketplace/tributação e NDA.
+- S073: Workana, cliente espião online mensal por WhatsApp, comprador com 20 projetos pagos de 21; possibilidade de recorrência declarada. Página conflita entre “Realizado” e “Aberto”; não contar como contratação concluída nem recompra.
+- S074: 99Freelas, curadoria de produtos/fornecedores para loja online, status Concluído e vencedor; possibilidade de continuidade mencionada, não efetivada publicamente.
+- S075: 99Freelas, pesquisa de tendências com relatórios seg/qua/sex, status Concluído e vencedor. Evidência de contratação de pesquisa informacional frequente; duração/renovação desconhecidas.
+
+### Interpretação
+A categoria “pesquisa aplicada a uma decisão ou rotina empresarial” tem evidência de compra mais forte do que a hipótese estreita “relatório genérico de concorrentes”. Os exemplos mais concretos são preço por SKU, comparação de catálogo, curadoria de fornecedores e síntese de tendências. Porém, os pedidos foram encontrados em plataformas competitivas; comprovam demanda, não um canal alternativo ao leilão. Requisitos técnicos/tributários, NDA e cliente oculto não podem ser assumidos como entregáveis do usuário sem validação de competência e conformidade.
+
+### Gate
+- Compra concluída em comparação de preços e pesquisa de catálogo: RESPONDIDO (S071).
+- Compra concluída em pricing competitivo: RESPONDIDO (S072), com barreira de competência.
+- Compra concluída em curadoria para e-commerce: RESPONDIDO (S074).
+- Compra concluída em síntese de tendências recorrente: RESPONDIDO (S075), duração desconhecida.
+- Necessidade recorrente declarada: PARCIAL (S073, S075).
+- Recompra/renovação efetivamente observada: NÃO RESPONDIDA.
+- Canal sem leilão para esses serviços: NÃO RESPONDIDO.
+- Adequação às habilidades e meta de prazo do usuário: NÃO RESPONDIDA.
+
+**Decisão:** CONTINUE PHASE_03.1. O gate factual de demanda pode ser elevado para PARCIALMENTE RESPONDIDO, mas não aprovar oferta ou iniciar PHASE_04 sem decidir um comprador/gatilho e mapear canal não leilão. Próxima rodada deve investigar canais próprios/inbound/parcerias e escolher uma hipótese estreita com entrega compatível, sem abordagem externa.
