@@ -50,3 +50,9 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Impacto:** não tratar um caso isolado como evidência suficiente de comportamento de compra; ampliar a amostra com fontes independentes, separar compra/uso/renovação/reembolso/satisfação e buscar sinais de retenção. Executar auditoria de estado antes de continuar.
 **Status:** APLICADO na Rodada 21 (S227–S244); documentação sincronizada.
 **Arquivos afetados:** PHASE_03_3, SOURCE_LEDGER, FINDINGS, OPEN_QUESTIONS, VALIDATION_MATRIX, PHASE_CONTROL, RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF, RESEARCH_PLAN, PHASE_ARCHITECTURE, operations/STATE.
+
+
+## 2026-11-26 — restrições reais de construção e pedido de portfolio de ideias
+**Entrada:** usuário reforçou que devemos pesquisar amplamente e depois filtrar; recursos principais são ChatGPT, Google AI Studio e construtores gratuitos; está desenvolvendo NEXUS no mesmo ecossistema; não possui capital disponível; citou compromissos de R$200 no cartão e R$140 com a mãe, datas de fechamento/vencimento no ciclo, e corrigiu que os R$60 não devem ser tratados como verba livre. Pediu várias ideias diferentes, não uma solução escolhida antecipadamente.
+**Impacto:** manter exploração ampla dentro do mercado freelancer; apresentar portfolio de hipóteses e filtrar somente depois da pesquisa. Orçamento operacional R$0, limite do cartão não é capital, R$60 não é verba autorizada. Proteger transporte/compromissos e não gastar sem aprovação. Não assumir disponibilidade de slot no Google AI Studio por uso concomitante com NEXUS; verificar quotas/slots antes de deploy. Priorizar ferramentas estáticas/local-first e evitar API/backend até necessário.
+**Status:** APLICADO na Rodada 22 (S245–S285); documentação sincronizada.
