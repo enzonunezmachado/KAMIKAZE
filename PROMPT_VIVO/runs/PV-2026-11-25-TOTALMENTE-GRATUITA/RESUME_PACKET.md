@@ -148,3 +148,10 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - Welo Junior Quality Coordinator: 20h/semana, relatórios, feedback, suporte a raters e reuniões; inglês forte, exclusividade, prova; remuneração não divulgada.
 - Clickworker: pagamentos semanais, mínimos PayPal €10/Payoneer €20, mas disponibilidade Brasil e registro precisam ser confirmados dentro da conta.
 - Gate CONTINUE; nenhuma conta/candidatura feita.
+
+## 18. Rodada 10 — OneForma Freya e TSMG QC (S120–S124)
+- OneForma Freya lista Portuguese (Brazil) entre 36 locales abertos; taxa indexada oficial US$6 por hora de áudio, sem experiência ou diploma. Transcrição de podcasts longos, diarização, timestamps e sinalização de áudio sintético; lotes semanais first-come-first-served e volume variável.
+- Pagamento OneForma: dias 15 e último dia do mês, mínimo US$25, processamento 1–3 dias úteis; PayPal/Payoneer/Tipalti sujeitos à conta/país. Página local pt_BR mostrou conteúdo incoerente ao abrir; confirmar taxa/locale na candidatura.
+- TSMG QC Specialist: revisão de transcrições PT-BR, treinamento, experiência diferencial; remuneração por trabalho validado, taxa e ciclo desconhecidos.
+- YPAI: páginas oficiais de várias vagas remotas Brasil mostram “closed” apesar de resultados indexados “open”; não contar como vagas ativas.
+**Estado:** PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura/conta/contato.
