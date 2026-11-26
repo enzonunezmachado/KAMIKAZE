@@ -49,7 +49,7 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - PHASE_01_LANDSCAPE: PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; sem compra/recorrência comprovada.
-- PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS, gate CONTINUE.
+- PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE (aguarda integração).
 - PHASE_04_FEASIBILITY: QUEUED/NOT_STARTED; plano existe, mas teste operacional não foi executado.
 - Arquitetura: [PHASE_ARCHITECTURE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_ARCHITECTURE.md).
 - Matriz: [VALIDATION_MATRIX.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/VALIDATION_MATRIX.md).
