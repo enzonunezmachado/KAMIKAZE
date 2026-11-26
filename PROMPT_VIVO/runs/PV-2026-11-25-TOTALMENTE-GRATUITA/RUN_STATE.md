@@ -147,3 +147,14 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Projetos de assistência/triagem no 99Freelas exibem 319–538+ propostas em snapshots; contagens dinâmicas.
 - Próximo: mapear recortes verticais não atendidos, parceria/referrals e microentregáveis de pesquisa/curadoria não sensíveis.
 - PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. Nenhuma oferta aprovada; nenhuma ação externa; receita R$0, despesas R$0.
+
+
+## Rodada 20 — 26/11/2026 (S215–S223)
+- PHASE_03.3 COMMUNITY-LED MARKET VALIDATION criada como subfase da PHASE_03.2.
+- Scoutly é concorrente brasileiro diretamente semelhante, a R$27,90/mês, com plano gratuito; métricas e depoimentos do site são alegações do fornecedor (S215).
+- Workaholic é alternativa open-source gratuita multi-plataforma com score e CRM local; stars/forks não equivalem a usuários/compradores (S216).
+- Upwork e 99Freelas têm alertas nativos (S217–S218).
+- Comunidades podem ser canal e serviço remunerado, mas regras variam e algumas proíbem publicidade, DMs e pesquisas (S221–S223).
+- Não construir agregador genérico; investigar lacuna vertical de decisão/curadoria e disposição a pagar. Aquisição comunitária apenas transparente e permitida.
+- PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_03.2 IN_PROGRESS / CONTINUE; PHASE_03.1 PAUSED / CONTINUE; PHASE_04 QUEUED / NOT_STARTED.
+- Nenhuma ação externa, contato, post, cadastro, demo, anúncio ou gasto. Receita R$0; despesas R$0.
