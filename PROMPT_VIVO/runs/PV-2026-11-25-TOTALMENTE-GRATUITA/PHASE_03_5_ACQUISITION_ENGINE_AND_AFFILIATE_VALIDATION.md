@@ -85,3 +85,10 @@ G. Measurement:
 - Do not infer demand from commission percentage, marketplace ranking, views or follower count alone.
 - Do not begin Phase 04 or any real-world experiment until the evidence and human approval gate are satisfied.
 - Current status: IN_PROGRESS / CONTINUE. No revenue, expenses or external actions.
+
+
+## Round 28 — payout and first-sale case expansion (2026-11-26)
+- Added S386–S393. Hotmart official docs: BRL card commissions release after 30 days; Pix/boleto after 2 days (S386). Kiwify affiliate Pix commission release after 7 days (S387).
+- Community cases: 7,400 views/23 followers without sale (S388); organic first sale in a narrow subniche (S389); affiliate report of three months without sales followed by three months of R$1,300/month after an organic viral event (S390); WhatsApp deals group with 100 paid-acquired members, 43 exits and one R$25 commission after R$300 spend (S391); following likers of similar accounts as organic acquisition tactic (S392) is not adopted because it may be spammy/manipulative; older report of blog affiliate sales and a first sale after three months (S393).
+- The evidence supports studying the whole path and time-to-sale, not just views or commission percentage. High ticket is not automatically better: optimize for credible product-market fit, net commission, buyer trust and conversion friction.
+- For the immediate deadline, affiliate payout is a major constraint: card purchases on Hotmart are too slow; Pix/boleto and Kiwify's seven-day affiliate release are only conditionally compatible and still depend on sale timing, approval and validation.
