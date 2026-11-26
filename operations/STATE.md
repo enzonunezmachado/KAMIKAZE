@@ -209,3 +209,12 @@ S295: os termos legais/API da Upwork também proíbem scraping e o uso do site/s
 - Repositórios adicionais: OpenAffiliate, Postiz, TikTok Affiliate Promo Generator n8n, AffiliateOS, n8n Marketing Workflows, Affiliate Content Automation, Agentic AI Social Media Manager e hidrix-tools.
 - Próxima ação da PHASE_03.5: comparar capacidades propostas com o Prompt Vivo existente e criar apenas skills nativas do MAK sem duplicidade.
 - Nenhuma instalação, execução de código, publicação, contato, conta, deploy ou gasto ocorreu.
+
+
+## Acionador futuro — Módulo de Tráfego Pago (26/11/2026)
+- Documento: [PAID_TRAFFIC_MODULE_ACTIVATION.md](../PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md).
+- Estado DORMANT / DOCUMENTED / NOT IMPLEMENTED.
+- Intenção explícita → apresentar pacote e pedir confirmação para Etapa 0; não ativar por menções exploratórias.
+- Etapa 0 é planejamento documental; qualquer conta, integração, campanha, publicação ou gasto exige autorização separada.
+- Catálogo de repositórios/skills atualizado com pesquisa específica de tráfego pago.
+- Não modifica execução ativa nem fases/gates de pesquisa. Nenhuma ação externa ou gasto realizado.
