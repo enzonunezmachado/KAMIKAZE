@@ -187,3 +187,8 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - uTest é uma plataforma a monitorar, mas o Project Greenbox PT-BR encontrado tinha início em 30/10 (passado); projeto de verificação de identidade ativo exige documento oficial e retenção até 12 meses sem remuneração divulgada. Não enviar documento.
 - uTest paga duas vezes/mês via PayPal, Payoneer ou Wise/banco conforme disponibilidade; termos não garantem projetos.
 - Fontes S139–S143 registradas; PHASE_03.1 continua CONTINUE e PHASE_04 não começou.
+
+
+
+## Preferência de comunicação registrada (25/11/2026)
+Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma síntese consolidada por rodada, sem atualizações parciais por subpesquisa. Mostrar metodologia resumida, evidências, fontes, lacunas e decisões, não raciocínio privado passo a passo. Interromper apenas por necessidade de autorização/decisão, risco urgente ou pedido explícito de acompanhamento.
