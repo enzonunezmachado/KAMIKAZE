@@ -29,3 +29,11 @@
 
 - Rodada 5 S076–S086: Google e survey local indicam busca/networking/indicação como canais gerais; Sebrae aponta sobrecarga operacional em e-commerce; tarefas de catálogo têm alta competição; Workana/Upwork exigem 18, Fiverr permite menor apenas sob conta de responsável; Código Civil/MEI exigem cuidado especial aos 16. Gate continua CONTINUE. PHASE_04 não começou. Ver checkpoint, findings e source ledger.
 \n\n- **Correção de idade e capacidade (25/11/2026):** idade atual informada: 18 anos. Reavaliar Workana, Upwork e outras plataformas sob a idade correta. Não aplicar regras de menoridade. O usuário afirma ter capacidade e disposição para aprender e desempenhar o necessário; avaliar a execução concreta, sem confundir falta de experiência profissional com incapacidade.
+
+## Rodada 6 — 25/11/2026 (S087–S100)
+- Idade corrigida para 18 anos; restrições pessoais de menoridade superadas.
+- Pesquisa de trabalho de bastidores identificou exemplos de apoio supervisionado e coordenação operacional de conteúdo (S093/S094), inclusive uma vaga recente com remuneração mensal fixa não divulgada e 26 candidaturas.
+- Pesquisa de tarefas de entrada encontrou vaga oficial Lionbridge de gravação de áudio PT-BR a US$10/h, com pré-teste e aprovação, mas sem horas ou calendário de pagamento divulgados (S098–S100).
+- Compras documentais/administrativas concluídas existem, mas concorrência pode ser alta e tarefas com dados sensíveis/expediente fixo são menos adequadas (S091/S092).
+- Pagamentos: Workana gratuito tende ao ciclo do mês seguinte; 99Freelas Free pode levar até 5 dias úteis para aprovação + 6 dias úteis para repasse após liberação (S089/S090).
+- Hipóteses novas ainda não aprovadas. Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou gasto.
