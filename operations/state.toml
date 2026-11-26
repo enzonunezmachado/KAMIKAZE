@@ -1,7 +1,7 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md"
+last_substantive_work = "PROMPT_VIVO/QUALITY_GATE.md"
 last_work_status = "DOCUMENTAÇÃO E VALIDAÇÃO ADICIONADAS; CI PENDENTE"
 
 [execution]
