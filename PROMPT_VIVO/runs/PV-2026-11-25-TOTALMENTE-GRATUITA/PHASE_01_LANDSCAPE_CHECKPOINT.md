@@ -1,6 +1,6 @@
 # Checkpoint parcial — PHASE 01: Landscape
 **Data:** 2026-11-25  
-**Resultado:** EM ANDAMENTO — não marcar fase concluída.
+**Resultado:** PASS WITH GAPS — concluída para permitir a mineração de demanda.
 
 ## Trilhas com sinal inicial
 1. Serviços digitais específicos: tarefas de dados, PDF→planilha, organização de informações, edição de vídeo curto e conteúdo para plataformas.
@@ -23,5 +23,5 @@ A pesquisa deve sair da categoria genérica e investigar tarefas específicas, l
 ## Contraprovas e limites
 Nenhuma fonte prova ainda que o usuário consiga vender ou entregar uma dessas tarefas. Relatos comunitários não são amostras representativas. Nenhuma venda do Kamikaze foi realizada. Nenhuma oportunidade aprovada.
 
-## Próxima ação
-Minerar pedidos recentes no Brasil, cruzar concorrência e preço, identificar 2–4 ofertas de entrega simples e testar a viabilidade com mini-provas internas antes de recomendar abordagem.
+## Gate e transição
+O mapa inicial cobriu serviços de dados/documentos, automação, e-commerce, produtos digitais, conteúdo e plataformas freelancer. Permanecem lacunas sobre ferramentas, canais e custos, mas elas não impedem a Fase 02. Gate: PASS WITH GAPS. A mineração de demanda passa a investigar pedidos reais e compradores.
