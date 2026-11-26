@@ -257,3 +257,14 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - S399–S401 ampliam a pesquisa: n8n marketing workflows (approval buffer + logging) é melhor padrão operacional; affiliate-content-automation rejeitado por arquitetura excessiva e volume massivo de conteúdo; social manager com Puppeteer não adotar sem auditoria.
 - TARA BOT não tem função afiliada pronta.
 - Diretriz de implementação: preparar conteúdo com IA, revisar manualmente, publicar somente com autorização e medir. Sem importação ou execução de workflows.
+
+
+
+## Rodada 30 — estudo Affitor e arquitetura MAK (26/11/2026)
+- S402: auditoria do Affitor/affiliate-skills v1.2.1; 53 habilidades e 53 entradas registry na árvore consultada.
+- Novo documento de conhecimento: `PROMPT_VIVO/knowledge/MAK_AFFITOR_METHOD_ADAPTATION.md`.
+- Adaptar: módulos especializados, schemas/handoffs, pesquisa antes do conteúdo, verificação de oferta em fonte primária, conteúdo nativo, derivação com valor independente, distribuição planejada, tracking por etapa, analytics/retrospectiva e feedback estruturado.
+- Expansão original do MAK: relacionamento e memória de marca como trilha que pode gerar retorno, indicação consentida ou compra futura sem exigir conversão imediata.
+- Auditoria crítica registrada: inconsistências de contagem/registry, métricas sociais proxy, heurísticas de regras, FTC não substitui legislação brasileira, case studies não verificados independentemente e claims aspiracionais.
+- Nenhum código instalado/executado/importado; nenhuma conta, afiliação, publicação, contato ou gasto.
+- PHASE_03.5 IN_PROGRESS; PHASE_03.4 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
