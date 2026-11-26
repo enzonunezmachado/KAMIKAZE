@@ -258,3 +258,8 @@
 | YPAI | Anúncio nominal de R$30–50/h | Página declara posição encerrada (S144) | Excluída |
 | OneForma PT-BR→chinês | Projeto aberto, pagamento por hora | Elegibilidade somente China e certificação/experiência contextual (S146) | Excluída para Brasil |
 | OpenTrain | Catálogo de vagas PT-BR | Pagamentos para freelancers no Brasil indisponíveis (S151) | Excluída |
+
+| Pesquisa comercial online de nicho (dados públicos) | S170–S171 mostram projetos pagos para coleta de preço/fornecedor; S152–S153 mostram demandas anteriores por inteligência | Alguns jobs exigem estado/DDD ou inglês; ainda não há cliente-alvo, taxa nem canal de aquisição validado | Aprofundar |
+| Edição de vídeos curtos | S167–S168 e S173–S174 mostram pedidos recorrentes e fechados | Competição alta em Reels genérico; exige portfólio e habilidade audiovisual | Hipótese secundária; testar nicho gamer/específico |
+| Planilhas/cadastro genérico | S172 mostra anúncio com 696 propostas/913 interessados | Commodity com competição extrema e baixo diferencial | Não priorizar |
+| Automação WhatsApp com IA | S169 mostra compra explícita para loja de roupas | Complexidade de API, estoque, custos e concorrência crescente; escopo acima de iniciante | Não vender solução completa; investigar microentregas operacionais |
