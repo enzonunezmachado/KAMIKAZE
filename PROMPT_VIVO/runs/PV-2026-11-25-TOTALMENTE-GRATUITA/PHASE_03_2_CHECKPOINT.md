@@ -23,3 +23,11 @@ CONTINUE. Não aprovar segmento nem iniciar PHASE_04.
 3. Aquisição sem marketplace: canais que permitam demonstrar competência sem spam ou portfólio inventado.
 4. Preços efetivamente pagos, renovação e escopo de manutenção.
 5. Comparar caminho até primeiro pagamento e margem operacional nos quatro segmentos.
+
+
+## Rodada 18 — profissionais independentes e empresas (S186–S196)
+- Assistência virtual, apoio pessoal e administrativo têm briefs reais, alguns com mensalidade/10h mês, mas listagens chegaram a 319–447 propostas/interessados; não priorizar leilão genérico.
+- Agências procuram parceiros para execução e organização de conteúdo/esteira, com fee mensal e estratégia fornecida internamente. É hipótese de canal intermediário, ainda sem canal de aquisição sem leilão e sem renovação comprovada.
+- Serasa: 52,7% PMEs sem plano de ampliar equipe; somente 3,3% das PMEs pesquisadas citam freelancers entre as modalidades de expansão. Não é medição de compra avulsa, mas alerta contra prospecção genérica.
+- Confiança: avaliações, portfólio, comunicação e cumprimento de prazo importam; grandes empresas têm processo mais formal.
+- Gate permanece CONTINUE. Próximo: aquisição sem marketplace, prova demonstrável, preço/tempo efetivos e evidência de recompra.
