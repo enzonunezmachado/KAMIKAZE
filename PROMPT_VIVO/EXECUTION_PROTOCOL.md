@@ -160,3 +160,9 @@ Não interromper o fluxo para narrar cada busca ou enviar pequenas descobertas, 
 A resposta final deve separar: resultado principal, oportunidades priorizadas, evidências de pagamento, requisitos/fit, riscos e incertezas, descartes, decisão do gate e próximos passos. Diferenciar claramente fatos confirmados, inferências e hipóteses. Não inflar a resposta com diário de pesquisa.
 
 O usuário não solicita nem precisa receber raciocínio privado passo a passo. Não expor cadeia de pensamento interna; oferecer método resumido, critérios, fontes e justificativas verificáveis, além das conclusões.
+
+
+## 11. Continuidade entre sessões e histórico obrigatório
+O sistema vinculante é `PROMPT_VIVO/CONTINUITY_SYSTEM.md`. Toda unidade relevante de pesquisa deve terminar com checkpoint persistido. Manter logs append-only global e por execução; sincronizar RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF, PHASE_CONTROL, USER_INPUT_LOG e operations/STATE. O RESUME_PACKET deve apontar para a próxima ação executável e arquivos detalhados.
+
+Quando houver risco de limite de contexto, interromper novas buscas e priorizar a persistência. Não confiar em memória implícita do chat. A retomada deve começar pelo BOOTSTRAP e pelo estado operacional, conferir logs e commits, auditar divergências e continuar do ponto correto. Não afirmar automação em segundo plano: o mecanismo é acionado durante a sessão e depende de acesso de leitura/escrita ao repositório.
