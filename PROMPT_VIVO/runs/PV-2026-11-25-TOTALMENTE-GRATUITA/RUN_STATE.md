@@ -43,3 +43,13 @@
 - Prolific: Brasil elegível, 18+, waitlist e verificação; saque £6/US$6 aprovados via PayPal, mas estudos podem levar até 22 dias para aprovação.
 - Outlier: pagamentos semanais após qualificação, mas o projeto PT-BR encontrado era específico de programação.
 - Nenhuma plataforma de microtarefas garante entrada, volume ou dinheiro antes da meta imediata. Gate CONTINUE; nenhuma conta ou candidatura criada.
+
+
+## Rodada 8 — 25/11/2026 (S105–S115)
+- YPAI Data/Voice está oficialmente fechada apesar de resultados de busca contraditórios (S105).
+- CSL oferece projeto de conversa R$200 por participante, mas prazo inicial 7–8/11 já passou; cadastro geral/futuros lotes possíveis, sem garantia (S106–S107).
+- OpenTrain não disponibiliza pagamentos a freelancers no Brasil (S108), portanto suas vagas com taxas altas não são rota operacional.
+- Babel Conversation: taxa EUA/Canadá não pode ser assumida no Brasil; elegibilidade/taxa local pendente (S112). Babel Voice Actor exclui residentes no Brasil (S113).
+- Lionbridge survey de US$10 exige smartphone não Android, incompatível (S114). Vaga de áudio PT-BR a US$10/h permanece com volume e pagamento não divulgados.
+- Fera Comunicação tem vaga recente de coordenação de conteúdo, sem horário fixo, PJ e valor mensal fixo não divulgado; exige disponibilidade sob demanda e contato com clientes (S115).
+- Gate PHASE_03.1: CONTINUE. PHASE_04: QUEUED/NOT_STARTED. Nenhuma candidatura, contato, formulário ou receita.
