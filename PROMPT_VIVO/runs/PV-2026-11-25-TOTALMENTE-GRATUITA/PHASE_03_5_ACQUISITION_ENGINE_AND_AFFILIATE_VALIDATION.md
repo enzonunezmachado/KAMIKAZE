@@ -92,3 +92,34 @@ G. Measurement:
 - Community cases: 7,400 views/23 followers without sale (S388); organic first sale in a narrow subniche (S389); affiliate report of three months without sales followed by three months of R$1,300/month after an organic viral event (S390); WhatsApp deals group with 100 paid-acquired members, 43 exits and one R$25 commission after R$300 spend (S391); following likers of similar accounts as organic acquisition tactic (S392) is not adopted because it may be spammy/manipulative; older report of blog affiliate sales and a first sale after three months (S393).
 - The evidence supports studying the whole path and time-to-sale, not just views or commission percentage. High ticket is not automatically better: optimize for credible product-market fit, net commission, buyer trust and conversion friction.
 - For the immediate deadline, affiliate payout is a major constraint: card purchases on Hotmart are too slow; Pix/boleto and Kiwify's seven-day affiliate release are only conditionally compatible and still depend on sale timing, approval and validation.
+
+
+## Round 29 — relationship-led referrals and GitHub tooling (2026-11-26)
+
+### Referral mechanism: relationship-led introduction
+The user proposed approaching professionals who work with the relevant audience, presenting an existing affiliate product and the honest story behind the project, asking for feedback, and—if the offer is not relevant to them—asking whether they know someone who may benefit. The goal is to build a real opportunity through trust, not to pressure the first person into a sale.
+
+Operational design:
+1. Select professionals because they genuinely serve or understand the intended audience, not merely because they have many contacts.
+2. Start with context and permission: explain why their opinion is relevant and ask whether they are open to a short overview.
+3. Present the product accurately: what it does, who it helps, price, limitations, alternatives, refund/guarantee terms, and why it was selected.
+4. Disclose clearly if the link is an affiliate link and that a commission may be earned.
+5. Ask for feedback first. A professional may identify a better fit, a weakness, or a reason not to recommend it.
+6. If it is not relevant to them, ask gently whether they know one person or role who might genuinely benefit. Make declining effortless.
+7. Prefer a warm introduction: ask whether they would be comfortable forwarding a short message or introducing both parties. Do not request or store a third party's phone/email without their consent.
+8. Provide a concise forwardable note containing the product, intended user, reason for relevance, affiliate disclosure and a no-pressure CTA.
+9. Thank them regardless of outcome. No guilt, manufactured urgency, false friendship, implied debt, or repeated follow-ups after a no.
+10. Record the source and outcome with minimal personal data: conversation, permission to introduce, intro sent, reply, qualified interest, click, sale, commission, and feedback.
+
+The user's story about starting the project independently to help pay for college may be shared when relevant and truthful, but never used to create obligation or emotional pressure. This is a relationship and trust mechanism, not covert manipulation.
+
+### GitHub open-source reconnaissance — S394–S398
+- **Affitor/affiliate-skills (S394):** strongest direct match to an AI-assisted affiliate operating system. README describes 52 skills across research, trends, evidence-backed content, platform-native scripts, landing pages, distribution, analytics, automation and compliance. MIT; substantial public activity signals (816 stars/223 forks snapshot). Treat the demo metrics and claimed outcomes as product marketing, not verified performance. Inspect individual skill instructions and external dependencies before reuse.
+- **Affitor/open-affiliate (S395):** useful discovery/research layer: public registry with program terms, commission, cookie, payout, approval and restrictions; CLI/API/SDK/MCP; MIT. Treat records as leads and confirm terms on the merchant's official page before selection.
+- **gitroomhq/postiz-app (S396):** mature social scheduling/analytics platform, broad network support and APIs/MCP; 42.4k stars/8.1k forks snapshot. AGPL-3.0; self-host requires infrastructure, maintenance and social-platform developer app approvals. Potential future scheduling layer, not an immediate zero-cost requirement and not affiliate-specific.
+- **MDanieechi14/tiktok-affiliate-promo-generator-n8n (S397):** small workflow example: Google Sheets product list → Groq-generated TikTok scripts/captions/hashtags → output sheet → Telegram notification. README says test limit of three products and Taglish output. Useful workflow pattern, not proven conversion engine; audit JSON and credential scopes before import.
+- **eduubrz/affiliate-platform (S398):** Brazilian project with WhatsApp/Evolution API, AI content generation and analytics; README says it is not currently in active development and official affiliate APIs remain on roadmap. Heavy Docker/Postgres/Redis/BullMQ stack; not suitable as the first implementation.
+- No repository was installed, executed, forked, or imported. Reuse decisions remain pending license/code/dependency/security and cost review.
+
+### Current design implication
+The MAK should not be a single autonomous bot. Compose a light operating system from reusable components: research/offer verification, content planning and repurposing, human-reviewed publishing, relationship/intro tracking, link/click measurement and weekly learning. Automate preparation and organization first; keep outreach, introductions and publishing under human control.
