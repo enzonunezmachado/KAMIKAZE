@@ -40,6 +40,10 @@ A IA é uma alavanca de pesquisa e produção, não uma proposta de valor por si
 
 A pesquisa pode manter várias linhas de oportunidade em paralelo. A produção e a prospecção devem ter prioridades explícitas para evitar dispersão.
 
+## Adequação ao operador e credibilidade
+
+O Kamikaze não deve avaliar oportunidades como se estivesse contratando uma equipe experiente. O responsável está no início da trajetória e não deve ser tratado como especialista. Toda oportunidade precisa passar por uma avaliação realista de capacidade: o que já sabe fazer, o que precisa aprender, quanto tempo leva para aprender, como demonstrar qualidade, quando precisa de supervisão e quais erros poderiam prejudicar o cliente. Não usar linguagem, portfólio, cases, títulos ou promessas que sugiram experiência inexistente. Se houver reunião, preparar uma postura profissional compatível com a realidade: explicar claramente o escopo, fazer perguntas, admitir limites e não improvisar conhecimento. Uma oportunidade que exija autoridade ou experiência que ainda não existe deve ser reformulada, adiada ou descartada.
+
 ## Restrições atuais
 
 - Orçamento inicial: R$ 0.
@@ -47,6 +51,11 @@ A pesquisa pode manter várias linhas de oportunidade em paralelo. A produção 
 - Não depender de computador potente ou de processos locais pesados.
 - Não presumir acesso ao ChatGPT Plus ou a agentes ilimitados.
 - Não exigir audiência prévia.
+- Considerar que o responsável está começando e não possui experiência profissional prévia nas áreas investigadas; não presumir domínio técnico, comercial, jurídico, financeiro ou de gestão.
+- Não selecionar ofertas que dependam de fingir experiência, apresentar credenciais inexistentes ou sustentar autoridade profissional que ainda não foi construída.
+- Avaliar se o responsável consegue executar e explicar honestamente cada entrega, aprender o necessário e responder por seus limites.
+- Considerar idade, maturidade, segurança, disponibilidade e assimetria de poder em reuniões, negociações, contratos e ambientes profissionais; quando houver exigência legal, risco ou necessidade de adulto responsável, explicitar isso e não improvisar.
+- Preferir uma progressão de baixo risco: tarefas delimitadas e verificáveis primeiro; responsabilidades complexas somente após aprendizado e capacidade demonstrável.
 - Não presumir que o resultado será software.
 - Não limitar a pesquisa a um nicho, setor, país ou formato de produto.
 - Não tratar relatos de Reddit, prints de faturamento ou promessas de cursos como prova independente de receita.
@@ -63,7 +72,8 @@ Uma oportunidade precisa ter:
 - caminho plausível para alcançar compradores;
 - entrega possível com os recursos disponíveis;
 - custos, riscos e limitações explícitos;
-- teste comercial com escopo, preço e critério de decisão.
+- teste comercial com escopo, preço e critério de decisão;
+- compatibilidade com o nível atual de experiência do responsável, incluindo esforço de aprendizagem, necessidade de supervisão, credibilidade exigida, reuniões, postura profissional, riscos e capacidade de responder ao cliente.
 
 Curtidas, visualizações, elogios e respostas positivas não equivalem a vendas. Concorrente com preço publicado prova que existe uma oferta, não que ela vende em volume.
 
