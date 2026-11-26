@@ -182,3 +182,33 @@ Os limites são snapshots consultados em 26/11/2026 e podem mudar. Antes de cada
 - Separar “IA usada para programar” de “IA incorporada no produto”; comparar custos e limites de cada modalidade.
 - Investigar ferramentas open source que rodam localmente no notebook 8 GB, sem API paga, e fluxos que funcionam no celular/tablet.
 - Não transformar a pesquisa em catálogo infinito: selecionar casos com artefatos inspecionáveis e valor técnico/comercial demonstrável.
+
+
+## 8. Addendum de auditoria — Stockroom e AppJet (26/11/2026)
+
+### Inspeção de código Stockroom (leitura estática; sem executar)
+Arquivos inspecionados no repositório público `qoddiapps/inventory-appjet`: `lib/db.ts`, `lib/repo.ts`, `app/api/movements/route.ts`, `lib/api.ts`, `tests/security.test.ts`, `next.config.ts`, `app/api/export/route.ts` e `Dockerfile`.
+
+**Boas práticas encontradas:**
+- Schema SQLite explícito, foreign keys habilitadas e índices para consultas frequentes.
+- Movimentação de estoque é feita em transação; o saldo é lido dentro da transação; quantidade negativa e limites excessivos são rejeitados.
+- A quantidade não pode ser alterada diretamente por edição de produto; precisa passar pelo ledger.
+- Validação de strings/números/IDs, limites de corpo JSON e content-type; rejeição de escrita cross-site no browser.
+- Export CSV neutraliza células que poderiam ser interpretadas como fórmulas em planilhas.
+- Testes de segurança cobrem esses casos e headers como CSP, HSTS, X-Frame-Options e nosniff.
+- Dockerfile usa build multi-stage, imagem Alpine e processo com usuário não-root.
+
+**Bloqueio crítico de produção:**
+- O estudo do próprio AppJet declara que o demo público não possui fluxo de login.
+- Os route handlers examinados permitem GET/POST sem autenticação/autorização visível. `assertSameOrigin` bloqueia browser cross-site, mas o próprio comentário permite clientes API que não enviam Origin/Sec-Fetch-Site. Isso não é controle de acesso: um cliente externo pode chamar endpoints públicos.
+- Não há isolamento por usuário/empresa/tenant nos trechos inspecionados. Portanto, não colocar dados reais de empresa ou clientes no demo. Antes de qualquer uso comercial seriam necessários autenticação, autorização por registro/tenant, backup/restore, auditoria de acesso, política de retenção e testes adicionais.
+- Os testes foram lidos, não executados. A inspeção não equivale a pentest, code review completo ou certificação.
+
+### Auditoria dos termos e privacidade AppJet
+- Termos atualizados em 14/11/2026; serviço operado por FlashDrive Inc.; lei/foro indicado nos termos é Delaware/EUA.
+- Termos dizem que código e interações não são usados para treinamento; código não é retido após o processo de coding; dados do serviço ficam nos EUA e inferência do modelo no Canadá.
+- A política descreve processamento de identidade GitHub, credenciais de conexão, código, instruções, variáveis de ambiente, dados de uso, IP e billing. Integrações GitHub/Supabase mantêm seus próprios dados/políticas.
+- AppJet não garante acesso ininterrupto e limita responsabilidade por perda de dados/lucros; reserva direito de suspender/encerrar contas em determinadas condições.
+- Conclusão: termos são mais explícitos que muitas ferramentas gratuitas, mas não tornam prudente enviar secrets ou dados pessoais de clientes. Conectar somente repositórios e serviços autorizados, com dados fictícios na fase de avaliação. Revisar novamente termos e política antes de uso.
+
+**Estado do caso:** Stockroom segue como prova de capacidade de geração e deploy de um protótipo funcional por $0, não como aplicação pronta para produção comercial. AppJet é candidato para avaliação futura, não aprovado nem conectado.
