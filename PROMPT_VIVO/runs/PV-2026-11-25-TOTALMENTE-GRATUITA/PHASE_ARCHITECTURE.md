@@ -164,3 +164,10 @@ Escopo: comparar B2C, profissionais independentes, micro/pequenos negócios e em
 - PMEs não devem ser tratadas como compradoras fáceis: pesquisa Serasa indica cautela na expansão de equipe e baixa intenção de contratação flexível.
 - Confiança e prova são transversais; porte maior formaliza mais o processo.
 **Decisão:** manter PHASE_03.2 CONTINUE. Investigar canais não leilão e microentregas operacionais demonstráveis; não aprovar agência/segmento sem evidência de aquisição e margem.
+
+
+## Atualização PA-020 — PHASE_03.3 e Rodada 21 (26/11/2026)
+- PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION foi criada como subfase da PHASE_03.2; continua IN_PROGRESS / CONTINUE.
+- PHASE_03.2 permanece IN_PROGRESS / CONTINUE; PHASE_03.1 está PAUSED / CONTINUE; PHASE_04 está QUEUED / NOT_STARTED.
+- Rodada 21 ampliou evidência de compra de recursos/plataformas para freelancers (S227–S244), mas não provou compra/retention de SaaS independente.
+- Nenhuma alteração no CORE, protocolo central ou salvaguardas.
