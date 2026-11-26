@@ -403,3 +403,14 @@ Retomar PHASE_03.5 com inspeção mais profunda das skills do Affitor e adaptaç
 - Etapa 0 é planejamento; contas, integrações, publicação e gasto exigem autorizações separadas.
 - Catálogo inclui 49 skills marketing-skills e referências Google Ads MCP/SDK, Meta SDKs, Ryze MCP, n8n, AdsOnSheets, clientreport e Meridian.
 - Não altera fases de pesquisa ativas nem autoriza mídia paga.
+
+
+## Rodada 33 — construção com IA e ferramentas gratuitas (26/11/2026)
+Documento consolidado: `PROMPT_VIVO/knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md`; fontes S436–S450 em `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`.
+- Stockroom/AppJet: evidência mais forte de aplicação full-stack construída e publicada com plano AI-builder gratuito; demo e código públicos. Ressalvas: estudo do fornecedor, dados fictícios, sem autenticação e persistência precisa ser configurada/verificada.
+- MyClaw: 249 ferramentas, custo mensal $0 declarado, mas 0 pagantes no snapshot; Vercel Hobby é não comercial.
+- Somnia e Toolkiya: padrões local-first/client-side; custo total não comprovado.
+- HookLayer, RenderArchi, AssetShark e HypeDesk: IA acelera construção, mas custo não foi informado.
+- Termos/limites: Gemini Free tem condições de dados; Supabase Free pausa por inatividade e não inclui backup automático; Cloudflare Workers tem limites; Vercel Hobby não comercial.
+- Princípio: reduzir serviços; lógica determinística/local; IA só onde necessária; revisão de segurança e backup antes de dados reais.
+- Nenhuma ferramenta, conta ou aplicação foi criada/usada; nenhuma ação externa ou gasto. PHASE_03.5 segue IN_PROGRESS/CONTINUE; PHASE_04 não iniciada.
