@@ -19,3 +19,10 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 | 2026-11-25 | Autorizou continuar a pesquisa após corrigir idade e capacidade. | Executar nova rodada de pesquisa em trabalho de bastidores, oportunidades de entrada e pagamento; registrar S087–S100 e manter controlador adaptativo. | APLICADO |
 
 | 2026-11-25 | Pediu continuidade da execução (“Pode continuar”). | O controlador manteve PHASE_03.1 e abriu investigação adicional de oportunidades de tarefas remotas e validação de pagamento/privacidade; rodadas 8–12, fontes S105–S129. | APLICADO |
+
+## 2026-11-25 — retomada em novo chat e preferência de entrega consolidada
+- **Entrada:** usuário solicitou executar obrigatoriamente BOOTSTRAP.md, reconstruir contexto e continuar exatamente do ponto correto; mantém-se a preferência expressa nesta conversa de receber a pesquisa completa de uma vez, sem pequenas atualizações por subpesquisa.
+- **Classificação:** instrução de continuidade + preferência de comunicação.
+- **Impacto:** bootstrap integral executado; pesquisa continuada em fluxo único; nenhuma mudança na meta, orçamento ou autorizações externas.
+- **Arquivos afetados:** RESUME_PACKET.md, RUN_STATE.md, MEMORY_HANDOFF.md, PHASE_CONTROL.md, SOURCE_LEDGER.md, FINDINGS.md, OPEN_QUESTIONS.md.
+- **Status:** APLICADO.
