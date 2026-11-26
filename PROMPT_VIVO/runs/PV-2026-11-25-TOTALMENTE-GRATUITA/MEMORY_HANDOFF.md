@@ -96,3 +96,8 @@ OneForma Freya é a hipótese atual mais promissora: a página global lista Port
 TSMG QC Specialist: remoto Brasil, revisão de transcrições e normalização textual, treinamento fornecido, experiência diferencial não obrigatória; pagamento por trabalho validado, sem taxa ou prazo público.
 YPAI: páginas de vagas remotas brasileiras mostram status fechado quando abertas, apesar de snippets “Applications open”; não tratar como oportunidade ativa.
 Gate CONTINUE; nenhuma conta ou candidatura criada.
+
+## Rodada 11 — economia real da transcrição
+S125 (Oxford): transcrição humana de 1h de áudio claro pode exigir pelo menos 4h de trabalho. Com US$6 por hora de áudio, isso dá ~US$1,50/h efetiva no cenário 4:1, antes de câmbio/taxas; tarefas Freya ainda incluem falantes, timestamps e revisão.
+S126: páginas OneForma divergem: Freya v2 lista PT-BR aberto e sem experiência; página de projeto separada exige experiência e lista cinco países; página pt_BR abriu conteúdo inconsistente. Confirmar requisitos/locale no fluxo de destino.
+US$25 mínimos de pagamento equivalem a ~4h10 de áudio aprovado e cerca de 16h40 de trabalho no cenário 4:1. Portanto, não assumir que Freya resolve a meta R$150 até 6/12.
