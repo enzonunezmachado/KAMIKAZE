@@ -29,3 +29,17 @@ Log cronológico desta execução. Append-only; não apagar eventos antigos.
 - **Decisão:** usar como referência metodológica; criar skills próprias do MAK após auditoria de duplicidade. Nenhum código importado/executado e nenhuma ação externa.
 - **Gate:** PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4/03.3 abertas; PHASE_04 QUEUED/NOT_STARTED.
 - **Persistência:** commits individuais confirmados após gravação.
+
+
+## KAM-2026-11-26-003 — Acionador de módulo futuro de tráfego pago
+- **Data:** 2026-11-26
+- **Pedido:** preparar acionador persistente para implementação futura de um módulo completo de tráfego pago, com repositórios, skills, etapas, confirmação, manual e apresentação final.
+- **Interpretação:** "assinador" entendido como "acionador"; perguntas exploratórias não ativam.
+- **Pesquisa:** árvore recursiva de marketing-skills confirmou 49 SKILL.md; leitura de skills de auditoria Google/Meta, CPA, ROAS, orçamento, desperdício, conversão e UTM. Inspecionados Google Ads MCP oficial, Google Ads SDK, Meta SDKs, Ryze MCP, workflows n8n, AdsOnSheets, clientreport e Meridian.
+- **Criado:** `PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md`.
+- **Atualizado:** catálogo open source, knowledge README, BOOTSTRAP, NEXT_CHAT_PROMPT, CONTINUITY_SYSTEM, CHANGELOG, Source Ledger S424–S435, Findings, USER_INPUT_LOG, RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF e operations/STATE.
+- **Estado do acionador:** DORMANT / DOCUMENTED / NOT IMPLEMENTED. Intenção explícita → apresentar pacote e pedir confirmação para Etapa 0; nenhuma autorização de gasto, conta, integração ou campanha.
+- **Skills:** lista de 49/49 conferida por contagem de slugs únicos; não instaladas/importadas.
+- **Gate de pesquisa:** PHASE_03.3/03.4/03.5 inalteradas; PHASE_04 segue QUEUED/NOT_STARTED.
+- **Ações não realizadas:** nenhum código instalado/executado, nenhuma conta conectada, campanha criada, anúncio publicado ou gasto.
+- **Persistência:** commits individuais confirmados.
