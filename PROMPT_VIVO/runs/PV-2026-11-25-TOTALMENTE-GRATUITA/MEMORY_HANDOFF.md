@@ -7,7 +7,8 @@ Execução: PV-2026-11-25-TOTALMENTE-GRATUITA. Objetivo: descobrir oportunidades
 - PHASE_01_LANDSCAPE: concluída, PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS; lacunas transferidas.
 - PHASE_03_VALIDATION: encerrada para transição por autorização explícita do usuário, PASS WITH GAPS; nenhuma compra ou recorrência comprovada.
-- PHASE_04_FEASIBILITY: IN_PROGRESS; escopo e critérios definidos, testes operacionais pendentes.
+- PHASE_04_FEASIBILITY: planejada/QUEUED; há plano e checkpoint, mas nenhum teste operacional foi executado.
+- PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS; gate CONTINUE. Auditoria de completude identificou lacunas críticas na Fase 03.
 - Nenhuma venda, contato, proposta, gasto ou abordagem externa ocorreu.
 - Nenhuma oportunidade foi aprovada.
 
@@ -22,6 +23,12 @@ O usuário rejeita como estratégia principal a dinâmica de plataformas em que 
 - 99Freelas mostra dinâmica de propostas; usuário decidiu não priorizar leilões massivos.
 - Nenhuma prova de compra, disposição a pagar por recorrência, canal próprio ou contratação concluída foi confirmada.
 - Consultar PHASE_03_VALIDATION_CHECKPOINT.md, VALIDATION_MATRIX.md, FINDINGS.md e SOURCE_LEDGER.md.
+
+## Controlador adaptativo
+Consultar PHASE_CONTROL.md sempre que o usuário disser próxima/continua. Isso significa continuar o trabalho, não forçar avanço. Auditar completude e escolher continuar, criar subfase, reabrir, avançar, sintetizar ou bloquear. Registrar e sincronizar a decisão.
+
+## PHASE_03.1 atual
+Aprofundar compra concluída, canal sem leilão, comprador e recorrência. S056–S061 adicionadas. Um projeto adjacente de pesquisa de leads aparece como concluído e tem freelancer vencedor (S058), mas não prova venda repetida de relatório de concorrentes. Serviços específicos vistos em VintePila não exibem avaliações (S057/S059). Evitar coleta de contatos pessoais como oferta padrão. Próximo passo: buscar mais pedidos concluídos comparáveis e aquisição sem leilão.
 
 ## Objetivo da Fase 04
 Avaliar se serviço manual de inteligência comercial ou concierge recorrente podem ser entregues com qualidade, fontes públicas verificáveis, custo inicial zero e tempo/margem plausíveis. Não construir software ainda.
