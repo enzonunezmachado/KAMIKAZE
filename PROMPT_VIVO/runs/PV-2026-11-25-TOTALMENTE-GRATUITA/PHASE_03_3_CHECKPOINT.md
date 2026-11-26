@@ -37,3 +37,5 @@ R$0. Sem cadastro, contato, publicação, anúncio, assinatura, demonstração o
 - Diferencial a investigar: mapa de evidências reais e estruturação de portfólio por área, checklist de completude e coerência entre habilidades/experiência/serviço. Não prever aprovação nem fabricar experiência.
 - Próximo: investigar quem paga por revisão Workana-specific, casos de resultado e alternativa grátis; comparar com diagnóstico pré-proposta manual e calculadora líquida.
 - Estado: PHASE_03.3 CONTINUE; PHASE_04 não iniciada; R$0; NEXUS protegido; nenhum contato/publicação/deploy/gasto.
+
+S294: Mansão Dev (~528 membros em diretório) tem canais de divulgação/parcerias, mas é comunidade ampla de programação/design; atividade e regras internas não verificadas. Acrescenta-se à lista de observação, não à lista de divulgação autorizada.
