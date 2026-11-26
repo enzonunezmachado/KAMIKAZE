@@ -343,3 +343,45 @@ Nenhum código foi instalado/executado/importado e nenhuma ação externa foi re
 - Contagem confirmada em snapshot Affitor main: 53 skills canônicas, 53 entradas registry, 8 estágios; README 52 está desatualizado e changelog 50 é histórico.
 - Regras adicionadas: classes de evidência para métricas, distinção política/heurística, níveis de confiança de casos, disclosure brasileiro e bloqueios para urgência/bônus/garantias sem sustentação.
 - Fontes S403–S413.
+
+
+---
+
+## CHECKPOINT CANÔNICO DE CONTINUIDADE — 2026-11-26
+
+**Este bloco complementa os registros anteriores e representa a orientação mais recente de retomada.** Não apagar o histórico abaixo.
+
+### Estado atual do projeto
+- Projeto: NEGÓCIO DIGITAL KAMIKAZE.
+- Execução: `PV-2026-11-25-TOTALMENTE-GRATUITA`.
+- Meta contextual: buscar R$150 efetivamente recebidos até 06/12/2026; não é garantia.
+- Orçamento operacional autorizado: R$0; nenhuma despesa ou receita registrada.
+- Nenhuma oportunidade aprovada; nenhum experimento comercial ativo.
+- Nenhuma conta de afiliado, publicação, contato, proposta, compra, assinatura ou deploy realizado.
+- Projetos NEXUS e ATLAS permanecem separados.
+
+### Frentes de pesquisa
+- PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION: IN_PROGRESS / CONTINUE.
+- PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE: IN_PROGRESS / CONTINUE.
+- PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION: IN_PROGRESS / CONTINUE.
+- PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE.
+- PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.
+- PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED. Não iniciar sem evidência suficiente e gate adequado.
+
+### Último trabalho documentado
+Auditoria aprofundada do repositório Affitor e incorporação de regras metodológicas ao MAK. Documento: `PROMPT_VIVO/knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md`; fontes S403–S413. Foram confirmadas 53 skills canônicas no snapshot auditado; README 52 desatualizado e changelog 50 histórico; ponteiro de compatibilidade identificado; métricas proxy, heurísticas, casos não corroborados, disclosure brasileiro e gates de urgência/bônus/garantias documentados.
+
+### Próxima ação
+Retomar PHASE_03.5 com inspeção mais profunda das skills do Affitor e adaptação dos métodos úteis ao MAK; em paralelo, aprofundar evidência de afiliados iniciantes sem audiência, jornadas conteúdo→interesse→clique→compra, formatos orgânicos para perfis pequenos e profissionais conectores com introdução consentida. Auditar PHASE_03.3 e 03.4 antes de escolher o próximo lote. Não avançar para PHASE_04 automaticamente.
+
+### Instruções de retomada
+1. Ler `PROMPT_VIVO/CONTINUITY_SYSTEM.md`.
+2. Executar `PROMPT_VIVO/BOOTSTRAP.md`.
+3. Ler logs global e da execução.
+4. Incorporar a mensagem atual do usuário e registrar em USER_INPUT_LOG.
+5. Auditar fase/gate e continuar do ponto exato, sem repetir pesquisa concluída.
+
+### Arquivos de continuidade
+- `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`
+- `PROMPT_VIVO/SESSION_LOG.md`
+- `SESSION_LOG.md` nesta execução
