@@ -82,3 +82,33 @@ A categoria “pesquisa aplicada a uma decisão ou rotina empresarial” tem evi
 - Adequação às habilidades e meta de prazo do usuário: NÃO RESPONDIDA.
 
 **Decisão:** CONTINUE PHASE_03.1. O gate factual de demanda pode ser elevado para PARCIALMENTE RESPONDIDO, mas não aprovar oferta ou iniciar PHASE_04 sem decidir um comprador/gatilho e mapear canal não leilão. Próxima rodada deve investigar canais próprios/inbound/parcerias e escolher uma hipótese estreita com entrega compatível, sem abordagem externa.
+
+
+
+## Rodada 5 — canal sem leilão, adequação de iniciante e elegibilidade (25/11/2026)
+**Fontes:** S076–S086.
+
+- S076: Think with Google B2B: MEIs usam pesquisa Google (65%) e networking (61%) para encontrar soluções digitais; ciclo de decisão médio de 2 meses para MEIs. É evidência geral, não específica de pesquisa e não resolve prazo de recebimento até 06/12.
+- S077: Sebrae Pulso: ~50% dos pequenos negócios já usaram IA para marketing/comunicação; imagens/vídeos 74%, textos 65%. Adoção não equivale a contratação; serviços genéricos podem estar comoditizados.
+- S078: Radar Sebrae/E-Commerce Brasil (n=3.081): 59,2% dos negócios digitais concentram operação em uma pessoa; MEI 76,2%. Catálogo, atendimento, indicadores e calendário são rotinas citadas, mas não prova de contratação externa.
+- S079: 99Freelas ERP Tiny/marketplaces, 132 propostas/176 interessados, mesmo com rótulo “iniciante” exige experiência prática em ERP/marketplaces.
+- S080: 99Freelas catálogo WhatsApp com 400+ produtos, 181 propostas/263 interessados; escopo operacional simples, competição extrema, sem vencedor/valor público.
+- S081–S083: Workana exige 18 e não permite menores; Fiverr permite 13–17 apenas por conta de responsável legal com supervisão e transparência; Upwork exige 18 ou maioridade local. Não usar contas falsas ou emprestadas para contornar.
+- S084: Código Civil considera 16–17 relativamente incapazes para certos atos; MEI de 16–18 requer emancipação segundo manual oficial. Não concluir elegibilidade de contratos/recebimento sem consulta responsável.
+- S085: survey exploratória com 96 respostas completas, concentrada em Vila Mariana/Pinheiros: indicação 46,6%, plataformas 33,8%, redes sociais 19,6%; avaliações/portfólio influenciam confiança. Amostra pequena e resumo feito com IA.
+- S086: ACSP reforça clareza de escopo/prazo/pagamento, indicação e avaliação de senioridade.
+
+### Decisão e impacto
+A evidência confirma que há tarefas operacionais demandadas, mas marketplace não é um canal atraente para nós: concorrência extrema, exigência de experiência e restrições etárias. Indicação/rede e conteúdo pesquisável são caminhos mais plausíveis, mas ainda não há prova direta de conversão para a oferta em investigação. Para alguém iniciante, a porta de entrada teria de ser tarefa delimitada, demonstrável, reversível e sem acesso sensível/risco operacional. A amostra deve ser apresentada honestamente como demonstração, nunca como case real.
+
+### Estado das perguntas
+- Compra de pesquisa aplicada a decisões/rotinas: RESPONDIDO por S071–S075.
+- Demanda por tarefas de catálogo/operação digital: PARCIALMENTE RESPONDIDO por S078–S080.
+- Canal geral sem leilão: PARCIALMENTE RESPONDIDO por S076/S085/S086.
+- Canal específico para esta oferta e conversão: NÃO RESPONDIDO.
+- Recorrência/recompra observada: NÃO RESPONDIDO.
+- Capacidade de iniciante e credibilidade: PARCIAL; ainda requer teste interno e escopo estreito.
+- Elegibilidade legal, plataforma e recebimento aos 16 anos: BLOQUEADO até orientação/participação de responsável e confirmação de regras específicas.
+- Compatibilidade com R$150 até 06/12: NÃO RESPONDIDO; ciclo de decisão MEI (~2 meses) não apoia promessa de recebimento rápido.
+
+**Gate:** CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa, contato, publicação, proposta ou gasto foi realizado.
