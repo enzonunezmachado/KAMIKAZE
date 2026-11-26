@@ -35,7 +35,29 @@ Comprador identificável; dor recorrente/urgente; evidência de pagamento; alcan
 ## Critérios de parada
 Encerrar linha se evidência for repetitiva, contraprova forte, custo incompatível, comprador inacessível ou dependência paga. Pesquisa exploratória não valida mercado.
 
-## Ajuste adaptativo após PHASE_01
-- PHASE_01_LANDSCAPE recebeu gate PASS WITH GAPS: o mapa inicial é suficiente para minerar demanda, mantendo lacunas em stack e canais.
-- PHASE_02_DEMAND passa a priorizar sete clusters identificados: organização administrativa/dados; atendimento WhatsApp; pesquisa de mercado/produtos; cadastro de catálogo; conteúdo/vídeo; operação de afiliados; prospecção B2B.
-- Não criar fase adicional ainda. As novas perguntas permanecem dentro de demanda; reavaliar após o gate desta fase.
+## Ajuste adaptativo — Fase 02
+Sete clusters foram identificados: dados/admin, WhatsApp, pesquisa de mercado/produtos, catálogo, conteúdo/vídeo, afiliados e prospecção B2B. A Fase 02 foi encerrada para priorização com PASS WITH GAPS por decisão explícita do usuário. Lacunas não foram apagadas: aquisição direta, preço líquido, prazo de pagamento e capacidade foram transferidas à Fase 03.
+
+## Ajuste adaptativo — Fase 03 (vigente)
+Validar prioritariamente duas hipóteses relacionadas:
+1. **Serviço de inteligência comercial:** pesquisa de nicho/mercado/concorrentes com pergunta de decisão, fontes rastreáveis, comparação, evidências, limitações e recomendação.
+2. **Produto de monitoramento recorrente assistido por IA:** acompanhar concorrentes, preços, ofertas, conteúdo, sinais de demanda e mudanças, com histórico e relatórios periódicos. “Infinito” não é promessa literal; avaliar frequência, limites de fontes, cotas, confiabilidade e custo operacional.
+3. **Comparador secundário:** planilhas/entregas administrativas padronizadas de execução rápida. Não priorizar se depender de enviar dezenas de propostas ou produzir amostras não remuneradas.
+
+### Perguntas obrigatórias da validação
+- Quem compra cada resultado e qual decisão está tentando tomar?
+- Quais ofertas concorrentes existem, quais preços/escopos e que evidência há de contratação?
+- Quais substitutos gratuitos ou improvisados resolvem parte do problema?
+- Qual lacuna concreta permanece após usar os substitutos?
+- Há canal de aquisição direto, por indicação, parceria ou conteúdo demonstrativo, sem spam nem disputa de trabalho não remunerado?
+- Qual é o menor produto/serviço testável sem construir software?
+- Quais dados são observáveis legalmente e com estabilidade? O que não pode ser automatizado?
+- O usuário consegue entregar com qualidade e dentro do prazo?
+- Qual preço líquido, taxa e prazo de recebimento seriam necessários?
+- Que evidência faria a hipótese ser descartada?
+
+### Regra de aquisição adicionada pelo usuário
+Não priorizar plataformas em que vários freelancers concorrem com propostas para um único projeto, especialmente quando o esforço de candidatura ou amostra é não remunerado. Uma plataforma pode ser usada apenas se houver contratação clara, proteção de pagamento e custo/concorrência compatíveis; não enviar propostas sem aprovação explícita.
+
+## Próxima sequência
+Aprofundar concorrentes e substitutos; depois mapear compradores/canais e evidência de compra. Só então desenhar teste comercial. Não construir o sistema de monitoramento completo antes de validar demanda.
