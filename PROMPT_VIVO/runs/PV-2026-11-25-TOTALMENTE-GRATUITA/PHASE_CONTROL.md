@@ -47,3 +47,7 @@ A auditoria identificou que PHASE_03_VALIDATION foi encerrada para transição a
 
 ## Atualização após Rodada 5 (S076–S086)
 A auditoria encontrou evidência geral de busca e indicação, mas não conversão específica para pesquisa; alta concorrência em serviços operacionais; e bloqueios de elegibilidade aos 16 anos em plataformas importantes. Antes de considerar piloto, investigar rota legal de recebimento/contrato, participação de responsável adulto, parceria supervisionada e prova demonstrável de capacidade. Manter PHASE_03.1 em CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Não abordar, publicar ou enviar proposta.
+
+
+## Atualização após Rodada 7 (S101–S104)
+A investigação de plataformas de tarefas para IA encontrou Prolific (Brasil elegível, porém waitlist e até 22 dias de aprovação) e Outlier (pagamento semanal, mas vaga PT-BR encontrada exigia coding expertise). Esses modelos não resolvem automaticamente a meta imediata. Manter PHASE_03.1 em CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Nenhuma conta/candidatura ou contato foi realizado.
