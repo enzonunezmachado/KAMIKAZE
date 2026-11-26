@@ -13,24 +13,29 @@ A arquitetura é dinâmica. PHASE_00–PHASE_05 são referências iniciais, não
 - PHASE_04_FEASIBILITY
 - PHASE_05_SYNTHESIS
 
-### v2.0 — 2026-11-25 — Aplicação da governança adaptativa
-**Motivo:** o usuário autorizou explicitar que o Prompt Vivo pode administrar o número e a ordem das fases, criando ou alterando etapas quando necessário, sem multiplicar fases por formalidade.
+### v2.0 — 2026-11-25 — Governança adaptativa
+**Motivo:** explicitar que o Prompt Vivo pode administrar o número e a ordem das fases sem multiplicar etapas por formalidade.
 
-**Decisões atuais:**
+### v3.0 — 2026-11-25 — Transição autorizada para PHASE_03_VALIDATION
+**ID:** PA-003  
+**Motivo:** o usuário autorizou avançar para validação e apontou duas hipóteses conectadas: pesquisa de mercado como serviço e sistema de pesquisa recorrente com ChatGPT/IA. Também pediu que a aquisição não dependa de disputas de propostas não remuneradas em plataformas freelancer.  
+**Fases afetadas:** PHASE_02_DEMAND e PHASE_03_VALIDATION.  
+**Mudança:** PHASE_02 encerrada para priorização com PASS WITH GAPS, sem apagar lacunas; PHASE_03 iniciada com escopo adaptado para validar serviço e produto potencial.  
+**Lacunas transferidas:** aquisição direta sem spam; preço líquido e prazo de pagamento; prova de disposição a pagar; capacidade prática; frequência/valor do monitoramento recorrente.  
+**Comparador secundário:** planilhas padronizadas e rápidas, somente para avaliar se uma entrega de baixo esforço pode ser vendida fora de leilão de propostas.  
+**Dependências/cotas:** pesquisa pública e ferramentas gratuitas; nenhuma API, assinatura, anúncio ou automação paga. Quota continua opaca; respeitar RESOURCE_BUDGET_POLICY.md.  
+**Entregáveis:** VALIDATION_MATRIX.md e PHASE_03_VALIDATION_CHECKPOINT.md, além de atualização de RUN_STATE, RESEARCH_PLAN e MEMORY_HANDOFF.  
+**Decisão de gate:** PHASE_02 = PASS WITH GAPS por transição explicitamente solicitada; PHASE_03 = IN_PROGRESS.
+
+## Decisões atuais
 | Fase | Estado | Gate/observação |
 |---|---|---|
-| PHASE_00_SCOPE | Concluída | PASS WITH GAPS; escopo e restrições registrados |
-| PHASE_01_LANDSCAPE | Concluída | PASS WITH GAPS; mapa inicial suficiente para minerar demanda |
-| PHASE_02_DEMAND | Em andamento | Primeiro lote encontrou sete clusters; faltam canais diretos, preço líquido, prazo e capacidade de entrega |
-| PHASE_03_VALIDATION | Planejada | Só será adaptada após entender quais clusters têm sinal mais forte |
-| PHASE_04_FEASIBILITY | Planejada | Pode ser dividida se custos, aquisição e capacidade exigirem análises distintas |
-| PHASE_05_SYNTHESIS | Planejada | Pode ocorrer antes ou depois de fases adicionais conforme evidência |
-
-## Registro de alterações
-| ID | Data | Ação | Justificativa | Impacto |
-|---|---|---|---|---|
-| PA-001 | 2026-11-25 | PHASE_01 marcada PASS WITH GAPS e PHASE_02 iniciada | O landscape inicial já mapeou os modelos principais; pedidos concretos agora agregam mais valor | Avanço sem repetir pesquisa ampla |
-| PA-002 | 2026-11-25 | Nenhuma fase adicional criada | Os sete clusters ainda cabem na mineração de demanda; não há evidência de que uma fase separada melhore o trabalho | Evita burocracia; reavaliar no gate da Fase 02 |
+| PHASE_00_SCOPE | Concluída | PASS WITH GAPS |
+| PHASE_01_LANDSCAPE | Concluída | PASS WITH GAPS |
+| PHASE_02_DEMAND | Encerrada para transição | PASS WITH GAPS; lacunas não resolvidas foram transferidas |
+| PHASE_03_VALIDATION | Em andamento | Pesquisa concorrencial inicial feita; falta prova de compra, canal de aquisição e disposição a pagar |
+| PHASE_04_FEASIBILITY | Planejada | Avaliar apenas hipóteses que sobreviverem à validação |
+| PHASE_05_SYNTHESIS | Planejada | Pode ser antecipada ou adaptada |
 
 ## Regra de atualização
-Toda mudança futura deve acrescentar linha ao histórico e atualizar RESEARCH_PLAN.md, RUN_STATE.md e MEMORY_HANDOFF.md. Não apagar fases ou registros anteriores; marcar como skipped, merged, retired ou reopened com justificativa.
+Toda mudança futura deve acrescentar linha ao histórico e atualizar RESEARCH_PLAN.md, RUN_STATE.md e MEMORY_HANDOFF.md. Não apagar fases ou registros anteriores.
