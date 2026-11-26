@@ -202,3 +202,38 @@ Ferramenta SEO nova é ativo de médio/longo prazo. Sem tráfego existente, dom�
 6. Manter comparação com ideias freelancer e serviço manual. Não iniciar PHASE_04 nem construir/deploy sem gate e autorização.
 
 **Estado:** PHASE_03.3 IN_PROGRESS / CONTINUE. PHASE_04 QUEUED / NOT_STARTED. Orçamento R$0. Nenhum cadastro, anúncio, contato, publicação, deploy ou gasto.
+
+
+
+## Rodada 24 — Buyer segmentation e micro-nichos (S315–S326; 26/11/2026)
+
+### Comparação inicial de segmentos
+| Segmento | Evidência de compra/intenção | Concorrência observada | Barreiras/fit | Situação |
+|---|---|---|---|---|
+| Assistência virtual/admin | Projetos de pesquisa, planilhas, agendamentos, atendimento, organização e relações contínuas; um job estima 10h/mês | 102–587 propostas/interessados nos exemplos | Fit operacional relativamente alto, mas exige confiança, comunicação e disponibilidade; alguns pedem MEI/nota fiscal | Demanda presente, acesso competitivo |
+| Edição de vídeo curto | Jobs repetidos para Reels/TikTok/Shorts, pacotes mensais e entregas de evento | 17–76 propostas em exemplos; Upwork mostra catálogo grande | Precisa habilidade prática, portfólio e prazos rápidos; pode haver recorrência | Nicho promissor para estudo, não presumir capacidade de entrega imediata |
+| Design/social media | 48 artes/mês para agência, identidade visual e projetos pontuais | 53–62 propostas em exemplos | Exige portfólio e qualidade visual consistente | Mercado com demanda, mas skill/portfólio como barreira |
+| Tradução/revisão | 39 aulas, 60–100 páginas, documentos e revisão de livro | 54–244 propostas em exemplos | Inglês excelente, formação em Tradução/Letras ou habilitação em serviços específicos; risco de confidencialidade | Não é fit imediato para inglês intermediário |
+| Workana Profile Readiness | Moderação oficial 15–30 dias; reclamações recentes de bloqueio de propostas durante revisão; serviço oficial de prioridade pago e opcional | Revisão de perfil geral já tem 50–88 propostas em projetos anteriores | Critérios comparativos parcialmente opacos; não controlar aprovação; guias gratuitos já existem | Dor real; compra independente específica não demonstrada |
+
+### Conclusões provisórias
+1. Não descartar VA por saturação, mas não posicionar oferta genérica. Buscar microentregas operacionais com escopo claro e baixo risco, preferencialmente fora de leilões de marketplace.
+2. Edição de vídeos curtos merece aprofundamento por repetição de briefs, pacotes e alguns snapshots de menor concorrência; precisa de prova de habilidade e amostra própria antes de qualquer oferta.
+3. Design tem potencial de contrato recorrente com agências, mas requer portfólio visual e velocidade de produção.
+4. Tradução profissional não deve ser priorizada: o usuário tem inglês intermediário, e os compradores observados exigem proficiência/formação/habilitação.
+5. Workana Profile Readiness segue hipótese de serviço/diagnóstico de perfil, mas a compra específica não foi comprovada. Não prometer aprovação nem reproduzir apenas guias gratuitos.
+
+### Auditoria Workaholic/Scoutly
+Workaholic já oferece matching, filtros, alertas, CRM, follow-up e currículo local-first. A consulta ao repositório não encontrou issues públicas acessíveis; isso não é prova de ausência de falhas. Nenhuma falha independente específica foi confirmada. Scoutly continua com métricas e funcionalidades majoritariamente declaradas pelo fornecedor, sem dados independentes de retenção/eficácia. Portanto, a hipótese de construir um concorrente segue sem justificativa.
+
+### Comunidades e aquisição
+Programadores BR mostra ~39,6 mil membros e milhares online no diretório público, além de canais de vagas/projetos e designers. Isso é um sinal de atividade, não autorização de divulgação nem prova de freelancers compradores. Não foi possível auditar regras internas completas do Discord nesta rodada. Manter como observação; sem posts, DMs ou pesquisa disfarçada. Editor Livre e comunidades menores permanecem pendentes de validação interna.
+
+### Próxima rodada
+- Investigar canais não-marketplace para pequenos serviços operacionais e edição de vídeo (comunidades com regras públicas, grupos de empreendedores, agências e indicações).
+- Identificar subproblemas concretos em edição curta: seleção de cortes, legendagem, padronização de templates, organização de lotes e controle de revisões; validar compradores e orçamento, não só anúncios.
+- Buscar evidência de pagamentos/contratos efetivos e avaliações verificáveis para os segmentos VA e vídeo.
+- Verificar comunidades e regras com fontes oficiais acessíveis; não inferir permissões pelo número de membros.
+- Manter a hipótese de ferramentas simples como linha paralela, sem desviar o foco desta fase.
+
+**Estado:** PHASE_03.3 IN_PROGRESS / CONTINUE. PHASE_04 QUEUED / NOT_STARTED. R$0. Sem construção, contato, publicação, cadastro, deploy ou gasto.
