@@ -2,48 +2,38 @@
 
 Execução: PV-2026-11-25-TOTALMENTE-GRATUITA. Objetivo: descobrir oportunidades digitais com IA, custo R$0 e meta contextual de R$150 efetivamente recebidos até 06/12/2026.
 
-## Contexto para novo chat
-Executar `PROMPT_VIVO/BOOTSTRAP.md`. Ler primeiro `RESUME_PACKET.md), depois RUN_STATE, PHASE_CONTROL, PHASE_ARCHITECTURE, RESEARCH_PLAN, checkpoint e instrução da fase ativa. Incorporar a conversa atual e registrar alterações em USER_INPUT_LOG. Não pedir ao usuário para repetir contexto documentado. Não alegar certeza total.
+## Novo chat
+Executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md primeiro. Reconstruir projeto, execução, pesquisa atual, fase, evidências, decisões e restrições. Incorporar comentários da conversa atual e registrar no USER_INPUT_LOG.md. Não pedir contexto já documentado nem alegar certeza total.
 
-## Estado exato
-- PHASE_00_SCOPE: concluída, PASS WITH GAPS.
-- PHASE_01_LANDSCAPE: concluída, PASS WITH GAPS.
+## Estado
+- PHASE_00_SCOPE: PASS WITH GAPS.
+- PHASE_01_LANDSCAPE: PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
-- PHASE_03_VALIDATION: encerrada para transição por autorização explícita do usuário, PASS WITH GAPS; nenhuma compra ou recorrência comprovada.
-- PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS; gate CONTINUE.
-- PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED; há plano e documentos preparatórios, mas nenhum teste operacional foi executado.
-- Nenhuma venda, contato, proposta, gasto ou abordagem externa ocorreu.
-- Nenhuma oportunidade foi aprovada.
+- PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; lacunas reavaliadas.
+- **PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS; gate CONTINUE.**
+- PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED; não houve teste operacional.
+- Nenhuma oportunidade aprovada, receita R$0, despesas R$0, nenhum experimento comercial.
+- Nenhum contato, proposta ou abordagem externa.
 
-## Pesquisa em andamento
-A execução ampla investiga monetização digital com IA, serviços, produtos digitais, e-commerce/dropshipping, conteúdo, automações, agentes, afiliados e outros modelos. A hipótese atualmente em validação é serviço pontual de pesquisa/inteligência comercial e possível monitoramento competitivo recorrente assistido por IA. A subfase 03.1 foi aberta porque a Fase 03 não havia demonstrado compra específica, comprador estreito, canal de aquisição e recorrência.
+## Pesquisa atual
+A execução ampla investiga modelos digitais com IA, serviços, produtos digitais, e-commerce/dropshipping, conteúdo, automações, agentes e outras vias. A hipótese em foco é serviço pontual de pesquisa/inteligência comercial e possível monitoramento competitivo recorrente assistido por IA. A subfase 03.1 foi aberta porque faltavam prova de compra específica, comprador, canal sem leilão e recorrência.
+
+## Evidência nova S062–S066
+- S062: Workana, cliente com 90 projetos publicados e 76 pagos pede cotação de preços de quatro concorrentes e declara intenção de repetir a cada 3–4 meses. Projeto específico aberto e sem propostas; sinal de recorrência desejada, não compra.
+- S063: pedido Workana de análise competitiva estruturada, mas cliente com 1 projeto e 0 pagos; aberto.
+- S064: 99Freelas, pesquisa de preços/estoque em pontos de venda, Concluído Parcialmente, vencedor identificado; mínimo R$60, 6 propostas, 21 interessados; exige campo físico.
+- S065: oferta VintePila de pesquisa/validação a R$50 mostra 0 vendas, sem reviews e vendedor inativo há mais de 180 dias.
+- S066: Workana, projeto recente de SaaS para monitoramento de anúncios concorrentes com IA e assinaturas, orçamento R$500–R$1.000; aberto, comprador com 4 pagos de 13 publicados. Intenção de financiar desenvolvimento, não prova de contratação ou assinantes.
+
+S062–S066 não equivalem a cinco vendas. S064 é execução parcial; S062 e S066 são sinais de intenção; S063 é intenção fraca; S065 é contraprova. Não há prova robusta de venda repetida de relatório remoto competitivo nem assinatura recorrente.
 
 ## Decisões humanas
-O usuário quer investigar pesquisa de mercado porque o processo do próprio Kamikaze pode servir de base para pesquisas comerciais; também quer investigar monitoramento/pesquisa recorrente com IA. Não assumir "infinito" literalmente: validar fontes, limites, atualizações, qualidade, custos e disposição a pagar.
-O usuário rejeita como estratégia principal plataformas em que muitos freelancers disputam um comprador por propostas. Não produzir trabalho personalizado não pago nem enviar propostas em massa.
-O usuário pediu autonomia adaptativa: comentários feitos durante a conversa podem influenciar escopo, método e próxima etapa; quando disser "próxima/continua", a IA deve auditar e decidir o passo seguinte.
-Dropshipping e conteúdo com IA continuam hipóteses, não foram escolhidos nem descartados.
-
-## Evidência e resultado provisório
-- S056: VintePila tem categoria com 50 serviços; depoimentos genéricos não comprovam compras específicas.
-- S057: anúncio de comparação de concorrentes R$30–R$80 sem avaliações visíveis; preço anunciado, não venda.
-- S058: projeto 99Freelas concluído e vencedor identificado, pesquisa de leads para curso de inglês; escopo com 50 contatos pessoais/WhatsApp, valor final não divulgado; compra adjacente, não valida relatório competitivo.
-- S059: anúncio de análise de concorrentes R$100–R$200 sem avaliações visíveis; preço anunciado, não venda.
-- S060: documentação VintePila descreve reputação e receita líquida de 80% nos níveis citados; confirmar termos atuais.
-- S061: G2 mostra categoria de competitive intelligence estabelecida, mas não valida demanda brasileira por serviço manual.
-- S054/S055: Visualping e soluções concorrentes demonstram ferramentas existentes e substitutos parciais; não provam demanda local.
-
-Conclusão: há um sinal de contratação concluída em escopo adjacente, mas não há prova robusta de vendas repetidas de relatórios de concorrentes nem assinatura recorrente de pequenos negócios brasileiros.
+- Não priorizar leilões de propostas em massa; não fazer spam, trabalho personalizado gratuito ou coleta de dados pessoais como padrão.
+- O usuário pediu autonomia adaptativa: comentários entre respostas podem mudar escopo, método e prioridade; "próxima/continua" significa auditar e executar o próximo passo útil, não avançar automaticamente.
+- Pesquisa de mercado/inteligência competitiva não é negócio escolhido. Dropshipping e conteúdo com IA continuam hipóteses na pesquisa ampla.
 
 ## Próxima ação
-Continuar PHASE_03.1: buscar contratações concluídas comparáveis, reviews específicos, canais inbound/indicação/parceria sem executar contato, segmentos com decisão urgente e evidência de recorrência. Atualizar matriz e decidir se 03.1 fecha ou se precisa de 03.2. Não executar Fase 04 apenas porque existem documentos preparatórios.
+Continuar PHASE_03.1 focando em canais inbound/indicação/parceria sem executar contato, segmentos com decisão urgente, distinção entre pesquisa pública remota e trabalho de campo/cliente oculto, reviews específicos e recorrência comprovada. Atualizar matriz e gate. Fase 04 permanece aguardando.
 
 ## Restrições
-- Capital inicial R$0; sem assinaturas, APIs, anúncios, hospedagem ou créditos pagos.
-- Não cadastrar cartão para trials ou billing.
-- Cotas opacas: marcar QUOTA OPACA, não inventar contagens.
-- Não usar scraping proibido, burlar paywalls, coletar dados privados ou enviar spam.
-- Não publicar, enviar mensagens, comprar, assinar, fazer deploy ou executar ação externa sem aprovação humana.
-- Não declarar vendas, avaliações, intenção de compra ou dados como comprovados sem fonte.
-- Não usar assistência técnica como nicho privilegiado.
-- Consultar RESOURCE_BUDGET_POLICY.md.
+R$0; sem ferramentas/API/assinaturas/anúncios pagos; quota opaca deve ser declarada; não cadastrar cartão para trials; não usar scraping proibido, burlar paywalls ou coletar dados privados; nenhuma ação externa sem aprovação explícita; não misturar Kamikaze com NEXUS/ATLAS.
