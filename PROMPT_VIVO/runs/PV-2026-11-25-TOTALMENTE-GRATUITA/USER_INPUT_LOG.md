@@ -84,3 +84,10 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 | 2026-11-26 | Pediu pesquisar e construir dados para as ressalvas identificadas no estudo Affitor: divergência de contagem e skills canônicas, métricas/proxies, heurísticas de plataforma, evidência dos casos numéricos, disclosure brasileiro e claims de urgência/bônus/garantia. | Criada auditoria documental aprofundada em knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md; fontes S403–S413; regras incorporadas à PHASE_03.5 e à governança do MAK. | APLICADO |
 
 | 2026-11-26 | Pediu criar mecanismo para documentar as atualizações do Kamikaze e recuperar o contexto após o limite do chat, permitindo abrir outra conversa, colar um prompt e continuar a pesquisa automaticamente, como no mecanismo de continuidade do NEXUS. | Criados CONTINUITY_SYSTEM.md, NEXT_CHAT_PROMPT.md e SESSION_LOGs global/da execução; reescrito BOOTSTRAP; atualizados MASTER_PROMPT, EXECUTION_PROTOCOL, MEMORY_AND_HANDOFF, README, CHANGELOG, operations/STATE, RUN_STATE, RESUME_PACKET e PHASE_CONTROL. Checkpoint obrigatório após lotes e antes de transferência; novo chat deve auditar e continuar sem reiniciar. | APLICADO |
+
+
+## 2026-11-26 — pedido para executar NEXT_CHAT e catalogar skills/repositórios
+**Entrada:** usuário confirmou que basta pedir para ler o repositório do Kamikaze para localizar e executar NEXT_CHAT_PROMPT; pediu executar retomada, preparar a adição/listagem das skills Affitor e dos outros repositórios estudados, permitindo uma resenha.
+**Classificação:** instrução de continuidade + pedido de inventário técnico e resenha crítica.
+**Impacto:** executar NEXT_CHAT/BOOTSTRAP, conferir estado ativo e criar catálogo centralizado com as 53 skills Affitor e os outros repositórios estudados. Distinguir referência, adaptação proposta e código efetivamente adotado. Não importar/instalar/executar sem autorização.
+**Status:** APLICADO NA DOCUMENTAÇÃO; nenhuma skill de terceiros foi importada ou executada.
