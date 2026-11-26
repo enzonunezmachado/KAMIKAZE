@@ -150,3 +150,10 @@ Manter PHASE_03.1 em CONTINUE. Próxima investigação deve aprofundar:
 4. prova de capacidade por amostra pública/ficcional e teste curto remunerado;
 5. caminhos de recebimento e prazo real sem assinatura paga.
 PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato ou ação externa foi realizada.
+
+
+## Complemento — rodada 7: plataformas de tarefas para IA
+- S101: Prolific aceita participantes residentes no Brasil com mais de 18 anos, mas usa waitlist e verificação.
+- S102–S103: saque PayPal a partir de £6/US$6 aprovados; aprovação de submissões pode levar até 22 dias. Não serve como aposta de prazo imediato sem conta já ativa.
+- S104: Outlier paga semanalmente às terças após onboarding, mas exige ID, telefone local, currículo e qualificação específica. A vaga localizada para PT-BR era de programação/coding expertise; não presumir que se encaixa.
+- Gate permanece CONTINUE: ainda faltam prova de alocação, pagamento efetivo e canal rápido. Nenhuma conta criada/candidatura feita.
