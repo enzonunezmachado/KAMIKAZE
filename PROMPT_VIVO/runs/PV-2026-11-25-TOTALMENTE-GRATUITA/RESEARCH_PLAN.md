@@ -157,3 +157,7 @@ Linha auxiliar de renda de curto prazo (sem substituir a hipótese de inteligên
 **Não fazer:** não contatar compradores, não enviar proposta, não criar conta, não publicar, não gastar. Não assumir que "empresa paga mais" significa mais fácil; nem que B2C é fácil por ter menos autoridade. Não restringir a pesquisa a sites, pesquisa comercial ou IA.
 
 **Rodada 17:** dados TIC Domicílios 2025/2024; Sebrae 2026; projetos reais 99Freelas de pesquisa, cardápio/site, manutenção mensal; sinais de consumo B2C. Próxima etapa: explorar profissionais independentes e empresas estruturadas, comparar canais e barreiras, procurar prova de compra fora de marketplace e mapear recorrência.
+
+
+## Rodada 18 — profissionais independentes e B2B (S186–S196)
+Assistência virtual, organização e operação de conteúdo foram encontradas em briefs reais, mas com competição de 100–447 propostas/interessados. Agências compradoras intermediárias podem oferecer trabalho operacional recorrente com estratégia e materiais fornecidos, mas exigem confiabilidade, comunicação, ferramentas e prazos. PMEs mostram cautela com contratação de equipe; grandes empresas exigem processos e prova. Próxima rodada: aquisição fora de marketplace (parcerias, comunidades, busca e conteúdo útil), ofertas de entrada com risco baixo e demonstração genérica, preços/tempo efetivos e renovação.
