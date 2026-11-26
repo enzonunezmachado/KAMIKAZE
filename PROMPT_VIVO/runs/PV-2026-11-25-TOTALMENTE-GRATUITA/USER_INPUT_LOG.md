@@ -72,3 +72,11 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Impacto:** criar mecanismo de referral-by-introduction com disclosure de comissão, consentimento, pedido sem pressão e sem coletar contatos de terceiros sem autorização. Oferecer uma mensagem encaminhável para a pessoa compartilhar; não condicionar ajuda a compra/indicação nem explorar culpa/obrigação. Auditar repositórios por licença, atividade, código real, dependências, APIs, custos, segurança, manutenção e aderência ao MAK; não instalar, executar ou importar sem auditoria e aprovação.
 **Fontes:** S394–S398.
 **Status:** APLICADO NA DOCUMENTAÇÃO; pesquisa de repositórios continua.
+
+
+
+## 2026-11-26 — estudo aprofundado do Affitor/affiliate-skills e expansão do MAK
+**Entrada:** usuário autorizou estudar profundamente o primeiro repositório recomendado (Affitor/affiliate-skills), examinar seus arquivos e adaptar ao projeto Kamikaze os elementos que realmente agreguem valor; também aprovou incorporar a estratégia de relacionamento e memória de marca descrita na conversa.
+**Classificação:** autorização de pesquisa documental e atualização do repositório Kamikaze; expansão conceitual do MAK.
+**Impacto:** criar estudo técnico/estratégico próprio, mapear padrões úteis, registrar limitações/contraprovas, adaptar a arquitetura modular e o flywheel, e acrescentar o ciclo de relacionamento/memória de marca. Não instalar, clonar, executar, importar código, criar contas, publicar ou contatar terceiros.
+**Status:** APLICADO NA DOCUMENTAÇÃO; implementação operacional e validação comercial continuam pendentes.
