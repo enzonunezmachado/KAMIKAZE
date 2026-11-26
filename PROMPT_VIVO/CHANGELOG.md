@@ -92,6 +92,6 @@ Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A
 
 ## 2026-11-26 — pesquisa de construção com IA e ferramentas gratuitas
 - Criado `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` com casos, arquitetura, custos declarados e restrições dos planos gratuitos.
-- Criado suplemento de fontes S436–S450: `runs/PV-2026-11-25-TOTALMENTE-GRATUITA/SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`.
+- Criado suplemento de fontes S436–S450: `runs/PV-2026-11-25-TOTALMENTE-GRATUITA/SOURCE_LEDGER_SUPPLEMENT_S436_S453.md`.
 - Atualizados PHASE_03.5, FINDINGS, RUN_STATE, RESUME_PACKET, USER_INPUT_LOG, logs e operations/STATE.
 - Nenhuma ferramenta foi instalada ou executada; nenhum app, conta, deploy ou gasto foi realizado.
