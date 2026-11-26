@@ -290,3 +290,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Próxima ação: auditar duplicidade e transformar capacidades de maior valor em skills próprias do MAK, priorizando verificação de ofertas, inteligência de público, brief, distribuição autorizada, mensuração, retrospectiva, compliance brasileiro e relacionamento.
 - Estado/gates inalterados: PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
 - Nenhum código foi importado/instalado/executado; nenhuma ação externa realizada.
+
+
+## Módulo dormente — Tráfego Pago (26/11/2026)
+- Acionador: `MAK-PAID-TRAFFIC-MODULE`; documento `PROMPT_VIVO/knowledge/PAID_TRAFFIC_MODULE_ACTIVATION.md`.
+- Estado: DORMANT / DOCUMENTED / NOT IMPLEMENTED. Não altera a execução ativa nem abre a PHASE_04.
+- Ao receber intenção explícita de implementar tráfego pago, ler o acionador, apresentar pacote/etapas/riscos/entregáveis e pedir confirmação para começar pela Etapa 0. Menções exploratórias não ativam.
+- Etapa 0 autoriza somente revalidação e planejamento documental. Contas, integrações, publicações, campanhas e gastos exigem autorização separada.
+- Catálogo open source ampliado com 49 skills marketing-skills e referências oficiais Google/Meta, MCP, n8n, reporting e Meridian; detalhes e resenha no catálogo de conhecimento.
+- Nenhum código foi importado ou executado; nenhuma conta conectada, campanha criada, anúncio publicado ou gasto realizado.
