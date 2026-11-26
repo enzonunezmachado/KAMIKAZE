@@ -314,3 +314,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Leitura estática de código confirma padrões de transação, validação, CSV safety, headers e Docker hardening; sem execução de testes.
 - Bloqueio de produção: demo sem autenticação e endpoints examinados sem autorização/tenant scoping visível; não usar dados reais. AppJet processa credenciais/env vars, dados em EUA e inferência Canadá conforme termos/política; não garante uptime. S451–S453.
 - AppJet permanece candidato não aprovado; nenhuma conta conectada ou repositório compartilhado.
+
+
+## Rodada 34 — soluções digitais locais e leads (26/11/2026)
+- Documentado `knowledge/MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md`; fontes S454–S466 em `SOURCE_LEDGER_SUPPLEMENT_S454_S466.md`.
+- Nova hipótese: serviços locais personalizados (site, cardápio, catálogo, formulários, automação) com implantação + manutenção, dimensionados pela maturidade do negócio.
+- Diretórios mostram 62 pizzarias em Taboão; sete candidatos com contatos exploratórios. Dados precisam revalidação; Jardim Salete tem conflito de telefone/endereço.
+- Guardrails: sem scraping/exportação de Maps; sem mensagens WhatsApp frias; contato só por canal apropriado e com permissão; LGPD; nenhuma ação externa feita.
+- Demos de portfólio devem ser fictícias e rotuladas. Preços registrados são hipóteses, não aprovados.
+- PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED; orçamento R$0 preservado.
