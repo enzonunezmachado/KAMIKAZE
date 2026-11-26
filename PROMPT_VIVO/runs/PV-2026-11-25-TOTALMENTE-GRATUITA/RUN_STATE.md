@@ -323,3 +323,14 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Guardrails: sem scraping/exportação de Maps; sem mensagens WhatsApp frias; contato só por canal apropriado e com permissão; LGPD; nenhuma ação externa feita.
 - Demos de portfólio devem ser fictícias e rotuladas. Preços registrados são hipóteses, não aprovados.
 - PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_04 QUEUED/NOT_STARTED; orçamento R$0 preservado.
+
+
+
+## 2026-11-26 — estrutura documental do Motor de Diagnóstico e Soluções Empresariais
+- Usuário definiu pesquisa em lotes de 20 empresas únicas, ranking comparativo, registro de todas as decisões de contato/não contato, deduplicação entre lotes, possibilidade de reavaliação futura e organização por empresa/projeto/contrato recorrente.
+- Criada estrutura em `operations/COMPANY_SOLUTIONS/`: control tower, registro mestre de empresas, registro de contato/permissão/supressão, registro financeiro, lotes e template de 20 empresas, dossiês individuais, projetos e template, contratos recorrentes e template, método de ranking e taxonomia de status, governança de pesquisa/contato/dados.
+- Ranking separa Conversion Fit e Business Value Fit; scores heurísticos, com confidence/coverage, não probabilidades estatísticas.
+- Empresa não selecionada pode ser reavaliada com o mesmo ID e nova justificativa; recusa explícita e opt-out bloqueiam reabordagem indevida.
+- Estado: DOCUMENTADO / NÃO ATIVADO. Nenhuma empresa foi cadastrada neste novo módulo; nenhum lote executado; nenhum contato, protótipo comercial, venda, contrato, deploy ou gasto realizado.
+- Orçamento autorizado permanece R$0. Caixa informado R$50 e dívida R$250 não autorizam despesa.
+- Índice: `operations/COMPANY_SOLUTIONS/README.md`.
