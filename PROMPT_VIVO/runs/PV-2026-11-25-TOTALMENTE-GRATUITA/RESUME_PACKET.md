@@ -91,3 +91,8 @@ Não repetir S054–S066 sem motivo; abrir as fontes originais quando necessári
 - S075: 99Freelas, pesquisa de tendências com relatórios três vezes por semana, Concluído com vencedor; duração/renovação desconhecida.
 - Nova leitura: evidência de compra é forte para pesquisa aplicada a decisão/rotina empresarial, não para um relatório genérico de concorrentes. Recorrência desejada existe em alguns briefs, mas recompra efetiva não foi comprovada.
 - Gate CONTINUE em PHASE_03.1. Próximo: encontrar canal sem leilão e selecionar hipótese de baixa barreira/entrega verificável, sem contatar ninguém.
+
+
+## 11. Critério humano novo — iniciante, credibilidade e profundidade (25/11/2026)
+O usuário autorizou pesquisa mais aprofundada e sem pressa artificial. Aprofundar sinais decisivos com fontes primárias, triangulação, contraprovas e análise do caminho comercial completo; não impor minutos ou quantidade fixa de fontes. Registrar fontes, resultados negativos e lacunas.
+O responsável está começando e não tem experiência profissional prévia nas áreas investigadas. Não presumir competências, portfólio ou autoridade. Avaliar curva de aprendizagem, prova de capacidade, credibilidade exigida, reuniões/postura, riscos, requisitos legais/idade e necessidade de supervisão. Não recomendar fingir ser especialista. Priorizar entregas simples, verificáveis e de baixo risco; se uma oportunidade exigir experiência ainda inexistente, reformular, adiar ou descartar. Ver também README.md e RESEARCH_PLAN.md.
