@@ -241,3 +241,10 @@ Atendendo ao pedido de investigar pessoas que construíram produtos/aplicações
 - Não mexer no AI Studio/NEXUS nem presumir quota disponível.
 - Próxima pesquisa: auditar o código Stockroom por arquivos críticos (schema, transações, validações, export, testes e persistência); avaliar termos AppJet; encontrar casos brasileiros e alternativas locais/open source que funcionem no notebook de 8GB e celular/tablet.
 - Esta rodada não aprova PHASE_04 nem altera orçamento R$0. PHASE_03.5 continua IN_PROGRESS/CONTINUE; PHASE_03.3 e 03.4 continuam abertas.
+
+
+### Addendum da Rodada 33 — auditoria de código e fornecedor AppJet
+- Inspecionados estaticamente Stockroom `lib/db.ts`, `lib/repo.ts`, routes, `lib/api.ts`, testes, headers, export CSV e Dockerfile. Boas práticas: transações no ledger, validação/limites, proteção contra CSV formula injection, same-origin browser writes, security headers, build multi-stage e non-root.
+- **Bloqueio crítico:** demo sem login; endpoints examinados não mostram autenticação/autorização nem isolamento tenant. Same-origin não substitui auth; clientes externos sem Origin continuam permitidos. Não usar dados reais antes de implementar autenticação, autorização, backups e testes.
+- AppJet Terms/Privacy: código/interações não usados para treino e código não retido após coding segundo fornecedor; dados EUA/inferência Canadá; credenciais e variáveis de ambiente são processadas; serviço sem garantia de disponibilidade e pode suspender contas. Não enviar secrets ou dados sensíveis na avaliação.
+- A inspeção foi somente leitura; testes não foram executados e não houve pentest. S451–S453 adicionados ao suplemento de fontes.
