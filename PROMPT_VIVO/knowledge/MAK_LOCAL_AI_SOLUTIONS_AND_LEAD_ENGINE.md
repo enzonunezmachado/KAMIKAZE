@@ -186,3 +186,9 @@ IA pode resumir presença digital, gerar protótipos, preparar textos, construir
 - Avaliar stack gratuita comercialmente permitida e domínio pago diretamente pelo cliente.
 - Pesquisar contratos, escopo de manutenção, backups, LGPD e responsabilidade.
 - Reavaliar vertical: pizzarias são uma hipótese inicial, não nicho decidido.
+
+
+## 11. Sistema operacional de empresas e projetos
+A hipótese de serviços passa a contar com uma estrutura documental específica em `operations/COMPANY_SOLUTIONS/`. O método trabalha com lotes de 20 empresas únicas, registro mestre para deduplicação, ranking separado de Conversion Fit e Business Value Fit, dossiê por empresa, log de permissão/contato, projeto individual, contrato recorrente e registro financeiro. Ver [README do módulo](../../operations/COMPANY_SOLUTIONS/README.md) e [método de ranking](../../operations/COMPANY_SOLUTIONS/PLAYBOOKS/RANKING_AND_DECISION_RULES.md).
+
+**Importante:** a estrutura está criada, mas não foi ativada comercialmente. Nenhum lote foi iniciado, nenhuma empresa foi contatada e nenhum projeto/contrato foi criado. Não contar empresas já registradas como novas em lotes futuros; reavaliação deve preservar o ID e histórico. A recusa e o opt-out têm tratamento diferente de não seleção por ranking.
