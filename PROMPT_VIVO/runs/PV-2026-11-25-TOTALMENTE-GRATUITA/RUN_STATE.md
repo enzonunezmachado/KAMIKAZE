@@ -281,3 +281,12 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - **Frentes ativas:** PHASE_03.3, PHASE_03.4 e PHASE_03.5 IN_PROGRESS. PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE. PHASE_04 QUEUED/NOT_STARTED.
 - **Próxima ação global:** continuar PHASE_03.5 na inspeção e adaptação de skills do Affitor e validação de afiliados/aquisição, mantendo PHASE_03.3 e 03.4 como linhas paralelas abertas; auditar completude antes de selecionar a trilha de trabalho da próxima rodada.
 - **Persistência:** manter checkpoint após cada lote relevante e antes de transferir a conversa.
+
+
+## Atualização — Rodada 31 (26/11/2026)
+- Retomada executada pelo NEXT_CHAT_PROMPT/BOOTSTRAP; execução ativa confirmada como PV-2026-11-25-TOTALMENTE-GRATUITA.
+- Criado catálogo `knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md` com inventário de 53 skills Affitor, resenha e comparação dos outros repositórios.
+- Fontes novas: S414–S423.
+- Próxima ação: auditar duplicidade e transformar capacidades de maior valor em skills próprias do MAK, priorizando verificação de ofertas, inteligência de público, brief, distribuição autorizada, mensuração, retrospectiva, compliance brasileiro e relacionamento.
+- Estado/gates inalterados: PHASE_03.5 IN_PROGRESS/CONTINUE; PHASE_03.4 e 03.3 IN_PROGRESS; PHASE_04 QUEUED/NOT_STARTED.
+- Nenhum código foi importado/instalado/executado; nenhuma ação externa realizada.
