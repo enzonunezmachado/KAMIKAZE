@@ -37,3 +37,9 @@
 - Compras documentais/administrativas concluídas existem, mas concorrência pode ser alta e tarefas com dados sensíveis/expediente fixo são menos adequadas (S091/S092).
 - Pagamentos: Workana gratuito tende ao ciclo do mês seguinte; 99Freelas Free pode levar até 5 dias úteis para aprovação + 6 dias úteis para repasse após liberação (S089/S090).
 - Hipóteses novas ainda não aprovadas. Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED. Nenhuma candidatura, contato, proposta ou gasto.
+
+
+## Rodada 7 — plataformas de tarefas para IA (S101–S104)
+- Prolific: Brasil elegível, 18+, waitlist e verificação; saque £6/US$6 aprovados via PayPal, mas estudos podem levar até 22 dias para aprovação.
+- Outlier: pagamentos semanais após qualificação, mas o projeto PT-BR encontrado era específico de programação.
+- Nenhuma plataforma de microtarefas garante entrada, volume ou dinheiro antes da meta imediata. Gate CONTINUE; nenhuma conta ou candidatura criada.
