@@ -1,101 +1,37 @@
 # NEGÓCIO DIGITAL KAMIKAZE
 
-> Operação independente para descobrir, validar, produzir e comercializar oportunidades digitais usando pesquisa, inteligência artificial, ferramentas gratuitas e execução enxuta.
+Operação independente para descobrir, validar, produzir e comercializar oportunidades digitais usando pesquisa, IA, ferramentas acessíveis e execução enxuta.
 
-**Missão imediata:** buscar pelo menos R$ 150 recebidos até 06/12/2026, sem investimento inicial. Esse é um objetivo operacional, não uma garantia.  
-**Missão estrutural:** construir um sistema modular que consiga investigar diferentes modelos de negócio, testar ofertas e transformar oportunidades comprovadas em receita.  
-**Estado:** recalibração da estratégia; nenhuma oportunidade foi aprovada como negócio.
+## Missão e limites atuais
+- Pesquisar diferentes modelos digitais sem escolher antecipadamente nicho ou formato.
+- Distinguir atenção, interesse, intenção, contratação, pagamento e recompra.
+- Usar IA para ampliar pesquisa, análise e produção; não tratar IA como proposta de valor por si só.
+- Orçamento operacional autorizado: R$0. Nenhuma ferramenta paga, API, hospedagem, anúncio ou assinatura sem autorização.
+- Nenhuma publicação, mensagem, candidatura, contato, deploy ou compromisso externo sem autorização explícita.
+- NEXUS e ATLAS são projetos separados.
 
-## O que estamos construindo
+## Navegação principal
 
-O Kamikaze não é uma loja de dropshipping, uma agência de automação, um SaaS ou um canal de conteúdo previamente escolhido. É uma operação que pesquisa mercados e modelos de monetização sem se prender a uma categoria.
+| Área | Finalidade | Entrada |
+|---|---|---|
+| Prompt Vivo | Métodos, instruções, memória e continuidade da IA | [README](PROMPT_VIVO/README.md) |
+| Estado operacional | RUN_ID, fase/gate, orçamento e limites | [operations/STATE.md](operations/STATE.md) |
+| Estado estruturado | Snapshot verificável por scripts/CI | [state.toml](operations/state.toml) |
+| Último trabalho | Última entrega substantiva e próxima retomada | [CURRENT_WORK.md](PROMPT_VIVO/CURRENT_WORK.md) |
+| Company Solutions | Lotes de empresas, ranking, dossiês, contatos, projetos e financeiro | [README](operations/COMPANY_SOLUTIONS/README.md) |
+| Conhecimento | Pesquisas reutilizáveis e módulos especializados | [Knowledge index](PROMPT_VIVO/knowledge/README.md) |
+| Execuções | Pesquisa separada por RUN_ID | [Runs index](PROMPT_VIVO/runs/README.md) |
 
-A operação deve descobrir:
-- como pessoas e empresas estão usando IA para ganhar dinheiro, reduzir custos, produzir, vender e operar;
-- quais problemas reais continuam sem solução satisfatória;
-- quais produtos, serviços, conteúdos ou operações digitais já demonstram procura;
-- onde existem sinais concretos de pagamento, contratação ou compra;
-- quais oportunidades podem ser testadas com recursos disponíveis e baixo risco.
+## Continuidade e governança da IA
+Antes de trabalhar, agentes devem ler [AGENTS.md](AGENTS.md). Para retomar conversas, seguir [BOOTSTRAP](PROMPT_VIVO/BOOTSTRAP.md). A arquitetura documental, autoridade, tamanho, leitura progressiva e regras de gravação estão em [ARCHITECTURE_GOVERNANCE.md](PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md).
 
-Dropshipping, comércio eletrônico, produtos digitais, serviços, freelancing, automações, agentes de IA, conteúdo em vídeo, Reels, Shorts, memes, curadoria, pesquisa sob demanda e outras formas de monetização são **áreas de investigação**, não decisões antecipadas.
+O estado é separado do histórico: `state.toml` é a referência estruturada; `STATE.md` e `RUN_STATE.md` são snapshots humanos; `RESUME_PACKET.md` é um resumo curto; históricos e logs preservam eventos anteriores.
 
-## Princípio central
+## Validação automatizada
+- [Validador documental](scripts/validate_docs.py): verifica arquivos obrigatórios, limites de tamanho, links selecionados e sincronização TOML/Markdown.
+- [GitHub Actions](.github/workflows/docs-quality.yml): executa validação, build MkDocs e lint Markdown em push/PR.
+- [MkDocs](mkdocs.yml): gera um site estático a partir de arquivos Markdown.
+- [Fonte do portfólio demonstrativo](portfolio_site/README.md): conteúdo em Markdown; ainda não publicado e sem cases reais.
 
-**Não escolher o negócio antes de pesquisar.** Não usar o histórico pessoal do responsável como atalho para decidir o mercado. Uma experiência anterior pode ser uma fonte de hipótese, mas não dá prioridade automática a ela.
-
-O trabalho começa em evidências externas e problemas observáveis. Depois compara modelos de negócio, compradores, concorrência, custos, capacidade de entrega, canais de aquisição, prazo até a primeira receita e riscos.
-
-A IA é uma alavanca de pesquisa e produção, não uma proposta de valor por si só. A operação deve procurar resultados pelos quais alguém pagaria, e não apenas coisas que a IA consegue gerar.
-
-## Ciclo operacional
-
-1. **Explorar:** pesquisar mercados, comunidades, tendências, produtos, serviços e formas atuais de uso comercial da IA.
-2. **Minerar:** encontrar dores, desejos, tarefas, improvisos, reclamações, pedidos e comportamentos de compra.
-3. **Verificar:** abrir fontes originais, cruzar relatos independentes, pesquisar concorrentes, preços, alternativas e contraprovas.
-4. **Comparar:** avaliar diferentes modelos de monetização e sua viabilidade real.
-5. **Validar:** conversar com compradores, testar interesse com oferta e preço claros e buscar pagamento.
-6. **Produzir:** criar a menor entrega capaz de resolver o problema ou cumprir a promessa.
-7. **Distribuir:** encontrar compradores por canais acessíveis e permitidos, sem depender de audiência prévia.
-8. **Medir e iterar:** registrar receita recebida, custos, tempo, objeções, qualidade e possibilidade de repetição.
-
-A pesquisa pode manter várias linhas de oportunidade em paralelo. A produção e a prospecção devem ter prioridades explícitas para evitar dispersão.
-
-## Adequação ao operador e credibilidade
-
-O responsável tem **18 anos**. Não aplicar restrições de menoridade nem presumir necessidade de responsável legal por causa da idade; verificar requisitos específicos de cada plataforma, contrato, atividade e legislação. Está construindo experiência profissional nas áreas investigadas, mas afirma ter capacidade e disposição para aprender e desempenhar o que for necessário. Avaliar cada oportunidade por tarefas concretas, aprendizagem, qualidade demonstrável, risco e escopo. Não presumir incapacidade nem descartar oportunidades apenas por falta de histórico profissional. Não inventar experiência, portfólio, cases, títulos ou credenciais. Em reuniões, preparar comunicação profissional honesta: explicar escopo, fazer perguntas, apresentar método e reconhecer limites reais.
-
-## Restrições atuais
-
-- Orçamento inicial: R$ 0.
-- Não contratar ferramentas, APIs, hospedagem, anúncios ou assinaturas sem autorização explícita.
-- Não depender de computador potente ou de processos locais pesados.
-- Não presumir acesso ao ChatGPT Plus ou a agentes ilimitados.
-- Não exigir audiência prévia.
-- O responsável tem 18 anos. Não aplicar bloqueios de menoridade; verificar requisitos específicos de plataformas e atividades.
-- Não selecionar ofertas que dependam de fingir experiência, apresentar credenciais inexistentes ou sustentar autoridade profissional que ainda não foi construída.
-- Avaliar se o responsável consegue executar e explicar honestamente cada entrega, aprender o necessário e responder por seus limites.
-- Considerar maturidade, segurança, disponibilidade e assimetria de poder em reuniões, negociações, contratos e ambientes profissionais; exigir apoio especializado quando o risco, a atividade ou a lei realmente demandarem.
-- Preferir uma progressão de baixo risco: tarefas delimitadas e verificáveis primeiro; responsabilidades complexas somente após aprendizado e capacidade demonstrável.
-- Não presumir que o resultado será software.
-- Não limitar a pesquisa a um nicho, setor, país ou formato de produto.
-- Não tratar relatos de Reddit, prints de faturamento ou promessas de cursos como prova independente de receita.
-- Não enviar mensagens, publicar, comprar, fazer deploy ou executar ações externas sem aprovação humana.
-- Preservar privacidade, direitos autorais, regras das plataformas e segurança dos usuários.
-
-## Critérios para avançar
-
-Uma oportunidade precisa ter:
-- público e comprador identificáveis;
-- problema, desejo ou oportunidade de mercado observável;
-- evidência independente de procura ou comportamento de compra;
-- concorrentes e substitutos investigados;
-- caminho plausível para alcançar compradores;
-- entrega possível com os recursos disponíveis;
-- custos, riscos e limitações explícitos;
-- teste comercial com escopo, preço e critério de decisão;
-- compatibilidade com o nível atual de experiência do responsável, incluindo esforço de aprendizagem, necessidade de supervisão, credibilidade exigida, reuniões, postura profissional, riscos e capacidade de responder ao cliente.
-
-Curtidas, visualizações, elogios e respostas positivas não equivalem a vendas. Concorrente com preço publicado prova que existe uma oferta, não que ela vende em volume.
-
-## Sistema de trabalho e memória
-
-O GitHub é a memória operacional versionada. As skills orientam pesquisa e execução; o Google AI Studio e outras ferramentas podem apoiar tarefas específicas; conectores e agentes devem ser usados somente quando disponíveis e adequados.
-
-- `docs/BRIEF.md` — identidade, visão, objetivos e restrições.
-- `operations/STATE.md` — estado atual, decisões, métricas e próxima ação.
-- `opportunities/IDEA_BACKLOG.md` — hipóteses e status, sem ideias presumidas.
-- `research/` — pesquisas, fontes, concorrentes, casos e ferramentas.
-- `experiments/` — testes comerciais realmente definidos.
-- `operations/ZERO_COST_STACK_QUICKSTART.md` — opções técnicas e limites do ambiente.
-- `.agents/skills/` — métodos reutilizáveis para pesquisa e operação.
-- `CHANGELOG/EVOLUTION_LOG.md` — histórico das mudanças de direção e decisões.
-
-## Prompt Vivo — sistema de pesquisa evolutivo
-
-O diretório [`PROMPT_VIVO/`](PROMPT_VIVO/README.md) contém um sistema modular de instruções, pesquisa em fases, padrões de evidência, memória de execução, especialização por domínio e autoaperfeiçoamento controlado. Para iniciar ou retomar uma pesquisa com esse sistema, use [`PROMPT_VIVO/MASTER_PROMPT.md`](PROMPT_VIVO/MASTER_PROMPT.md). Cada pesquisa concreta deve manter sua própria memória em `PROMPT_VIVO/runs/`.
-
-## Como retomar o trabalho
-
-Leia este README, `docs/BRIEF.md`, `operations/STATE.md` e o histórico de evolução. Depois consulte apenas os arquivos de pesquisa relevantes para a decisão atual. Não repita pesquisas sem verificar os lotes anteriores. Não converta hipótese em decisão sem evidência e não construa antes de existir uma razão comercial clara.
-
-O Kamikaze deve evoluir com o que aprendermos. Mudanças de estratégia devem ser registradas, não escondidas.
+## Regra comercial
+O projeto não deve construir ferramentas, sites ou automações apenas porque são tecnicamente possíveis. Antes, deve identificar comprador, problema, evidência de procura, alternativas, canal de aquisição, capacidade de entrega, riscos e critério de validação. Ideias do usuário devem ser registradas e avaliadas, não descartadas automaticamente por não terem surgido na pesquisa da IA.
