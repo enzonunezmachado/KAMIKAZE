@@ -35,6 +35,14 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Planejamento inicial deve priorizar ferramentas web leves, gratuitas e compatíveis com o hardware disponível.
 - Equipamentos de assistência técnica e caixa de som não definem nem direcionam o escopo comercial do Kamikaze.
 
+## Sistema Prompt Vivo
+
+- Arquitetura inicial criada em [`PROMPT_VIVO/`](../PROMPT_VIVO/README.md).
+- Master Prompt para iniciar ou retomar execuções: [`PROMPT_VIVO/MASTER_PROMPT.md`](../PROMPT_VIVO/MASTER_PROMPT.md).
+- Protocolo, método de pesquisa, padrão de evidências, auditoria de qualidade e autoaperfeiçoamento documentados.
+- Seis fases reutilizáveis criadas; cada pesquisa concreta terá sua própria pasta em `PROMPT_VIVO/runs/`.
+- A arquitetura foi criada; ainda não foi executada uma pesquisa completa usando o fluxo de ponta a ponta.
+
 ## O que já existe no repositório
 
 - Brief e princípios de validação.
