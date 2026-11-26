@@ -342,3 +342,17 @@
 | Utilitários genéricos | Catálogo com 221 ferramentas em um concorrente | ND | Comoditização forte | Baixa prioridade |
 
 **Regra:** nenhuma nota global sem volume mensal por cluster, SERP top 10 e CPC/valor econômico. Métrica ponderada definida na PHASE_03.3_CHECKPOINT. S296–S314.
+
+
+
+## Rodada 24 — micro-nichos (S315–S326)
+
+| Ideia/segmento | Sinal de demanda | Barreiras/concorrência | Estado |
+|---|---|---|---|
+| VA/admin genérico | Vários briefs operacionais, inclusive 10h/mês e relações contínuas | 319–587 propostas em exemplos recentes; confiança e disponibilidade | Demanda confirmada; aquisição genérica saturada |
+| Microentregas admin (pesquisa/planilha/agenda) | Briefs específicos com tarefas delimitadas | Alto volume de propostas, mas possível segmentação fora de marketplace ainda não testada | CONTINUE |
+| Edição curta de vídeo | Jobs repetidos, pacotes de 20–30 vídeos e lotes de evento | Portfólio, habilidade, prazo e revisão; concorrência variável (17–76 propostas) | Promissor para investigar, não aprovado |
+| Design social media | Agência busca 48 artes/mês; jobs de identidade visual | Portfólio e qualidade consistente; 53–62 propostas nos exemplos | Parcial |
+| Tradução/revisão | Projetos de 39 aulas e documentos longos | Exigência de inglês excelente/formação/habilitação; 54–244 propostas | Não priorizar por fit atual |
+| Workana Profile Readiness | Requisitos oficiais e reclamações recentes de espera/reprovação | Sem prova de compra específica; guias gratuitos e revisão geral competitiva | Dor validada, compra específica não provada |
+| Concorrente Workaholic | 62 stars/9 forks, ampla funcionalidade | Falhas independentes não confirmadas; issues públicas indisponíveis | Não construir clone |
