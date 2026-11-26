@@ -21,3 +21,12 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Resultado:** arquivos do sistema de continuidade e documentos dependentes gravados com sucesso no GitHub.
 - **Commit de confirmação mais recente:** 0d87d4f1adf88e7e2fd661a8f1dddda5b5e5f9b1.
 - **Status:** CONFIRMADO.
+
+
+### KAM-2026-11-26-002 — Catálogo de skills e repositórios open source
+- **Data:** 2026-11-26
+- **Executado:** retomada pelo NEXT_CHAT_PROMPT/BOOTSTRAP; inventário da árvore e registry Affitor (53 skills/8 categorias); resenha crítica e comparação de OpenAffiliate, Postiz, workflows n8n, AffiliateOS, Affiliate Content Automation, Agentic Social Manager e hidrix-tools.
+- **Artefato criado:** `PROMPT_VIVO/knowledge/MAK_OPEN_SOURCE_SKILLS_AND_REPOSITORIES_CATALOG.md`.
+- **Arquivos sincronizados:** knowledge README, Source Ledger S414–S423, Findings, PHASE_03.5, USER_INPUT_LOG, RUN_STATE, RESUME_PACKET e log da execução.
+- **Decisão:** adaptar workflows em skills próprias, sem importar código de terceiros; preservar revisão/aprovação humana, evidência e compliance brasileiro.
+- **Persistência:** CONFIRMADO nos commits individuais desta rodada.
