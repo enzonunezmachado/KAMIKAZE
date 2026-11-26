@@ -1,25 +1,25 @@
+
 # Controlador adaptativo de fases — execução Kamikaze
 
-**Versão:** 1.0  
+**Versão:** 1.1  
 **Escopo:** esta execução; modelo reutilizável para futuras runs.
 
 ## Regra de interação
 Quando o usuário disser "próxima", "continua", "vai", "pode avançar" ou equivalente, interpretar como autorização para continuar o trabalho — não como obrigação de trocar o número da fase nem como aprovação automática de um gate factual.
+Comentários, correções e preferências expressos antes de "próxima" também devem ser incorporados: classificar impacto, registrar em USER_INPUT_LOG.md e reavaliar escopo, método, critérios e arquitetura.
+
+## Retomada entre chats
+Em novo chat, executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md antes dos detalhes. Reconstruir projeto, execução, pesquisa/build atual, fase, evidências, decisões, restrições e próxima ação. Não pedir que o usuário repita o contexto documentado. Não alegar certeza total; apontar arquivos ausentes ou contraditórios.
 
 ## Ciclo obrigatório antes de cada transição
-1. **Recarregar:** ler RUN_STATE, arquitetura, plano, checkpoint atual, fontes, achados, perguntas abertas e entregáveis existentes.
-2. **Auditar completude:** comparar objetivo/perguntas da fase com evidências, qualidade, contraprovas e entregáveis.
-3. **Classificar:** avaliar cada requisito como RESPONDIDO, PARCIAL, NÃO RESPONDIDO, BLOQUEADO ou NÃO APLICÁVEL.
-4. **Escolher a ação mínima útil:**
-   - CONTINUE_PHASE: manter a fase atual se trabalho essencial ainda cabe nela.
-   - CREATE_SUBPHASE: criar 3.1, 3.2 etc. quando a lacuna for relevante e tiver método/entregável próprio.
-   - REOPEN_PHASE: reabrir fase encerrada se nova evidência comprometer sua conclusão.
-   - ADVANCE: iniciar a próxima fase apenas quando as dependências críticas estiverem suficientemente tratadas ou explicitamente transferidas.
-   - SYNTHESIZE: consolidar quando pesquisa adicional não altera decisão.
-   - BLOCK: parar se faltar decisão, permissão ou acesso indispensável.
-5. **Registrar decisão:** motivo, evidências, lacunas, dependências, impacto de cotas, entregáveis e próximo gate.
-6. **Sincronizar memória:** PHASE_ARCHITECTURE, RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, STATE e checkpoint afetado.
-7. **Executar a ação escolhida:** não ficar apenas anunciando o plano.
+1. **Recarregar:** ler RUN_STATE, RESUME_PACKET, arquitetura, plano, checkpoint atual, instrução da fase, fontes, achados, perguntas abertas e entregáveis existentes.
+2. **Incorporar feedback:** verificar mensagens recentes do usuário; registrar no USER_INPUT_LOG e atualizar arquivos afetados.
+3. **Auditar completude:** comparar objetivo/perguntas da fase com evidências, qualidade, contraprovas e entregáveis.
+4. **Classificar:** avaliar cada requisito como RESPONDIDO, PARCIAL, NÃO RESPONDIDO, BLOQUEADO ou NÃO APLICÁVEL.
+5. **Escolher a ação mínima útil:** CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK.
+6. **Registrar decisão:** motivo, evidências, lacunas, dependências, impacto de cotas, entregáveis e próximo gate.
+7. **Sincronizar memória:** PHASE_ARCHITECTURE, RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG, STATE e checkpoint afetado.
+8. **Executar a ação escolhida:** não ficar apenas anunciando o plano.
 
 ## Estados de gate
 - PASS: requisitos essenciais atendidos; lacunas residuais não mudam a decisão.
@@ -38,7 +38,7 @@ Quando o usuário disser "próxima", "continua", "vai", "pode avançar" ou equiv
 - Não abordar clientes, publicar, enviar propostas, contratar, comprar, assinar ou fazer deploy sem autorização humana explícita.
 
 ## Formato de decisão ao usuário
-Em cada resposta, informar em poucas linhas: fase auditada, decisão (continuar/subfase/avançar), motivo principal, o que foi executado, estado do repositório e próximo passo. Evitar pedir que o usuário escolha a numeração; a IA administra a arquitetura e explica a decisão.
+Informar em poucas linhas: fase auditada, decisão (continuar/subfase/avançar), motivo principal, o que foi executado, estado do repositório e próximo passo. Evitar pedir que o usuário escolha a numeração; a IA administra a arquitetura e explica a decisão.
 
 ## Aplicação atual
-A auditoria identificou que PHASE_03_VALIDATION foi encerrada para transição antes de responder questões críticas (compra comprovada, comprador estreito, canal e recorrência). PHASE_04_FEASIBILITY existia como plano, mas ainda não tinha teste operacional. Portanto, abrir PHASE_03_1_PURCHASE_EVIDENCE para fechar parcialmente as lacunas mais decisivas antes de executar a Fase 04. A Fase 04 fica planejada/aguardando, não concluída.
+A auditoria identificou que PHASE_03_VALIDATION foi encerrada para transição antes de responder questões críticas. PHASE_04_FEASIBILITY existe como plano, mas nenhum teste operacional foi executado. PHASE_03_1_PURCHASE_EVIDENCE permanece ativa. Na segunda rodada, S062–S066 acrescentaram evidência parcial de execução, intenção de compra e recorrência declarada, mas não comprovaram venda de relatório remoto competitivo nem canal sem leilão. Portanto, gate CONTINUE; PHASE_04 fica QUEUED/NOT_STARTED.
