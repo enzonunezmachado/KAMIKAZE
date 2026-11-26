@@ -82,3 +82,11 @@ S105–S115 corrigem anúncios e disponibilidade:
 - Lionbridge survey US$10 exige smartphone não Android, incompatível com o Android do usuário. A vaga de áudio PT-BR US$10/h permanece sem volume/pagamento confirmado.
 - Fera tem vaga recente de coordenação de conteúdo, PJ, sem horário fixo, valor mensal não divulgado, exige WhatsApp com clientes, prazos, Trello/Notion e disponibilidade sob demanda.
 PHASE_03.1 continua CONTINUE; PHASE_04 não começou; nenhuma ação externa.
+
+
+## Rodada 9 — avaliadores e coordenação de qualidade
+S116 RWS Search Evaluator: até US$6/h, Brasil remoto, 5–20h/semana, sem experiência obrigatória, mas inglês fluente, teste, computador/antivírus e mínimo de horas. FAQ oficial fala em PayPal ou banco e pagamento por tarefa, mas ciclo Brasil não confirmado.
+S117 TELUS: estimativa US$5/h por tarefas aprovadas, inglês profissional e residência contínua 3–5 anos conforme vaga; volume variável.
+S118 Clickworker: ciclos semanais, mínimos PayPal €10/Payoneer €20, mas país/método dependem da conta e volume de tarefas não é garantido.
+S119 Welo Junior Quality Coordinator: 20h/semana, coordenação de qualidade, relatórios, feedback, suporte e reuniões; inglês forte, dedicação exclusiva e prova; remuneração não divulgada.
+Não presumir o inglês ou a residência contínua do usuário; perguntar somente se for necessário para filtrar essas opções. Gate CONTINUE; nenhuma candidatura/conta criada.
