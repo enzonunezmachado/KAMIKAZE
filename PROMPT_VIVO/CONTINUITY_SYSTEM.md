@@ -12,7 +12,16 @@ Nenhuma descoberta, decisão, correção, autorização, mudança de fase ou pr�
 
 Este sistema não executa trabalho em segundo plano e não consegue salvar dados depois que uma sessão termina sem uma ferramenta/sessão ativa. Ele torna obrigatória a persistência durante o trabalho e antes de encerrar ou transferir a conversa.
 
-## 2. Arquitetura: quatro camadas
+## 2. Ponteiro canônico de trabalho atual
+
+- `PROMPT_VIVO/CURRENT_WORK.md` é a fonte única para apontar a última linha/entrega substantivamente desenvolvida ou atualizada e a próxima ação de retomada.
+- O ponteiro é distinto do estado da pesquisa principal: uma linha operacional recém-documentada pode ser o último trabalho realizado sem substituir a fase de pesquisa ainda ativa.
+- `operations/STATE.md` continua identificando a execução ativa e suas restrições; `RUN_STATE.md` continua registrando o estado detalhado da execução.
+- Em todo checkpoint relevante, atualizar `CURRENT_WORK.md` depois de determinar o que foi efetivamente concluído. Sincronizar os atalhos para apontarem a ele, em vez de manter cópias independentes do foco mais recente.
+- Não atualizar o ponteiro apenas por edição incidental, criação de fase vazia ou mudança de data. Exigir trabalho substantivo e gravação confirmada.
+- Se o trabalho mais recente não puder ser determinado, registrar `NEEDS_RECONCILIATION`; não adivinhar.
+
+## 3. Arquitetura: quatro camadas
 
 ### Camada A — Estado canônico
 - `operations/STATE.md`: ponteiro do projeto para a execução ativa, missão, estado comercial, recursos e restrições.
@@ -40,7 +49,7 @@ Os logs registram eventos e apontam para os arquivos alterados; não substituem 
 - `PROMPT_VIVO/NEXT_CHAT_PROMPT.md`: texto pronto para copiar e colar em um novo chat.
 - `PROMPT_VIVO/BOOTSTRAP.md`: procedimento obrigatório que reconstrói o contexto e audita a consistência antes de agir.
 
-## 3. Quando documentar
+## 4. Quando documentar
 
 A documentação é atualizada em quatro momentos:
 
@@ -51,10 +60,11 @@ A documentação é atualizada em quatro momentos:
 
 Não é necessário criar commit por cada busca individual. Agrupar mudanças relacionadas em checkpoints, mas nunca deixar um lote de pesquisa significativo sem registro.
 
-## 4. Protocolo obrigatório de checkpoint
+## 5. Protocolo obrigatório de checkpoint
 
 Executar nesta ordem:
 
+0. Determinar a última unidade substantiva concluída; atualizar `PROMPT_VIVO/CURRENT_WORK.md` e conferir se a próxima ação continua correta.
 1. Registrar novas fontes em `SOURCE_LEDGER.md`, com ID único sequencial e o que a fonte prova/não prova.
 2. Consolidar achados em `FINDINGS.md`, distinguindo observação, cálculo, inferência, hipótese e contraprova.
 3. Atualizar `OPEN_QUESTIONS.md` e `VALIDATION_MATRIX.md` quando aplicável.
@@ -70,7 +80,7 @@ Executar nesta ordem:
 
 Se não houver ferramenta de escrita, produzir os arquivos atualizados em conteúdo copiável e declarar que ainda não foram persistidos. Nunca afirmar que salvou sem confirmação.
 
-## 5. Estrutura mínima de cada evento de sessão
+## 6. Estrutura mínima de cada evento de sessão
 
 Cada entrada nos logs deve incluir:
 - ID do evento, único e crescente (ex.: `KAM-2026-11-26-001`);
@@ -87,7 +97,7 @@ Cada entrada nos logs deve incluir:
 
 Não registrar somente “continuamos a pesquisa”. Escrever o que mudou e por que importa.
 
-## 6. Protocolo de retomada em novo chat
+## 7. Protocolo de retomada em novo chat
 
 Quando receber o texto de `NEXT_CHAT_PROMPT.md`:
 
@@ -102,7 +112,7 @@ Quando receber o texto de `NEXT_CHAT_PROMPT.md`:
 9. Continuar do próximo passo útil. Não repetir pesquisas já suficientes, não recomeçar do escopo e não pedir ao usuário dados já registrados.
 10. Ao final do primeiro checkpoint no novo chat, registrar a retomada como novo evento de sessão.
 
-## 7. Resolução de divergências
+## 8. Resolução de divergências
 
 Não existe um arquivo isolado que possa sobrepor silenciosamente todos os outros.
 
@@ -123,7 +133,7 @@ Se dois arquivos divergirem:
 
 Se a fonte de verdade não puder ser determinada, marcar BLOCKED e pedir apenas a informação realmente indispensável.
 
-## 8. Regras de economia de contexto
+## 9. Regras de economia de contexto
 
 - O `RESUME_PACKET.md` deve ser curto o bastante para leitura rápida, mas apontar para detalhes.
 - O `MEMORY_HANDOFF.md` guarda contexto ampliado, não cópia integral do Source Ledger.
@@ -132,11 +142,11 @@ Se a fonte de verdade não puder ser determinada, marcar BLOCKED e pedir apenas 
 - Manter um bloco “PRÓXIMA AÇÃO EXATA” com verbo, objeto, fonte/arquivo e critério de conclusão.
 - Quando o contexto estiver perto do limite, interromper novas pesquisas, persistir o checkpoint e preparar a transferência.
 
-## 9. Comportamento ao receber “continua”, “próxima” ou equivalente
+## 10. Comportamento ao receber “continua”, “próxima” ou equivalente
 
 Não perguntar qual fase vem depois. Executar bootstrap/auditoria, incorporar o feedback recente, escolher a menor ação útil e continuar. “Continua” não significa avançar automaticamente uma fase, nem autoriza contato externo, publicação, gasto, cadastro, contratação ou deploy.
 
-## 10. Checklist de integridade
+## 11. Checklist de integridade
 
 - [ ] Execução ativa identificada pelo estado operacional.
 - [ ] RESUME_PACKET atualizado e coerente.
@@ -152,7 +162,7 @@ Não perguntar qual fase vem depois. Executar bootstrap/auditoria, incorporar o 
 **Regra final:** a sessão só está pronta para transferência quando outra IA, sem acesso ao chat anterior, consegue identificar o que estamos fazendo, por que estamos fazendo, o que já foi demonstrado, o que ainda falta e qual é a próxima ação — sem pedir ao usuário que reconte a história.
 
 
-## 11. Módulos dormentes e acionadores de ativação
+## 12. Módulos dormentes e acionadores de ativação
 O índice `PROMPT_VIVO/knowledge/README.md` pode apontar módulos futuros com estado DORMANT e seus documentos de acionamento. Durante o bootstrap, compare a mensagem atual do usuário com esses acionadores. Quando houver intenção clara:
 1. ler integralmente o documento do acionador;
 2. apresentar escopo, etapas, riscos, recursos, custos e entregáveis;
