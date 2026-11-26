@@ -635,7 +635,7 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - Princípio técnico: static-first/client-side/local-first; usar banco só se necessário; IA apenas quando agregar; quotas, rate limits, exportação e segurança desde o MVP.
 - Termos importam: Gemini Free pode usar conteúdo para melhoria de produto; Supabase Free tem quotas/pausa e não oferece backup automático; Cloudflare Workers Free tem limite de CPU; Vercel Hobby é restrito a uso pessoal/não comercial.
 - **Conclusão:** é viável construir um produto demonstrável por R$0, mas não presumir operação comercial gratuita, escala ilimitada ou segurança de produção. Construção é diferente de distribuição e receita.
-- Documentos: `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`. Fontes S436–S450.
+- Documentos: `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e `SOURCE_LEDGER_SUPPLEMENT_S436_S453.md`. Fontes S436–S450.
 - Nenhuma ferramenta instalada, app criado, deploy, publicação, conta, contato ou gasto; PHASE_04 continua QUEUED/NOT_STARTED.
 
 
