@@ -165,3 +165,13 @@ Pendências: concluir pesquisa de concorrência, encontrar evidência de compra,
 121. CrowdSource Labs abriu novo lote após a rodada inicial de 7–8/11? Qual data, prazo de pagamento e consentimento de voz?
 122. Fera Comunicação informa faixa mensal, número de clientes, carga estimada, disponibilidade síncrona, contrato e data de pagamento?
 123. UserTesting Brasil disponibiliza pagamentos via PayPal em BRL ou USD e há limitações regionais de saque? Confirmar na documentação/conta antes de contar receita.
+
+
+
+## Novas perguntas — rodada 14
+124. O requisito de UserTesting para inglês/francês/alemão pode ser atendido pelo usuário com segurança no practice test? Se não, manter a plataforma em espera.
+125. uTest possui novos projetos PT-BR com data futura/ativa, remuneração explícita e escopo sem coleta de documentos/contas bancárias?
+126. O Project Greenbox ainda aceita contribuintes após 30/10 ou foi encerrado? Qual taxa efetiva e prazo de aprovação do lote atual, se houver?
+127. No projeto de verificação de identidade uTest, qual é o pagamento, entidade controladora, finalidade, acesso, criptografia, retenção exata e mecanismo de exclusão do documento? Não enviar documento sem resposta.
+128. Quais métodos de pagamento aparecem efetivamente na conta uTest para residentes brasileiros (PayPal, Payoneer ou Wise/banco) e qual calendário do próximo ciclo?
+129. Há projetos uTest que pagam por teste funcional simples e não exigem compartilhar dados bancários, documentos oficiais ou instalar software persistente?
