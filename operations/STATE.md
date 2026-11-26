@@ -1,6 +1,8 @@
 # Estado operacional — Kamikaze
 
 **Última atualização:** 26/11/2026  
+**Ponteiro canônico do último trabalho:** [PROMPT_VIVO/CURRENT_WORK.md](../PROMPT_VIVO/CURRENT_WORK.md)  
+**Última linha desenvolvida:** Motor de Diagnóstico e Soluções Empresariais — DOCUMENTADO / NÃO ATIVADO; consultar o ponteiro para a próxima ação e não confundir com a fase principal de pesquisa.  
 **Fase ativa:** PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION — validação de compra e aquisição por comunidades (subfase da PHASE_03.2)  
 **Meta imediata:** receber pelo menos R$ 150 até 06/12/2026  
 **Capital inicial:** R$ 0  
