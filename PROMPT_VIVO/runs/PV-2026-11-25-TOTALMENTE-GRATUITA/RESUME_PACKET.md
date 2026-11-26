@@ -222,3 +222,7 @@ Executar próximas pesquisas em fluxo contínuo e entregar ao usuário uma sínt
 **Estado atual:** PHASE_03.2 ativa; PHASE_03.1 pausada aguardando integração; PHASE_04 QUEUED/NOT_STARTED. Nenhum segmento ou oferta aprovado. Receita R$0, despesas R$0, nenhuma ação externa.
 
 **Próxima pesquisa:** profissionais independentes e empresas estruturadas; aquisição sem marketplace; preços efetivamente pagos; recompra/renovação; comparação do caminho até o primeiro pagamento nos quatro segmentos.
+
+
+## 18. Rodada 18 — compradores independentes e B2B
+S186–S196: briefs de assistência virtual e apoio operacional mostram problemas reais, porém marketplace com centenas de propostas. Agências podem ser intermediárias para trabalho de execução/organização com fee mensal, mas exigem comunicação, prazos, ferramentas e às vezes MEI/CNPJ. Serasa 2026 indica cautela das PMEs em ampliar equipes e pouca intenção declarada de usar freelancers; não confundir contratação de equipe com serviço avulso. Pesquisa exploratória sobre freelancers reforça portfólio, avaliações e comunicação como sinais de confiança. PHASE_03.2 continua CONTINUE; PHASE_04 não começou.
