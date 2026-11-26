@@ -237,3 +237,21 @@ Programadores BR mostra ~39,6 mil membros e milhares online no diretório públi
 - Manter a hipótese de ferramentas simples como linha paralela, sem desviar o foco desta fase.
 
 **Estado:** PHASE_03.3 IN_PROGRESS / CONTINUE. PHASE_04 QUEUED / NOT_STARTED. R$0. Sem construção, contato, publicação, cadastro, deploy ou gasto.
+
+
+
+## Rodada 24 — mapa ampliado de comunidades (S327–S335)
+
+| Comunidade | Público/escala observada | Potencial | Limite/decisão |
+|---|---|---|---|
+| Programadores BR | ~39,6k membros, milhares online; tech, vagas/projetos, designers | Observação de freelancers tech e serviços digitais | Regras internas não verificadas; não divulgar |
+| Tecnologia da Informação Discord | ~5k membros/238 online; vagas, freelance, open source | Observação de iniciantes e profissionais tech | Servidor recente; regras/canais não verificados |
+| HireClover | Discord remoto tech, vagas, indicação, salários, revisão de currículo | Muito alinhado a dor de emprego remoto e apresentação profissional | Não é comunidade exclusivamente freelancer; regras de promoção não publicadas |
+| Multiverse Editores & Designers | Diretório: ~18,2k membros/748 online | Público diretamente ligado à edição/design | Métricas do diretório; regras/transações não verificadas |
+| Editors Community | Diretório: ~13k/331 online | Aprendizado, feedback e comunidade de editores | Compradores e oportunidades remuneradas não confirmados |
+| LEOFGEDITZ Video Edit & Design | Snapshot 17/11: ~10,7k/1,48k online; marketplace declarado | Potencial para oferta/demanda de edição/design | Marketplace próprio e regras/transações não auditadas |
+| Yuji Editors Community | 90 membros/16 online, +15 em 30 dias | Pequena comunidade de edição com foco em oportunidades | Escala baixa; regras não verificadas |
+| Empreendedores em São Paulo | ~7,8k membros, 95 eventos passados | Potenciais compradores de organização, conteúdo e suporte | Eventos listados são antigos; atividade atual incerta |
+| Meetups Freelance Brazil | 1.948 membros, 16 grupos; SP/POA/RJ | Networking e observação de freelancers | Vários grupos sem eventos atuais |
+
+**Gate de canal:** nenhuma comunidade está liberada para divulgação. Antes de qualquer publicação, precisamos verificar as regras atuais diretamente, identificar canais permitidos, cumprir requisitos de participação e pedir autorização quando exigida. Não usar pesquisa disfarçada, spam, DMs frias ou depoimentos inventados.
