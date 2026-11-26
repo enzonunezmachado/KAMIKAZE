@@ -136,3 +136,7 @@ Freelance Match anuncia R$39,99/mês, mas informa que pagamentos ainda não est�
 ## Atualização após Rodada 21 (26/11/2026)
 A crítica “só uma pessoa??” foi interpretada como correção de padrão de evidência: um único relato não sustenta inferência comercial. S227–S244 ampliaram a amostra para mais de dez relatos públicos de compra/renovação/uso de planos e recursos em 99Freelas, Workana e Upwork. Isso confirma qualitativamente compra da categoria, mas não compra/retention de SaaS independente. Há sinais mistos de reembolso, cancelamento e frustração. S243 é brief de curadoria humana pago anunciado, porém exige histórico estabelecido e não é fit imediato.
 **Decisão:** CONTINUE_PHASE na PHASE_03.3. Próxima ação é auditar falhas independentes de Scoutly/alternativas e mapear comunidades permitidas; PHASE_03.2 continua aberta, PHASE_03.1 pausada e PHASE_04 não iniciada.
+
+
+## Decisão de controle — Rodada 22 + S286–S293 (26/11/2026)
+**Gate:** CONTINUE na PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION. A pesquisa identificou concorrência e limites de termos que eliminam a ideia genérica de agregador/scraper. A nova hipótese Workana Profile Readiness tem dor documentada e sinais de compra de serviços de otimização de perfil em geral, mas a compra de ferramenta/serviço específico Workana ainda não foi comprovada. Manter pesquisa de buyer evidence e aquisição transparente. PHASE_04 continua QUEUED/NOT_STARTED. Não construir, publicar, contactar, cadastrar, anunciar ou gastar.
