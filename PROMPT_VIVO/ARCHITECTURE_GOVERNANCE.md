@@ -121,3 +121,16 @@ Quando surgir uma nova necessidade:
 7. executar validação e registrar limitações.
 
 **Não criar mais documentação como resposta automática a todo problema documental. Primeiro tentar corrigir a responsabilidade e a navegação existentes.**
+
+## 10. Referências externas e decisões de adaptação
+
+- [GitHub Spec Kit](https://github.github.com/spec-kit/): adotar constituição/princípios, artefatos por etapa, clarificação, tarefas dependenciadas, análise de consistência e convergência. Não importar o fluxo inteiro para pesquisa comercial sem adaptar.
+- [BMAD Method](https://www.bmadcode.com/method): estudar papéis especializados, workflows, entregáveis e gates. Usar especialistas para tarefas delimitadas; não multiplicar agentes em exploração subjetiva sem benefício demonstrado.
+- [AGENTS.md](https://agents.md/): usar instruções hierárquicas e específicas por pasta onde a ferramenta reconheça o padrão.
+- [LangChain Deep Agents — Memory](https://docs.langchain.com/oss/python/deepagents/memory): adotar memória em arquivos, skills sob demanda e separação entre contexto curto e conhecimento persistente. Não presumir que qualquer IA terá filesystem ou memória automática.
+- [Diátaxis](https://diataxis.fr/): classificar documentação por tutorial, how-to, referência e explicação.
+
+O objetivo é adaptar princípios úteis ao fluxo Kamikaze, não migrar cegamente para um framework nem criar dependência de ferramenta específica.
+
+### Limite de enforcement
+AGENTS.md orienta somente ferramentas que reconhecem o padrão ou que receberam instrução para lê-lo. BOOTSTRAP é obrigatório no fluxo de retomada, mas não pode forçar uma interface externa a ler arquivos por conta própria. GitHub Actions executa código real no runner após push/PR; não executa prompts nem chama uma IA automaticamente. A CI pode detectar falhas e produzir um check vermelho. **Sem branch protection/ruleset exigindo esse check, um push direto para main ainda pode ser aceito mesmo com a CI falhando.** A configuração de branch protection não foi alterada nesta rodada; requer ação administrativa no GitHub.
