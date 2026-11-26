@@ -129,3 +129,14 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - S101–S103: Prolific aceita Brasil e exige 18+, mas usa waitlist; saque mínimo £6/US$6 aprovados via PayPal; aprovação de estudos pode levar até 22 dias.
 - S104: Outlier paga semanalmente, mas exige qualificação específica; a vaga PT-BR encontrada era de coding expertise.
 - Não assumir receita imediata ou volume garantido. Gate CONTINUE; nenhuma conta/candidatura criada.
+
+
+## 16. Rodada 8 — disponibilidade real e pagamentos no Brasil (S105–S115)
+- YPAI Data Collection/Voice Recording está oficialmente fechada, apesar de snippets de busca parecerem ativos (S105).
+- CrowdSource Labs publica CNPJ e projeto remoto de conversa em dupla por R$200/pessoa após 400 min por dupla e aprovação; janela inicial era 7–8/11/2026, já passada. Possíveis lotes futuros, sem garantia; verificar consentimento/uso de voz e pagamento antes da coleta (S106–S107).
+- OpenTrain declara que pagamentos a freelancers no Brasil ainda não estão disponíveis. Excluir a plataforma como rota de recebimento até mudança oficial (S108).
+- OpenTrain AI testing US$30–49/h exige inglês forte, computador e cartão; AI Evaluation US$25/h exige bacharelado e inglês B2+; Language Expert US$16–45/h exige domínio linguístico. Todos bloqueados por pagamento no Brasil (S109–S111).
+- Babel Conversation Partner: chamadas de 15 min e pagamento semanal anunciados; taxa US$17,50 vale EUA/Canadá, não confirmada no Brasil. Babel Voice Actor exclui residentes no Brasil (S112–S113).
+- Lionbridge survey US$10 exige smartphone NON-ANDROID; incompatível com aparelho Android (S114). A vaga de áudio PT-BR US$10/h não divulga horas nem prazo de pagamento.
+- Fera Comunicação: vaga recente para coordenação operacional de conteúdo, PJ, mensal fixo sem valor divulgado, sem horário fixo mas disponibilidade sob demanda e contato com clientes (S115).
+**Estado:** PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED; nenhuma candidatura, contato, formulário ou receita.
