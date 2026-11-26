@@ -202,3 +202,8 @@ Gate CONTINUE. Nenhum email, candidatura ou dado pessoal enviado.
 
 ## Complemento — OneForma pagamento (S130)
 Homepage OneForma afirma ausência de mínimo de saque, enquanto Help Center indica mínimo US$25. Há divergência oficial; tratar mínimo e ciclo como NÃO CONFIRMADOS para o projeto específico até validação na conta/termos da oferta. Não prometer data de pagamento.
+
+## Rodada 15 — renda imediata auxiliar (25/11/2026)
+A Hub Data tornou-se a candidata condicional mais concreta entre tarefas pagas: taxa oficial indicativa de US$5/h residencial ou US$6/h no trabalho por hora aprovada, Pix após crédito e kit gratuito; 18+ nas Américas (S147). Um relato independente descreve pagamentos reais, com conflito de interesse por indicação (S149). A principal contrapartida é a cessão/licenciamento dos vídeos e a impossibilidade de retirar os já licenciados; termos integrais ainda não foram abertos (S148). Compatibilidade do aparelho e disponibilidade de tarefas permanecem desconhecidas. Não criar conta nem gravar sem autorização.
+YPAI está fechada, CSL tem prazo prioritário vencido, OneForma PT-BR-China é apenas China e OpenTrain não paga freelancers no Brasil (S144–S146, S151). Novos pedidos 99Freelas reforçam procura por pesquisa, mas são disputados e exigem escopo intermediário (S152–S153).
+**Decisão:** PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED. A linha auxiliar de renda não substitui a validação do negócio de inteligência comercial.
