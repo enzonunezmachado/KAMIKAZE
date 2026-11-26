@@ -25,3 +25,6 @@ expenses_brl = 0
 [modules]
 company_solutions = "DOCUMENTADO / NÃO ATIVADO"
 paid_traffic = "DORMANT / DOCUMENTED / NOT IMPLEMENTED"
+
+[future_work]
+free_agents_research = "CAPTURED / NOT STARTED"
