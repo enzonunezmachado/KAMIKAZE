@@ -625,3 +625,15 @@ Um comentário de profissional brasileiro afirma que começou prestando serviço
 - Resenha: começar por skills documentais, unit economics, planejamento, análise de exports e reporting com cálculos determinísticos. APIs e automações só quando necessárias, com revisão de permissões, segurança, privacidade, custos e aprovação humana. Meridian é avançado e requer dados/compute. Ryze é fornecedor externo com planos pagos declarados; não presumir acesso gratuito.
 - A filosofia Kamikaze atual não foi congelada como dependência. Na ativação, revalidar arquitetura e integrar apenas onde fizer sentido.
 - Nenhum repositório foi instalado, clonado ou executado; nenhuma conta foi criada/conectada; nenhum anúncio, campanha ou gasto foi autorizado/realizado. As fases de pesquisa ativa do Kamikaze não foram alteradas.
+
+
+## Rodada 33 — construção com IA e ferramentas gratuitas (26/11/2026)
+- **Stockroom/AppJet é o caso mais concreto de $0:** estudo do fornecedor, demo funcional e repositório público demonstram inventário full-stack (Next.js 16, TypeScript, SQLite, API, CRUD, transações/ledger, validações e CSV). A AppJet declara uso do plano Free para IA e deploy. Ressalvas: estudo do próprio fornecedor, dados de amostra, sem autenticação e persistência/backup precisam ser verificados.
+- **MyClaw Tools demonstra uma stack de custo fixo declarado $0**, com 249 ferramentas (Next.js/Vercel Hobby/Gemini Free/Upstash Free/NextAuth/Razorpay). O próprio criador reportou 200+ visitantes, 42 gerações, 22 ferramentas usadas e 0 pagantes na primeira semana. Não é sucesso comercial. Vercel Hobby é não comercial, incompatibilidade a resolver antes de qualquer monetização.
+- **Somnia e Toolkiya** ilustram local-first e processamento no cliente para reduzir banco, storage, uploads e processamento no servidor; relatos não comprovam custo zero e Vercel Hobby não é opção comercial.
+- **HookLayer/RenderArchi/AssetShark/HypeDesk** mostram capacidade de construir e iterar com IA, mas custos não informados; não rotular como totalmente gratuitos.
+- Princípio técnico: static-first/client-side/local-first; usar banco só se necessário; IA apenas quando agregar; quotas, rate limits, exportação e segurança desde o MVP.
+- Termos importam: Gemini Free pode usar conteúdo para melhoria de produto; Supabase Free tem quotas/pausa e não oferece backup automático; Cloudflare Workers Free tem limite de CPU; Vercel Hobby é restrito a uso pessoal/não comercial.
+- **Conclusão:** é viável construir um produto demonstrável por R$0, mas não presumir operação comercial gratuita, escala ilimitada ou segurança de produção. Construção é diferente de distribuição e receita.
+- Documentos: `knowledge/MAK_ZERO_COST_AI_BUILD_CASES.md` e `SOURCE_LEDGER_SUPPLEMENT_S436_S450.md`. Fontes S436–S450.
+- Nenhuma ferramenta instalada, app criado, deploy, publicação, conta, contato ou gasto; PHASE_04 continua QUEUED/NOT_STARTED.
