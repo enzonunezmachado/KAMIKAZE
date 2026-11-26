@@ -19,6 +19,8 @@ Repositório: https://github.com/enzonunezmachado/KAMIKAZE
 
 Meu pedido atual nesta conversa tem prioridade para orientar o próximo passo, desde que não conflite com restrições e autorizações anteriores. Registre correções, preferências e decisões novas em `USER_INPUT_LOG.md`.
 
+**Módulos com acionadores persistentes:** consulte `PROMPT_VIVO/knowledge/README.md`. Se meu pedido atual indicar intenção clara de ativar um deles (ex.: implementar tráfego pago), leia o respectivo documento de acionamento, apresente o pacote e solicite a confirmação prevista. Não confunda conversa exploratória com ativação.
+
 **Persistência obrigatória:** após cada lote relevante e antes de encerrar/atingir limite, atualize os arquivos de estado, fontes, achados, handoff, pacote de retomada e logs global/da execução. Confirme a gravação no GitHub; nunca diga que salvou se não houve confirmação.
 
 **Restrições permanentes:** não publicar, contatar pessoas, enviar propostas, cadastrar contas, comprar, assinar, gastar, contratar ferramentas, fazer deploy ou assumir compromissos externos sem minha autorização explícita. Preserve o orçamento operacional autorizado e os projetos NEXUS/ATLAS, que são separados do Kamikaze.
