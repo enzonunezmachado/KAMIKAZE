@@ -72,3 +72,6 @@ A auditoria econômica reduziu a atratividade nominal do Freya: taxa PT-BR anunc
 ## Atualização do controlador — Rodada 12 (S127–S129)
 OneForma Email Collection está oficialmente aberta para Brasil/PT-BR e paga por email aprovado, sem experiência. Pode ser uma tarefa rápida se houver 3+ emails originais elegíveis por pedido. Entretanto, arquivos .eml preservam remetente, destinatário, assunto, corpo e timestamps; a página apenas afirma que a plataforma pode detectar/ocultar dados pessoais após upload, sem esclarecer suficientemente a proteção, uso e retenção do conteúdo. Classificar BLOQUEADA POR PRIVACIDADE até esclarecimento; não enviar dados. DataForce Mosaic não aceita PT-BR; TELUS Internet Safety Evaluator está fechado.
 **Decisão:** CONTINUE_PHASE. Próxima rodada deve verificar taxa PT-BR, pagamento específico, consentimento, retenção e PII antes de qualquer uso; comparar com outras tarefas que não envolvam dados privados. PHASE_04 continua QUEUED/NOT_STARTED.
+
+## Nota de pagamento OneForma — S130
+A homepage afirma que não há mínimo de saque; o Help Center informa US$25. Não assumir nenhum dos dois para o projeto Email Collection/Freya até confirmação específica. Manter gate CONTINUE.
