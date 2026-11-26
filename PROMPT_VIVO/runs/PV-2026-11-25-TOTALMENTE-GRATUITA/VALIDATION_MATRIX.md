@@ -275,3 +275,13 @@
 | Todos | O usuário pode aprender e executar se houver escopo e tempo | Nenhuma venda Kamikaze | Nenhum canal testado | Não inventar autoridade | Nenhuma receita recorrente | ABERTO |
 
 **Regra:** dados de adoção, pedidos abertos e anúncios não equivalem a venda; propostas/concorrência devem ser registradas com data e contexto; não inferir recorrência a partir de mensalidade solicitada sem renovação demonstrada.
+
+
+## Atualização — PHASE_03.2 Rodada 18
+| Segmento | Evidência nova | Barreiras/canal | Recorrência | Leitura atual |
+|---|---|---|---|---|
+| B2C | TIC 2024/25; compras digitais amplas | Confiança e distribuição/audiência | Depende da solução | Grande mercado, oferta e CAC não validados |
+| Profissionais independentes | Assistência virtual e organização aparecem em briefs | Concorrência extrema em marketplace; confiança pessoal, comunicação e disponibilidade | Alguns pedidos mensais/10h mês | Problema real; canal e margem não validados |
+| Agências como intermediárias | Pedidos de apoio operacional e execução para carteira de clientes | Requer processo, ferramentas, prazos, portfólio; marketplace ainda concorrido | Fee mensal/parceria declarada | Hipótese promissora para aprofundar |
+| MEI/pequenos negócios | Cardápios, sites, manutenção, pesquisa; prioridades de venda e operação | Autoridade e aquisição local; marketplace com 69–234 propostas em exemplos | Manutenção solicitada, sem renovação comprovada | Demanda real, aquisição não resolvida |
+| Empresas estruturadas | Estudos de contratação e processos formais de fornecedores | Referências, qualificação, procurement/due diligence | Contratos podem ser maiores, mas não demonstrados | Barreira de entrada alta; não primeira rota |
