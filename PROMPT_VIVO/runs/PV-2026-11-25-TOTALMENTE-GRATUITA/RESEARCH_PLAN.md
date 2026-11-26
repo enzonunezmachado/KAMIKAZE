@@ -34,3 +34,8 @@ Comprador identificável; dor recorrente/urgente; evidência de pagamento; alcan
 
 ## Critérios de parada
 Encerrar linha se evidência for repetitiva, contraprova forte, custo incompatível, comprador inacessível ou dependência paga. Pesquisa exploratória não valida mercado.
+
+## Ajuste adaptativo após PHASE_01
+- PHASE_01_LANDSCAPE recebeu gate PASS WITH GAPS: o mapa inicial é suficiente para minerar demanda, mantendo lacunas em stack e canais.
+- PHASE_02_DEMAND passa a priorizar sete clusters identificados: organização administrativa/dados; atendimento WhatsApp; pesquisa de mercado/produtos; cadastro de catálogo; conteúdo/vídeo; operação de afiliados; prospecção B2B.
+- Não criar fase adicional ainda. As novas perguntas permanecem dentro de demanda; reavaliar após o gate desta fase.
