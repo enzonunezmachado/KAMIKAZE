@@ -159,3 +159,11 @@ Pesquisar e comparar oportunidades digitais de diferentes categorias, identifica
 - Risco central: cessão/licenciamento de gravações e impossibilidade de retirar vídeos já licenciados; termos integrais ainda não foram verificados (S148). Não criar conta/gravar sem aprovação explícita.
 - YPAI fechada; CSL lote inicial expirado; OneForma China-only; OpenTrain sem payout Brasil. Nenhuma oportunidade escolhida.
 - PHASE_03.1 CONTINUE; PHASE_04 QUEUED/NOT_STARTED. Receita R$0, despesas R$0, nenhuma ação externa.
+
+
+## Atualização de fase — 25/11/2026 (PA-019)
+- PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE; não encerrada, pendente de integrar a dimensão de comprador e canal.
+- **PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS: IN_PROGRESS / CONTINUE.**
+- Todos os públicos serão pesquisados: B2C, profissionais independentes, MEIs/micro e pequenos negócios, empresas estruturadas. Isso não significa vender a todos simultaneamente.
+- S175–S185 registrados. B2C tem escala de uso/compra digital, mas confiança e aquisição não validadas; pequenos negócios têm dores operacionais e pedidos concretos, porém competição de marketplace alta; profissionais independentes e empresas estruturadas ainda precisam de pesquisa específica.
+- PHASE_04_FEASIBILITY permanece QUEUED/NOT_STARTED. Nenhum segmento/oferta aprovado, nenhuma ação externa, receita R$0, despesas R$0.
