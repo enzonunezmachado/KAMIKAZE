@@ -113,3 +113,7 @@ A idade atual do usuário é 18 anos; não aplicar restrições de menoridade. O
 - tarefas de coleta/avaliação de dados para IA (voz, transcrição, revisão), distinguindo taxa horária anunciada de horas efetivamente alocadas e dinheiro recebido;
 - white-label técnico, somente quando competência e risco estiverem demonstrados.
 Para cada oportunidade, verificar canal de candidatura, requisitos, remuneração, volume de trabalho, teste, calendário de pagamento, comissões, identidade do contratante, exposição a cliente, risco de dados e compatibilidade com horário/recursos. Não contatar nem candidatar sem autorização. A meta imediata não permite assumir que uma vaga aberta vai contratar ou pagar a tempo.
+
+
+## Rodada 8 — filtro reforçado para oportunidades remotas
+Não considerar uma vaga viável apenas porque aceita candidatos no Brasil ou exibe taxa em USD. Confirmar separadamente: (1) país elegível, (2) status real da vaga, (3) método de pagamento disponível para residente no Brasil, (4) moeda e conversão, (5) mínimo de saque/taxas, (6) prazo após aprovação, (7) disponibilidade real de tarefas/horas, (8) requisitos de dispositivo/idioma/graduação/cartão, (9) uso de dados pessoais/voz/biometria e consentimento. Se qualquer etapa essencial for desconhecida, classificar como NÃO VALIDADA, não como oportunidade recomendada. Priorizar fontes oficiais abertas no momento da consulta em vez de snippets de busca.
