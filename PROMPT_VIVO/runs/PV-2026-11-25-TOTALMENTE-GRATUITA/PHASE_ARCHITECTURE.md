@@ -78,3 +78,12 @@ Toda mudança futura deve registrar motivo, arquivos afetados, dependências e i
 - Sincronizar RUN_STATE, RESEARCH_PLAN, MEMORY_HANDOFF, RESUME_PACKET, USER_INPUT_LOG, checkpoint, FINDINGS, SOURCE_LEDGER, OPEN_QUESTIONS, VALIDATION_MATRIX e operations/STATE.
 
 **Impacto no gate:** nenhuma fase é encerrada. PHASE_04 permanece QUEUED/NOT_STARTED.
+
+
+## PA-012 — plataformas de microtarefas e avaliação de IA
+**Data:** 25/11/2026  
+**Motivo:** ampliar a comparação de renda de entrada com projetos de voz, microestudos e avaliação de IA, distinguindo disponibilidade de conta, alocação de tarefas e pagamento.
+**Fontes:** S101–S104.
+- Prolific aceita residentes no Brasil com mais de 18 anos, mas usa waitlist e estudos podem levar até 22 dias para aprovação.
+- Outlier tem pagamento semanal, mas a vaga localizada para português brasileiro exigia conhecimento de programação.
+**Decisão:** manter PHASE_03.1 em CONTINUE. Nenhuma plataforma garante acesso/receita imediata; não criar conta ou candidatura sem decisão do usuário.
