@@ -166,3 +166,16 @@ O usuário não solicita nem precisa receber raciocínio privado passo a passo. 
 O sistema vinculante é `PROMPT_VIVO/CONTINUITY_SYSTEM.md`. Toda unidade relevante de pesquisa deve terminar com checkpoint persistido. Manter logs append-only global e por execução; sincronizar RUN_STATE, RESUME_PACKET, MEMORY_HANDOFF, PHASE_CONTROL, USER_INPUT_LOG e operations/STATE. O RESUME_PACKET deve apontar para a próxima ação executável e arquivos detalhados.
 
 Quando houver risco de limite de contexto, interromper novas buscas e priorizar a persistência. Não confiar em memória implícita do chat. A retomada deve começar pelo BOOTSTRAP e pelo estado operacional, conferir logs e commits, auditar divergências e continuar do ponto correto. Não afirmar automação em segundo plano: o mecanismo é acionado durante a sessão e depende de acesso de leitura/escrita ao repositório.
+
+
+## 5.2 Gate de pesquisa para experimento
+
+A profundidade adaptativa não significa pesquisar indefinidamente. A cada checkpoint, classificar a principal incerteza:
+- **Fato externo verificável:** pesquisar (termos, elegibilidade, preço, regulação, concorrentes, requisitos).
+- **Comportamento de mercado:** considerar experimento (disposição a pagar, conversão, retenção, recompra, resposta a uma oferta).
+- **Viabilidade técnica:** prototipar/testar com dados fictícios antes de produção.
+- **Segurança, privacidade ou legalidade:** pesquisar e revisar antes de qualquer teste com dados reais.
+
+Usar o QUALITY_GATE para escolher entre RESEARCH_MORE, READY_TO_TEST, NOT_WORTH_TESTING ou BLOCKED. Se pesquisas adicionais não alterarem a decisão e o teste mínimo for ético, reversível, barato e autorizado, parar de pesquisar e recomendar o experimento. Não inventar percentuais de sucesso sem dados calibrados; scores de prontidão são heurísticas, não probabilidades.
+
+Todo experimento deve ter hipótese falsificável, comprador, oferta, canal, métrica principal, critério de sucesso/interrupção, custo, risco e autorização. A IA pode preparar o plano e materiais; não executar contatos, publicações, cadastros ou gastos sem aprovação humana.
