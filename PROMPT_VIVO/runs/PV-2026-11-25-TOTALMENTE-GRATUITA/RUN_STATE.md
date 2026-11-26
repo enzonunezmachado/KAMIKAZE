@@ -184,3 +184,14 @@ Homepage declara ausência de mínimo de saque, Help Center indica US$25. Diverg
 - Diferencial possível: mapa de evidências de experiência real + checklist Workana, sem prever aprovação.
 
 - S295 reforça que Upwork proíbe scraping e uso de seu site/serviços para construir serviço concorrente; não integrar sem autorização formal e revisão dos termos.
+
+
+
+## Rodada 23 — 26/11/2026 (S296–S314)
+- Aberta linha de investigação SIMPLE SEARCH UTILITIES / SEO MICROTOOLS a pedido do usuário: calculadoras, conversores e ferramentas simples encontradas via Google.
+- Definida métrica ponderada: demanda 25%, dificuldade orgânica 20%, qualidade da SERP 15%, valor econômico 15%, repetição/cluster 10%, facilidade MVP/manutenção 10%, diferenciação/risco 5%. Dados ausentes = ND; não atribuir score até volume e SERP auditados.
+- Keyword Planner estima volume, mas exige configuração de conta Ads com faturamento; Trends mede interesse relativo; Ahrefs KD é proxy e exige análise manual (S296–S299).
+- SERP prova concorrência em dias úteis, obra/reforma, cortina/tecido, papel de parede, botijão, impressão 3D e BTU; não prova volume nem receita (S305–S314).
+- Ferramentas genéricas estão comoditizadas; ToolNest lista 221 utilitários (S304). Não construir clone genérico.
+- Ativo SEO não é solução confiável para R$150 até 06/12; manter renda imediata separada de ativo de longo prazo.
+- PHASE_03.3 IN_PROGRESS / CONTINUE; PHASE_04 QUEUED / NOT_STARTED. R$0, nenhum gasto, cadastro, anúncio, contato, publicação ou deploy.
