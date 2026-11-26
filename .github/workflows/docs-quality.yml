@@ -1,0 +1,41 @@
+name: Documentation quality
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate documentation structure and continuity
+        run: python scripts/validate_docs.py
+      - name: Install MkDocs
+        run: pip install -r requirements-docs.txt
+      - name: Build Markdown portfolio site
+        run: mkdocs build --strict
+      - name: Lint Markdown entry points
+        uses: DavidAnson/markdownlint-cli2-action@v25.0.0
+        with:
+          globs: |
+            AGENTS.md
+            PROMPT_VIVO/AGENTS.md
+            PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md
+            PROMPT_VIVO/BOOTSTRAP.md
+            PROMPT_VIVO/CURRENT_WORK.md
+            PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/README.md
+            PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESUME_PACKET.md
+            operations/README.md
+            portfolio_site/docs/*.md
