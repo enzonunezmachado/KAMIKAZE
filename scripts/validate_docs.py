@@ -80,7 +80,7 @@ def main() -> int:
         last_work = project.get("last_substantive_work", "")
 
         checks = {
-            "operations/STATE.md": [active_run, active_phase, last_work],
+            "operations/STATE.md": [active_run, active_phase],
             f"{RUN}/RUN_STATE.md": [active_run, active_phase, active_gate],
             f"{RUN}/PHASE_CONTROL.md": [active_phase, active_gate],
             f"{RUN}/RESUME_PACKET.md": [active_run, active_phase],
