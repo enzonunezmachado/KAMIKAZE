@@ -80,3 +80,5 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Classificação:** autorização de pesquisa documental e atualização do repositório Kamikaze; expansão conceitual do MAK.
 **Impacto:** criar estudo técnico/estratégico próprio, mapear padrões úteis, registrar limitações/contraprovas, adaptar a arquitetura modular e o flywheel, e acrescentar o ciclo de relacionamento/memória de marca. Não instalar, clonar, executar, importar código, criar contas, publicar ou contatar terceiros.
 **Status:** APLICADO NA DOCUMENTAÇÃO; implementação operacional e validação comercial continuam pendentes.
+
+| 2026-11-26 | Pediu pesquisar e construir dados para as ressalvas identificadas no estudo Affitor: divergência de contagem e skills canônicas, métricas/proxies, heurísticas de plataforma, evidência dos casos numéricos, disclosure brasileiro e claims de urgência/bônus/garantia. | Criada auditoria documental aprofundada em knowledge/MAK_AFFITOR_EVIDENCE_AND_GOVERNANCE.md; fontes S403–S413; regras incorporadas à PHASE_03.5 e à governança do MAK. | APLICADO |
