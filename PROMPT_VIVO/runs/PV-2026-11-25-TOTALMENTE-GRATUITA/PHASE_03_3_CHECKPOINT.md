@@ -76,3 +76,8 @@ Foram comparados VA/admin, edição de vídeo curto, design/social media, tradu�
 - Programadores BR: diretório público mostra ~39,6k membros e milhares online; regras internas não verificadas, portanto apenas observação, sem divulgação.
 
 **Decisão:** CONTINUE PHASE_03.3. Priorizar aprofundamento em microentregas de VA/admin e edição curta, procurar contratos pagos verificáveis e canais fora de leilões. Design permanece alternativa; tradução não prioritária. PHASE_04 não iniciada. R$0; nenhuma ação externa.
+
+
+
+### Mapa de comunidades — S327–S335
+Foram mapeadas comunidades de tech, remoto, editores/designers e empreendedores: Programadores BR (~39,6k); Tecnologia da Informação (~5k); HireClover (vagas/indicações/revisão de currículo); Multiverse Editores & Designers (~18,2k no diretório); Editors Community (~13k); LEOFGEDITZ (~10,7k); Yuji Editors (~90); Empreendedores SP (~7,8k); Meetup Freelance Brazil (1.948 em 16 grupos). Métricas de diretórios são snapshots e não representam audiência alcançável. Regras internas não foram verificadas; nenhuma comunidade aprovada para divulgação. Sem contato, posts ou DMs.
