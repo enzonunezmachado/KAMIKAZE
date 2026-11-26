@@ -68,3 +68,33 @@ A rota “cadastro de produtos / assistente virtual em marketplace” tem demand
 **Critério de iniciante:** priorizar tarefa pequena, demonstrável e reversível, sem login em conta do cliente, sem manipular preço/estoque/publicação, sem responsabilidade financeira ou regulatória e sem prometer resultado. A amostra pública deve ser marcada como demonstração com dados públicos/fictícios, não como case de cliente. Credibilidade deve vir de transparência, escopo e qualidade verificável, não de fingir senioridade.
 
 **Gate:** CONTINUE. A demanda de pesquisa aplicada está provada em marketplaces, mas aquisição sem leilão continua apenas parcialmente sustentada em nível geral; recompra não comprovada; elegibilidade legal/financeira para monetização aos 16 anos exige esclarecimento e participação adulta. PHASE_04 continua QUEUED/NOT_STARTED.
+
+
+## 19. Rodada 6 — elegibilidade corrigida, trabalho de bastidores e pagamentos (S087–S100)
+### Idade e acesso a plataformas
+- O usuário corrigiu sua idade para **18 anos**. Workana, Upwork e Fiverr têm requisito geral de 18 anos para conta independente; a idade mínima não é mais barreira pessoal. Continuam existindo regras de verificação, contrato, atividade e pagamento (S087, S088 e S098/S100).
+- Não tratar o usuário como menor nem exigir responsável adulto por idade. Não presumir, porém, aprovação automática em plataforma.
+
+### Trabalhos operacionais comprados
+- S091: projeto concluído de pesquisa documental de 45 empresas, com busca/baixamento/renomeação de demonstrações financeiras públicas. Nível iniciante, 29 propostas e 51 interessados, vencedor identificado. Evidência de compra de trabalho documental repetitivo e verificável.
+- S092: assistente virtual para consultório concluído com vencedora; 148 propostas/197 interessados; rotina de agenda, WhatsApp e planilhas, mas horário 8h–17h e dados de pacientes. Demonstra compra de suporte administrativo, mas competição e risco de confidencialidade/saúde tornam esse caso inadequado como primeiro serviço sem controles.
+- S093: anúncio theROCCO descreveu apoio de pesquisa de tendências, referências, ideias e pautas, sem experiência anterior, sem atendimento a clientes e com aprovação final da responsável. É exemplo direto de função de bastidores supervisionada, mas a vaga está antiga/não aceita candidaturas.
+- S094: vaga recente da Fera Comunicação descreve coordenação operacional de conteúdo: curadoria, calendário, acompanhamento de pendências, cobrança cordial de equipe/clientes, agendamento, Trello/Notion e grupos WhatsApp. Não há horário fixo; pagamento mensal fixo sem valor divulgado; experiência pesa menos que compromisso. 26 candidaturas. É a hipótese mais próxima de coordenação/orquestração, mas exige comunicação profissional, disponibilidade, organização e reunião por Meet; ainda não é validação de contratação do usuário.
+- S095: Workana mostra agência montando rede de freelancers para marketing/conteúdo e diversas especialidades, mas cliente com apenas 1 projeto pago em 9 publicados; intenção de montar rede, não compra comprovada.
+- S096: formato white-label de tráfego pago existe, com atendimento final retido pela agência, mas execução técnica (Meta/Google Ads, pixels, tags, métricas) e responsabilidade sobre verba tornam o escopo de nível intermediário. Não recomendar como primeira execução sem prova técnica.
+- S097: empresa Huios descreve parcerias white-label, repasse e indicação já realizadas com agências e freelancers. Prova de que o modelo de parceria existe, não de que aceita operador sem especialidade.
+
+### Tarefa de entrada em IA com pagamento por hora
+- S098: Lionbridge anuncia oficialmente tarefa remota de gravação de voz em português brasileiro por US$10/h, freelance/part-time, usando smartphone e ambiente silencioso. Há pré-teste e aprovação; vaga não informa horas disponíveis, duração efetiva nem calendário de pagamento.
+- S100: cadastro geral de contribuidores Lionbridge declara idade mínima de 18 anos e projetos sob demanda. A idade do usuário atende, mas o cadastro não garante seleção, alocação ou receita.
+- S099: Lionbridge afirma que não cobra para participar, que recrutadores legítimos usam domínio @lionbridge.com e que dados bancários/PayPal não devem ser solicitados fora do fluxo oficial. Qualquer taxa antecipada ou contato fora dos canais oficiais é sinal de alerta.
+
+### Prazo e economia de pagamento
+- S090: 99Freelas cobra 10%–20% (mínimo R$5) na oferta; cliente tem até 5 dias úteis para aprovar/solicitar ajustes; no plano Free, repasse até 6 dias úteis após liberação, com possibilidade de bloqueio antifraude. A janela total pode ultrapassar a meta imediata.
+- S089: Workana padrão gratuito paga entre dias 1 e 5 do mês seguinte, após liberação do cliente e configuração correta. Saque semanal/meio do mês depende de planos pagos. Não usar planos pagos porque o orçamento inicial é R$0.
+- Logo, marketplace não garante R$150 em prazo curto. Para meta imediata, tarefas de plataforma só contam após confirmação do projeto, aprovação, entrega, liberação e saque efetivo.
+
+### Síntese da rodada
+A melhor hipótese de fit estrutural não é necessariamente vender um serviço de inteligência comercial isolado: é **apoio operacional/orquestração de conteúdo e rotinas digitais para uma agência**, com processo e supervisão claros. A vaga Fera é um sinal recente de procura e baixa ênfase em experiência, mas tem remuneração não divulgada e exige postura com clientes. A vaga antiga theROCCO mostra que funções ainda mais delimitadas e supervisionadas também são oferecidas.
+Como trilha de dinheiro mais rápido, a vaga Lionbridge de gravação de áudio merece validação separada por ter remuneração horária divulgada e requisitos simples; o risco é não saber volume de sessões e prazo de pagamento.
+**Nenhuma oportunidade foi escolhida, nenhuma candidatura foi enviada, nenhum contato foi feito e nenhuma receita foi recebida.** PHASE_03.1 continua CONTINUE porque canal acessível, remuneração efetiva, elegibilidade operacional e conversão ainda não estão comprovados.
