@@ -48,6 +48,7 @@ A decisão de próxima ação deve ser confirmada em PHASE_CONTROL e reconciliad
 
 ## 6. Documentos de detalhe
 - Arquitetura e regras: `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`.
+- Decidir pesquisa versus experimento: `PROMPT_VIVO/QUALITY_GATE.md` e `PROMPT_VIVO/RESEARCH_METHOD.md`.
 - Fase/gate: `RUN_STATE.md` e `PHASE_CONTROL.md`.
 - Plano: `RESEARCH_PLAN.md`.
 - Contexto ampliado: `MEMORY_HANDOFF.md`.
