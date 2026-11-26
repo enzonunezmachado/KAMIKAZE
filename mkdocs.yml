@@ -1,0 +1,11 @@
+site_name: Kamikaze — Documentação e Portfólio
+site_description: Documentação operacional e portfólio demonstrativo do projeto Kamikaze
+docs_dir: portfolio_site/docs
+site_dir: portfolio_site/site
+theme:
+  name: readthedocs
+nav:
+  - Início: index.md
+  - Soluções: solucoes.md
+  - Projetos: projetos.md
+  - Processo: processo.md
