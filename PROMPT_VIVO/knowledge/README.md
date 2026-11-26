@@ -36,3 +36,7 @@ Não criar uma especialização vazia ou especulativa. O conteúdo deve nascer d
 
 ## Construção de produtos com IA e orçamento zero
 - [MAK — Casos de construção com IA e ferramentas gratuitas](MAK_ZERO_COST_AI_BUILD_CASES.md): casos com artefatos inspecionáveis, stacks, custos declarados, evidências, restrições de planos free e arquitetura local-first/client-side. Inclui o caso Stockroom e a auditoria de uso comercial de Vercel Hobby.
+
+
+## Soluções digitais locais e prospecção
+- [MAK — Soluções digitais locais, prospecção e motor de leads](MAK_LOCAL_AI_SOLUTIONS_AND_LEAD_ENGINE.md): segmentação por maturidade digital, ofertas por vertical, modelo implantação + manutenção, fontes e limites de leads, LGPD/WhatsApp, pilotos em Taboão e portfólio demonstrativo.
