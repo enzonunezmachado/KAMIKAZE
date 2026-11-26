@@ -40,3 +40,7 @@ Pendências: investigar comunidades brasileiras e Reddit original; abrir fontes 
 26. Qual serviço pode ser demonstrado com uma amostra pública sem usar dados de terceiros nem fingir case?
 27. Quais trabalhos exigem disponibilidade síncrona, inglês, portfólio, softwares pagos ou expertise que tornam inviável a entrada imediata?
 28. Como estimar o valor líquido depois da comissão e do prazo de liberação de cada plataforma?
+29. Há demanda pagante para preparar e organizar materiais de clientes antes de edição/criação, ou a dor é apenas do prestador?
+30. Quais requisitos mínimos de portfólio/case são pedidos em projetos de vídeo e conteúdo?
+31. Quais comunidades permitem pedidos e respostas comerciais sem violar regras locais?
+32. É possível demonstrar serviço de pesquisa com amostra pública e rastreável, sem experiência anterior alegada?
