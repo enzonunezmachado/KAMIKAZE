@@ -1,81 +1,69 @@
 # BOOTSTRAP — Inicialização e retomada entre chats
 
-**Objetivo:** permitir que uma IA que nunca viu a conversa anterior reconstrua o contexto operacional correto antes de continuar. Este arquivo é um procedimento obrigatório, não uma sugestão.
+**Obrigatório** sempre que a conversa for nova, o usuário pedir continuidade, mencionar trabalho anterior ou disser “continua/próxima”.
 
-## Gatilho
-Se o usuário disser que este é um novo chat, pedir para continuar algo anterior, mencionar uma fase em andamento ou usar expressões como "continue de onde paramos", executar este protocolo antes de pesquisar, planejar ou fazer perguntas.
+## 0. Carregar o sistema de continuidade
+Leia primeiro:
+1. `PROMPT_VIVO/CONTINUITY_SYSTEM.md`
+2. `PROMPT_VIVO/MASTER_PROMPT.md`
+3. `PROMPT_VIVO/EXECUTION_PROTOCOL.md`
+4. `PROMPT_VIVO/MEMORY_AND_HANDOFF.md`
 
-## Etapa 1 — Identidade e limites do projeto
-Ler:
-1. `README.md`
-2. `docs/BRIEF.md`
-3. `operations/STATE.md`
-4. `operations/AVAILABLE_RESOURCES.md`
-5. `PROMPT_VIVO/README.md`
-6. `PROMPT_VIVO/CORE.md`
-7. `PROMPT_VIVO/EXECUTION_PROTOCOL.md`
-8. `PROMPT_VIVO/MEMORY_AND_HANDOFF.md)
-9. `PROMPT_VIVO/MASTER_PROMPT.md`
+## 1. Identificar a execução ativa
+1. Leia `README.md`, `operations/STATE.md`, `operations/AVAILABLE_RESOURCES.md` e `PROMPT_VIVO/README.md`.
+2. Use `operations/STATE.md` como ponteiro para descobrir o RUN_ID ativo; não adivinhe pelo nome mais recente.
+3. Leia `PROMPT_VIVO/runs/<RUN_ID>/RESUME_PACKET.md` primeiro.
+4. Leia o `SESSION_LOG.md` global e o da execução; confira os eventos mais recentes e a persistência.
+5. Leia `RUN_STATE.md`, `PHASE_ARCHITECTURE.md`, `PHASE_CONTROL.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md`, `USER_INPUT_LOG.md` e o checkpoint/instrução da fase ativa.
 
-Não presumir que o nome de uma pasta ou o último número de fase descreve sozinho o trabalho.
-
-## Etapa 2 — Descobrir qual trabalho está ativo
-1. Identificar o RUN_ID apontado por `operations/STATE.md`.
-2. Ler, nessa execução, `RESUME_PACKET.md` primeiro.
-3. Ler `RUN_STATE.md`, `PHASE_ARCHITECTURE.md`, `PHASE_CONTROL.md), `RESEARCH_PLAN.md), `MEMORY_HANDOFF.md) e o checkpoint da fase ativa.
-4. Ler a instrução completa da fase ativa.
-5. Consultar `SOURCE_LEDGER.md`, `FINDINGS.md), `OPEN_QUESTIONS.md), matrizes e entregáveis indicados pelo pacote de retomada.
-6. Se dois arquivos divergirem, não escolher silenciosamente: comparar datas/versões, priorizar o registro mais recente e explícito, registrar a divergência e corrigir os arquivos dependentes antes de prosseguir.
-
-## Etapa 3 — Reconstruir o contexto completo
-Antes de agir, formular internamente um mapa que identifique:
-- projeto e objetivo comercial/operacional maior;
-- execução ativa (ID, título, escopo e motivo de existir);
-- pesquisa específica em andamento e a pergunta principal que ela tenta responder;
-- hipóteses incluídas, excluídas e ainda não escolhidas;
-- fase/subfase ativa, seu gate, dependências e critérios de saída;
-- o que já foi feito, com evidências e fontes;
-- o que foi tentado e falhou;
-- decisões e preferências expressas pelo usuário;
+## 2. Reconstruir o contexto
+Identifique:
+- missão do projeto e meta contextual;
+- execução, escopo e pergunta central;
+- linhas de pesquisa ativas, em pausa, encerradas ou rejeitadas;
+- fase/subfase, gate, dependências e critério de saída;
+- o que já foi feito e o que as evidências realmente provam/não provam;
+- fontes, contraprovas, tentativas malsucedidas e perguntas abertas;
+- decisões e preferências humanas;
 - recursos, orçamento, prazos e restrições;
-- ações proibidas sem aprovação;
-- lacunas que realmente podem mudar a decisão;
-- próxima ação concreta e menor passo útil.
+- ações que exigem autorização explícita;
+- próxima ação concreta.
 
-Não dizer que possui "certeza total". Declarar contexto reconstruído a partir dos arquivos, apontar divergências e distinguir fato, inferência e hipótese.
+Não alegue certeza total. Diferencie fato documentado, inferência e hipótese.
 
-## Etapa 4 — Integrar a conversa atual e feedback do usuário
-O repositório é a memória durável; a conversa atual é uma camada de entrada adicional.
-1. Capturar comentários, correções, novas preferências, rejeições, prioridades e autorizações explícitas do usuário.
-2. Interpretar feedback como possível alteração de escopo, critérios, método, prioridade ou gate — não apenas como comentário social.
-3. Comparar cada entrada com decisões anteriores. Se houver conflito, preservar o histórico e registrar a decisão mais recente, sem apagar a anterior.
-4. Atualizar `USER_INPUT_LOG.md` com data, conteúdo resumido, impacto, arquivos afetados e status (APLICADO, INCORPORADO AO PLANO, SEM IMPACTO, AGUARDA APROVAÇÃO).
-5. Não transformar um pedido de "próxima/continua" em autorização para ações externas, gastos ou aprovação factual de um gate.
-6. Não pedir ao usuário para repetir informação já presente nos arquivos ou na conversa.
+## 3. Auditar divergências e completude
+Compare data, eventos e estado entre operations/STATE, RUN_STATE, PHASE_CONTROL, PHASE_ARCHITECTURE, RESUME_PACKET, MEMORY_HANDOFF e SESSION_LOG.
+- Se houver divergência, identificar origem e versão mais recente confirmada.
+- Não escolher silenciosamente.
+- Registrar reconciliação como novo evento e sincronizar arquivos dependentes.
+- Se não for possível determinar o estado com segurança, marcar BLOCKED e perguntar somente o indispensável.
 
-## Etapa 5 — Auditoria antes de continuar
-Executar `PHASE_CONTROL.md`. Verificar:
-- completude real da fase atual;
-- evidências e contraprovas;
-- entregáveis faltantes;
-- pesquisas redundantes;
-- mudanças trazidas pelo usuário;
-- cotas/limites e margem;
-- consistência entre estado, arquitetura, plano, checkpoint e handoff.
+Executar o controlador adaptativo e decidir: CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK. Não avançar só porque uma fase seguinte existe ou porque acabou o chat.
 
-Escolher e executar a ação mínima útil: CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK.
+## 4. Incorporar a conversa atual
+A mensagem atual do usuário é uma nova camada de entrada. Capturar correções, novas ideias, preferências, prioridades, rejeições e autorizações; comparar com decisões anteriores; registrar em USER_INPUT_LOG.md e atualizar os arquivos afetados. Preservar histórico, sem apagar decisões antigas.
 
-## Etapa 6 — Trabalho e persistência
-Depois da decisão:
-- executar pesquisa/análise real, não apenas anunciar tarefas;
-- registrar cada fonte e o que ela prova/não prova;
-- atualizar achados, perguntas, matriz, arquitetura e checkpoint;
-- sincronizar `RUN_STATE.md`, `RESEARCH_PLAN.md`, `MEMORY_HANDOFF.md), `RESUME_PACKET.md) e `operations/STATE.md);
-- atualizar o `USER_INPUT_LOG.md);
-- salvar mudanças no GitHub e só declarar persistência após confirmação.
+## 5. Continuar o trabalho
+- Executar a próxima ação de pesquisa/análise autorizada.
+- Não reiniciar a pesquisa nem repetir trabalho válido.
+- Não perguntar ao usuário o que já está documentado.
+- Entregar resultados consolidados, com fontes, limites, contraprovas e decisão.
+- Não realizar ações externas sem autorização.
 
-## Etapa 7 — Resposta ao usuário
-Começar com uma confirmação concisa do contexto reconstruído: projeto, execução, pergunta da pesquisa, fase e estado. Depois informar o que foi auditado e efetivamente executado, decisão de fase, achados, lacunas e próxima ação. Não despejar todos os arquivos se não for necessário.
+## 6. Checkpoint obrigatório
+Após cada lote relevante e antes de encerrar/transferir:
+1. atualizar SOURCE_LEDGER, FINDINGS, OPEN_QUESTIONS e matrizes;
+2. atualizar checkpoint/instrução da fase, PHASE_CONTROL e PHASE_ARCHITECTURE quando aplicável;
+3. atualizar USER_INPUT_LOG;
+4. sincronizar RUN_STATE, MEMORY_HANDOFF e RESUME_PACKET;
+5. sincronizar operations/STATE;
+6. acrescentar SESSION_LOG da execução e global;
+7. atualizar CHANGELOG quando o próprio Prompt Vivo mudar;
+8. confirmar as gravações no GitHub e registrar commit SHA quando disponível.
 
-## Limites
-Este protocolo melhora a continuidade, mas não garante onisciência: a IA só pode reconstruir o que foi registrado e está acessível. Se arquivos essenciais estiverem ausentes, contraditórios ou inacessíveis, dizer exatamente o que falta. Nunca inventar contexto.
+Se não houver escrita disponível, entregar conteúdo copiável e declarar NÃO PERSISTIDO. Nunca alegar que salvou sem confirmação.
+
+## 7. Resposta de retomada
+Informar brevemente projeto, execução, pergunta ativa, fase/gate, divergências resolvidas, trabalho que será continuado e próxima ação. Não despejar todo o repositório.
+
+**Limite:** este protocolo não executa trabalho em segundo plano. Ele permite retomada confiável com base nos registros persistidos e acessíveis.
