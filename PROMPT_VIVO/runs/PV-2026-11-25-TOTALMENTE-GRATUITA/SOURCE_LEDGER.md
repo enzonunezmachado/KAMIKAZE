@@ -349,3 +349,31 @@
 
 ### Nota metodológica
 Nenhuma fonte S296–S314 fornece volume mensal confiável para as keywords específicas analisadas. Os resultados da SERP provam existência de concorrentes e funcionalidades, não demanda, tráfego ou receita. Volume, KD, CPC e SERP devem ser medidos por keyword e país antes de qualquer ranking quantitativo.
+
+
+
+## Rodada 24 — buyer segmentation, micro-niches e compra (S315–S326; 26/11/2026)
+
+| ID | Fonte | Tipo | Achado | Limite |
+|---|---|---|---|---|
+| S315 | 99Freelas — https://www.99freelas.com.br/project/assistencia-virtual-para-suporte-e-organizacao-800225 | Brief de comprador | Assistência operacional: pesquisa rápida, planilhas, agendamentos e organização; 319 propostas/447 interessados; projeto recente e aberto. | Orçamento aberto; não prova contratação/pagamento. Concorrência alta. |
+| S316 | 99Freelas — https://www.99freelas.com.br/projects?q=assistente+virtual | Lista de projetos | Assistente de atendimento remoto: 587 propostas/728 interessados; projeto de triagem 544 propostas/556 interessados; organização diária 159 propostas/267 interessados. | Contagens dinâmicas e snapshot; não prova contratação, nem qualidade dos candidatos. |
+| S317 | 99Freelas — https://www.99freelas.com.br/project/assistencia-virtual-para-demandas-pessoais-e-profissionais-799315 | Brief de comprador | Cliente busca relação duradoura, 100% online, mínimo estimado de 10h/mês, agendas, e-mails, WhatsApp, documentos; 102 propostas/181 interessados. | Orçamento aberto; exige confiança, disponibilidade, comunicação e possibilidade de nota fiscal/MEI. |
+| S318 | 99Freelas — https://www.99freelas.com.br/project/editor-de-vlog-e-reels-788402 | Brief de comprador | Edição de 4 vídeos de evento, entrega rápida, cortes, áudio, legendas e definição de revisões; 17 propostas/22 interessados. | Orçamento aberto; snapshot menor, sem pagamento confirmado; prazo rápido pode exigir disponibilidade. |
+| S319 | 99Freelas — https://www.99freelas.com.br/project/editor-de-videos-para-tiktok-e-reels-782176 | Brief de comprador | Projeto de edição TikTok, nível iniciante, 35 propostas/46 interessados. | Projeto encerrado; preço e contratação não visíveis. |
+| S320 | 99Freelas — https://www.99freelas.com.br/project/edicao-de-videos-para-tiktok-reels-e-shorts-767745 | Brief de comprador | Edição dinâmica para Reels/Shorts; pede portfólio, storytelling, legendas e pacote; 43 propostas/53 interessados. | Projeto encerrado; não prova pagamento. |
+| S321 | Upwork — https://www.upwork.com/freelance-jobs/video-editing/ | Categoria/jobs | Página exibe amostra de 6.566 jobs de edição; exemplos recentes de short-form a US$600 e projeto de estúdio a US$2.000. | Contagem agregada de página, não estimativa de jobs acessíveis/ativos; anúncios não equivalem a contratação ou preço típico. |
+| S322 | 99Freelas — https://www.99freelas.com.br/projects?categoria=traducao | Lista de projetos | Tradução de 39 videoaulas para inglês: 80 propostas/94 interessados; tradução juramentada: 55/72; revisão de livro inglês: 244/295. | Serviços especializados; tradução juramentada requer profissional habilitado; anúncios não provam pagamentos. |
+| S323 | 99Freelas — https://www.99freelas.com.br/project/traducao-de-documentos-do-portugues-para-o-ingles-795133 | Brief de comprador | Tradução de cerca de 100 páginas, possível recorrência; exige graduação/formação em Tradução ou Letras, inglês excelente e confidencialidade; 86 propostas/97 interessados. | Exigência formal e domínio profissional; não é adequado inferir que inglês intermediário baste. |
+| S324 | 99Freelas — https://www.99freelas.com.br/project/desenvolver-uma-identidade-visual-786191 | Brief de comprador | Identidade visual para projeto novo, pede portfólio; 62 propostas/82 interessados. | Orçamento aberto; sem prova de contratação/pagamento. |
+| S325 | 99Freelas — https://www.99freelas.com.br/project/designer-para-redes-sociais-e-identidade-visual-764559 | Brief de comprador | Agência busca produção de 48 artes/mês (12 por semana), arquivos editáveis e prazos; 53 propostas/71 interessados. | Projeto encerrado; não há valor/pagamento público; exige domínio de design e consistência de produção. |
+| S326 | GitHub — https://github.com/DykstraBruno/workaholic | Auditoria pública de issues | Repositório Workaholic apresenta 62 stars, 9 forks, features extensas e issues públicas desativadas/sem resultados de issues na consulta. | Não permite inferir ausência de bugs ou satisfação; falta de issues públicas não é prova de qualidade. |
+
+### Síntese de segmentação S315–S326
+- Assistência virtual/admin tem demanda visível, inclusive tarefas simples e relações recorrentes, mas briefs recentes acumulam 319–587 propostas; um job de 10h/mês recebeu 102 propostas. Alto volume de compradores não significa acesso fácil para iniciante.
+- Edição de vídeo curto apresenta briefs repetidos e pacotes mensais; um job de evento tinha 17 propostas/22 interessados, abaixo dos snapshots de VA. Ainda exige portfólio, velocidade e capacidade técnica; menor concorrência num anúncio não prova conversão.
+- Design/social media tem projetos recorrentes e volume de produção (48 artes/mês), mas requer portfólio e habilidade visual; concorrência observada 53–62 propostas em casos.
+- Tradução tem projetos grandes e possibilidade de recorrência, mas anúncios exigem inglês excelente, formação específica e/ou tradução juramentada. Não é fit imediato para inglês intermediário e não se deve vender serviço juramentado sem habilitação.
+- Upwork exibe grande catálogo de edição e VA; os números de categoria são contagens de páginas do fornecedor, não dados independentes de liquidez ou chance de contratação.
+- Workana Profile Readiness: continua existindo dor oficial de moderação 15–30 dias e reclamações recentes, mas nenhuma evidência nova de compra de ferramenta independente focada em preparação Workana. Serviço de revisão de perfil geral já é concorrido.
+- Comunidades: Programadores BR é grande e ativo no diretório público; não foi possível verificar regras internas completas. Sem autorização explícita e sem leitura das regras atuais, permanece observação apenas, não canal de publicação.
