@@ -127,3 +127,16 @@ Como trilha de dinheiro mais rápido, a vaga Lionbridge de gravação de áudio 
 5. **OpenTrain/YPAI/Survey Lionbridge incompatível:** excluir temporariamente por pagamento indisponível, vaga fechada, requisito de graduação ou dispositivo incompatível.
 
 Nenhuma oportunidade foi aprovada, candidatura enviada, formulário preenchido, contato feito ou receita recebida. PHASE_03.1 continua CONTINUE; PHASE_04 ainda não começou.
+
+
+## 22. Rodada 9 — avaliadores de busca/anúncios e coordenação de qualidade (S116–S119)
+- **RWS Search Engine Evaluator (S116):** vaga remota para Brasil, até US$6/h, 5–20h/semana, sem experiência prévia obrigatória. Avalia resultados de busca e relevância. Requer inglês fluente, computador/celular/antivírus, teste e mínimo de horas; formulário menciona até 40h, divergindo do anúncio. FAQ oficial confirma 18+, sem taxa, treinamento, pagamento por tarefa e PayPal ou banco, mas não informa calendário de pagamento nem detalhes bancários brasileiros. É uma opção concreta para avaliar se o inglês atende, porém remuneração baixa e não garantida por tarefa.
+- **TELUS Digital (S117):** Online Ad Rater/Personalized Internet Assessor anunciam cerca de US$5/h estimados, pagos por tarefas aprovadas e dependentes de volume. A vaga oficial Personalized Internet Assessor pede cinco anos de residência no Brasil e fluência profissional em português/inglês; outra vaga Ad Rater pede três anos e fluência profissional, além de teste e verificação. Não é taxa horária garantida nem temos calendário de pagamento confirmado. Se o requisito de residência e inglês não for atendido, excluir.
+- **Clickworker (S118):** pagamentos em ciclos semanais depois de atingir mínimo e configurar dados fiscais; PayPal mínimo €10 e Payoneer €/$20, mas disponibilidade varia por país e registro pode estar temporariamente fechado no Brasil. A própria empresa orienta confirmar a opção na conta antes de trabalhar. Canal condicional, não recomendação ainda.
+- **Welo Data Junior Quality Coordinator (S119):** vaga remota freelance, 20h/semana part-time, coordena parte da operação de Search Quality Rater: relatórios de qualidade, feedback, suporte, treinamento e reuniões. Requer inglês forte, português fluente, NDA, computador/antivírus e prova. Dedicação exclusiva ao programa; não pode ter experiência atual ou anterior como Ads Quality Rater. Remuneração não divulgada. Tem alinhamento com coordenação/processos, mas exige carga e comunicação relevantes.
+### Comparação provisória
+- Melhor chance de função estruturada sem experiência formal: RWS Search Evaluator, caso inglês fluente e 5h/semana sejam viáveis; ciclo de pagamento e volume precisam confirmação.
+- Melhor alinhamento com coordenação: Welo Junior Quality Coordinator, mas 20h/semana, inglês forte e remuneração desconhecida reduzem atratividade.
+- TELUS: taxa baixa e critérios exigentes de residência/inglês; não priorizar sem confirmar requisitos pessoais.
+- Clickworker: somente após confirmar registro Brasil, método de pagamento e existência de tarefas.
+Nenhuma candidatura ou cadastro realizado.
