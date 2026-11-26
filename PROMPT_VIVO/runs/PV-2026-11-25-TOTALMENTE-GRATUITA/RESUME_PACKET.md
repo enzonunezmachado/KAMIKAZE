@@ -179,3 +179,11 @@ Gate CONTINUE. PHASE_04 permanece QUEUED/NOT_STARTED; nenhuma ação externa rea
 - TSMG QC paga por trabalho validado, sem taxa/tempo/ciclo publicados. Meridial é perfil linguístico especializado; Defrilex envolve opt-in de dados pessoais; sōtem não tem tarefas pagas abertas; estudo uTest de US$75 expirou.
 - Nenhuma conta, candidatura, screening, formulário, gravação, consentimento, envio de documento ou contato externo foi realizado. Receita R$0, despesas R$0.
 - Próximo foco: aprofundar UserTesting Brasil/PayPal, procurar novos lotes CrowdSource Labs, obter evidência de taxa/ciclo TSMG e buscar vagas operacionais com remuneração transparente. Não avançar à Fase 04 sem decisão do gate.
+
+
+
+## Correção importante — UserTesting e uTest (25/11/2026)
+- UserTesting Brasil é suportado, mas a inscrição exige fluência em inglês, francês ou alemão. Como o inglês do usuário é intermediário, não priorizar practice test/cadastro até o requisito ser atendido.
+- uTest é uma plataforma a monitorar, mas o Project Greenbox PT-BR encontrado tinha início em 30/10 (passado); projeto de verificação de identidade ativo exige documento oficial e retenção até 12 meses sem remuneração divulgada. Não enviar documento.
+- uTest paga duas vezes/mês via PayPal, Payoneer ou Wise/banco conforme disponibilidade; termos não garantem projetos.
+- Fontes S139–S143 registradas; PHASE_03.1 continua CONTINUE e PHASE_04 não começou.
