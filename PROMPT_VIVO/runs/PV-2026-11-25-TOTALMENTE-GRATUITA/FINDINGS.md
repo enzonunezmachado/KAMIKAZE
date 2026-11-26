@@ -176,3 +176,34 @@ OneForma Email Collection passa a ser hipótese de maior potencial de rapidez se
 
 ## Complemento da rodada 12 — divergência de pagamento OneForma (S130)
 A homepage OneForma afirma que não há mínimo de saque, enquanto o Help Center de pagamentos descreve mínimo de US$25. Não resolver a divergência por suposição; para a hipótese Email Collection e Freya, classificar o mínimo e o calendário como NÃO CONFIRMADOS até verificar o projeto/conta ou obter confirmação oficial. Isso reduz ainda mais a confiabilidade de prever pagamento até 6/12.
+
+## 26. Rodada 13 — testes de usabilidade, coleta de dados e status contraditórios (S131–S138)
+### Achado principal: UserTesting é elegível no Brasil, mas renda imprevisível
+- A documentação oficial atualizada em 20/11/2026 inclui o Brasil tanto na experiência nova quanto nos testes clássicos. O próprio UserTesting avisa que os países adicionados em novembro, incluindo Brasil, têm pools menores e os testes podem demorar mais para preencher (S136).
+- O valor é exibido antes de aceitar cada teste e varia por tipo, duração e demanda. O pagamento é exclusivamente por PayPal verificado e normalmente chega 14 dias após a conclusão; o practice test não é pago (S137).
+- Avaliação: alternativa legítima para renda complementar recorrente/ocasional, com barreira de entrada menor que avaliação linguística especializada. Porém, a janela de 14 dias e o volume brasileiro pequeno impedem tratá-la como solução para receber R$150 até 06/12. Não há estimativa confiável de convites por semana.
+
+### YPAI: status contraditório, excluir até confirmação
+- A página Data Collection Contributor Brasil abre com banner “This position is closed / no longer accepting applications”, mas mantém no corpo os dizeres “Applications open”, taxa típica de R$30–50/h e formulário (S131).
+- A regra de qualidade do projeto exige privilegiar o estado de encerramento explícito no topo; a oportunidade não pode ser contada como aberta enquanto a própria página contradiz o status. Não submeter candidatura.
+
+### TSMG QC: modelo de pagamento confirmado, economia não
+- Formulário pede CV e comentário sobre experiência, além de consentimento de dados. Confirma que pagamento é por trabalho validado, não por horas efetivas (S132).
+- Taxa por unidade, volume mínimo, tempo médio por unidade, método e prazo de pagamento continuam ausentes. Sem esses dados, não estimar rendimento nem priorizar por promessa de trabalho.
+
+### Oportunidades descartadas ou de baixa prioridade
+- Meridial/Invisible anuncia faixa US$6–65/h para PT-BR, mas descreve perfil especializado em linguística (fonética, morfologia, sintaxe, semântica, pragmática e sociolinguística); graduação relacionada é ideal. Faixa não é taxa garantida e o formulário exige CV/LinkedIn (S133). Não priorizar como trabalho iniciante.
+- Defrilex está recrutando PT-BR sem experiência profissional, mas exige consentimento para possível coleta de dados pessoais de uso de assistentes IA, buscas, YouTube e email. Remuneração e calendário não divulgados (S134). Classificar como sensível/opt-in de privacidade; não compartilhar dados nem consentir sem ler SoW e termos específicos.
+- sōtem prevê US$10–15 por hora estimada e saldo mínimo US$10, mas a própria página diz que não há tarefas pagas abertas e PayPal não está habilitado (S135). Não é renda operacional atual.
+- Um estudo de US$75 divulgado via User Interviews/uTest apareceu em resultado indexado, mas a URL retornou 410 Gone ao abrir; não tratar como ativo. Exigia selfie e criação de múltiplas contas Google, portanto teria exigido análise adicional de privacidade mesmo se ativo (S138).
+
+### Priorização provisória após a rodada 13
+1. **UserTesting:** elegibilidade Brasil e pagamento documentados; boa trilha complementar, mas baixa previsibilidade e ciclo de 14 dias.
+2. **CrowdSource Labs:** continuar monitorando novos lotes, sem contar com rodada passada.
+3. **TSMG QC:** somente se a taxa por peça, tempo médio e pagamento forem esclarecidos antes de aceitar trabalho.
+4. **Fera Comunicação:** manter em observação até remuneração, carga e disponibilidade serem conhecidas.
+5. **OneForma Email Collection:** permanece bloqueada por privacidade e taxa PT-BR não publicada.
+6. **YPAI Data Collection Contributor:** excluir como vaga ativa até resolver banner de encerramento.
+7. **Freya, sōtem e vagas especializadas:** baixa prioridade para meta imediata por economics, ausência de tarefas ou requisitos.
+
+**Conclusão da rodada:** nenhuma nova oportunidade garante recebimento até 06/12. UserTesting é uma rota plausível para criar uma fonte complementar, não uma solução de caixa imediata. Gate da PHASE_03.1 permanece CONTINUE; PHASE_04 não inicia.
