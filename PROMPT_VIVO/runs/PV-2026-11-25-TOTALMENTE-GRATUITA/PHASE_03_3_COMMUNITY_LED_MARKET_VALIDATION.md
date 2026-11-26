@@ -94,3 +94,46 @@ O padrão é misto: há pagamento e renovação, mas também reembolsos, cancela
 S243 identifica demanda de um comprador experiente por curadoria humana de jobs e análise do histórico/atividade do cliente, com faixa anunciada US$15–30/h; contudo, exige histórico de Upwork e é intenção de contratação, não job concluído nem oportunidade de entrada para o usuário.
 A hipótese evolui para “reduzir desperdício antes de candidatar-se”: avaliar intenção/atividade do cliente, histórico de contratação, escopo/orçamento/esforço, concorrência e custo de Connects. Isso ainda não é diferencial comprovado, pois Scoutly anuncia score e análise de cliente, Upwork oferece proposal insights e Workaholic é substituto gratuito.
 **Decisão:** manter CONTINUE. Não construir produto, não publicar, não contatar, não assinar, não anunciar e não gastar. Próxima ação: auditar reviews/falhas independentes do Scoutly e concorrentes; mapear 8–12 comunidades e regras; comparar se há wedge vertical onde a informação é confiável e não coberta por ferramentas existentes.
+
+
+## Rodada 22 — auditoria competitiva, novas micro-nichos e viabilidade técnica (26/11/2026)
+Fontes: S245–S285 em SOURCE_LEDGER.md.
+
+### Correções competitivas
+- Scoutly Pro cobre alertas, score, concorrência, histórico do cliente e proposta IA; não temos prova independente de assinantes, retenção ou eficácia.
+- Workaholic é um substituto open-source mais completo: múltiplas fontes, filtros, match score, alertas, CRM, follow-up e currículo. O genérico “agregador + filtro + proposta” não é lacuna.
+- Há ferramentas grátis/pagas para análise de brief, scope creep, pricing, CRM, revisões, handoff e rentabilidade. Não construir clone genérico.
+
+### Restrição de termos que muda a arquitetura
+Upwork classifica job alerts/watchers, scrapers, extensões que leem/monitoram páginas, polling e ferramentas multi-site como automação potencialmente não autorizada; prevê restrição/banimento. Workana proíbe robôs, scripts e processos manuais/automáticos para extração, rastreamento e indexação. Não criar monitoramento/crawler de background dessas plataformas sem autorização formal. Priorizar input explícito do usuário (texto/URL copiados por ele), análise local e links abertos manualmente; revisar termos específicos para cada integração.
+
+### Nova linha de micro-nicho
+**WORKANA_PROFILE_READINESS / FIRST-30-DAYS LAUNCH**: ferramenta/serviço de preparação de perfil e portfólio para recém-cadastrados ou reprovados, usando apenas experiência real, certificações e amostras demonstráveis. Workana informa moderação de 15–30 dias, perfil 100% completo, experiência real, habilidades específicas, portfólio e Behance obrigatório para Design & Multimídia; nível Iron começa com duas conexões semanais. Reclamações mostram frustração com espera/reprovação e compra de moderação prioritária. Não prometer aprovação nem sugerir pagar pela prioridade como requisito. Não há ainda evidência de compra de ferramenta independente de preparação.
+
+### Portfolio de ideias para comparação (não aprovadas)
+1. Workana Profile Readiness + First-30-Days Launch.
+2. Diagnóstico de proposta pré-envio por profissão (sem scraping).
+3. Diagnóstico de conversão multi-marketplace com input manual/CSV.
+4. Calculadora brasileira de preço líquido por plataforma e esforço.
+5. Scope/Revision Guard para um micro-nicho (ex.: edição de vídeos curtos, design de social media ou assistente virtual).
+6. Mapa de evidências de portfólio contra requisitos do brief, sem inventar experiência.
+7. Checklist de risco de cliente/projeto baseado em dados que o usuário fornece e fontes públicas permitidas.
+8. Concierge manual de curadoria de jobs para um único perfil vertical, usando fontes e acesso permitidos.
+9. Kit de onboarding e primeiro contrato para freelancers iniciantes.
+10. Follow-up e pós-proposta com aprendizagem a partir de resultados inseridos pelo próprio usuário.
+11. Calculadora de custos de conexões, taxas, prazo e recebimento por marketplace.
+12. Kit de escopo, revisões e aceite para um tipo específico de entrega.
+
+### Filtro de construção obrigatório
+Após concluir pesquisa, avaliar cada ideia por: dor e frequência; comprador e prova de pagamento; concorrência direta/indireta; diferenciação; aquisição orgânica permitida; habilidade do usuário; tempo até MVP; tempo até primeiro valor/pagamento; manutenção; privacidade/termos; custos recorrentes; necessidade de backend/API; risco de quotas; e impacto sobre NEXUS. Não presumir que todas precisem ser SaaS: serviço manual, template, calculadora estática ou concierge podem ser opções melhores.
+
+### Ferramentas e limites
+- Google AI Studio Build cria React + Node e integra Firestore/Auth; Starter Tier permite até 2 web apps ativos por conta, sem cartão, com quotas compartilhadas. NEXUS já utiliza AI Studio; não presumir slot disponível nem fazer deploy sem verificar a conta e receber aprovação.
+- Não introduzir Firebase/Supabase/Cloudflare, API Gemini ou banco externo só por conveniência. Preferir MVP estático/local-first; se backend for indispensável, avaliar AI Studio Starter Tier sem ativar billing.
+- O tier gratuito da Gemini API pode usar conteúdo para melhoria de produtos Google; não enviar briefs confidenciais, documentos de cliente ou dados pessoais sem sanitização e revisão dos termos.
+- GitHub Pages não é permitido como hospedagem de SaaS/negócio comercial; Cloudflare Pages serve assets estáticos sem custo, mas Functions têm quotas próprias.
+
+### Comunidades
+Mapeamento inicial S276–S285: Meetups de freelancers (SP Programadores, CodeFreelas, WeFreela, DDBM, Remote Workers RJ) têm grupos de centenas de membros, mas vários não exibem eventos recentes. Programadores BR Discord é grande e tem canais de projetos/vagas; Editor Livre tem canais de oportunidades. Regras internas de vários Discords ainda não foram verificadas. r/freelanceWriters proíbe pesquisa de mercado e promoção disfarçada; r/sideprojects permite showcase com restrições e proíbe astroturfing. Nenhuma publicação ou contato foi autorizado.
+
+**Decisão:** PHASE_03.3 CONTINUE. Próximo: comparar 3–5 micro-nichos, obter evidência de compra específica para Workana Profile Readiness e para diagnóstico de conversão manual, auditar falhas reais das alternativas e classificar comunidades por atividade/regra. Não iniciar PHASE_04 e não construir produto ainda.
