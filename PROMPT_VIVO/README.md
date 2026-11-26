@@ -61,7 +61,7 @@ Ao final de uma execução, deve existir um conjunto rastreável de:
 1. O usuário apresenta um objetivo ou pede uma pesquisa.
 2. A IA lê este README, CORE, MASTER_PROMPT e protocolo.
 3. A IA cria ou identifica uma execução em `runs/`.
-4. A execução percorre as fases pertinentes, na ordem ou com iterações justificadas.
+4. A execução percorre uma arquitetura de fases adaptativa: pode avançar, aprofundar, dividir, mesclar, reordenar, modificar, adicionar, pular ou reabrir fases conforme evidências e gates. PHASE_00–PHASE_05 são modelos iniciais, não limite fixo. Toda alteração é registrada em PHASE_ARCHITECTURE.md na execução, e os arquivos de estado/plano/handoff são sincronizados.
 5. Cada fase consulta fontes e registra resultados nos arquivos da execução.
 6. A IA atualiza o estado da execução e indica a próxima ação.
 7. Ao descobrir método, ferramenta, conceito ou pergunta relevante, avalia se deve atualizar o conhecimento reutilizável.
