@@ -1,8 +1,8 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "operations/FIRST_SALE/README.md"
-last_work_status = "PROTOCOLO DE QUALIFICAÇÃO; EVIDÊNCIA DE DEMANDA E CONCORRÊNCIA; PILOTO COMERCIAL PRIORITÁRIO"
+last_substantive_work = "operations/FIRST_SALE/PROSPECT_CANDIDATES_001.md"
+last_work_status = "TRIAGEM INDIVIDUAL; 17/20 IDENTIFICADOS; 3 SEM CONFIRMAÇÃO; NENHUM QUALIFICADO"
 
 [execution]
 status = "IN_PROGRESS"
