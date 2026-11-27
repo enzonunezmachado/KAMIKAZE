@@ -32,7 +32,7 @@ Esses tópicos são trilhas de pesquisa, não uma lista de negócios aprovados. 
 
 ### Missão imediata
 
-Buscar pelo menos **R$ 150 efetivamente recebidos até 06/12/2026**, com investimento inicial de R$ 0. A meta é uma missão de curto prazo, não promessa de resultado. O plano de proteção é procurar emprego caso não apareçam sinais concretos de tração até essa data; isso não invalida o projeto.
+Meta operacional atual: buscar pelo menos **R$ 140 efetivamente recebidos até 08/12/2026**, com orçamento operacional autorizado de R$ 0. É um objetivo, não promessa de resultado. O piloto comercial vigente e sua oferta estão documentados em `operations/FIRST_SALE/`; essa meta substitui o alvo inicial de R$ 150 até 06/12/2026.
 
 ### Objetivo de construção
 
