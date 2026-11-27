@@ -66,3 +66,24 @@ Validar nos candidatos se já existe uma lista/menu de serviços e preços e se 
 ## Métricas
 
 Registrar separadamente: candidatos pesquisados, candidatos qualificados, abordagens autorizadas, respostas, conversas com necessidade identificada, propostas, aceites, entregas, valores recebidos e custos.
+
+
+## Roteiro de descoberta — usar somente após autorização
+
+**Objetivo:** entender uma tarefa real antes de oferecer qualquer serviço. Não apresentar o menu/PDF como solução presumida.
+
+Mensagem inicial sugerida:
+
+> Oi, tudo bem? Estou pesquisando como pequenos negócios organizam informações e tarefas do dia a dia. Não quero te oferecer nada sem entender primeiro: posso fazer duas perguntas rápidas sobre como vocês lidam com isso hoje?
+
+Se a pessoa aceitar, perguntar uma coisa por vez:
+
+1. "Qual tarefa administrativa ou de atendimento costuma tomar mais tempo de vocês durante a semana?"
+2. "Como vocês resolvem isso hoje?"
+3. "O que costuma dar mais trabalho, gerar dúvida ou precisar ser refeito?"
+4. "Isso acontece com frequência ou foi algo pontual?"
+5. "Vocês já tentaram alguma ferramenta ou processo para resolver?"
+
+**Critério para avançar:** só considerar uma oferta quando o responsável confirmar uma dificuldade recorrente, explicar como ela é tratada hoje e demonstrar interesse em avaliar uma solução delimitada. Se não houver dor clara, agradecer e encerrar; não insistir nem transformar uma reclamação isolada em oportunidade.
+
+**Limites:** não pedir dados de clientes, senhas, acesso a sistemas ou informações financeiras. Não prometer aumento de vendas. Não enviar esta mensagem nem contatar qualquer negócio sem autorização explícita do usuário.
