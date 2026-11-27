@@ -6,7 +6,7 @@
 ## Prioridade e próxima ação
 - **Execução ativa:** `FIRST_SALE_PILOT` — gate `TEST` (`IN_PROGRESS`).
 - **Frente prioritária:** `local_business_low_digital_presence`.
-- **Próxima ação:** pesquisar uma segunda rodada em serviços locais de manutenção e reparos, buscando evidência recente e baixa presença própria; não repetir diretórios sem ganho de informação. Não contatar.
+- **Próxima ação:** descoberta passiva encerrada após dois lotes. Aguardar autorização específica para validação humana dos candidatos HOLD; não contatar, não criar demo e não enviar proposta sem autorização.
 - **Critério de sucesso:** encontrar candidatos únicos com baixa presença digital comprovada e uma necessidade plausível que caiba na nossa capacidade; separar fatos, inferências e desconhecidos.
 - **Parada:** 20 candidatos triados ou duas rodadas sem evidência incremental. Não ampliar pesquisa por inércia.
 
@@ -23,10 +23,10 @@
 
 ## Pesquisa local — lote 001
 - Sete pistas exploratórias em HOLD: Ateliê Sônia Dantas, Ateliê da Tucca/Ateliê (R. Frutal), Chaveiro Pinheirinho, Assistência Técnica Refrigeração & Vendas, Ateliê Sra Costura, Ateliê de Costura Márcia e Chaveiro e Eletricista Cristiano.
-- Nenhuma está qualificada. A busca adicional encontrou indicação de Instagram como canal primário para Sônia Dantas; assistência técnica e Chaveiro Pinheirinho seguem apenas como pistas com fichas de diretório, sem dor/impacto comprovados. Nenhum contato foi feito.
+- Nenhuma está qualificada. Sônia Dantas tem indicação de Instagram como canal primário; assistência técnica e Chaveiro Pinheirinho seguem como pistas sem dor/impacto comprovados. Nenhum contato foi feito. Relatório: [lote 001](../research/2026-11-27-low-digital-presence-batch-001.md).
 - Relatório: [lote 001](../research/2026-11-27-low-digital-presence-batch-001.md).
 
-## Execução de pesquisa anterior
+### Lote 002 — manutenção e reparos\n- Três pistas adicionais em HOLD: Serralheria Miranda, José Erasmo Ferreira Silva/Serralheria e CLT Portões. Nenhuma qualificada; os sinais de presença digital baixa vêm de buscas nominais e diretórios, não de confirmação com responsáveis.\n- Contraprovas: RD Suprema e várias assistências locais já possuem sites/perfis e reputação estabelecida; não são alvos para oferta básica.\n- Descoberta passiva encerrada após dois lotes. Próximo avanço depende de autorização para validação humana; relatório: [lote 002](../research/2026-11-27-low-digital-presence-batch-002.md).\n\n## Execução de pesquisa anterior
 - RUN_ID preservado: `PV-2026-11-25-TOTALMENTE-GRATUITA`.
 - Fases 03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04: QUEUED / NOT_STARTED.
 - A prioridade atual é a pesquisa comercial local definida em `[work]` no state.toml, não a retomada automática das fases antigas.
