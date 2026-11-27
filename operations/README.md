@@ -11,6 +11,13 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 5. [Recursos disponíveis](AVAILABLE_RESOURCES.md) — inventário de ferramentas e capacidades.
 6. [Company Solutions](COMPANY_SOLUTIONS/README.md) — sistema de ranking empresarial documentado; usar apenas se necessário.
 
+## Relação entre os módulos
+
+- FIRST_SALE guarda a oferta e o experimento comercial específico. O lote de candidatos é uma fila de descoberta, não um lote de 20 empresas já qualificadas.
+- COMPANY_SOLUTIONS é o registro mestre para deduplicação, qualificação, ranking, histórico de contato, projetos e recorrência quando for ativado.
+- Só promover um candidato ao registro mestre depois de confirmar identidade, atividade, presença digital e oportunidade observável. Usar um Company ID único; não manter dossiês duplicados.
+- A estrutura Company Solutions permanece DOCUMENTADA / NÃO ATIVADA; esta regra não autoriza pesquisa adicional, contato ou publicação.
+
 ## Regras
 
 - state.toml continua sendo a fonte estruturada da execução de pesquisa anterior.
