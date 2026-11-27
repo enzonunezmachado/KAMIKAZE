@@ -1,10 +1,12 @@
-name: Deploy MkDocs site to GitHub Pages
+name: Deploy Kamikaze portfolio to GitHub Pages
 
 on:
   push:
     branches: [main]
     paths:
       - "portfolio_site/docs/**"
+      - "portfolio_site/theme/**"
+      - "scripts/validate_portfolio_build.py"
       - "mkdocs.yml"
       - "requirements-docs.txt"
       - ".github/workflows/deploy-pages.yml"
@@ -35,13 +37,16 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      - name: Validate custom portfolio shell and assets
+        run: python scripts/validate_portfolio_build.py
+
       - name: Ensure GitHub Pages skips Jekyll processing
         run: touch portfolio_site/site/.nojekyll
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload MkDocs output
+      - name: Upload portfolio artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: portfolio_site/site
