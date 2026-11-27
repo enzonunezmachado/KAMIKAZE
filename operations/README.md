@@ -1,19 +1,20 @@
 # Operations — Índice operacional do Kamikaze
 
-Esta pasta contém controles de execução e registros estruturados da operação. Não é a base de conhecimento metodológica nem o histórico de pesquisa.
+Esta pasta contém controles de execução e registros estruturados da operação.
 
-## Leitura obrigatória
+## Prioridade operacional atual
 
-1. [Estado estruturado canônico](state.toml) — RUN_ID, fase/gate, restrições e métricas.
-2. [Estado humano](STATE.md) — visão compacta e instruções de retomada.
-3. [Histórico preservado](STATE_HISTORY.md) — snapshots e registros antigos; não é estado atual.
-4. [Recursos disponíveis](AVAILABLE_RESOURCES.md) — inventário de ferramentas e capacidades.
-5. [Company Solutions](COMPANY_SOLUTIONS/README.md) — ler antes de operar esse módulo.
+1. [Operação Primeira Venda](FIRST_SALE/README.md) — piloto comercial ativo, com oferta, demonstração e lote inicial de candidatos. Nenhum contato realizado.
+2. [Estado estruturado canônico](state.toml) — execução de pesquisa, restrições e métricas.
+3. [Estado humano](STATE.md) — visão compacta e instruções de retomada.
+4. [Histórico preservado](STATE_HISTORY.md) — snapshots antigos.
+5. [Recursos disponíveis](AVAILABLE_RESOURCES.md) — inventário de ferramentas e capacidades.
+6. [Company Solutions](COMPANY_SOLUTIONS/README.md) — sistema de ranking empresarial documentado; usar apenas se necessário.
 
-## Regras de gravação
+## Regras
 
-- state.toml é a fonte estruturada; STATE.md é sua projeção humana e deve ser validada pela CI.
-- Não acumular diário em STATE.md; registros históricos ficam em STATE_HISTORY.md e logs.
-- Registros de empresas, contatos, projetos, contratos e finanças pertencem a COMPANY_SOLUTIONS.
-- Não inserir senhas, tokens, dados pessoais desnecessários ou segredos.
-- Não iniciar contatos, propostas, contratos, despesas ou deploys sem autorização.
+- state.toml continua sendo a fonte estruturada da execução de pesquisa anterior.
+- A operação de primeira venda é um piloto paralelo; sua situação comercial está em FIRST_SALE.
+- Registros históricos ficam em STATE_HISTORY.md e logs.
+- Não inserir senhas, tokens ou dados pessoais desnecessários.
+- Não iniciar contatos, propostas, contratos, despesas ou deploys sem autorização explícita.
