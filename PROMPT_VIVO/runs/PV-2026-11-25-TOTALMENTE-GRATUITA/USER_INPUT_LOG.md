@@ -1,3 +1,14 @@
+## 2026-11-27 — skills de escrita natural e inteligência de oportunidades
+
+- **Entrada:** usuário pediu pesquisar skills open source para produzir textos naturais sem estrutura genérica de IA; pesquisar gargalos atuais de negócios além de anúncios/tráfego pago; criar uma capacidade crítica de avaliar oportunidades e aprender com experiências reais de iniciantes; preservar o NEXUS sem tratá-lo automaticamente como negócio validado.
+- **Decisão metodológica:** criar duas skills próprias no Prompt Vivo: Human Writing e Business Opportunity Intelligence. A primeira prioriza voz real, especificidade e honestidade; não promete burlar detectores. A segunda usa perspectivas Scout, Operator, Customer, Business Analyst e Devil's Advocate, níveis E0–E6 de evidência, scorecard explicável e experimento mínimo.
+- **Pesquisa inicial:** registrados sinais de Sebrae (Radar Mercado Digital 2026 e adoção digital), pesquisa Bridge Research/Nu Empresas publicada pela Exame (tempo em burocracia), Serasa Experian (percepção de risco financeiro), Sebrae/FGV (sondagem MEI) e relatos anedóticos de Reddit/freelancer.
+- **Limites:** pesquisa secundária não equivale a demanda ou receita. Nenhuma oportunidade foi validada com compradores nesta rodada. Não foram feitos contatos, publicações, gastos ou anúncios.
+- **Impacto no estado:** nenhuma mudança na prioridade ou gate de FIRST_SALE_PILOT. A pesquisa de sinais não reabre lotes locais nem autoriza contato. NEXUS permanece projeto pessoal em desenvolvimento; não há decisão de abandonar ou comercializar.
+- **Arquivos:** PROMPT_VIVO/skills/README.md; skills/human-writing/SKILL.md; skills/business-opportunity-intelligence/SKILL.md; knowledge/OPPORTUNITY_SIGNALS_BRAZIL_2026.md; índices raiz/Prompt Vivo/Knowledge/Operations.
+- **Status:** DOCUMENTADO NO GITHUB; verificação final de leitura dos arquivos pendente nesta sessão.
+
+
 ## 2026-11-27 — auditoria geral de coerência do Kamikaze
 
 **Entrada:** o usuário pediu uma auditoria ponta a ponta para entender como o repositório funciona, encontrar conflitos entre documentos, instruções, módulos e workflows, e deixar o sistema completo, conciso e pronto para uso sem criar documentação redundante.
