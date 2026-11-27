@@ -87,3 +87,6 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Pesquisa CFA/MEMP aponta gestão financeira/acesso a capital como 38% das dificuldades e precificação/vendas como 19%; falta de orçamento é barreira importante. Isso é contexto de mercado, não prova de que o usuário possa vender consultoria financeira.
 - Decisão: NÃO lançar serviço genérico de digitação/limpeza de planilhas. Manter como hipótese alternativa apenas uma tarefa operacional específica, com escopo pequeno e conferência. Oferta atual continua não validada; sem contatos ou pagamentos.
 - Auditoria de consistência corrigiu contagem: 17/20 identificáveis significa 3 não verificados (não 4). PHASE_CONTROL agora identifica explicitamente as seções posteriores ao snapshot como histórico, sem autoridade operacional.
+
+- Última entrega operacional: `operations/FIRST_SALE/README.md` — protocolo de qualificação com critérios HOLD/QUALIFIED/PRIORITY/DISCARD; não ranquear candidatos por métricas superficiais.
+- Relatório atualizado com pesquisa CFA/MEMP e anúncios de Workana/99Freelas; decisão registrada de não lançar digitação/limpeza de planilhas como serviço genérico.
