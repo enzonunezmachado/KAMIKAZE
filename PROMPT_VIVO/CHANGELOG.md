@@ -1,3 +1,24 @@
+## 2026-11-27 — padrão reutilizável de desenvolvimento web
+
+### Motivo
+O usuário pediu uma base consistente para criar e modificar sites simples com qualidade visual, tema escuro, CSS/JavaScript organizados e instruções consultáveis por agentes de IA.
+
+### Alterações
+- Criada a área `web/` com índice, guia operacional para IA e template HTML inicial.
+- Criado `kamikaze-base.css` com tokens visuais dark, layout responsivo, componentes reutilizáveis, foco visível e suporte a movimento reduzido.
+- Criado `kamikaze.js` sem dependências, com menu mobile acessível e ano automático; aprimoramento progressivo.
+- Integrados os assets ao `mkdocs.yml`; o CSS específico do portfólio permanece como camada de personalização.
+- Atualizado `AGENTS.md` para exigir leitura do guia web antes de criar ou modificar sites.
+- Atualizados índices e documentação do portfólio e README principal.
+
+### Padrão de execução
+HTML semântico, CSS e JavaScript separados, vanilla JS por padrão, mobile-first, acessibilidade, sem dependências pagas ou frameworks sem justificativa. O tema dark azul-marinho/grafite/cinza-claro é o padrão visual do Kamikaze.
+
+### Limites e verificação
+Os arquivos foram persistidos no GitHub. O status de checks consultado não retornou verificações; build MkDocs e revisão visual em navegador permanecem NÃO VALIDADOS. Nenhum deploy ou publicação foi realizado nesta tarefa.
+
+---
+
 ## 2026-11-26 — Princípios operacionais para reduzir ciclos e priorizar execução
 
 ### Motivo
