@@ -4,9 +4,10 @@
 Esta pasta guarda o método reutilizável do Kamikaze para criar e manter sites pequenos, bonitos, responsivos e funcionais com HTML, CSS e JavaScript nativos.
 
 ## Ordem de leitura para agentes
-1. [AI_WEB_DEVELOPMENT_GUIDE.md](AI_WEB_DEVELOPMENT_GUIDE.md) — instruções de execução, decisões técnicas e checklist.
-2. [Starter template](templates/starter.html) — estrutura de referência para páginas novas.
-3. CSS e JavaScript canônicos:
+1. [AI_WEB_DEVELOPMENT_GUIDE.md](AI_WEB_DEVELOPMENT_GUIDE.md) — regras gerais de execução, decisões técnicas e qualidade.
+2. [AI_PROMPT_SCRIPTS.md](AI_PROMPT_SCRIPTS.md) — playbooks curtos para delimitar, definir direção visual, construir, auditar e corrigir.
+3. [Starter template](templates/starter.html) — estrutura de referência para páginas novas.
+4. CSS e JavaScript canônicos:
    - CSS base: [kamikaze-base.css](../portfolio_site/docs/assets/kamikaze-base.css)
    - JavaScript: [kamikaze.js](../portfolio_site/docs/assets/kamikaze.js)
    - CSS específico do portfólio: [portfolio.css](../portfolio_site/docs/assets/portfolio.css)
@@ -27,7 +28,7 @@ Esta pasta guarda o método reutilizável do Kamikaze para criar e manter sites 
 - Bibliotecas externas só quando uma necessidade concreta justificar o custo, risco e manutenção.
 
 ## Regras de uso
-- Antes de criar/modificar site, ler o guia e inspecionar o projeto existente.
+- Antes de criar/modificar site, ler o guia e usar somente o playbook necessário à etapa; inspecionar o projeto existente.
 - Reutilizar os assets canônicos quando compatíveis; não copiar código cegamente nem sobrescrever identidade específica.
 - Separar conteúdo, estrutura, estilo e comportamento.
 - Não adicionar JavaScript decorativo: cada interação precisa ter função clara e alternativa acessível.
@@ -38,7 +39,8 @@ Esta pasta guarda o método reutilizável do Kamikaze para criar e manter sites 
 ## Manutenção
 - Atualizar este índice se os arquivos mudarem.
 - Atualizar o guia quando uma regra recorrente for aprendida ou corrigida.
+- Atualizar os playbooks somente quando um padrão de execução reutilizável melhorar; não registrar correções isoladas.
 - Os assets canônicos ficam no diretório de assets do portfólio para também poderem ser servidos pelo MkDocs; o starter mostra como referenciá-los dentro deste repositório. Ao iniciar outro site, copie os dois assets para a pasta `assets/` daquele projeto e ajuste os caminhos.
 
 ## Fontes de referência
-As decisões práticas e links de referência ficam em [AI_WEB_DEVELOPMENT_GUIDE.md](AI_WEB_DEVELOPMENT_GUIDE.md).
+Os fundamentos de design, identidade, responsividade, implementação e acessibilidade foram sintetizados em [AI_PROMPT_SCRIPTS.md](AI_PROMPT_SCRIPTS.md) e detalhados no [guia](AI_WEB_DEVELOPMENT_GUIDE.md).
