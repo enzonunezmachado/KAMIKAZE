@@ -20,7 +20,7 @@
     <div class="km-card-index">01 / PRESENÇA</div>
     <h3>Experiências digitais</h3>
     <p>Páginas e interfaces responsivas que apresentam informações com clareza e ajudam pessoas a encontrar o que procuram.</p>
-    <a href="solucoes/">Explorar soluções →</a>
+    <a href="solucoes.md">Explorar soluções →</a>
   </div>
   <div class="km-card">
     <div class="km-card-index">02 / OPERAÇÃO</div>
@@ -32,13 +32,13 @@
     <div class="km-card-index">03 / AUTOMAÇÃO</div>
     <h3>Fluxos inteligentes</h3>
     <p>Automação leve quando existe um ganho concreto, com integrações avaliadas e permissões respeitadas.</p>
-    <a href="processo/">Conhecer o processo →</a>
+    <a href="processo.md">Conhecer o processo →</a>
   </div>
   <div class="km-card">
     <div class="km-card-index">04 / PROTÓTIPOS</div>
     <h3>Demonstrações funcionais</h3>
     <p>Protótipos para visualizar uma ideia, testar uma experiência e alinhar expectativas antes de ampliar o escopo.</p>
-    <a href="projetos/">Ver projetos →</a>
+    <a href="projetos.md">Ver projetos →</a>
   </div>
 </div>
 
