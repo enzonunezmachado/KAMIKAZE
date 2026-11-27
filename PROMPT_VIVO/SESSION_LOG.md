@@ -41,7 +41,7 @@
 - **Padrão:** dark azul-marinho/grafite, texto cinza-claro, responsivo, HTML semântico, CSS modular e JavaScript vanilla progressivo.
 - **Referências:** MDN (semântica e acessibilidade, CSS/JS acessíveis, responsive design), web.dev Learn Responsive Design e Chrome for Developers (design tokens).
 - **Limites:** assets e documentação persistidos; status de checks não retornou verificações. Build MkDocs e revisão visual não foram confirmados. Nenhum deploy/publicação realizado.
-- **Prioridade comercial:** preservada; esta melhoria estrutural não altera meta de R$140 até 08/12 nem constitui validação de receita.
+- **Prioridade comercial:** preservada; esta melhoria estrutural não altera a meta então vigente de R$140 até 08/12 nem constitui validação de receita.
 
 ### KAM-2026-11-26-008 — Gate de pesquisa para experimento
 
