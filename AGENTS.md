@@ -33,7 +33,6 @@ Antes de qualquer trabalho, leia este arquivo e o README.md da raiz.
 
 Não carregue todos os arquivos por padrão. Leia primeiro índices e resumos; abra documentos detalhados sob demanda conforme a tarefa.
 
-
 ## Proteção contra regressão do portfólio
 
 - O layout público do portfólio é controlado por `portfolio_site/theme/main.html`; CSS isolado não substitui estrutura e navegação.
