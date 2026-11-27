@@ -7,13 +7,13 @@
 1. Leia `AGENTS.md` e `README.md` da raiz.
 2. Leia `PROMPT_VIVO/AGENTS.md` e `PROMPT_VIVO/README.md`.
 3. Leia `PROMPT_VIVO/CURRENT_WORK.md` e `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`.
-4. Leia este arquivo e `CONTINUITY_SYSTEM.md`.
+4. Leia `PROMPT_VIVO/OPERATING_PRINCIPLES.md`, este arquivo e `CONTINUITY_SYSTEM.md`.
 5. Leia `operations/README.md`, `operations/state.toml` e `operations/STATE.md`.
 6. Leia `PROMPT_VIVO/runs/README.md`; identifique o RUN_ID em state.toml/STATE.
 7. Leia `runs/<RUN_ID>/README.md` antes de abrir arquivos da execução.
 8. Leia `RESUME_PACKET.md`, depois `RUN_STATE.md` e `PHASE_CONTROL.md`.
 9. Abra plano, arquitetura, fontes, achados, handoff e fase somente conforme a tarefa.
-10. Ao decidir entre pesquisar mais ou testar, leia `QUALITY_GATE.md` e `RESEARCH_METHOD.md`.
+10. Ao decidir entre pesquisar mais ou testar, aplique os critérios de `OPERATING_PRINCIPLES.md`, `QUALITY_GATE.md` e `RESEARCH_METHOD.md`.
 
 **Regra:** ao entrar em qualquer outra pasta, leia primeiro seu README. Se estiver ausente, registrar a lacuna e criar/atualizar o índice antes de gravar vários arquivos naquela pasta.
 
@@ -21,7 +21,7 @@
 
 - `operations/state.toml`: snapshot estruturado para validação automática (RUN_ID, fase/gate, estados e limites).
 - `operations/STATE.md`: visão humana do estado do projeto; resumo derivado do TOML.
-- `PROMPT_VIVO/CURRENT_WORK.md`: última entrega substantiva e próxima ação de continuidade; não determina a fase ativa.
+- `PROMPT_VIVO/CURRENT_WORK.md`: última entrega substantiva e próxima ação de retomada; não determina, por si só, a fase ativa.
 - `RUN_STATE.md`: fonte canônica do estado detalhado da execução.
 - `PHASE_CONTROL.md`: decisão de gate e próxima ação permitida.
 - `PHASE_ARCHITECTURE.md`: estrutura e dependências das fases.
@@ -49,12 +49,15 @@ Identifique missão, RUN_ID, pergunta ativa, fase/gate, dependências, evidênci
 
 Registrar correções, ideias, prioridades, rejeições, decisões e autorizações em USER_INPUT_LOG. Atualizar documentos afetados. A mensagem atual do usuário orienta o próximo passo, respeitando restrições anteriores. Não pedir que repita informação já documentada.
 
-## 6. Executar
+## 6. Executar sem criar ciclos
 
-- Auditar completude e escolher CONTINUE_PHASE, CREATE_SUBPHASE, REOPEN_PHASE, ADVANCE, SYNTHESIZE ou BLOCK.
-- Continuar do próximo passo útil sem reiniciar pesquisas válidas.
-- Abrir apenas documentos necessários; evitar carregar o repositório inteiro.
-- Não realizar ações externas sem autorização explícita.
+- Aplicar `OPERATING_PRINCIPLES.md`: definir pergunta de decisão, evidência suficiente, limite de pesquisa e ação que ocorrerá depois.
+- Escolher explicitamente CONTINUE, TEST, HOLD, KILL ou ESCALATE para cada iniciativa relevante.
+- Quando a informação já for suficiente para uma ação reversível e barata, parar a pesquisa e executar o teste.
+- Não criar novos documentos, módulos, agentes ou workflows se uma ação menor resolver o problema.
+- Toda frente ativa deve ter próximo passo, prazo/gatilho, critério de sucesso e condição de parada.
+- Priorizar evidência comercial, entrega e recebimento quando houver prazo financeiro curto; não tratar atividade ou interesse como receita.
+- Continuar do próximo passo útil sem reiniciar pesquisas válidas. Expor bloqueios reais, não inventar trabalho.
 
 ## 7. Checkpoint obrigatório
 
