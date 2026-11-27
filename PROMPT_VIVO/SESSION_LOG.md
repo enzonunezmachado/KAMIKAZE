@@ -1,3 +1,13 @@
+### KAM-2026-11-27 — Auditoria de consistência e recuperação da CI
+- **Escopo:** revisão da árvore completa do repositório, governança, estado, operação comercial, pesquisa, skills, site, scripts e workflows.
+- **Achados principais:** divergência de última entrega entre TOML e CURRENT_WORK; BOOTSTRAP com caminho relativo incorreto; link para demo inexistente; README do Prompt Vivo com tabela malformada; skills/brief com meta antiga; caminho `experiments/` inexistente em uma skill; CI de documentação falhando por sincronização e lint; repositório público contendo contexto pessoal/financeiro em arquivos operacionais.
+- **Correções persistidas:** reconciliados state.toml/CURRENT_WORK; corrigidos caminhos de retomada, link quebrado, índice Markdown, meta vigente e referência de armazenamento; ampliada validação para links da Primeira Venda; corrigido lint nos arquivos de entrada; removidos dados financeiros pessoais de cópias atuais do módulo Company Solutions e política de orçamento.
+- **Validação:** workflow `45939953007` PASS no commit `70ec82b`: validador documental, build MkDocs strict e markdownlint concluídos com sucesso. Deploy Pages `45939795049` PASS no commit `2932ad2`.
+- **Limites:** não houve inspeção visual em navegador/captura. O histórico Git ainda contém versões anteriores com dados pessoais; limpeza de histórico ou separação em repositório privado exige decisão do usuário.
+- **Estado comercial:** piloto Primeira Venda continua sem contatos, propostas ou receita; orçamento operacional R$0. Nenhuma ação externa foi realizada.
+
+---
+
 ### KAM-2026-11-27 — Workflow de deploy MkDocs para GitHub Pages
 - **Autorização:** usuário aprovou corrigir a automação e publicar o portfólio.
 - **Diagnóstico:** fonte do site MkDocs é `portfolio_site/docs`, saída `portfolio_site/site`; workflow anterior `docs-quality.yml` apenas validava e construía, não publicava. Histórico anterior indicava Pages por branch/Jekyll.
