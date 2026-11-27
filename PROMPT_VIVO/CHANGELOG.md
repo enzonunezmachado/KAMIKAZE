@@ -1,3 +1,24 @@
+## 2026-11-27 — deploy do portfólio MkDocs pelo GitHub Actions
+
+### Motivo
+O GitHub Pages estava com histórico de publicação por branch/Jekyll, enquanto o projeto gera o site em `portfolio_site/site/` com MkDocs.
+
+### Alterações
+- Criado `.github/workflows/deploy-pages.yml`.
+- Build executa em push para `main` quando fontes do portfólio/configuração/dependências mudam, ou manualmente.
+- Instala dependências e executa `mkdocs build --strict`.
+- Faz upload apenas de `portfolio_site/site/` e publica com `actions/deploy-pages`.
+- Permissões mínimas e job de deploy separado do build.
+- Atualizados índices de automação e README raiz.
+
+### Pré-requisito e estado
+- O usuário deve confirmar em Settings → Pages → Build and deployment → Source a opção **GitHub Actions** caso ainda esteja configurado para publicar de branch.
+- O conector disponível não permite alterar a configuração administrativa do Pages.
+- O workflow foi criado no commit `05f6cb7c8662d7144350c142089b53709fd40779`; execução, build e deploy ainda não foram confirmados pelo status consultado.
+- Não declarar o site atualizado até verificar execução bem-sucedida e abrir a URL pública.
+
+---
+
 ## 2026-11-27 — padrão reutilizável de desenvolvimento web
 
 ### Motivo
