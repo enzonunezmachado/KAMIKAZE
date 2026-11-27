@@ -18,7 +18,9 @@ Use estes endereços quando precisar abrir o material em uma apresentação:
 |---|---|
 | **Portfólio / site público** | [Abrir no GitHub Pages](https://enzonunezmachado.github.io/KAMIKAZE/) |
 | Código-fonte da página inicial | [index.md](portfolio_site/docs/index.md) |
-| Estilos visuais do portfólio | [portfolio.css](portfolio_site/docs/assets/portfolio.css) |
+| Base visual reutilizável (CSS) | [kamikaze-base.css](portfolio_site/docs/assets/kamikaze-base.css) |
+| Interações reutilizáveis (JavaScript) | [kamikaze.js](portfolio_site/docs/assets/kamikaze.js) |
+| Estilos específicos do portfólio | [portfolio.css](portfolio_site/docs/assets/portfolio.css) |
 | Repositório completo | [Abrir no GitHub](https://github.com/enzonunezmachado/KAMIKAZE) |
 
 ### Demonstrações e páginas futuras
