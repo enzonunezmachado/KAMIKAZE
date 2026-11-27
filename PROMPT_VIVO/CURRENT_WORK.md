@@ -3,9 +3,7 @@
 **Atualizado:** 27/11/2026  
 **Função:** identificar a última entrega substantiva e a próxima ação de retomada.
 
-
 ## Última entrega substantiva
-
 
 ### Correção da publicação do portfólio
 
@@ -23,13 +21,13 @@
 - Persistência: commits individuais confirmados no GitHub em 27/11/2026.
 - Validação documental: workflow `45939206019` falhou no commit `9304bfc`. Log confirmou divergência entre `operations/state.toml` e `CURRENT_WORK.md` (ponteiro de última entrega desatualizado). A auditoria iniciou a reconciliação; build visual do portfólio não foi reavaliada nesta rodada.
 
-
 ## Prioridade operacional preservada
+
 A frente comercial de primeira venda continua prioritária. A criação desta base web foi uma solicitação explícita do usuário, mas não substitui nem valida a operação comercial.
+
 - Meta financeira: receber pelo menos R$140 até 08/12/2026.
 - Orçamento operacional autorizado: R$0.
 - Estado comercial: nenhum contato, conversa, proposta, contratação ou receita recebida.
-
 
 ## Próxima ação
 
@@ -38,7 +36,6 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 3. Preparar uma abordagem individual e específica para aprovação do usuário.
 4. Após autorização, iniciar um pequeno teste de aquisição; registrar respostas e sinais comerciais.
 5. Validar o build MkDocs e revisar visualmente o portfólio usando a nova base CSS/JS quando isso não desviar a prioridade comercial e houver ambiente de navegador disponível.
-
 
 ## Oferta em teste
 
@@ -49,7 +46,6 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 - A oferta e o preço são hipóteses; não há demanda validada.
 - Não construir site, sistema de agendamento, CRM, automação ou pacote recorrente antes de uma venda.
 
-
 ## Pesquisa e arquitetura anteriores
 
 - Execução preservada: PV-2026-11-25-TOTALMENTE-GRATUITA.
@@ -57,10 +53,9 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 - A pesquisa exploratória fica subordinada à operação de primeira venda. Não avançar novas fases, criar módulos ou alterar gates sem necessidade concreta.
 - Company Solutions permanece disponível como infraestrutura de análise, mas não é necessário ativar seu processo completo para este teste.
 
-
 ## Regra de atualização
-Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os documentos operacionais correspondentes. Não inferir trabalho concluído por timestamp. Não existe execução em segundo plano.
 
+Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os documentos operacionais correspondentes. Não inferir trabalho concluído por timestamp. Não existe execução em segundo plano.
 
 ## Auditoria de consistência do repositório — em andamento
 
