@@ -9,7 +9,7 @@
 - Adicionado `.github/workflows/deploy-pages.yml`: build MkDocs com `--strict`, upload exclusivo de `portfolio_site/site/` e deploy com GitHub Pages Actions.
 - O workflow foi persistido no commit `05f6cb7c8662d7144350c142089b53709fd40779`.
 - Pré-requisito administrativo: Settings → Pages → Source = GitHub Actions. A ferramenta GitHub disponível não oferece alteração dessa configuração de Pages; o usuário precisa selecionar essa origem se ainda estiver como branch.
-- Execução do workflow e publicação final ainda NÃO CONFIRMADAS; o status de checks consultado retornou lista vazia. Não afirmar que o site já foi atualizado.
+- Deploy confirmado: workflow `45938486917` concluiu com sucesso no commit `a402a89`; o conteúdo do portfólio foi publicado pelo GitHub Pages Actions. Alterações posteriores de documentação não alteraram as fontes do site.
 
 - Linha: padrão reutilizável de desenvolvimento web do NEGÓCIO DIGITAL KAMIKAZE.
 - Entrega: módulo `web/` com guia de desenvolvimento para IA, template HTML inicial, CSS dark reutilizável, JavaScript progressivo e integração dos assets ao build MkDocs.
@@ -18,7 +18,7 @@
 - Arquivos principais: `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `portfolio_site/docs/assets/kamikaze-base.css`, `portfolio_site/docs/assets/kamikaze.js`, `mkdocs.yml`.
 - Regra persistente: ao criar/revisar qualquer site, ler o índice e o guia em `web/`; tema escuro Kamikaze é o padrão, com HTML semântico, CSS separado, JS vanilla, responsividade e acessibilidade.
 - Persistência: commits individuais confirmados no GitHub em 27/11/2026.
-- Validação: não foi possível confirmar resultado de build/CI para esta alteração; status de checks consultado não retornou verificações. Não declarar build, aparência ou publicação validados.
+- Validação documental: workflow `45939206019` falhou no commit `9304bfc`. Log confirmou divergência entre `operations/state.toml` e `CURRENT_WORK.md` (ponteiro de última entrega desatualizado). A auditoria iniciou a reconciliação; build visual do portfólio não foi reavaliada nesta rodada.
 
 ## Prioridade operacional preservada
 A frente comercial de primeira venda continua prioritária. A criação desta base web foi uma solicitação explícita do usuário, mas não substitui nem valida a operação comercial.
@@ -49,3 +49,9 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 
 ## Regra de atualização
 Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os documentos operacionais correspondentes. Não inferir trabalho concluído por timestamp. Não existe execução em segundo plano.
+
+## Auditoria de consistência do repositório — em andamento
+- Árvore GitHub consultada no commit inicial da auditoria: 135 arquivos versionados, sem truncamento.
+- Falhas confirmadas: caminho incorreto para `CONTINUITY_SYSTEM.md` e caminhos relativos ambíguos no BOOTSTRAP; link para demonstração inexistente em `operations/FIRST_SALE/README.md`; tabela Markdown malformada em `PROMPT_VIVO/README.md`; meta antiga R$150/06-12 ainda aparecia em brief e skills; CI documental falhava por ponteiro de última entrega divergente.
+- Correções iniciais persistidas: BOOTSTRAP, README do Prompt Vivo, oferta/índice da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e validador para incluir links da Primeira Venda.
+- Ainda falta reexecutar a CI após as correções e concluir revisão de integrações, índices, documentação de pesquisa, módulo comercial, portfólio e limites de validação.
