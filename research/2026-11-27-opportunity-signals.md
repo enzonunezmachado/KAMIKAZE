@@ -7,7 +7,7 @@
 
 ### Brasil: adoção de IA não significa maturidade operacional
 
-O estudo de Visão de Futuro 2026 do Sebrae estima 19,5 milhões de pequenos negócios. Entre os achados publicados: 46% das MPE usam alguma IA, mas o uso frequente fica em 15%–18%; mais de 80% atendem pelo WhatsApp; CRM aparece em apenas 6% dos micronegócios de serviços. O estudo aponta dores de decisão e gestão — precificação, fluxo de caixa e vendas — enquanto a IA ainda é usada principalmente em marketing.
+O estudo de Visão de Futuro 2026 do Sebrae estima 19,5 milhões de pequenos negócios. Entre os achados publicados: 42%–46% das MPE usam alguma IA, mas o uso frequente fica em 15%–18%; mais de 80% atendem pelo WhatsApp; CRM aparece em apenas 6% dos micronegócios de serviços. O estudo aponta dores de decisão e gestão — precificação, fluxo de caixa e vendas — enquanto a IA ainda é usada principalmente em marketing.
 
 A pesquisa Sebrae/Meta com 7.182 empreendedores, divulgada em agosto de 2026, também encontrou uso recente de IA em 52% dos pequenos negócios. Isso reforça adoção, mas não prova disposição a pagar por uma solução específica.
 
