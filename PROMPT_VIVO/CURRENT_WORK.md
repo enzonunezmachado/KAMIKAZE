@@ -31,11 +31,11 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 
 ## Próxima ação
 
-1. Retomar a revisão individual dos candidatos do lote 001 e confirmar presença digital, menu atual de serviços/preços e possível lacuna real.
-2. Selecionar somente negócios com oportunidade observável; não presumir que não encontrar um menu significa que ele não existe.
-3. Preparar uma abordagem individual e específica para aprovação do usuário.
-4. Após autorização, iniciar um pequeno teste de aquisição; registrar respostas e sinais comerciais.
-5. Revisar visualmente o portfólio em desktop e celular quando houver navegador/captura disponível; build e deploy já foram confirmados.
+1. Parar a pesquisa ampla de diretórios: dois segmentos foram examinados e nenhum candidato foi qualificado.
+2. Próxima ação de maior valor: preparar uma pergunta de descoberta curta e, com autorização explícita, conversar com um responsável de negócio para identificar uma tarefa real e frequente.
+3. Só depois da descoberta, ajustar a oferta e preparar uma amostra específica; não produzir PDF/site genérico.
+4. Registrar respostas, propostas e pagamentos separadamente; nenhum contato ou receita ocorreu.
+5. Revisar visualmente o portfólio em desktop e celular quando houver navegador/captura disponível.
 
 ## Oferta em teste
 
@@ -76,7 +76,7 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - `operations/state.toml`, RUN_STATE, PHASE_CONTROL e RESUME_PACKET reconciliados: pesquisa em HOLD; FIRST_SALE_PILOT é a prioridade ativa.
 - Meta atual: R$150 recebidos até 08/12/2026; preço experimental ajustado para R$150. Nenhum contato ou venda foi realizado.
 
-- Triagem ampliada: 19/20 candidatos têm presença pública identificável; um segue sem confirmação suficiente. Nenhum foi qualificado ou contatado. Estilo R já apresenta serviços, preços, agendamento e assinatura em site próprio.
+- Triagem ampliada: 19/20 candidatos do lote de beleza têm presença pública identificável; nenhum foi qualificado. Rodada cruzada em pet shops e oficinas examinou Nino, Q Pet, Makedasi, A Casa do Pet, Frenecar e Watts: nenhum qualificado; alguns já têm soluções digitais robustas, outros carecem de evidência de necessidade.
 - Comparação final: branch histórica preservada; `main` contém alterações em 15 arquivos em relação ao ponto de segurança. A branch de segurança permanece disponível; a contagem de commits não é usada como métrica de progresso.
 - Verificação: o status de checks do último commit não retornou resultados e o clone local falhou por indisponibilidade de rede. Portanto, CI/validador desta rodada NÃO CONFIRMADOS; não declarar PASS.
 
