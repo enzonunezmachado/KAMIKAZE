@@ -35,7 +35,7 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 2. Selecionar somente negócios com oportunidade observável; não presumir que não encontrar um menu significa que ele não existe.
 3. Preparar uma abordagem individual e específica para aprovação do usuário.
 4. Após autorização, iniciar um pequeno teste de aquisição; registrar respostas e sinais comerciais.
-5. Validar o build MkDocs e revisar visualmente o portfólio usando a nova base CSS/JS quando isso não desviar a prioridade comercial e houver ambiente de navegador disponível.
+5. Revisar visualmente o portfólio em desktop e celular quando houver navegador/captura disponível; build e deploy já foram confirmados.
 
 ## Oferta em teste
 
@@ -65,4 +65,4 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - CI documental: PASS em `45939953007`; após a correção de layout, novo workflow `45940140564` também passou em validação, MkDocs strict e markdownlint.
 - Portfólio: `.km-main` agora é wrapper full-width sem padding; `.rst-content` é o único container central com max-width/padding, alinhado ao header/footer. O validador `scripts/validate_portfolio_build.py` verifica assets, shell, largura total, eixo dos containers, breakpoint mobile e reduced motion.
 - Deploy da correção: workflow `45940140491` PASS (build, validador de shell/assets, upload e deploy). A inspeção visual real ainda não foi concluída; não declarar alinhamento visual confirmado sem navegador/captura.
-- Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados de cópias atuais em dois arquivos, mas continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
+- Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados das cópias atuais do módulo Company Solutions e da política de orçamento, mas versões anteriores continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
