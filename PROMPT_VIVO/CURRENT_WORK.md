@@ -13,6 +13,8 @@
 
 - Linha: padrão reutilizável de desenvolvimento web do NEGÓCIO DIGITAL KAMIKAZE.
 - Entrega: módulo `web/` com guia de desenvolvimento para IA, template HTML inicial, CSS dark reutilizável, JavaScript progressivo e integração dos assets ao build MkDocs.
+- Complemento solicitado em 27/11: `web/AI_PROMPT_SCRIPTS.md` reúne regras de design sintetizadas e seis playbooks curtos para delimitar, criar direção visual, construir, auditar, corrigir e fechar tarefas. O índice `web/README.md` orienta leitura seletiva; não é necessário carregar/colar todos os roteiros.
+- Commits confirmados: `028c19f` (playbooks), `835ef29` (índice) e `4495215` (changelog).
 - Arquivos principais: `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `portfolio_site/docs/assets/kamikaze-base.css`, `portfolio_site/docs/assets/kamikaze.js`, `mkdocs.yml`.
 - Regra persistente: ao criar/revisar qualquer site, ler o índice e o guia em `web/`; tema escuro Kamikaze é o padrão, com HTML semântico, CSS separado, JS vanilla, responsividade e acessibilidade.
 - Persistência: commits individuais confirmados no GitHub em 27/11/2026.
