@@ -34,7 +34,7 @@ A operação pode atender empresas de diferentes setores e regiões. Não existe
 - Protótipo demonstrativo não é implantação nem prova de resultado.
 - Cada projeto, contrato recorrente, receita e despesa tem registro próprio e vínculo por ID.
 - Nenhum contato, publicação, cadastro, integração, deploy, compra ou gasto externo ocorre sem autorização aplicável.
-- Preservar a restrição financeira atual: caixa informado de R$50 e dívida de R$250; orçamento operacional autorizado continua R$0 até nova autorização explícita.
+- Orçamento operacional autorizado: R$0. Não armazenar saldo, dívida ou compromissos financeiros pessoais neste módulo.
 
 ## Limite desta estrutura
 Este é um sistema documental-operacional. Não é CRM automatizado, não consulta empresas em segundo plano, não envia mensagens e não atualiza sozinho. Os registros devem ser atualizados durante a execução e verificados após cada rodada.
