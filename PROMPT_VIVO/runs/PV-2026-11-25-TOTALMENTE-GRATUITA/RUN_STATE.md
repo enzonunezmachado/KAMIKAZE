@@ -6,7 +6,7 @@
 **Histórico preservado:** [RUN_HISTORY.md](RUN_HISTORY.md)
 
 ## Missão
-Pesquisar e comparar oportunidades digitais e modelos de monetização com IA, recursos gratuitos e sem audiência prévia. Orçamento autorizado R$0; meta contextual de R$150 recebidos até 06/12/2026 é objetivo, não garantia.
+Pesquisar e comparar oportunidades digitais e modelos de monetização com IA, recursos gratuitos e sem audiência prévia. Orçamento autorizado R$0. A meta original desta pesquisa era R$150 até 06/12/2026; a meta operacional vigente foi atualizada para R$140 até 08/12/2026 e está registrada em `operations/FIRST_SALE/README.md`.
 
 ## Estado canônico da execução
 - **Foco atual:** PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION.
@@ -33,8 +33,8 @@ Seguir a decisão mais recente em [PHASE_CONTROL.md](PHASE_CONTROL.md): aprofund
 ## Estado comercial
 - Nenhuma oportunidade aprovada.
 - Receita recebida: R$0; despesas: R$0.
-- Nenhum experimento comercial ativo.
-- Nenhum cliente contatado; nenhuma publicação, candidatura, venda ou gasto.
+- Esta execução de pesquisa não tem experimento próprio aprovado. O piloto comercial paralelo está INICIADO / TEST em `operations/FIRST_SALE/`.
+- Nesse piloto, nenhum cliente foi contatado; nenhuma proposta foi enviada; nenhuma venda ou gasto foi registrado.
 
 ## Navegação
 - [Resumo de retomada](RESUME_PACKET.md) — derivado e curto.
