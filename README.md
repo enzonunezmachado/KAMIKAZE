@@ -30,6 +30,11 @@ Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber
 
 > O endereço do GitHub Pages é o endereço público do projeto. A publicação do portfólio MkDocs depende do workflow `.github/workflows/deploy-pages.yml` e da origem do Pages configurada como GitHub Actions; consulte o histórico do workflow antes de considerar a versão atual publicada.
 
+## Skills e inteligência de oportunidades
+
+- [Skills do Prompt Vivo](PROMPT_VIVO/skills/README.md): escrita natural e análise crítica de oportunidades.
+- [Sinais de mercado brasileiro — novembro de 2026](PROMPT_VIVO/knowledge/OPPORTUNITY_SIGNALS_BRAZIL_2026.md): gargalos operacionais e hipóteses para investigação, sem tratar pesquisa como validação comercial.
+
 ## Navegação principal
 
 | Área | Finalidade | Entrada |
