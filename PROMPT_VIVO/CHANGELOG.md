@@ -243,7 +243,7 @@ Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A
 - Registrada pesquisa de sinais de mercado em `research/2026-11-27-opportunity-signals.md`, com fontes brasileiras e globais, hipóteses comparadas e limites da evidência.
 - A trilha exploratória de afiliados foi estacionada; `FIRST_SALE_PILOT` passou a ser a prioridade ativa em `operations/state.toml`, RUN_STATE, PHASE_CONTROL e RESUME_PACKET.
 - Meta de caixa atualizada para R$150 até 08/12/2026; preço experimental da oferta alinhado em R$150, ainda não validado.
-- Triagem pública preliminar adicionada ao lote de candidatos: 16 de 20 identidades com presença pública identificável; nenhum candidato foi considerado qualificado nem contatado.
+- Triagem pública preliminar adicionada ao lote de candidatos: 17 de 20 identidades com presença pública identificável; nenhum candidato foi considerado qualificado nem contatado.
 - Não foram adicionados frameworks, agentes, serviços pagos ou novos módulos de software.
 
 ---
