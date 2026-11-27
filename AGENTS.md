@@ -8,6 +8,7 @@ Antes de qualquer trabalho, leia este arquivo e o README.md da raiz.
 2. Leia `PROMPT_VIVO/CURRENT_WORK.md` antes de escolher a frente mais recente.
 3. Para entrar em uma pasta, leia primeiro o README.md daquela pasta, quando existir. Se não existir, registre a lacuna e crie um índice antes de adicionar vários arquivos.
 4. Siga os links e a ordem de leitura definidos pelos índices; não varra o repositório inteiro sem necessidade.
+5. Antes de decidir pesquisar mais, construir ou executar, consulte `PROMPT_VIVO/OPERATING_PRINCIPLES.md`. Diga explicitamente quando a informação já basta e o próximo passo deve ser prático.
 
 ## Governança
 
