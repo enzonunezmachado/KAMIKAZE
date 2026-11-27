@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <section class="km-hero">
   <div class="km-hero-copy">
     <span class="km-eyebrow">KAMIKAZE <i></i> DIGITAL STUDIO</span>
