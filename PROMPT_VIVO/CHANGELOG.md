@@ -276,3 +276,11 @@ Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A
 
 ---
 
+## 2026-11-27 — atualização da triagem local
+
+- Studio Varanda Hair e Glórias Estúdio de Unhas foram identificados em fontes públicas; o lote passa a 19/20 com presença pública identificável.
+- Zero Onze permanece sem confirmação suficiente após buscas específicas; encerrar esta rodada sem inferir oportunidade.
+- Nenhum candidato foi qualificado, ranqueado ou contatado.
+
+---
+
