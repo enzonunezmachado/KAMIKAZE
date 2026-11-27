@@ -40,8 +40,9 @@ Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber
 | Último trabalho | Última entrega substantiva e próxima retomada | [CURRENT_WORK.md](PROMPT_VIVO/CURRENT_WORK.md) |
 | Primeira venda | Oferta, candidatos e estado do piloto comercial | [Operação](operations/FIRST_SALE/README.md) |
 | Company Solutions | Motor de ranking empresarial documentado, ainda não ativado | [README](operations/COMPANY_SOLUTIONS/README.md) |
-| Pesquisa histórica | Lotes de pesquisa, ferramentas e evidências exploratórias | [Lote 001](research/RESEARCH_BATCH_001.md) |
+| Pesquisa histórica | Lotes, ferramentas e evidências exploratórias | [Índice](research/README.md) |
 | Backlog | Hipóteses ainda não aprovadas | [IDEA_BACKLOG](opportunities/IDEA_BACKLOG.md) |
+| Templates | Modelos vazios para ideias e experimentos | [Índice](templates/README.md) |
 | Brief | Visão, escopo e metas do projeto | [BRIEF](docs/BRIEF.md) |
 | Evolução | Histórico de mudanças de direção e decisões | [EVOLUTION_LOG](CHANGELOG/EVOLUTION_LOG.md) |
 | Conhecimento | Pesquisas reutilizáveis e módulos especializados | [Knowledge index](PROMPT_VIVO/knowledge/README.md) |
