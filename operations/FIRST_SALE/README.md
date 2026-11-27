@@ -40,6 +40,7 @@ Não pontuar candidato apenas por avaliações, tamanho, endereço ou quantidade
 6. **Canal apropriado:** identificar canal comercial público e legítimo. Não usar telefone pessoal nem abordar sem autorização.
 
 **Estados:**
+
 - `HOLD`: falta evidência importante; não ranquear.
 - `QUALIFIED`: identidade, lacuna observável, fit e canal confirmados.
 - `PRIORITY`: além de qualificado, há impacto/frequência claros e a solução atual não resolve bem.
