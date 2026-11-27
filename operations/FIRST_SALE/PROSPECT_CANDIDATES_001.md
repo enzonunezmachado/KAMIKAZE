@@ -50,7 +50,7 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 | 5 | Studio C Barbearia | Guia comercial e plataforma de descoberta | Identidade confirmada; verificar se a plataforma já resolve apresentação dos serviços |
 | 6 | Strider Barbershop | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
 | 7 | Paris Hair | Listagem Fresha com serviços e horários | Já tem presença em plataforma de descoberta; valor adicional do PDF é incerto |
-| 8 | Barbearia Estilo R-02 | Presença local; sinais de menu, preços e assinatura | Forte substituto já existente; baixa prioridade para oferta de PDF genérico |
+| 8 | Barbearia Estilo R-02 | [Site próprio](https://www.barbeariaestilor.com.br/) com serviços, preços, agendamento e assinatura | Forte substituto já existente; baixa prioridade para oferta de PDF genérico |
 | 9 | Crazy Dog Barber | Perfil local e relatos de plano/assinatura | Identidade confirmada; assinatura citada por cliente, não tratada como condição oficial confirmada |
 | 10 | Studio Beauty Thalyta Santos | Perfil local e avaliações; serviços de unhas/cílios descritos | Identidade confirmada; menu/preços e lacuna não confirmados |
 | 11 | Casal Nail | Perfil local com portfólio de serviços de unhas | Portfólio já descrito publicamente; valor adicional do PDF é incerto |
