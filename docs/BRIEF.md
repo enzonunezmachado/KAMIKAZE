@@ -32,7 +32,7 @@ Esses tópicos são trilhas de pesquisa, não uma lista de negócios aprovados. 
 
 ### Missão imediata
 
-Meta operacional atual: buscar pelo menos **R$ 140 efetivamente recebidos até 08/12/2026**, com orçamento operacional autorizado de R$ 0. É um objetivo, não promessa de resultado. O piloto comercial vigente e sua oferta estão documentados em `operations/FIRST_SALE/`; essa meta substitui o alvo inicial de R$ 150 até 06/12/2026.
+Meta operacional atual: buscar pelo menos **R$ 150 efetivamente recebidos até 08/12/2026**, com orçamento operacional autorizado de R$ 0. É um objetivo, não promessa de resultado. O piloto comercial vigente e sua oferta estão documentados em `operations/FIRST_SALE/`; essa meta substitui o alvo inicial de R$ 150 até 06/12/2026.
 
 ### Objetivo de construção
 
@@ -90,4 +90,4 @@ Kamikaze é uma operação comercial independente. NEXUS e ATLAS são projetos s
 
 ## 10. Estado atual
 
-O repositório contém pesquisas exploratórias sobre diferentes comunidades, ferramentas e formas de monetização. Nenhuma oportunidade foi aprovada. A próxima etapa é retomar a pesquisa ampla e comparativa. A próxima etapa é retomar a pesquisa ampla e comparativa, incluindo o uso comercial atual de IA e diferentes modelos de negócio.
+O repositório contém pesquisas exploratórias sobre diferentes comunidades, ferramentas e formas de monetização. Nenhuma oportunidade foi aprovada. A próxima etapa operacional é qualificar a oferta de primeira venda e observar necessidade real. A pesquisa ampla permanece estacionada até surgir uma pergunta de decisão que possa alterar a execução.
