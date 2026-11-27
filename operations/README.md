@@ -5,8 +5,8 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 ## Prioridade operacional atual
 
 1. [Operação Primeira Venda](FIRST_SALE/README.md) — piloto comercial ativo, com oferta e lote inicial de candidatos. A demonstração ainda não foi produzida; nenhum contato realizado.
-2. [Estado estruturado canônico do projeto](state.toml) — execução de pesquisa, restrições e métricas.
-3. [Estado humano](STATE.md) — visão compacta e instruções de retomada.
+2. [Estado estruturado canônico do projeto](state.toml) — prioridade, frentes, próxima ação, execução, restrições e métricas.
+3. [Estado humano](STATE.md) — explicação compacta do estado estruturado.
 4. [Histórico preservado](STATE_HISTORY.md) — snapshots antigos.
 5. [Recursos disponíveis](AVAILABLE_RESOURCES.md) — inventário de ferramentas e capacidades.
 6. [Company Solutions](COMPANY_SOLUTIONS/README.md) — sistema de ranking empresarial documentado; usar apenas se necessário.
@@ -20,7 +20,7 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 
 ## Regras
 
-- state.toml é a fonte estruturada do estado do projeto: execução ativa, fase/gate, limites e métricas; a execução de pesquisa anterior permanece preservada como histórico pausado.
+- state.toml é a fonte estruturada do estado do projeto: prioridade entre frentes, próxima ação, execução ativa, fase/gate, limites e métricas. Não existe ponteiro manual de última entrega.
 - A operação de primeira venda é um piloto paralelo; sua situação comercial está em FIRST_SALE.
 - Registros históricos ficam em STATE_HISTORY.md e logs.
 - Não inserir senhas, tokens ou dados pessoais desnecessários.
