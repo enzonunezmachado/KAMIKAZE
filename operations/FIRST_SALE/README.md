@@ -2,7 +2,7 @@
 
 **Estado:** INICIADA / HIPÓTESE COMERCIAL NÃO VALIDADA  
 **Data de início:** 27/11/2026  
-**Meta financeira:** receber pelo menos R$140 até 08/12/2026  
+**Meta financeira:** receber pelo menos R$150 até 08/12/2026  
 **Orçamento autorizado:** R$0  
 **Escopo:** uma oferta simples, um segmento inicial, aquisição manual e entrega delimitada.
 
@@ -24,7 +24,7 @@ O arquivo PROSPECT_CANDIDATES_001.md é uma fila de descoberta: os nomes ainda n
 - **Segmento de teste:** barbearias, salões e estúdios independentes de beleza em Embu das Artes e entorno.
 - **Problema a investigar:** dificuldade de apresentar serviços e preços de forma clara e fácil de compartilhar com clientes.
 - **Oferta:** organização de até 25 serviços/preços em um PDF simples pronto para WhatsApp, acompanhado de planilha editável.
-- **Preço de teste:** R$149 por entrega. Hipótese, não preço validado.
+- **Preço de teste:** R$150 por entrega. Hipótese, não preço validado.
 - **Aquisição:** pesquisa manual e abordagem individual somente após aprovação do usuário.
 - **Entrega:** manual, sem software complexo, sem custos e sem promessas de aumento de vendas.
 
