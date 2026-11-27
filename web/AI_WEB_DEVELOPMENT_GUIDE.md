@@ -154,3 +154,15 @@ Se não houver navegador/ambiente visual disponível, validar o que for possíve
 - [Chrome for Developers — CSS moderno](https://developer.chrome.com/docs/modern-web-guidance/guides/css/css?hl=en): design tokens, custom properties e organização em camadas.
 
 Essas referências são guias de consulta, não motivo para instalar ferramentas ou frameworks em todo projeto.
+
+
+## 10. Trava contra regressão do portfólio MkDocs
+
+O portfólio publicado não pode voltar silenciosamente ao layout padrão de documentação. A estrutura visual é implementada em `portfolio_site/theme/main.html`, não apenas por CSS sobre o sidebar do tema.
+
+- O tema MkDocs deve manter `custom_dir: portfolio_site/theme`.
+- A página inicial e as páginas internas devem usar o shell personalizado, com cabeçalho, navegação, conteúdo e rodapé.
+- Depois de `mkdocs build --strict`, executar obrigatoriamente `python scripts/validate_portfolio_build.py`.
+- O validador verifica a presença do shell, navegação, rodapé, CSS escuro e páginas públicas geradas. Se a personalização desaparecer, a publicação deve falhar.
+- O workflow `.github/workflows/deploy-pages.yml` executa essa verificação antes de criar o artefato do GitHub Pages. Não remover nem enfraquecer a validação para contornar falhas; corrigir a causa.
+- Uma build verde prova estrutura e arquivos gerados, não prova fidelidade visual em navegador. Quando não houver navegador disponível, declarar essa limitação e solicitar captura de tela para conferência final.
