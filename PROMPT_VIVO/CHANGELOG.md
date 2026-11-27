@@ -1,3 +1,13 @@
+## 2026-11-27 — evidência de demanda e concorrência
+
+- Complementada a pesquisa com dados da CFA/MEMP e anúncios públicos de Workana e 99Freelas.
+- Pedidos genéricos de organização de planilhas mostram demanda observável, mas também concorrência elevada (um anúncio 99Freelas exibia 710 propostas e 929 interessados).
+- Decisão registrada: não lançar serviço genérico de digitação/limpeza de planilhas; manter somente hipótese de tarefa operacional específica, sem ativá-la.
+- Corrigida a contagem do lote de candidatos: 17/20 com presença pública identificável = três sem confirmação suficiente.
+- PHASE_CONTROL recebeu aviso explícito de que as seções após o snapshot vigente são históricas.
+
+---
+
 ## 2026-11-27 — validador acompanha a execução ativa
 
 - Removido o RUN_ID fixo de `scripts/validate_docs.py`. A execução validada agora é derivada de `project.active_run` em `operations/state.toml`, com validação do formato e checks no diretório correspondente.
