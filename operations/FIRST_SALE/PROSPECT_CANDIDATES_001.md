@@ -43,17 +43,17 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 
 | # | Candidato | Evidência pública adicional | Leitura provisória |
 |---:|---|---|---|
-| 1 | Tintino Barbearia | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 1 | Tintino Barbearia | Perfil local com telefone, horário e link de agendamento AppBarber | Já há fluxo público de agendamento; menu/preços completos e lacuna não confirmados |
 | 2 | Barbearia Castilho | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
-| 3 | Distrito011 BarberShop | Guia comercial com endereço e telefone | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 3 | Distrito011 BarberShop | Perfil local e Fresha com serviços de barba e opção de reserva | Já tem descoberta/reserva por plataforma; preços e lacuna não confirmados; Fresha informa que o perfil não é afiliado ao negócio |
 | 4 | Officina do Corte Barbearia | Diretório local com endereço | Identidade/localização confirmadas; menu/lacuna não confirmados |
-| 5 | Studio C Barbearia | Guia comercial e plataforma de descoberta | Identidade confirmada; verificar se a plataforma já resolve apresentação dos serviços |
+| 5 | Studio C Barbearia | Perfil local com 400 avaliações, horários e telefone | Presença pública consolidada; menu/preços não apareceram na consulta; não inferir lacuna |
 | 6 | Strider Barbershop | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
-| 7 | Paris Hair | Listagem Fresha com serviços e horários | Já tem presença em plataforma de descoberta; valor adicional do PDF é incerto |
+| 7 | Paris Hair | Perfil local com 886 avaliações e horários; outra listagem local apresenta serviços/horários | Presença pública consolidada; menu/preços completos não confirmados; valor adicional do PDF é incerto |
 | 8 | Barbearia Estilo R-02 | [Site próprio](https://www.barbeariaestilor.com.br/) com serviços, preços, agendamento e assinatura | Forte substituto já existente; baixa prioridade para oferta de PDF genérico |
 | 9 | Crazy Dog Barber | Perfil local e relatos de plano/assinatura | Identidade confirmada; assinatura citada por cliente, não tratada como condição oficial confirmada |
-| 10 | Studio Beauty Thalyta Santos | Perfil local e avaliações; serviços de unhas/cílios descritos | Identidade confirmada; menu/preços e lacuna não confirmados |
-| 11 | Casal Nail | Perfil local com portfólio de serviços de unhas | Portfólio já descrito publicamente; valor adicional do PDF é incerto |
+| 10 | Studio Beauty Thalyta Santos | Perfis locais e Fresha listam serviços de unhas, extensões e gel | Presença em plataforma de descoberta; preços completos e lacuna não confirmados |
+| 11 | Casal Nail | Fresha lista extensões, manicure, nail art, pedicure e unhas de gel | Portfólio já descrito em plataforma; preços completos e lacuna não confirmados |
 | 12 | Espaço Chica — Crespos e Cacheados | Listagem Fresha com serviços, endereço e contato | Presença em plataforma de descoberta; valor adicional do PDF é incerto |
 | 13 | Esmalteria Paraíso das Unhas | Perfil local com serviços de manicure, gel e extensões | Portfólio já descrito publicamente; preço/menu completo não confirmado |
 | 14 | Imperial Barber Shop | Presença digital com preços e planos de assinatura descritos em ficha local | Oferta de menu genérico provavelmente redundante; não priorizar |
@@ -64,7 +64,7 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 | 19 | Luan Barbearia | Guia local com endereço no Jardim Maranhão | Identidade/localização confirmadas; menu/lacuna não confirmados |
 | 20 | Glórias Estúdio de Unhas | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
 
-Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
+Fontes adicionais: [Tintino — perfil e agendamento](https://www.embu.art.br/lugar/tintino-barbearia), [Distrito011 — Fresha](https://www.fresha.com/pt/lvp/distrito011-barbershop-especializado-em-barba-cabelo-e-bigode-rua-sao-caetano-wroN3X), [Studio C — perfil local](https://www.embu.art.br/lugar/studio-c-barbearia), [Paris Hair — perfil local](https://www.embu.art.br/lugar/paris-hair), [Casal Nail — Fresha](https://www.fresha.com/pt/lvp/casal-nail-alongamento-de-unhas-avenida-da-liberdade-KzKjBq), [Studio Beauty Thalyta — Fresha](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes).\n\nFontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
 
 **Conclusão provisória:** 17/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os três não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
 
