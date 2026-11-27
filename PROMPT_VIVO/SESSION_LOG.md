@@ -149,5 +149,5 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Pesquisa de tendências sintetizada em `research/2026-11-27-opportunity-signals.md`: sinais brasileiros do Sebrae, tendências de marketplace e padrões de Spec Kit, Superpowers e Deep Agents.
 - Decisão: pesquisa exploratória e afiliados em HOLD; prioridade operacional FIRST_SALE_PILOT — TEST. Nenhum framework, agente ou módulo novo foi instalado/criado.
 - Meta operacional alinhada a R$150 recebidos até 08/12/2026; preço hipotético da oferta alinhado em R$150. Orçamento segue R$0.
-- Triagem pública preliminar confirmou pistas de identidade para seis candidatos, mas não confirmou lacuna ou intenção. Plataformas como Booksy/Fresha já exibem serviços/preços de alguns negócios da região; lote continua não qualificado.
+- Triagem pública preliminar confirmou pistas de identidade para 16 dos 20 candidatos, mas não confirmou lacuna ou intenção. Plataformas como Booksy/Fresha já exibem serviços/preços de alguns negócios da região; lote continua não qualificado.
 - Nenhum contato, proposta, publicação comercial ou gasto foi realizado. A validação documental ainda precisa ser executada após a sincronização final.
