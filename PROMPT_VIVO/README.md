@@ -29,6 +29,10 @@ O Prompt Vivo é a infraestrutura metodológica do Kamikaze. Organiza instruçõ
 | `SESSION_LOG.md` | Histórico global append-only |
 | `CHANGELOG.md` | Mudanças na metodologia e estrutura do Prompt Vivo |
 
+## Skills especializadas
+
+- [Índice de skills](skills/README.md): instruções reutilizáveis para escrita natural e análise crítica de oportunidades. Carregar a skill correspondente antes da tarefa; elas não são agentes autônomos.
+
 ## Estrutura de pastas
 
 - [`runs/`](runs/README.md): execuções independentes por RUN_ID. Ler o README de cada execução antes de abrir arquivos internos.
