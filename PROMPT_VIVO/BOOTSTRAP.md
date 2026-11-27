@@ -6,7 +6,7 @@
 
 1. Leia `AGENTS.md` e `README.md` da raiz.
 2. Leia `PROMPT_VIVO/AGENTS.md` e `PROMPT_VIVO/README.md`.
-3. Leia `PROMPT_VIVO/CURRENT_WORK.md` e `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`.
+3. Leia `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`; ignore `CURRENT_WORK.md`, que foi descontinuado.
 4. Leia `PROMPT_VIVO/OPERATING_PRINCIPLES.md`, este arquivo e `PROMPT_VIVO/CONTINUITY_SYSTEM.md`.
 5. Leia `operations/README.md`, `operations/state.toml` e `operations/STATE.md`.
 6. Leia `PROMPT_VIVO/runs/README.md`; identifique o RUN_ID em state.toml/STATE.
@@ -21,7 +21,7 @@
 
 - `operations/state.toml`: snapshot estruturado para validação automática (RUN_ID, fase/gate, estados e limites).
 - `operations/STATE.md`: visão humana do estado do projeto; resumo derivado do TOML.
-- `PROMPT_VIVO/CURRENT_WORK.md`: última entrega substantiva e próxima ação de retomada; não determina, por si só, a fase ativa.
+- `operations/state.toml`: fonte única para prioridade entre frentes e próxima ação resumida; não existe mais ponteiro de última entrega.
 - `RUN_STATE.md`: fonte canônica do estado detalhado da execução.
 - `PHASE_CONTROL.md`: decisão de gate e próxima ação permitida.
 - `PHASE_ARCHITECTURE.md`: estrutura e dependências das fases.
@@ -39,7 +39,7 @@ Identifique missão, RUN_ID, pergunta ativa, fase/gate, dependências, evidênci
 
 ## 4. Auditar consistência antes de agir
 
-1. Comparar state.toml, operations/STATE, CURRENT_WORK, RUN_STATE, PHASE_CONTROL e RESUME_PACKET.
+1. Comparar state.toml, operations/STATE, RUN_STATE, PHASE_CONTROL e RESUME_PACKET. Não comparar nem reconciliar CURRENT_WORK.md.
 2. Verificar eventos recentes nos logs e commits que confirmam persistência.
 3. Rodar `python scripts/validate_docs.py` quando houver ambiente; a CI executa o mesmo verificador.
 4. Se houver conflito, determinar a fonte canônica específica, registrar a reconciliação e corrigir os resumos derivados.
@@ -66,7 +66,7 @@ Após unidade substantiva:
 1. Atualizar fontes/achados/perguntas/matriz quando aplicável.
 2. Atualizar RUN_STATE e PHASE_CONTROL somente se estado/gate realmente mudou.
 3. Atualizar state.toml e STATE.md de forma consistente.
-4. Atualizar CURRENT_WORK se houve nova entrega substantiva.
+4. Não atualizar ponteiro de última entrega; atualizar apenas a fonte de estado afetada.
 5. Atualizar RESUME_PACKET por último; manter dentro de 120 linhas.
 6. Atualizar USER_INPUT_LOG e logs append-only; atualizar CHANGELOG se a metodologia mudou.
 7. Atualizar índices/README quando a estrutura mudou.
