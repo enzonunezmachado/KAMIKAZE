@@ -48,6 +48,8 @@ jobs:
             PROMPT_VIVO/README.md
             web/README.md
             web/AI_PROMPT_SCRIPTS.md
+            research/README.md
+            templates/README.md
             operations/FIRST_SALE/README.md
             portfolio_site/README.md
             portfolio_site/docs/*.md
