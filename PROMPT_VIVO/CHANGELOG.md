@@ -1,3 +1,12 @@
+## 2026-11-27 — container único e validação estrutural do portfólio
+
+- Corrigido o aninhamento de containers: header/footer full-width; somente `.rst-content` controla max-width e padding do conteúdo; `.km-main` não adiciona uma segunda camada de largura/padding.
+- Fortalecido `scripts/validate_portfolio_build.py` para verificar assets, shell, largura, eixo de alinhamento, breakpoint mobile, reduced motion e navegação.
+- Incorporada a regra ao playbook `web/AI_PROMPT_SCRIPTS.md` para evitar regressão em novos sites.
+- Workflow documental `45940140564` e deploy `45940140491` concluídos com sucesso. A aparência ainda exige inspeção visual real.
+
+---
+
 ## 2026-11-27 — auditoria de coerência e recuperação da validação
 
 - Corrigidos caminhos de retomada, referência a demonstração inexistente, tabela de navegação e referências de armazenamento desatualizadas.
