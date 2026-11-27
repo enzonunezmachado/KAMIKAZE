@@ -151,3 +151,8 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Meta operacional alinhada a R$150 recebidos até 08/12/2026; preço hipotético da oferta alinhado em R$150. Orçamento segue R$0.
 - Triagem pública preliminar confirmou pistas de identidade para 17 dos 20 candidatos, mas não confirmou lacuna ou intenção. Plataformas como Booksy/Fresha já exibem serviços/preços de alguns negócios da região; lote continua não qualificado.
 - Nenhum contato, proposta, publicação comercial ou gasto foi realizado. A validação documental ainda precisa ser executada após a sincronização final.
+
+### KAM-2026-11-27 — Fechamento da sessão de reorientação
+- Triagem final: 17/20 candidatos com presença pública identificável; três sem confirmação suficiente após três consultas. Nenhum qualificado ou contatado.
+- Comparação Git confirmou branch histórica e 31 commits de avanço na main, com 15 arquivos alterados.
+- O status de checks do último commit não retornou resultados; clone local indisponível por falha de resolução de rede. Validação automatizada desta rodada permanece NÃO CONFIRMADA.
