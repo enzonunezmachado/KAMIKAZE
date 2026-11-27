@@ -2,6 +2,12 @@ site_name: Kamikaze — Documentação e Portfólio
 site_description: Documentação operacional e portfólio demonstrativo do projeto Kamikaze
 docs_dir: portfolio_site/docs
 site_dir: portfolio_site/site
+
+# README.md documents the source folder; index.md is the published homepage.
+# Keep the README in the repository, but exclude it from the generated site.
+exclude_docs: |
+  /README.md
+
 theme:
   name: readthedocs
 nav:
