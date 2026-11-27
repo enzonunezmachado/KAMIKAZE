@@ -1,7 +1,7 @@
 # RESUME PACKET — PV-2026-11-25-TOTALMENTE-GRATUITA
 
 **Atualizado:** 27/11/2026  
-**Status:** IN_PROGRESS  
+**Status:** PAUSED — pesquisa estacionada; piloto comercial paralelo ativo  
 **Regra:** resumo de retomada; não é fonte canônica de estado, fase, gate ou evidência.
 
 ## 1. Entrada obrigatória
@@ -16,7 +16,7 @@
 ## 2. Missão e limites
 
 - Pesquisar oportunidades digitais e modelos de monetização com IA, ferramentas gratuitas e sem audiência prévia.
-- Meta original desta execução: R$150 até 06/12/2026. Meta operacional vigente: R$140 efetivamente recebidos até 08/12/2026, documentada em `operations/FIRST_SALE/README.md`; objetivo, não garantia.
+- Meta original desta execução: R$150 até 06/12/2026. Meta operacional vigente: R$150 efetivamente recebidos até 08/12/2026, documentada em `operations/FIRST_SALE/README.md`; objetivo, não garantia.
 - Orçamento autorizado: R$0. Receita recebida: R$0. Despesas: R$0.
 - Nenhuma oportunidade da pesquisa exploratória foi aprovada. Existe um piloto comercial paralelo INICIADO / TEST em `operations/FIRST_SALE/`; ainda sem contatos, propostas ou receita.
 - Não publicar, contatar, candidatar-se, cadastrar contas, comprar, assinar, gastar, contratar ferramentas, fazer deploy ou assumir compromissos externos sem autorização explícita.
@@ -24,18 +24,14 @@
 
 ## 3. Estado da pesquisa
 
-**Foco registrado:** `PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION` — IN_PROGRESS / CONTINUE.
+**Execução de pesquisa:** PAUSED. **Prioridade ativa do projeto:** `FIRST_SALE_PILOT` — TEST.
 
 Frentes:
 
-- PHASE_03.1: PAUSED / CONTINUE.
-- PHASE_03.2: IN_PROGRESS / CONTINUE.
-- PHASE_03.3: IN_PROGRESS / CONTINUE.
-- PHASE_03.4: IN_PROGRESS / CONTINUE.
-- PHASE_03.5: IN_PROGRESS / CONTINUE.
+- PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; não retomar a trilha de afiliados por padrão.
 - PHASE_04: QUEUED / NOT_STARTED.
 
-A decisão de próxima ação deve ser confirmada em PHASE_CONTROL e reconciliada com `operations/state.toml`. Não inferir avanço pela numeração.
+A pesquisa exploratória não tem próxima ação ativa. A prioridade é qualificar o piloto comercial e obter evidência real; reabrir pesquisa somente diante de pergunta nova que altere a decisão.
 
 ## 4. Última linha operacional documentada
 
