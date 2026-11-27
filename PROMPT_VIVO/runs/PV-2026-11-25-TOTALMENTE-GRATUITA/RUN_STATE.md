@@ -1,25 +1,26 @@
 # RUN STATE — PV-2026-11-25-TOTALMENTE-GRATUITA
 
 **Atualizado:** 27/11/2026  
-**Status:** IN_PROGRESS  
+**Status:** PAUSED — pesquisa estacionada; piloto comercial paralelo ativo  
 **Estado estruturado:** [operations/state.toml](../../../operations/state.toml)  
 **Histórico preservado:** [RUN_HISTORY.md](RUN_HISTORY.md)
 
 ## Missão
-Pesquisar e comparar oportunidades digitais e modelos de monetização com IA, recursos gratuitos e sem audiência prévia. Orçamento autorizado R$0. A meta original desta pesquisa era R$150 até 06/12/2026; a meta operacional vigente foi atualizada para R$140 até 08/12/2026 e está registrada em `operations/FIRST_SALE/README.md`.
+Pesquisar e comparar oportunidades digitais e modelos de monetização com IA, recursos gratuitos e sem audiência prévia. Orçamento autorizado R$0. A meta original desta pesquisa era R$150 até 06/12/2026; a meta operacional vigente foi atualizada para R$150 até 08/12/2026 e está registrada em `operations/FIRST_SALE/README.md`.
 
 ## Estado canônico da execução
-- **Foco atual:** PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION.
-- **Gate:** CONTINUE.
-- **PHASE_03.1_PURCHASE_EVIDENCE:** PAUSED / CONTINUE.
-- **PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS:** IN_PROGRESS / CONTINUE.
-- **PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION:** IN_PROGRESS / CONTINUE.
-- **PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE:** IN_PROGRESS / CONTINUE.
-- **PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION:** IN_PROGRESS / CONTINUE.
+- **Foco atual do projeto:** FIRST_SALE_PILOT.
+- **Gate comercial:** TEST.
+- **Estado desta execução de pesquisa:** PAUSED; não continuar a trilha de afiliados como prioridade.
+- **PHASE_03.1_PURCHASE_EVIDENCE:** PAUSED / RESEARCH PARKED.
+- **PHASE_03.2_BUYER_SEGMENTATION_AND_ACCESS:** PAUSED / RESEARCH PARKED.
+- **PHASE_03.3_COMMUNITY_LED_MARKET_VALIDATION:** PAUSED / RESEARCH PARKED.
+- **PHASE_03.4_BROAD_INTERNET_INCOME_AND_FIRST_SALE:** PAUSED / RESEARCH PARKED.
+- **PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION:** PAUSED / RESEARCH PARKED.
 - **PHASE_04_FEASIBILITY:** QUEUED / NOT_STARTED.
 
 ## Próxima ação de pesquisa
-Seguir a decisão mais recente em [PHASE_CONTROL.md](PHASE_CONTROL.md): aprofundar skills Affitor e aquisição/afiliados, comparar mecanismos e validar evidência específica. Não avançar para PHASE_04 sem gate factual e autorização apropriada.
+Nenhuma. A trilha exploratória está estacionada. Retomar somente se surgir pergunta nova que possa mudar a decisão comercial; não voltar a afiliados por inércia.
 
 ## Restrições e decisões humanas
 - Não escolher oportunidade por conveniência ou por preferência da IA.
