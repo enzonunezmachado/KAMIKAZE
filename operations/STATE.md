@@ -4,6 +4,7 @@
 **Fonte canônica:** [state.toml](state.toml)
 
 ## Prioridade e próxima ação
+- **Execução ativa:** `FIRST_SALE_PILOT` — gate `TEST` (`IN_PROGRESS`).
 - **Frente prioritária:** `local_business_low_digital_presence`.
 - **Próxima ação:** pesquisar negócios locais com presença digital muito baixa; verificar atividade, lacunas observáveis e canal público. Não contatar.
 - **Critério de sucesso:** encontrar candidatos únicos com baixa presença digital comprovada e uma necessidade plausível que caiba na nossa capacidade; separar fatos, inferências e desconhecidos.
