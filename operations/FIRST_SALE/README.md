@@ -15,6 +15,10 @@ Conseguir a primeira contratação paga de um serviço digital simples para um p
 - [Oferta piloto](OFFER_V1.md)
 - [Lote inicial de candidatos](PROSPECT_CANDIDATES_001.md)
 
+## Pipeline de candidatos
+
+O arquivo PROSPECT_CANDIDATES_001.md é uma fila de descoberta: os nomes ainda não foram qualificados nem ranqueados. Após verificação individual, candidatos com oportunidade observável podem ser promovidos ao registro mestre de COMPANY_SOLUTIONS para receber Company ID e entrar no ranking. Não criar dossiês paralelos nem contar candidato incompleto como empresa qualificada. A ativação desse módulo e qualquer contato continuam sujeitos às autorizações aplicáveis.
+
 ## Decisão inicial
 
 - **Segmento de teste:** barbearias, salões e estúdios independentes de beleza em Embu das Artes e entorno.
