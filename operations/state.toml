@@ -1,8 +1,27 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "research/2026-11-27-opportunity-signals.md"
-last_work_status = "TRIAGEM CRUZADA BELEZA/PET/AUTOMOTIVO; NENHUM QUALIFICADO; DESCOBERTA COM RESPONSÁVEL PENDENTE DE AUTORIZAÇÃO"
+
+[work]
+primary_stream = "local_business_low_digital_presence"
+next_action = "Pesquisar um lote de negócios locais com presença digital muito baixa, verificar atividade, lacunas observáveis e canal público; não contatar."
+success_criteria = "Encontrar candidatos com presença digital realmente baixa e uma necessidade concreta que possamos atender; separar evidência de inferência."
+stop_condition = "Parar quando houver 20 candidatos únicos triados ou após duas rodadas sem novos candidatos qualificados; não ampliar pesquisa sem evidência incremental."
+
+[workstreams.first_sale]
+status = "ACTIVE / TEST"
+source = "operations/FIRST_SALE/README.md"
+next_action = "Qualificar negócios locais com baixa presença digital antes de adaptar a oferta; nenhum contato autorizado."
+
+[workstreams.company_solutions]
+status = "RESEARCH-ONLY / NOT ACTIVATED"
+source = "operations/COMPANY_SOLUTIONS/README.md"
+next_action = "Usar apenas os critérios de deduplicação e diagnóstico necessários ao lote; não ativar CRM completo."
+
+[workstreams.web_portfolio]
+status = "MAINTENANCE / SECONDARY"
+source = "web/README.md"
+next_action = "Nenhuma ação até que a frente comercial precise de demonstração específica."
 
 [execution]
 status = "IN_PROGRESS"
