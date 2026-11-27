@@ -37,8 +37,8 @@ jobs:
             PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md
             PROMPT_VIVO/BOOTSTRAP.md
             PROMPT_VIVO/CURRENT_WORK.md
-            PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/README.md
-            PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESUME_PACKET.md
+            PROMPT_VIVO/runs/*/README.md
+            PROMPT_VIVO/runs/*/RESUME_PACKET.md
             operations/README.md
             scripts/README.md
             .github/README.md
