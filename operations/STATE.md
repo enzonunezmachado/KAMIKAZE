@@ -1,38 +1,32 @@
 # Estado operacional — Kamikaze
 
 **Atualizado:** 27/11/2026  
-**Estado estruturado da pesquisa:** [state.toml](state.toml)  
-**Prioridade comercial de curto prazo:** [Operação Primeira Venda](FIRST_SALE/README.md)  
-**Última entrega substantiva:** [CURRENT_WORK.md](../PROMPT_VIVO/CURRENT_WORK.md)
+**Fonte canônica:** [state.toml](state.toml)
 
-## Missão
-Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher antecipadamente nicho ou modelo. IA é alavanca de pesquisa e produção; não é proposta de valor por si só.
+## Prioridade e próxima ação
+- **Frente prioritária:** `local_business_low_digital_presence`.
+- **Próxima ação:** pesquisar negócios locais com presença digital muito baixa; verificar atividade, lacunas observáveis e canal público. Não contatar.
+- **Critério de sucesso:** encontrar candidatos únicos com baixa presença digital comprovada e uma necessidade plausível que caiba na nossa capacidade; separar fatos, inferências e desconhecidos.
+- **Parada:** 20 candidatos triados ou duas rodadas sem evidência incremental. Não ampliar pesquisa por inércia.
 
-## Prioridade atual
-- Operação Primeira Venda: INICIADA / TEST.
-- Meta: receber pelo menos R$150 até 08/12/2026.
-- Oferta em teste: menu digital simples de serviços e preços para pequenos negócios de beleza/barbearias.
-- Preço experimental: R$150; não validado.
-- Candidatos: lote de beleza 19/20 identificáveis e triagem cruzada de pet shops/oficinas; nenhum negócio qualificado. Próxima etapa exige descoberta com responsável, após autorização.
-- Contatos realizados: 0. Propostas enviadas: 0. Clientes: 0. Receita recebida: R$0.
-- Orçamento autorizado: R$0. Nenhum gasto permitido.
+## Frentes
+- **Primeira Venda:** ACTIVE / TEST. A oferta de menu PDF + planilha por R$150 é apenas uma hipótese; adaptar somente após identificar necessidade real. Fonte: [README](FIRST_SALE/README.md).
+- **Company Solutions:** RESEARCH-ONLY / NOT ACTIVATED. Usar os critérios mínimos de deduplicação/diagnóstico, sem ativar o sistema completo. Fonte: [README](COMPANY_SOLUTIONS/README.md).
+- **Portfólio web:** secundário/manutenção. Não construir demonstração genérica antes de identificar comprador e problema. Fonte: [guia web](../web/README.md).
 
-## Pesquisa anterior preservada
-- Execução registrada: PV-2026-11-25-TOTALMENTE-GRATUITA.
-- Última fase histórica de pesquisa: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION; pesquisa agora em HOLD.
-- PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
-- A execução de pesquisa/afiliados está pausada. A prioridade ativa é FIRST_SALE_PILOT — TEST (estado registrado em state.toml). Não retomar pesquisa exploratória sem uma pergunta que possa alterar uma decisão operacional.
-- Os registros detalhados das fases anteriores foram preservados como histórico; a pesquisa está pausada e a operação de primeira venda é a prioridade ativa.
+## Situação financeira e limites
+- Meta histórica de curto prazo: receber R$150 até 08/12/2026; não há receita recebida.
+- Orçamento autorizado: R$0.
+- Contatos, propostas, clientes e vendas: nenhum confirmado nesta operação.
+- Não contatar, publicar, cadastrar, gastar, contratar, fazer deploy ou assumir compromissos externos sem autorização específica.
 
-## Restrições
-- Não tratar intenção, anúncio, seleção, contratação, pagamento e recompra como equivalentes.
-- Não presumir acesso a ferramentas pagas, quotas ilimitadas ou capacidade de agentes gratuitos.
-- Não contratar, gastar, publicar, contatar, candidatar-se, fazer deploy ou assumir compromissos externos sem autorização explícita.
-- Preservar NEXUS e ATLAS como projetos separados.
+## Execução de pesquisa anterior
+- RUN_ID preservado: `PV-2026-11-25-TOTALMENTE-GRATUITA`.
+- Fases 03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04: QUEUED / NOT_STARTED.
+- A prioridade atual é a pesquisa comercial local definida em `[work]` no state.toml, não a retomada automática das fases antigas.
 
-## Como retomar
-1. Leia AGENTS.md e PROMPT_VIVO/BOOTSTRAP.md.
-2. Consulte PROMPT_VIVO/CURRENT_WORK.md.
-3. Para a operação comercial, comece por FIRST_SALE/README.md.
-4. Para o histórico da pesquisa, use PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/ e state.toml.
-5. Para histórico, consulte STATE_HISTORY.md e RUN_HISTORY.
+## Retomada
+1. Ler `operations/state.toml` e seguir `work.primary_stream` / `work.next_action`.
+2. Ler o README da frente indicada e sua fonte de estado/deduplicação.
+3. Para a execução de pesquisa histórica, ler RUN_STATE e PHASE_CONTROL; não reabrir fases pausadas sem decisão explícita.
+4. Atualizar state.toml somente quando prioridade, estado ou próxima ação mudar; não manter ponteiro de última entrega.
