@@ -37,6 +37,23 @@
 - [Fresha — salões e serviços em Embu das Artes](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes)
 - [Solutudo — salões de beleza em Embu das Artes](https://www.solutudo.com.br/empresas/sp/embu-das-artes/saloes%2Bde%2Bbeleza)
 
+## Triagem preliminar — 27/11/2026
+
+Uma consulta adicional confirmou a presença pública em diretórios de seis candidatos, mas não estabeleceu necessidade comercial:
+
+| Candidato | Evidência pública adicional | Leitura provisória |
+|---|---|---|
+| Tintino Barbearia | Listado em diretório local com endereço e telefone | Identidade/localização confirmadas; menu e lacuna não confirmados |
+| Barbearia Castilho | Listado em diretório local e guia comercial | Identidade/localização confirmadas; menu e lacuna não confirmados |
+| Distrito011 BarberShop | Listado em guia comercial com endereço e telefone | Identidade/localização confirmadas; menu e lacuna não confirmados |
+| Officina do Corte Barbearia | Listado em diretório local com endereço | Identidade/localização confirmadas; menu e lacuna não confirmados |
+| Studio C Barbearia | Listado em guia comercial; também aparece em plataforma de descoberta | Identidade/localização confirmadas; verificar se a plataforma já resolve a apresentação de serviços |
+| Strider Barbershop | Listado em diretório local e guia comercial | Identidade/localização confirmadas; menu e lacuna não confirmados |
+
+Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/) e [Fresha](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes). A listagem de [barbearias de Embu no Booksy](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes) mostra que alguns negócios da região já publicam serviços e preços em plataformas de agendamento.
+
+**Regra:** estes seis continuam como candidatos, não qualificados. Não inferir ausência de catálogo, problema, orçamento ou interesse a partir de diretórios. Nenhum contato foi feito.
+
 ## Limitações e qualidade da evidência
 
 - Os resultados de diretórios podem estar desatualizados, duplicados ou incompletos.
