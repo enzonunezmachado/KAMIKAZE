@@ -20,7 +20,7 @@
 ## 2. Fontes canônicas — quem manda em quê
 
 | Informação | Fonte canônica | Documentos derivados |
-|---|---|---|
+| --- | --- | --- |
 | Última entrega substantiva | `PROMPT_VIVO/CURRENT_WORK.md` | Atalhos e logs apontam para ela |
 | Execução ativa, recursos e restrições do projeto | `operations/STATE.md` | README e handoff resumem |
 | Estado da fase/execução | `runs/<RUN_ID>/RUN_STATE.md` | RESUME_PACKET aponta |
@@ -55,7 +55,7 @@ Se um README de pasta estiver ausente, não presumir estrutura nem gravar vário
 Não existe limite universal de linhas. Usar estes orçamentos como alertas operacionais:
 
 | Classe | Faixa recomendada | Ação ao exceder |
-|---|---:|---|
+| --- | ---: | --- |
 | README/índice | 30–120 linhas | Mover detalhes para documentos próprios |
 | AGENTS/instruções de entrada | 40–140 linhas | Separar regras gerais de skills específicas |
 | Estado canônico | 30–120 linhas | Mover histórico e explicações para registros |
@@ -69,6 +69,7 @@ Essas faixas são heurísticas internas, não leis. Não fragmentar texto coeso 
 ## 5. Classificação documental inspirada em Diátaxis
 
 Ao criar documentação técnica, identificar sua finalidade:
+
 - **Tutorial:** ensina alguém a realizar uma primeira tarefa.
 - **How-to / guia prático:** resolve uma tarefa específica.
 - **Referência:** descreve campos, interfaces, regras, comandos e contratos.
@@ -79,6 +80,7 @@ Um documento pode conter mais de um tipo em pequena escala, mas seu propósito p
 ## 6. Ciclo de vida de um documento
 
 Antes de criar, responder:
+
 - Qual problema este arquivo resolve?
 - Quem precisa lê-lo e em qual momento?
 - Qual fonte ele consulta e qual informação é sua responsabilidade?
@@ -112,6 +114,7 @@ A CI verifica propriedades objetivas; não entende semântica de pesquisa, verda
 ## 9. Como atualizar a própria arquitetura
 
 Quando surgir uma nova necessidade:
+
 1. capturar o insight do usuário sem apagá-lo;
 2. identificar quais documentos/fluxos são afetados;
 3. pesquisar padrões e alternativas quando necessário;
@@ -133,4 +136,5 @@ Quando surgir uma nova necessidade:
 O objetivo é adaptar princípios úteis ao fluxo Kamikaze, não migrar cegamente para um framework nem criar dependência de ferramenta específica.
 
 ### Limite de enforcement
+
 AGENTS.md orienta somente ferramentas que reconhecem o padrão ou que receberam instrução para lê-lo. BOOTSTRAP é obrigatório no fluxo de retomada, mas não pode forçar uma interface externa a ler arquivos por conta própria. GitHub Actions executa código real no runner após push/PR; não executa prompts nem chama uma IA automaticamente. A CI pode detectar falhas e produzir um check vermelho. **Sem branch protection/ruleset exigindo esse check, um push direto para main ainda pode ser aceito mesmo com a CI falhando.** A configuração de branch protection não foi alterada nesta rodada; requer ação administrativa no GitHub.
