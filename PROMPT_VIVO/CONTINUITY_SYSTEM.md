@@ -40,7 +40,7 @@ A IA deve navegar por README e AGENTS em cada nível antes de abrir a pasta segu
 1. Identificar o que realmente mudou e se é substantivo.
 2. Atualizar documentos primários afetados.
 3. Atualizar state.toml e as projeções de estado relacionadas.
-4. Atualizar CURRENT_WORK se a última entrega mudou.
+4. Não atualizar ponteiro de última entrega; o estado estruturado já informa prioridade e próxima ação.
 5. Atualizar índices e resumos derivados.
 6. Acrescentar logs; não reescrever histórico.
 7. Rodar `scripts/validate_docs.py` e, no GitHub, aguardar CI.
