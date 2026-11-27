@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate core documentation structure, size budgets and synchronized state."""
+"""Validate core documentation, the active run and synchronized project state."""
 
 from pathlib import Path
 import re
@@ -7,29 +7,33 @@ import sys
 import tomllib
 
 ROOT = Path(__file__).resolve().parents[1]
-RUN = "PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA"
+LINK_RE = re.compile(r"!?(?<!\\!)\\[[^\\]]*\\]\\(([^)]+)\\)")
+RUN_ID_RE = re.compile(r"PV-\\d{4}-\\d{2}-\\d{2}-[A-Z0-9-]+")
 
-REQUIRED_FILES = [
+BASE_REQUIRED_FILES = [
     "AGENTS.md", "README.md",
     "PROMPT_VIVO/AGENTS.md", "PROMPT_VIVO/README.md",
     "PROMPT_VIVO/CURRENT_WORK.md", "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md",
     "PROMPT_VIVO/BOOTSTRAP.md", "PROMPT_VIVO/QUALITY_GATE.md",
     "operations/README.md", "operations/state.toml", "operations/STATE.md",
-    "operations/STATE_HISTORY.md", "operations/COMPANY_SOLUTIONS/README.md", "operations/FIRST_SALE/README.md",
-    "PROMPT_VIVO/runs/README.md", f"{RUN}/README.md",
-    f"{RUN}/RUN_STATE.md", f"{RUN}/RUN_HISTORY.md",
-    f"{RUN}/PHASE_CONTROL.md", f"{RUN}/RESUME_PACKET.md",
+    "operations/STATE_HISTORY.md", "operations/COMPANY_SOLUTIONS/README.md",
+    "operations/FIRST_SALE/README.md", "operations/FIRST_SALE/OFFER_V1.md",
+    "operations/FIRST_SALE/PROSPECT_CANDIDATES_001.md",
+    "PROMPT_VIVO/runs/README.md",
     "PROMPT_VIVO/knowledge/README.md", "PROMPT_VIVO/PHASES/README.md",
     "PROMPT_VIVO/templates/README.md", "scripts/README.md",
     ".github/README.md", ".github/workflows/README.md",
     ".github/workflows/docs-quality.yml", "scripts/validate_docs.py",
+    "scripts/validate_portfolio_build.py",
     "mkdocs.yml", "requirements-docs.txt",
     "portfolio_site/README.md", "portfolio_site/docs/README.md",
     "portfolio_site/docs/index.md", "portfolio_site/docs/solucoes.md",
     "portfolio_site/docs/projetos.md", "portfolio_site/docs/processo.md",
+    "web/README.md", "web/AI_WEB_DEVELOPMENT_GUIDE.md",
+    "web/AI_PROMPT_SCRIPTS.md", "web/templates/starter.html",
 ]
 
-LINE_BUDGETS = {
+BASE_LINE_BUDGETS = {
     "AGENTS.md": 100,
     "PROMPT_VIVO/AGENTS.md": 100,
     "PROMPT_VIVO/BOOTSTRAP.md": 180,
@@ -37,62 +41,94 @@ LINE_BUDGETS = {
     "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md": 260,
     "PROMPT_VIVO/QUALITY_GATE.md": 180,
     "operations/STATE.md": 100,
-    f"{RUN}/README.md": 100,
-    f"{RUN}/RUN_STATE.md": 100,
-    f"{RUN}/RESUME_PACKET.md": 120,
+    "PROMPT_VIVO/runs/README.md": 100,
 }
 
-LINK_RE = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
-NAV_FILES = [
+BASE_NAV_FILES = [
     "README.md", "AGENTS.md", "PROMPT_VIVO/README.md",
     "PROMPT_VIVO/AGENTS.md", "PROMPT_VIVO/BOOTSTRAP.md",
     "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md", "operations/README.md",
-    "operations/STATE.md", "operations/FIRST_SALE/README.md", "PROMPT_VIVO/runs/README.md",
-    f"{RUN}/README.md", f"{RUN}/RUN_STATE.md",
-    f"{RUN}/RESUME_PACKET.md", "PROMPT_VIVO/PHASES/README.md",
+    "operations/STATE.md", "operations/FIRST_SALE/README.md",
+    "operations/FIRST_SALE/OFFER_V1.md",
+    "operations/COMPANY_SOLUTIONS/README.md",
+    "operations/COMPANY_SOLUTIONS/CONTROL_TOWER.md",
+    "PROMPT_VIVO/runs/README.md", "PROMPT_VIVO/PHASES/README.md",
     "PROMPT_VIVO/templates/README.md", "scripts/README.md",
     ".github/README.md", ".github/workflows/README.md",
     "portfolio_site/README.md", "portfolio_site/docs/README.md",
-    "portfolio_site/docs/index.md",
+    "portfolio_site/docs/index.md", "web/README.md",
+    "web/AI_PROMPT_SCRIPTS.md",
 ]
+
+
+def load_state(errors):
+    state_path = ROOT / "operations/state.toml"
+    if not state_path.is_file():
+        errors.append("required file missing: operations/state.toml")
+        return None
+    try:
+        with state_path.open("rb") as stream:
+            return tomllib.load(stream)
+    except (tomllib.TOMLDecodeError, OSError) as exc:
+        errors.append(f"operations/state.toml is invalid: {exc}")
+        return None
 
 
 def main() -> int:
     errors = []
-    for relative in REQUIRED_FILES:
+    state = load_state(errors)
+    project = state.get("project", {}) if state else {}
+    execution = state.get("execution", {}) if state else {}
+    phases = state.get("phases", {}) if state else {}
+
+    active_run = project.get("active_run", "")
+    if not active_run or not RUN_ID_RE.fullmatch(active_run):
+        errors.append(f"invalid or missing project.active_run in state.toml: {active_run!r}")
+        run_path = None
+    else:
+        run_path = f"PROMPT_VIVO/runs/{active_run}"
+
+    required_files = list(BASE_REQUIRED_FILES)
+    line_budgets = dict(BASE_LINE_BUDGETS)
+    nav_files = list(BASE_NAV_FILES)
+
+    if run_path:
+        required_files.extend([
+            f"{run_path}/README.md", f"{run_path}/RUN_STATE.md",
+            f"{run_path}/RUN_HISTORY.md", f"{run_path}/PHASE_CONTROL.md",
+            f"{run_path}/RESUME_PACKET.md",
+        ])
+        line_budgets.update({
+            f"{run_path}/README.md": 100,
+            f"{run_path}/RUN_STATE.md": 100,
+            f"{run_path}/RESUME_PACKET.md": 120,
+        })
+        nav_files.extend([
+            f"{run_path}/README.md", f"{run_path}/RUN_STATE.md",
+            f"{run_path}/RESUME_PACKET.md",
+        ])
+
+    for relative in required_files:
         if not (ROOT / relative).is_file():
             errors.append(f"required file missing: {relative}")
 
-    for relative, maximum in LINE_BUDGETS.items():
+    for relative, maximum in line_budgets.items():
         path = ROOT / relative
         if path.is_file():
             count = len(path.read_text(encoding="utf-8").splitlines())
             if count > maximum:
                 errors.append(f"{relative}: {count} lines exceeds budget {maximum}")
 
-    state_path = ROOT / "operations/state.toml"
-    state = None
-    if state_path.is_file():
-        try:
-            with state_path.open("rb") as stream:
-                state = tomllib.load(stream)
-        except (tomllib.TOMLDecodeError, OSError) as exc:
-            errors.append(f"operations/state.toml is invalid: {exc}")
-
-    if state:
-        project = state.get("project", {})
-        execution = state.get("execution", {})
-        phases = state.get("phases", {})
-        active_run = project.get("active_run", "")
+    if state and run_path:
         active_phase = execution.get("active_phase", "")
         active_gate = execution.get("active_gate", "")
         last_work = project.get("last_substantive_work", "")
 
         checks = {
             "operations/STATE.md": [active_run, active_phase],
-            f"{RUN}/RUN_STATE.md": [active_run, active_phase, active_gate],
-            f"{RUN}/PHASE_CONTROL.md": [active_phase, active_gate],
-            f"{RUN}/RESUME_PACKET.md": [active_run, active_phase],
+            f"{run_path}/RUN_STATE.md": [active_run, active_phase, active_gate],
+            f"{run_path}/PHASE_CONTROL.md": [active_phase, active_gate],
+            f"{run_path}/RESUME_PACKET.md": [active_run, active_phase],
             "PROMPT_VIVO/CURRENT_WORK.md": [last_work],
         }
         for relative, needles in checks.items():
@@ -105,7 +141,7 @@ def main() -> int:
                             f"{relative} is out of sync with operations/state.toml: missing {needle}"
                         )
 
-        run_state_path = ROOT / f"{RUN}/RUN_STATE.md"
+        run_state_path = ROOT / f"{run_path}/RUN_STATE.md"
         if run_state_path.is_file():
             run_state = run_state_path.read_text(encoding="utf-8")
             for key, expected in phases.items():
@@ -114,15 +150,17 @@ def main() -> int:
                         f"RUN_STATE.md is out of sync with state.toml phase {key}: {expected}"
                     )
 
-    for relative in NAV_FILES:
+    for relative in nav_files:
         source = ROOT / relative
         if not source.is_file():
             continue
-        for target in LINK_RE.findall(source.read_text(encoding="utf-8")):
-            target = target.strip().split("#", 1)[0].split("?", 1)[0]
-            if not target or target.startswith(("http://", "https://", "mailto:", "tel:")):
+        content = re.sub(r"```[\\s\\S]*?```", "", source.read_text(encoding="utf-8"))
+        for match in LINK_RE.findall(content):
+            target = match.strip().split(maxsplit=1)[0].strip("<>")
+            target = target.split("#", 1)[0].split("?", 1)[0]
+            if not target or target.startswith(("#", "http://", "https://", "mailto:", "tel:", "data:")):
                 continue
-            resolved = (source.parent / target).resolve()
+            resolved = (ROOT / target.lstrip("/")).resolve() if target.startswith("/") else (source.parent / target).resolve()
             if not resolved.exists():
                 errors.append(f"broken local link in {relative}: {target}")
 
@@ -132,9 +170,9 @@ def main() -> int:
         return 1
 
     print(
-        f"Documentation validation passed: {len(REQUIRED_FILES)} required files, "
-        f"{len(LINE_BUDGETS)} line budgets, TOML/Markdown state synchronization, "
-        f"{len(NAV_FILES)} navigation files."
+        f"Documentation validation passed: {len(required_files)} required files, "
+        f"{len(line_budgets)} line budgets, active run {active_run}, "
+        f"TOML/Markdown state synchronization and {len(nav_files)} navigation files."
     )
     return 0
 
