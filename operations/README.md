@@ -18,6 +18,11 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 - Só promover um candidato ao registro mestre depois de confirmar identidade, atividade, presença digital e oportunidade observável. Usar um Company ID único; não manter dossiês duplicados.
 - A estrutura Company Solutions permanece DOCUMENTADA / NÃO ATIVADA; esta regra não autoriza pesquisa adicional, contato ou publicação.
 
+## Inteligência e métodos
+
+- [Skills especializadas](../PROMPT_VIVO/skills/README.md) — escrita natural e análise crítica de oportunidades.
+- [Sinais de mercado brasileiro — 2026](../PROMPT_VIVO/knowledge/OPPORTUNITY_SIGNALS_BRAZIL_2026.md) — pesquisa exploratória de gargalos operacionais, sem alterar o estado do piloto comercial.
+
 ## Referências estratégicas
 
 4. [Aprendizados de posicionamento e feedback do Reddit](REDDIT_POSITIONING_LEARNINGS.md) — análise crítica das publicações, regras de comunicação profissional, rascunhos revisados e links originais para reanálise futura.
