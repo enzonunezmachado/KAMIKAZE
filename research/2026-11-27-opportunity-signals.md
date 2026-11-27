@@ -110,3 +110,23 @@ Fontes adicionais: [Tintino — perfil e agendamento](https://www.embu.art.br/lu
 
 ---
 **Conclusão:** a próxima vantagem do Kamikaze não virá de adicionar mais um modelo de monetização ao quadro. Virá de identificar uma tarefa real, apresentar uma entrega pequena e descobrir se alguém paga por ela.
+
+
+## 5.1 Triagem cruzada — pet shops, oficinas e serviços locais (27/11/2026)
+
+A busca saiu do lote inicial de beleza para verificar se outros segmentos locais apresentam uma oportunidade mais clara. O resultado desta rodada também foi inconclusivo para qualificação: há negócios com presença digital bem estruturada e outros cuja presença pública aparece principalmente em diretórios. Diretório incompleto não comprova problema nem disposição a pagar.
+
+### Casos examinados
+
+- **Nino Pet Shop:** site próprio com catálogo pesquisável, produtos, serviços, links de WhatsApp por atendimento, informações de loja e leva-e-traz. O catálogo depende de JavaScript e o site orienta consultar valores/disponibilidade com a equipe; isso pode ser uma escolha operacional deliberada. Não é uma lacuna comprovada. Fonte: [site oficial](https://ninopetshop.com.br/).
+- **Q Pet Shop:** e-commerce próprio com categorias, produtos, preços, ofertas, carrinho e canais de atendimento. A oferta de catálogo/PDF seria redundante sem outra necessidade declarada. Fontes: [site oficial](https://qpetshop.com.br/) e [perfil local](https://www.embu.art.br/lugar/q-pet-shop-banho-e-tosa-pet-shop-veterinario).
+- **Pet Shop Makedasi:** diretório apresenta endereço, telefone, horários e Instagram; não foi auditado o Instagram nem confirmado um problema operacional. Estado: HOLD. Fonte: [perfil LocalDir](https://localdir.com.br/negocio/pet-shop-makedasi-4f8660).
+- **A Casa do Pet:** diretório apresenta telefone, endereço, horário e link para Instagram; sem evidência de lacuna ou de demanda. Estado: HOLD. Fonte: [perfil LocalDir](https://localdir.com.br/negocio/a-casa-do-pet-zw12xh).
+- **Frenecar Serviços Automotivos:** site próprio detalha serviços, diferenciais, orçamento, WhatsApp, vídeos e depoimentos. Uma vaga pública de técnico orçamentista descreve tarefas de avaliação, orçamento e registro em sistema, mas isso indica necessidade de contratação especializada, não uma tarefa que possamos oferecer com segurança. Excluir da oferta atual. Fontes: [site oficial](https://www.frenecaroficinaautomotiva.com.br/) e [vaga publicada](https://www.infojobs.com.br/vaga-de-tecnico-orcamentista-oficina-mecanica-em-sao-paulo__12227668.aspx).
+- **Watts Soluções Automotivas:** presença digital própria e avaliações públicas. Uma avaliação negativa menciona falha de comunicação num atendimento específico, mas uma reclamação isolada não prova um padrão, frequência ou abertura para comprar solução. Estado: HOLD; não abordar com base nesse comentário. Fonte: [perfil local](https://www.embu.art.br/lugar/watts-solucoes-automotivas-oficina-mecanica-em-embu-das-artes).
+
+### Decisão
+
+Nenhum dos negócios examinados foi qualificado. Não adicionar estes nomes ao ranking mestre nem preparar propostas. O sinal útil desta rodada é negativo: catálogo digital, site e orçamento/WhatsApp já são oferecidos por alguns negócios; por isso, a oferta genérica de menu/PDF/site continua sem diferencial demonstrado. A próxima etapa de maior valor é um experimento de descoberta autorizado com um responsável por negócio, perguntando como ele administra hoje uma tarefa concreta — não mais uma rodada ampla de diretórios.
+
+Fontes de descoberta complementar: [pet shops em Embu — LocalDir](https://localdir.com.br/embu-das-artes/petshops), [pet shops em Embu — Cylex](https://www.cylex.com.br/embu-das-artes/pet-shops/) e [serviços automotivos — guia local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/).
