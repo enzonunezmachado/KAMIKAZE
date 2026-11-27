@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="km-site-shell" data-km-custom-shell>
+  <header class="km-header">
+    <div class="km-header-inner">
+      <a class="km-brand" href="{{ base_url }}/" aria-label="Kamikaze — página inicial">
+        <span class="km-brand-mark" aria-hidden="true">K</span>
+        <span class="km-brand-name">KAMIKAZE<small>DIGITAL STUDIO</small></span>
+      </a>
+      <button class="km-mobile-toggle" type="button" data-menu-toggle aria-controls="km-navigation" aria-expanded="false">
+        <span class="km-visually-hidden">Abrir menu</span><span aria-hidden="true">☰</span>
+      </button>
+      <nav class="km-nav" id="km-navigation" data-menu aria-label="Navegação principal">
+        <a href="{{ base_url }}/">Início</a>
+        <a href="{{ base_url }}/solucoes/">Soluções</a>
+        <a href="{{ base_url }}/projetos/">Projetos</a>
+        <a href="{{ base_url }}/processo/">Processo</a>
+        <a class="km-nav-cta" href="{{ base_url }}/solucoes/">Vamos conversar <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <main class="km-main">
+    <div class="rst-content">
+      {{ page.content }}
+    </div>
+  </main>
+  <footer class="km-footer">
+    <div class="km-footer-inner">
+      <span>© <span data-current-year>2026</span> Kamikaze Digital Studio</span>
+      <span>Ideias digitais. Execução com propósito.</span>
+      <a href="{{ base_url }}/">Voltar ao início ↑</a>
+    </div>
+  </footer>
+</div>
+{% endblock %}
