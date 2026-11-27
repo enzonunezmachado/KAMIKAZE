@@ -2,9 +2,7 @@
 
 **Estado do módulo:** DOCUMENTADO / NÃO ATIVADO  
 **Estado comercial:** nenhum cliente deste módulo confirmado nesta estrutura  
-**Orçamento autorizado:** R$0  
-**Caixa informado pelo usuário:** R$50  
-**Dívida informada:** R$250  
+**Orçamento operacional autorizado:** R$0  
 **Última atualização:** 26/11/2026
 
 ## Painel
