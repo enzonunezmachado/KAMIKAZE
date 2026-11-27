@@ -3,6 +3,7 @@
 Este diretório contém a fonte do site demonstrativo do Kamikaze. O conteúdo é escrito em Markdown; o MkDocs o transforma em HTML estático.
 
 ## Como funciona
+
 - Configuração: [mkdocs.yml](../mkdocs.yml), na raiz do repositório.
 - Dependências: [requirements-docs.txt](../requirements-docs.txt).
 - Conteúdo: `docs/*.md`.
@@ -10,6 +11,7 @@ Este diretório contém a fonte do site demonstrativo do Kamikaze. O conteúdo �
 - Saída: `site/` (gerada; não editar manualmente).
 
 ## Governança
+
 - Não publicar o site sem autorização explícita.
 - Não inventar clientes, depoimentos, resultados, certificações ou cases.
 - Identificar exemplos fictícios e demos não implementadas.
