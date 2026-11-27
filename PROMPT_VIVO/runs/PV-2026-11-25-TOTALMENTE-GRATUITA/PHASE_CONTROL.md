@@ -4,11 +4,12 @@
 **Versão:** 1.1  
 **Escopo:** esta execução; modelo reutilizável para futuras runs.
 
-## Snapshot vigente — 26/11/2026
-- Foco atual registrado: `PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION` — IN_PROGRESS / CONTINUE.
-- PHASE_03.3 e PHASE_03.4 permanecem linhas paralelas abertas; PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2 IN_PROGRESS/CONTINUE.
-- PHASE_04_FEASIBILITY permanece QUEUED / NOT_STARTED.
-- O snapshot estruturado de referência está em `operations/state.toml`; este controlador documenta a justificativa do gate e a próxima ação permitida.
+## Snapshot vigente — 27/11/2026
+- Foco ativo do projeto: `FIRST_SALE_PILOT` — IN_PROGRESS / TEST.
+- Gate vigente: `TEST`.
+- PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
+- A pesquisa de afiliados não é prioridade e não deve ser retomada sem pergunta de decisão nova e evidência potencialmente útil.
+- O snapshot estruturado de referência está em `operations/state.toml`; registros posteriores neste arquivo são histórico da execução, não autorização para reabrir a pesquisa.
 
 ## Regra de interação
 Quando o usuário disser "próxima", "continua", "vai", "pode avançar" ou equivalente, interpretar como autorização para continuar o trabalho — não como obrigação de trocar o número da fase nem como aprovação automática de um gate factual.
