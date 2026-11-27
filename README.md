@@ -27,7 +27,7 @@ Use estes endereços quando precisar abrir o material em uma apresentação:
 
 Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber um link direto nesta seção assim que forem criadas e publicadas. Não inserir links para páginas ainda inexistentes ou não verificadas.
 
-> O endereço do GitHub Pages acima foi confirmado em uma implantação concluída com sucesso. A validação de qualidade da documentação ainda está separada e apresentou uma falha de sincronização do estado; isso não deve ser confundido com o resultado do deploy do Pages.
+> O endereço do GitHub Pages é o endereço público do projeto. A publicação do portfólio MkDocs depende do workflow `.github/workflows/deploy-pages.yml` e da origem do Pages configurada como GitHub Actions; consulte o histórico do workflow antes de considerar a versão atual publicada.
 
 ## Navegação principal
 
@@ -51,7 +51,7 @@ O estado é separado do histórico: `state.toml` é a referência estruturada; `
 - [Validador documental](scripts/validate_docs.py): verifica arquivos obrigatórios, limites de tamanho, links selecionados e sincronização TOML/Markdown.
 - [GitHub Actions](.github/workflows/docs-quality.yml): executa validação, build MkDocs e lint Markdown em push/PR.
 - [MkDocs](mkdocs.yml): gera um site estático a partir de arquivos Markdown.
-- [Fonte do portfólio demonstrativo](portfolio_site/README.md): conteúdo em Markdown; ainda não publicado e sem cases reais.
+- [Fonte do portfólio demonstrativo](portfolio_site/README.md): conteúdo em Markdown, publicado pelo workflow MkDocs quando o deploy estiver habilitado; sem cases reais.
 
 ## Regra comercial
 O projeto não deve construir ferramentas, sites ou automações apenas porque são tecnicamente possíveis. Antes, deve identificar comprador, problema, evidência de procura, alternativas, canal de aquisição, capacidade de entrega, riscos e critério de validação. Ideias do usuário devem ser registradas e avaliadas, não descartadas automaticamente por não terem surgido na pesquisa da IA.
