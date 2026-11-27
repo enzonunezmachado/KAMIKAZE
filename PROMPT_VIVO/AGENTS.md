@@ -13,6 +13,13 @@
 - `SESSION_LOG.md` é append-only; correções são novos eventos.
 - `SOURCE_LEDGER.md` registra fontes; `FINDINGS.md` registra síntese; nenhuma síntese substitui a fonte original.
 
+## Skills por tipo de tarefa
+
+- Para posts, mensagens, propostas, páginas e textos voltados a leitores, carregar `skills/human-writing/SKILL.md` e preservar a voz e os fatos do autor.
+- Para descoberta de gargalos, pesquisa de mercado, avaliação de ideias ou decisão de construir, carregar `skills/business-opportunity-intelligence/SKILL.md`.
+- Para pesquisa de oportunidades, consultar também `knowledge/OPPORTUNITY_SIGNALS_BRAZIL_2026.md` quando o recorte for pequenos negócios brasileiros; verificar validade e fontes antes de reutilizar números.
+- Skills são instruções, não agentes paralelos garantidos. Não alegar execução independente se o ambiente não fornecer essa capacidade.
+
 ## Antes de criar ou editar
 
 1. Leia o README da pasta de destino.
