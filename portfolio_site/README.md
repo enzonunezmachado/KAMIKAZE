@@ -7,8 +7,10 @@ Este diretório contém a fonte do site demonstrativo do Kamikaze. O conteúdo �
 - Configuração: [mkdocs.yml](../mkdocs.yml), na raiz do repositório.
 - Dependências: [requirements-docs.txt](../requirements-docs.txt).
 - Conteúdo: `docs/*.md`.
+- Identidade visual: `docs/assets/portfolio.css`, carregada por `extra_css`.
 - Build local: instalar as dependências e executar `mkdocs build --strict` a partir da raiz.
-- Saída: `site/` (gerada; não editar manualmente).
+- Servidor local com recarga automática: `mkdocs serve`.
+- Saída: `portfolio_site/site/` (gerada; não editar manualmente).
 
 ## Governança
 
