@@ -3,6 +3,7 @@
 Esta página será preenchida somente com serviços que tenham escopo, capacidade de entrega e preço revisados.
 
 ## Categorias em avaliação
+
 - Presença digital essencial.
 - Catálogo ou cardápio digital.
 - Formulários e fluxos simples de solicitação.
