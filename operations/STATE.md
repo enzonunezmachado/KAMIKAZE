@@ -1,35 +1,38 @@
 # Estado operacional — Kamikaze
 
-**Atualizado:** 26/11/2026  
-**Estado estruturado canônico:** [state.toml](state.toml)  
-**Última entrega substantiva:** [CURRENT_WORK.md](../PROMPT_VIVO/CURRENT_WORK.md)  
-**Execução ativa:** [PV-2026-11-25-TOTALMENTE-GRATUITA](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/README.md)
+**Atualizado:** 27/11/2026  
+**Estado estruturado da pesquisa:** [state.toml](state.toml)  
+**Prioridade comercial de curto prazo:** [Operação Primeira Venda](FIRST_SALE/README.md)  
+**Última entrega substantiva:** [CURRENT_WORK.md](../PROMPT_VIVO/CURRENT_WORK.md)
 
 ## Missão
 Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher antecipadamente nicho ou modelo. IA é alavanca de pesquisa e produção; não é proposta de valor por si só.
 
-## Estado atual
-- Execução: `PV-2026-11-25-TOTALMENTE-GRATUITA` — IN_PROGRESS.
-- Foco de pesquisa atual: `PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION` — IN_PROGRESS / CONTINUE.
-- Frentes paralelas: PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2, 03.3 e 03.4 IN_PROGRESS/CONTINUE.
-- PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
-- Linha empresarial: DOCUMENTADA / NÃO ATIVADA; nenhum lote ou contato iniciado.
-- Receita recebida: R$0. Despesas: R$0. Orçamento autorizado: R$0.
+## Prioridade atual
+- Operação Primeira Venda: INICIADA / TEST.
+- Meta: receber pelo menos R$140 até 08/12/2026.
+- Oferta em teste: menu digital simples de serviços e preços para pequenos negócios de beleza/barbearias.
+- Preço experimental: R$149; não validado.
+- Candidatos: lote inicial com 20 negócios locais, ainda não ranqueados nem qualificados.
+- Contatos realizados: 0. Propostas enviadas: 0. Clientes: 0. Receita recebida: R$0.
+- Orçamento autorizado: R$0. Nenhum gasto permitido.
 
-## Princípios e restrições vigentes
-- Pesquisa ampla; nenhuma oportunidade foi escolhida.
+## Pesquisa anterior preservada
+- Execução registrada: PV-2026-11-25-TOTALMENTE-GRATUITA.
+- Última fase de pesquisa registrada: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION.
+- PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2–03.5 permanecem no registro anterior; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
+- A pesquisa exploratória não é prioridade enquanto o piloto comercial estiver em andamento. Não avançar fases de pesquisa ou arquitetura sem uma pergunta que altere a operação.
+- Os gates da execução anterior não foram reescritos; a operação de primeira venda é um piloto paralelo.
+
+## Restrições
 - Não tratar intenção, anúncio, seleção, contratação, pagamento e recompra como equivalentes.
 - Não presumir acesso a ferramentas pagas, quotas ilimitadas ou capacidade de agentes gratuitos.
 - Não contratar, gastar, publicar, contatar, candidatar-se, fazer deploy ou assumir compromissos externos sem autorização explícita.
 - Preservar NEXUS e ATLAS como projetos separados.
-- Registrar ideias do usuário mesmo quando forem hipóteses ainda sem evidência; avaliar sem descartá-las por não terem sido previstas pela IA.
 
 ## Como retomar
-1. Leia `AGENTS.md` e `PROMPT_VIVO/BOOTSTRAP.md`.
-2. Consulte [CURRENT_WORK.md](../PROMPT_VIVO/CURRENT_WORK.md).
-3. Use [RUN_STATE.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_STATE.md) e [PHASE_CONTROL.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/PHASE_CONTROL.md) para fase e gate.
-4. O [RESUME_PACKET.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RESUME_PACKET.md) é resumo derivado, não fonte canônica.
-5. Para histórico, consulte [STATE_HISTORY.md](STATE_HISTORY.md) e [RUN_HISTORY.md](../PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/RUN_HISTORY.md).
-
-## Fonte de histórico
-Decisões antigas e atualizações detalhadas foram preservadas em [STATE_HISTORY.md](STATE_HISTORY.md). Não acrescentar diário ou rodadas neste arquivo; manter aqui somente o snapshot atual e atualizar quando o estado realmente mudar.
+1. Leia AGENTS.md e PROMPT_VIVO/BOOTSTRAP.md.
+2. Consulte PROMPT_VIVO/CURRENT_WORK.md.
+3. Para a operação comercial, comece por FIRST_SALE/README.md.
+4. Para o histórico da pesquisa, use PROMPT_VIVO/runs/PV-2026-11-25-TOTALMENTE-GRATUITA/ e state.toml.
+5. Para histórico, consulte STATE_HISTORY.md e RUN_HISTORY.
