@@ -3,6 +3,7 @@
 **Leitura obrigatória:** `README.md`, `CURRENT_WORK.md`, `ARCHITECTURE_GOVERNANCE.md` e `BOOTSTRAP.md` antes de operar o Prompt Vivo.
 
 ## Protocolo
+
 - `CURRENT_WORK.md` aponta a última entrega substantiva, não necessariamente a fase de pesquisa ativa.
 - `operations/STATE.md` identifica o RUN_ID e restrições do projeto.
 - `runs/<RUN_ID>/RUN_STATE.md` é a fonte canônica do estado da execução e da fase atual.
@@ -13,6 +14,7 @@
 - `SOURCE_LEDGER.md` registra fontes; `FINDINGS.md` registra síntese; nenhuma síntese substitui a fonte original.
 
 ## Antes de criar ou editar
+
 1. Leia o README da pasta de destino.
 2. Confirme que o arquivo tem função única e não duplica uma fonte canônica.
 3. Mantenha arquivos de entrada concisos; mova detalhes para documentos especializados e referencie-os.
@@ -21,4 +23,5 @@
 6. Execute o validador documental e corrija falhas relevantes.
 
 ## Controle humano
+
 O usuário define prioridades e aprova decisões subjetivas. Não descarte insights humanos por não aparecerem na pesquisa inicial. A IA pode pesquisar, estruturar, comparar, criticar e executar tarefas delimitadas; deve expor incertezas e pedir aprovação para decisões irreversíveis ou externas.
