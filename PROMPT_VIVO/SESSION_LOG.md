@@ -1,3 +1,13 @@
+### KAM-2026-11-27 — Workflow de deploy MkDocs para GitHub Pages
+- **Autorização:** usuário aprovou corrigir a automação e publicar o portfólio.
+- **Diagnóstico:** fonte do site MkDocs é `portfolio_site/docs`, saída `portfolio_site/site`; workflow anterior `docs-quality.yml` apenas validava e construía, não publicava. Histórico anterior indicava Pages por branch/Jekyll.
+- **Implementado:** `.github/workflows/deploy-pages.yml` com build `mkdocs build --strict`, artefato somente da saída MkDocs e deploy via `actions/deploy-pages`.
+- **Commit do workflow:** `05f6cb7c8662d7144350c142089b53709fd40779`.
+- **Pré-requisito:** Settings → Pages → Build and deployment → Source = GitHub Actions. O conector não oferece escrita para essa configuração administrativa; usuário precisa selecioná-la se ainda estiver em modo branch.
+- **Verificação:** consulta de status do commit retornou lista vazia; não foi possível confirmar execução, sucesso do build ou deploy. Não declarar publicação concluída até checar Actions e abrir o site.
+- **Referência técnica:** documentação oficial do GitHub sobre [workflows personalizados](https://docs.github.com/pt/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) e [fonte de publicação](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+- **Próximo passo:** usuário seleciona GitHub Actions em Settings → Pages; depois verificar o workflow e a página publicada.
+
 ### KAM-2026-11-27 — Base reutilizável de desenvolvimento web
 - **Pedido:** criar padrão para sites do Kamikaze com tema escuro, CSS/JavaScript organizados e instruções consultáveis pela IA.
 - **Entregue:** `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `web/templates/README.md`, `portfolio_site/docs/assets/kamikaze-base.css` e `portfolio_site/docs/assets/kamikaze.js`.
