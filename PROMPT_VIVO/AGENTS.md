@@ -1,6 +1,6 @@
 # AGENTS — Prompt Vivo
 
-**Leitura obrigatória:** `README.md`, `CURRENT_WORK.md`, `ARCHITECTURE_GOVERNANCE.md` e `BOOTSTRAP.md` antes de operar o Prompt Vivo.
+**Leitura obrigatória:** `README.md`, `ARCHITECTURE_GOVERNANCE.md` e `BOOTSTRAP.md` antes de operar o Prompt Vivo. O estado e a próxima ação vêm de `operations/state.toml` e das fontes canônicas da frente ativa; `CURRENT_WORK.md` está obsoleto.
 
 ## Protocolo
 
