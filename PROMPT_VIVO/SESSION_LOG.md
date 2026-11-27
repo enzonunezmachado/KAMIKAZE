@@ -1,3 +1,10 @@
+### KAM-2026-11-27 — Validador documental orientado ao RUN_ID ativo
+- **Problema:** `scripts/validate_docs.py` apontava sempre para `PV-2026-11-25-TOTALMENTE-GRATUITA`, mesmo que `operations/state.toml` passasse a indicar outra execução.
+- **Correção:** o script agora lê `project.active_run`, valida o formato do ID e deriva os arquivos obrigatórios, budgets e checks do diretório ativo. A checagem de links inclui as entradas comerciais e web.
+- **Validação:** workflow `45940323180` PASS: validador documental, MkDocs strict e markdownlint.
+
+---
+
 ### KAM-2026-11-27 — Correção estrutural do container do portfólio
 - **Diagnóstico:** `.km-main` e `.rst-content` aplicavam max-width e padding em camadas aninhadas, estreitando o conteúdo em relação ao eixo interno do header/footer.
 - **Correção:** `.km-main` passou a ser wrapper full-width sem padding; `.rst-content` ficou como único container central; header e footer receberam largura explícita de 100%.
