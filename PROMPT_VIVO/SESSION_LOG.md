@@ -1,3 +1,12 @@
+### KAM-2026-11-27 — Correção estrutural do container do portfólio
+- **Diagnóstico:** `.km-main` e `.rst-content` aplicavam max-width e padding em camadas aninhadas, estreitando o conteúdo em relação ao eixo interno do header/footer.
+- **Correção:** `.km-main` passou a ser wrapper full-width sem padding; `.rst-content` ficou como único container central; header e footer receberam largura explícita de 100%.
+- **Validador:** `scripts/validate_portfolio_build.py` agora verifica os três assets, shell em todas as páginas, largura total, container compartilhado, breakpoint mobile, reduced motion e comportamento de navegação.
+- **Metodologia:** `web/AI_PROMPT_SCRIPTS.md` recebeu regra reutilizável contra max-width/padding duplicados.
+- **CI/deploy:** documentação `45940140564` PASS; deploy Pages `45940140491` PASS. Inspeção visual em navegador ainda pendente.
+
+---
+
 ### KAM-2026-11-27 — Auditoria de consistência e recuperação da CI
 - **Escopo:** revisão da árvore completa do repositório, governança, estado, operação comercial, pesquisa, skills, site, scripts e workflows.
 - **Achados principais:** divergência de última entrega entre TOML e CURRENT_WORK; BOOTSTRAP com caminho relativo incorreto; link para demo inexistente; README do Prompt Vivo com tabela malformada; skills/brief com meta antiga; caminho `experiments/` inexistente em uma skill; CI de documentação falhando por sincronização e lint; repositório público contendo contexto pessoal/financeiro em arquivos operacionais.
