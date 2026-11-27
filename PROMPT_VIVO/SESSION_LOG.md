@@ -176,3 +176,8 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - **Decisão:** nenhum negócio foi qualificado; não criar ranking nem proposta. Parar pesquisa ampla de diretórios. A próxima evidência necessária depende de conversa de descoberta com responsável, sujeita à autorização do usuário.
 - **Fontes:** relatório atualizado em `research/2026-11-27-opportunity-signals.md`.
 - **Estado comercial:** nenhum contato, proposta, contratação, receita ou gasto.
+
+### KAM-2026-11-27 — Roteiro de descoberta comercial
+- Criado roteiro curto de conversa para entender tarefas recorrentes antes de apresentar uma oferta.
+- O roteiro pergunta pelo processo atual, frequência e retrabalho; não presume dor nem apresenta o PDF/menu como solução.
+- Incluídos critérios de parada e limites de privacidade. Nenhum contato foi realizado; uso depende de autorização explícita.
