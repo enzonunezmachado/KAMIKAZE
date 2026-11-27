@@ -32,3 +32,11 @@ Antes de qualquer trabalho, leia este arquivo e o README.md da raiz.
 ## Limites de contexto
 
 Não carregue todos os arquivos por padrão. Leia primeiro índices e resumos; abra documentos detalhados sob demanda conforme a tarefa.
+
+
+## Proteção contra regressão do portfólio
+
+- O layout público do portfólio é controlado por `portfolio_site/theme/main.html`; CSS isolado não substitui estrutura e navegação.
+- Toda alteração de tema, templates, páginas ou pipeline do portfólio deve manter `custom_dir: portfolio_site/theme` e a etapa `python scripts/validate_portfolio_build.py` no workflow de Pages.
+- Não remover nem afrouxar a validação automatizada para fazer uma publicação passar. Corrigir a causa da falha.
+- Build concluída não equivale a inspeção visual. Nunca declarar que a aparência foi conferida sem evidência de navegador ou captura de tela.
