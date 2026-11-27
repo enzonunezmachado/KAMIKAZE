@@ -54,7 +54,7 @@ Nenhum candidato foi contatado. Nenhum comprador demonstrou interesse. Nenhuma p
 
 Validar nos candidatos se já existe uma lista/menu de serviços e preços e se há uma lacuna real. Só preparar uma amostra demonstrativa fictícia quando houver um candidato com fit e interesse em avaliá-la. Não assumir que a ausência de um link encontrado significa ausência de catálogo.
 
-**Hipótese alternativa em observação, não aprovada:** organização de uma rotina/base específica em planilha. Há pedidos reais em Workana/99Freelas, mas a categoria genérica tem competição alta; não trocar a oferta atual por digitação ou PDF→Excel genérico. Só considerar um teste se aparecer um problema delimitado, capacidade de entrega e comprador potencial. A evidência está em `research/2026-11-27-opportunity-signals.md`.
+**Hipótese alternativa em observação, não aprovada:** organização de uma rotina/base específica em planilha. Há pedidos reais em Workana/99Freelas, mas a categoria genérica tem competição alta; não trocar a oferta atual por digitação ou PDF→Excel genérico. Só considerar um teste se aparecer um problema delimitado, capacidade de entrega e comprador potencial. A evidência está no [relatório de sinais de mercado](../../research/2026-11-27-opportunity-signals.md).
 
 ## Regras de parada
 
