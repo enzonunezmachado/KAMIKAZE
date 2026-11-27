@@ -38,7 +38,12 @@ Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber
 | Estado operacional | RUN_ID, fase/gate, orçamento e limites | [operations/STATE.md](operations/STATE.md) |
 | Estado estruturado | Snapshot verificável por scripts/CI | [state.toml](operations/state.toml) |
 | Último trabalho | Última entrega substantiva e próxima retomada | [CURRENT_WORK.md](PROMPT_VIVO/CURRENT_WORK.md) |
-| Company Solutions | Lotes de empresas, ranking, dossiês, contatos, projetos e financeiro | [README](operations/COMPANY_SOLUTIONS/README.md) |
+| Primeira venda | Oferta, candidatos e estado do piloto comercial | [Operação](operations/FIRST_SALE/README.md) |
+| Company Solutions | Motor de ranking empresarial documentado, ainda não ativado | [README](operations/COMPANY_SOLUTIONS/README.md) |
+| Pesquisa histórica | Lotes de pesquisa, ferramentas e evidências exploratórias | [Lote 001](research/RESEARCH_BATCH_001.md) |
+| Backlog | Hipóteses ainda não aprovadas | [IDEA_BACKLOG](opportunities/IDEA_BACKLOG.md) |
+| Brief | Visão, escopo e metas do projeto | [BRIEF](docs/BRIEF.md) |
+| Evolução | Histórico de mudanças de direção e decisões | [EVOLUTION_LOG](CHANGELOG/EVOLUTION_LOG.md) |
 | Conhecimento | Pesquisas reutilizáveis e módulos especializados | [Knowledge index](PROMPT_VIVO/knowledge/README.md) |
 | Execuções | Pesquisa separada por RUN_ID | [Runs index](PROMPT_VIVO/runs/README.md) |
 | **Desenvolvimento web** | Padrão visual dark, CSS/JS reutilizáveis, starter e guia para IA | [web/README.md](web/README.md) |
