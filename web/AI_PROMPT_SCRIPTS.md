@@ -6,6 +6,7 @@
 
 - **Hierarquia:** uma mensagem principal por tela; título, apoio e ação devem ter pesos visuais distintos.
 - **Composição:** alinhar elementos a um grid; variar blocos e proporções; não transformar tudo em cards.
+- **Largura:** fundos e faixas podem ocupar 100%; aplique max-width e padding horizontal uma única vez no container interno. Evite wrappers aninhados com limites e paddings duplicados.
 - **Espaço:** usar espaçamento consistente; agrupar o que pertence junto e separar o que é diferente.
 - **Tipografia:** no máximo 2 famílias; poucos pesos; títulos com escala clara; parágrafos com largura confortável.
 - **Cor:** definir fundo, superfície, texto, texto secundário, borda e uma cor de ação; checar contraste real.
@@ -56,7 +57,7 @@ Altere o mínimo de arquivos necessário e explique decisões não óbvias.
 ```text
 Revise a página como designer, usuário e QA — não apenas como programador.
 Verifique desktop e mobile: hierarquia, alinhamento, largura, espaçamento, tipografia,
-contraste, consistência, densidade, cortes, overflow, navegação e ação principal.
+contraste, consistência, densidade, cortes, overflow, navegação e ação principal. Confirme que header, conteúdo e footer compartilham o mesmo eixo interno, sem container/padding duplicado.
 Teste teclado, foco, links, botões, formulários e estados interativos.
 Liste somente problemas observáveis, classificados por impacto: bloqueador, alto, médio, baixo.
 Não declare inspeção visual se não abriu a página em navegador/captura real.
