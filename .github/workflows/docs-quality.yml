@@ -33,6 +33,7 @@ jobs:
           globs: |
             AGENTS.md
             PROMPT_VIVO/AGENTS.md
+            PROMPT_VIVO/README.md
             PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md
             PROMPT_VIVO/BOOTSTRAP.md
             PROMPT_VIVO/CURRENT_WORK.md
@@ -42,6 +43,12 @@ jobs:
             scripts/README.md
             .github/README.md
             .github/workflows/README.md
+            README.md
+            docs/BRIEF.md
+            PROMPT_VIVO/README.md
+            web/README.md
+            web/AI_PROMPT_SCRIPTS.md
+            operations/FIRST_SALE/README.md
             portfolio_site/README.md
             portfolio_site/docs/*.md
             PROMPT_VIVO/PHASES/README.md
