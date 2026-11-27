@@ -10,7 +10,7 @@ Repositório: https://github.com/enzonunezmachado/KAMIKAZE
 
 **Retomada obrigatória:**
 1. Leia `AGENTS.md` e `README.md` da raiz.
-2. Leia `PROMPT_VIVO/AGENTS.md`, `PROMPT_VIVO/README.md`, `CURRENT_WORK.md` e `ARCHITECTURE_GOVERNANCE.md`.
+2. Leia `PROMPT_VIVO/AGENTS.md`, `PROMPT_VIVO/README.md` e `ARCHITECTURE_GOVERNANCE.md`; ignore CURRENT_WORK.md, descontinuado.
 3. Execute integralmente `PROMPT_VIVO/BOOTSTRAP.md`; navegue pelos READMEs antes de abrir pastas.
 4. Identifique RUN_ID e estado em `operations/state.toml` + `operations/STATE.md`.
 5. Leia README da execução, RESUME_PACKET, RUN_STATE e PHASE_CONTROL. Estado/gate canônicos prevalecem sobre o resumo.
