@@ -7,11 +7,11 @@
 1. Leia `AGENTS.md` e `README.md` da raiz.
 2. Leia `PROMPT_VIVO/AGENTS.md` e `PROMPT_VIVO/README.md`.
 3. Leia `PROMPT_VIVO/CURRENT_WORK.md` e `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`.
-4. Leia `PROMPT_VIVO/OPERATING_PRINCIPLES.md`, este arquivo e `CONTINUITY_SYSTEM.md`.
+4. Leia `PROMPT_VIVO/OPERATING_PRINCIPLES.md`, este arquivo e `PROMPT_VIVO/CONTINUITY_SYSTEM.md`.
 5. Leia `operations/README.md`, `operations/state.toml` e `operations/STATE.md`.
 6. Leia `PROMPT_VIVO/runs/README.md`; identifique o RUN_ID em state.toml/STATE.
-7. Leia `runs/<RUN_ID>/README.md` antes de abrir arquivos da execução.
-8. Leia `RESUME_PACKET.md`, depois `RUN_STATE.md` e `PHASE_CONTROL.md`.
+7. Leia `PROMPT_VIVO/runs/<RUN_ID>/README.md` antes de abrir arquivos da execução.
+8. Leia `PROMPT_VIVO/runs/<RUN_ID>/RESUME_PACKET.md`, depois `RUN_STATE.md` e `PHASE_CONTROL.md`.
 9. Abra plano, arquitetura, fontes, achados, handoff e fase somente conforme a tarefa.
 10. Ao decidir entre pesquisar mais ou testar, aplique os critérios de `OPERATING_PRINCIPLES.md`, `QUALITY_GATE.md` e `RESEARCH_METHOD.md`.
 
