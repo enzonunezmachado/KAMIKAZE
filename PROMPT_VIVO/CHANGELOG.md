@@ -1,3 +1,13 @@
+## 2026-11-27 — playbooks compactos de design e criação web para IA
+
+- Criado `web/AI_PROMPT_SCRIPTS.md`: regras práticas de hierarquia, composição, espaço, tipografia, cor, identidade, responsividade, acessibilidade e seis prompts reutilizáveis para delimitar, direcionar, construir, auditar, corrigir e fechar tarefas.
+- Os critérios sintetizam os cursos e referências gratuitos já pesquisados (4 The Creatives, Canva Design School, HubSpot Academy, Cursa, web.dev, MDN, freeCodeCamp, CodigoZero, RNP e eMAG), convertendo fundamentos em decisões operacionais em vez de reproduzir aulas.
+- Atualizado `web/README.md` para incluir os playbooks na navegação e orientar uso seletivo, sem colar todos os roteiros em cada tarefa.
+- A base continua subordinada ao guia web existente; nenhuma nova ferramenta, framework, assinatura ou dependência foi adicionada.
+- Persistência confirmada nos commits `028c19f` (playbooks) e `835ef29` (índice). Validação de CI ainda não consultada.
+
+---
+
 ## 2026-11-27 — deploy do portfólio MkDocs pelo GitHub Actions
 
 ### Motivo
