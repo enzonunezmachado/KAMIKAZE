@@ -21,7 +21,7 @@
 
 | Informação | Fonte canônica | Documentos derivados |
 | --- | --- | --- |
-| Última entrega substantiva | `PROMPT_VIVO/CURRENT_WORK.md` | Atalhos e logs apontam para ela |
+| Prioridade e próxima ação entre frentes | `operations/state.toml` (`[work]`, `[workstreams.*]`) | `operations/STATE.md` explica; cada frente mantém seus detalhes na fonte operacional |
 | Execução ativa, recursos e restrições do projeto | `operations/STATE.md` | README e handoff resumem |
 | Estado da fase/execução | `runs/<RUN_ID>/RUN_STATE.md` | RESUME_PACKET aponta |
 | Gate e próxima ação permitida | `runs/<RUN_ID>/PHASE_CONTROL.md` | RESUME_PACKET aponta |
@@ -42,7 +42,7 @@ A leitura segue a navegação por níveis:
 
 1. Raiz: `AGENTS.md` → `README.md`.
 2. Sistema: `PROMPT_VIVO/AGENTS.md` → `PROMPT_VIVO/README.md`.
-3. Ponteiro e regras: `CURRENT_WORK.md` → este documento → `BOOTSTRAP.md`.
+3. Regras: este documento → `BOOTSTRAP.md`; `CURRENT_WORK.md` está obsoleto e não participa da retomada.
 4. Execução: `operations/README.md` → `operations/STATE.md`.
 5. Pasta de execução: `runs/README.md` → `runs/<RUN_ID>/README.md`.
 6. Resumo da execução: `RESUME_PACKET.md`; em seguida ler RUN_STATE e PHASE_CONTROL para estado/gate canônicos.
@@ -125,7 +125,7 @@ Quando surgir uma nova necessidade:
 
 **Não criar mais documentação como resposta automática a todo problema documental. Primeiro tentar corrigir a responsabilidade e a navegação existentes.**
 
-## 10. Referências externas e decisões de adaptação
+## 10. Descontinuação do ponteiro manual\n\n`PROMPT_VIVO/CURRENT_WORK.md` foi mantido apenas como aviso histórico/redirect. Não é fonte de estado, não deve ser atualizado e não deve ser lido durante bootstrap. A prioridade entre frentes e a próxima ação curta vivem em `operations/state.toml`; os detalhes e gates continuam nas fontes canônicas de cada frente. Isso elimina a obrigação de sincronizar um resumo manual com várias linhas de trabalho.\n\n## 11. Referências externas e decisões de adaptação
 
 - [GitHub Spec Kit](https://github.github.com/spec-kit/): adotar constituição/princípios, artefatos por etapa, clarificação, tarefas dependenciadas, análise de consistência e convergência. Não importar o fluxo inteiro para pesquisa comercial sem adaptar.
 - [BMAD Method](https://www.bmadcode.com/method): estudar papéis especializados, workflows, entregáveis e gates. Usar especialistas para tarefas delimitadas; não multiplicar agentes em exploração subjetiva sem benefício demonstrado.
