@@ -1,9 +1,9 @@
 # Operação Primeira Venda — piloto local
 
-**Estado:** INICIADA / HIPÓTESE COMERCIAL NÃO VALIDADA  
-**Data de início:** 27/11/2026  
-**Meta financeira:** receber pelo menos R$150 até 08/12/2026  
-**Orçamento autorizado:** R$0  
+**Estado:** INICIADA / HIPÓTESE COMERCIAL NÃO VALIDADA
+**Data de início:** 27/11/2026
+**Meta financeira:** receber pelo menos R$150 até 08/12/2026
+**Orçamento autorizado:** R$0
 **Escopo:** uma oferta simples, um segmento inicial, aquisição manual e entrega delimitada.
 
 ## Objetivo
@@ -47,6 +47,7 @@ Não pontuar candidato apenas por avaliações, tamanho, endereço ou quantidade
 - `DISCARD`: já existe solução satisfatória ou a necessidade está fora do escopo.
 
 Uma lista de candidatos não é pipeline de vendas. Só promover ao ranking mestre após cumprir os critérios de QUALIFIED. A conversa de descoberta, se autorizada, deve perguntar primeiro como o negócio resolve a tarefa hoje, o que gera mais trabalho e se uma solução delimitada teria valor. Não começar apresentando o produto nem presumir a resposta.
+
 ## Estado comercial inicial
 
 Nenhum candidato foi contatado. Nenhum comprador demonstrou interesse. Nenhuma proposta foi enviada. Receita recebida: R$0.
@@ -67,7 +68,6 @@ Validar nos candidatos se já existe uma lista/menu de serviços e preços e se 
 ## Métricas
 
 Registrar separadamente: candidatos pesquisados, candidatos qualificados, abordagens autorizadas, respostas, conversas com necessidade identificada, propostas, aceites, entregas, valores recebidos e custos.
-
 
 ## Roteiro de descoberta — usar somente após autorização
 
