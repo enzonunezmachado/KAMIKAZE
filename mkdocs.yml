@@ -12,7 +12,11 @@ theme:
   name: readthedocs
 
 extra_css:
+  - assets/kamikaze-base.css
   - assets/portfolio.css
+
+extra_javascript:
+  - assets/kamikaze.js
 
 nav:
   - Início: index.md
