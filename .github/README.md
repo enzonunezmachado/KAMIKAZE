@@ -10,4 +10,5 @@ Esta pasta contém configuração de automação executada pelo GitHub, não pro
 
 - Workflows devem usar permissões mínimas.
 - Não inserir secrets em logs ou arquivos.
-- A automação documental é somente leitura; não publica o site nem altera o conteúdo do repositório.
+- O workflow documental é somente leitura; o workflow de Pages constrói e publica somente o artefato estático gerado pelo MkDocs.
+- A publicação do site é uma ação externa automatizada, limitada ao conteúdo de `portfolio_site/docs/` e à configuração do MkDocs.
