@@ -1,3 +1,11 @@
+## 2026-11-27 — auditoria geral de coerência do Kamikaze
+
+**Entrada:** o usuário pediu uma auditoria ponta a ponta para entender como o repositório funciona, encontrar conflitos entre documentos, instruções, módulos e workflows, e deixar o sistema completo, conciso e pronto para uso sem criar documentação redundante.
+
+**Impacto:** auditar árvore, fontes canônicas, estado, memória, pesquisa, operação comercial, skills, scripts, site e CI; corrigir divergências objetivas e registrar bloqueios que dependem de decisão humana.
+
+**Status:** EM EXECUÇÃO.
+
 ## 2026-11-26 — Preocupação com excesso de pesquisa e momento de testar
 
 **Entrada:** o usuário questionou se o Kamikaze pode estar pensando/pesquisando demais em vez de colocar uma hipótese suficientemente preparada em prática. Não quer testar ideias aleatórias sem critério, mas também não quer esperar por uma certeza impossível nem confundir pesquisa pública com prova de conversão.
