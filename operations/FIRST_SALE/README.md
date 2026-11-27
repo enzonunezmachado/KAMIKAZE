@@ -28,6 +28,24 @@ O arquivo PROSPECT_CANDIDATES_001.md é uma fila de descoberta: os nomes ainda n
 - **Aquisição:** pesquisa manual e abordagem individual somente após aprovação do usuário.
 - **Entrega:** manual, sem software complexo, sem custos e sem promessas de aumento de vendas.
 
+## Protocolo de qualificação — antes de ranquear
+
+Não pontuar candidato apenas por avaliações, tamanho, endereço ou quantidade de seguidores. Para cada negócio, registrar evidência verificável:
+
+1. **Identidade e atividade:** confirmar que o negócio existe e está ativo.
+2. **Solução atual:** localizar e abrir menu, site, perfil, plataforma ou material que já usa. Registrar o que funciona; não presumir ausência por não encontrar um link.
+3. **Lacuna observável:** anotar informação ausente, contraditória, desatualizada, difícil de localizar ou tarefa manual repetitiva. Distinguir fato observado de hipótese.
+4. **Impacto e frequência:** só marcar como relevante quando houver declaração do responsável ou evidência explícita; não inventar perda de vendas ou retrabalho.
+5. **Fit de entrega:** confirmar que a necessidade cabe no escopo, nas ferramentas, no prazo e na capacidade atual, sem gasto ou integração arriscada.
+6. **Canal apropriado:** identificar canal comercial público e legítimo. Não usar telefone pessoal nem abordar sem autorização.
+
+**Estados:**
+- `HOLD`: falta evidência importante; não ranquear.
+- `QUALIFIED`: identidade, lacuna observável, fit e canal confirmados.
+- `PRIORITY`: além de qualificado, há impacto/frequência claros e a solução atual não resolve bem.
+- `DISCARD`: já existe solução satisfatória ou a necessidade está fora do escopo.
+
+Uma lista de candidatos não é pipeline de vendas. Só promover ao ranking mestre após cumprir os critérios de QUALIFIED. A conversa de descoberta, se autorizada, deve perguntar primeiro como o negócio resolve a tarefa hoje, o que gera mais trabalho e se uma solução delimitada teria valor. Não começar apresentando o produto nem presumir a resposta.
 ## Estado comercial inicial
 
 Nenhum candidato foi contatado. Nenhum comprador demonstrou interesse. Nenhuma proposta foi enviada. Receita recebida: R$0.
