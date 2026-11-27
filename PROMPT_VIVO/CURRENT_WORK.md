@@ -25,7 +25,7 @@
 
 A frente comercial de primeira venda continua prioritária. A criação desta base web foi uma solicitação explícita do usuário, mas não substitui nem valida a operação comercial.
 
-- Meta financeira: receber pelo menos R$140 até 08/12/2026.
+- Meta financeira: receber pelo menos R$150 até 08/12/2026.
 - Orçamento operacional autorizado: R$0.
 - Estado comercial: nenhum contato, conversa, proposta, contratação ou receita recebida.
 
@@ -41,7 +41,7 @@ A frente comercial de primeira venda continua prioritária. A criação desta ba
 
 - Segmento inicial: barbearias, salões e estúdios independentes de beleza em Embu das Artes e entorno.
 - Serviço: organizar até 25 serviços/preços em um PDF simples pronto para WhatsApp e uma planilha editável.
-- Preço experimental: R$149, 50% para iniciar e 50% na entrega.
+- Preço experimental: R$150, 50% para iniciar e 50% na entrega.
 - Prazo proposto: até 2 dias úteis após receber todos os dados.
 - A oferta e o preço são hipóteses; não há demanda validada.
 - Não construir site, sistema de agendamento, CRM, automação ou pacote recorrente antes de uma venda.
@@ -67,3 +67,11 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Portfólio: `.km-main` agora é wrapper full-width sem padding; `.rst-content` é o único container central com max-width/padding, alinhado ao header/footer. O validador `scripts/validate_portfolio_build.py` verifica assets, shell, largura total, eixo dos containers, breakpoint mobile e reduced motion.
 - Deploy da correção: workflow `45940140491` PASS (build, validador de shell/assets, upload e deploy). A inspeção visual real ainda não foi concluída; não declarar alinhamento visual confirmado sem navegador/captura.
 - Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados das cópias atuais do módulo Company Solutions e da política de orçamento, mas versões anteriores continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
+
+
+## Reorientação de mercado — 27/11/2026
+
+- Branch de segurança criada: `archive/pre-autonomous-review-2026-11-27`.
+- Pesquisa recente sintetizada em [sinais de mercado](../research/2026-11-27-opportunity-signals.md): foco em tarefas operacionais concretas; afiliados estacionados.
+- `operations/state.toml`, RUN_STATE, PHASE_CONTROL e RESUME_PACKET reconciliados: pesquisa em HOLD; FIRST_SALE_PILOT é a prioridade ativa.
+- Meta atual: R$150 recebidos até 08/12/2026; preço experimental ajustado para R$150. Nenhum contato ou venda foi realizado.
