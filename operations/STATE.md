@@ -10,7 +10,7 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 
 ## Prioridade atual
 - Operação Primeira Venda: INICIADA / TEST.
-- Meta: receber pelo menos R$140 até 08/12/2026.
+- Meta: receber pelo menos R$150 até 08/12/2026.
 - Oferta em teste: menu digital simples de serviços e preços para pequenos negócios de beleza/barbearias.
 - Preço experimental: R$149; não validado.
 - Candidatos: lote inicial com 20 negócios locais, ainda não ranqueados nem qualificados.
@@ -19,9 +19,9 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 
 ## Pesquisa anterior preservada
 - Execução registrada: PV-2026-11-25-TOTALMENTE-GRATUITA.
-- Última fase de pesquisa registrada: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION.
-- PHASE_03.1 PAUSED/CONTINUE; PHASE_03.2–03.5 permanecem no registro anterior; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
-- A pesquisa exploratória não é prioridade enquanto o piloto comercial estiver em andamento. Não avançar fases de pesquisa ou arquitetura sem uma pergunta que altere a operação.
+- Última fase histórica de pesquisa: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION; pesquisa agora em HOLD.
+- PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
+- A execução de pesquisa/afiliados está pausada. A prioridade ativa é FIRST_SALE_PILOT — TEST. Não retomar pesquisa exploratória sem uma pergunta que possa alterar uma decisão operacional.
 - Os gates da execução anterior não foram reescritos; a operação de primeira venda é um piloto paralelo.
 
 ## Restrições
