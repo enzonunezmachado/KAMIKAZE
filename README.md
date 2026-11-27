@@ -10,6 +10,23 @@ Operação independente para descobrir, validar, produzir e comercializar oportu
 - Nenhuma publicação, mensagem, candidatura, contato, deploy ou compromisso externo sem autorização explícita.
 - NEXUS e ATLAS são projetos separados.
 
+## Acessos rápidos — apresentação
+
+Use estes endereços quando precisar abrir o material em uma apresentação:
+
+| Página | Abrir |
+|---|---|
+| **Portfólio / site público** | [Abrir no GitHub Pages](https://enzonunezmachado.github.io/KAMIKAZE/) |
+| Código-fonte da página inicial | [index.md](portfolio_site/docs/index.md) |
+| Estilos visuais do portfólio | [portfolio.css](portfolio_site/docs/assets/portfolio.css) |
+| Repositório completo | [Abrir no GitHub](https://github.com/enzonunezmachado/KAMIKAZE) |
+
+### Demonstrações e páginas futuras
+
+Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber um link direto nesta seção assim que forem criadas e publicadas. Não inserir links para páginas ainda inexistentes ou não verificadas.
+
+> O endereço do GitHub Pages acima foi confirmado em uma implantação concluída com sucesso. A validação de qualidade da documentação ainda está separada e apresentou uma falha de sincronização do estado; isso não deve ser confundido com o resultado do deploy do Pages.
+
 ## Navegação principal
 
 | Área | Finalidade | Entrada |
