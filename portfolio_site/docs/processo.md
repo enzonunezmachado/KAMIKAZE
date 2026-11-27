@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <section class="km-page-intro">
   <span class="km-eyebrow">DO PROBLEMA À ENTREGA</span>
   <h1>Um processo simples, com expectativas claras.</h1>
