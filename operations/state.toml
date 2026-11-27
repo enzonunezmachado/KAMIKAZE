@@ -6,15 +6,15 @@ last_work_status = "VALIDADORES DINÂMICOS; PORTFÓLIO CORRIGIDO E DEPLOYADO"
 
 [execution]
 status = "IN_PROGRESS"
-active_phase = "PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION"
-active_gate = "CONTINUE"
+active_phase = "FIRST_SALE_PILOT"
+active_gate = "TEST"
 
 [phases]
-phase_03_1 = "PAUSED / CONTINUE"
-phase_03_2 = "IN_PROGRESS / CONTINUE"
-phase_03_3 = "IN_PROGRESS / CONTINUE"
-phase_03_4 = "IN_PROGRESS / CONTINUE"
-phase_03_5 = "IN_PROGRESS / CONTINUE"
+phase_03_1 = "PAUSED / RESEARCH PARKED"
+phase_03_2 = "PAUSED / RESEARCH PARKED"
+phase_03_3 = "PAUSED / RESEARCH PARKED"
+phase_03_4 = "PAUSED / RESEARCH PARKED"
+phase_03_5 = "PAUSED / RESEARCH PARKED"
 phase_04 = "QUEUED / NOT_STARTED"
 
 [finance]
