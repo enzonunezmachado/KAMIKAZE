@@ -1,6 +1,8 @@
 # Memory Handoff — TOTALMENTE GRATUITA
 
-Execução: PV-2026-11-25-TOTALMENTE-GRATUITA. Objetivo: descobrir oportunidades digitais com IA, custo R$0 e meta contextual de R$150 efetivamente recebidos até 06/12/2026.
+> **Contexto ampliado, não estado canônico.** Este documento preserva detalhes históricos da pesquisa. Para fase/gate atuais, prevalecem `RUN_STATE.md`, `PHASE_CONTROL.md` e `operations/state.toml`. A prioridade comercial vigente está em `operations/FIRST_SALE/README.md`.
+
+Execução: PV-2026-11-25-TOTALMENTE-GRATUITA. Objetivo original: descobrir oportunidades digitais com IA e custo R$0. A meta financeira original foi substituída pelo piloto comercial vigente: R$140 recebidos até 08/12/2026.
 
 ## Novo chat
 Executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md primeiro. Reconstruir projeto, execução, pesquisa atual, fase, evidências, decisões e restrições. Incorporar comentários da conversa atual e registrar no USER_INPUT_LOG.md. Não pedir contexto já documentado nem alegar certeza total.
@@ -10,12 +12,13 @@ Executar PROMPT_VIVO/BOOTSTRAP.md e ler RESUME_PACKET.md primeiro. Reconstruir p
 - PHASE_01_LANDSCAPE: PASS WITH GAPS.
 - PHASE_02_DEMAND: encerrada para transição, PASS WITH GAPS.
 - PHASE_03_VALIDATION: encerrada para transição, PASS WITH GAPS; lacunas reavaliadas.
-- **PHASE_03.1_PURCHASE_EVIDENCE: IN_PROGRESS; gate CONTINUE.**
+- **PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION: IN_PROGRESS; gate CONTINUE.**
+- PHASE_03.1_PURCHASE_EVIDENCE: PAUSED / CONTINUE.
 - PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED; não houve teste operacional.
-- Nenhuma oportunidade aprovada, receita R$0, despesas R$0, nenhum experimento comercial.
-- Nenhum contato, proposta ou abordagem externa.
+- Nenhuma oportunidade da pesquisa exploratória foi validada; receita recebida R$0 e despesas R$0 nesta execução.
+- O piloto comercial paralelo está INICIADO / TEST em `operations/FIRST_SALE/`; ainda sem contatos, propostas ou receita.
 
-## Pesquisa atual
+## Contexto de pesquisa preservado
 A execução ampla investiga modelos digitais com IA, serviços, produtos digitais, e-commerce/dropshipping, conteúdo, automações, agentes e outras vias. A hipótese em foco é serviço pontual de pesquisa/inteligência comercial e possível monitoramento competitivo recorrente assistido por IA. A subfase 03.1 foi aberta porque faltavam prova de compra específica, comprador, canal sem leilão e recorrência.
 
 ## Evidência nova S062–S066
@@ -33,7 +36,7 @@ S062–S066 não equivalem a cinco vendas. S064 é execução parcial; S062 e S0
 - Pesquisa de mercado/inteligência competitiva não é negócio escolhido. Dropshipping e conteúdo com IA continuam hipóteses na pesquisa ampla.
 
 ## Próxima ação
-Continuar PHASE_03.1 focando em canais inbound/indicação/parceria sem executar contato, segmentos com decisão urgente, distinção entre pesquisa pública remota e trabalho de campo/cliente oculto, reviews específicos e recorrência comprovada. Atualizar matriz e gate. Fase 04 permanece aguardando.
+A prioridade operacional global é qualificar os candidatos e testar a oferta documentados em `operations/FIRST_SALE/`, sem contato sem autorização. Para retomar a pesquisa exploratória, seguir a próxima ação registrada em `PHASE_CONTROL.md`; não usar este handoff como controlador.
 
 ## Restrições
 R$0; sem ferramentas/API/assinaturas/anúncios pagos; quota opaca deve ser declarada; não cadastrar cartão para trials; não usar scraping proibido, burlar paywalls ou coletar dados privados; nenhuma ação externa sem aprovação explícita; não misturar Kamikaze com NEXUS/ATLAS.
