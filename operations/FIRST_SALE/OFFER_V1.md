@@ -65,4 +65,4 @@ A oferta só será considerada validada quando houver aceite comercial e pagamen
 
 ## Revisão do preço
 
-R$149 é um preço experimental escolhido para testar uma entrega pequena. Não foi validado por pesquisa de disposição a pagar. Registrar objeções, tempo real de execução e margem antes de alterar.
+R$150 é um preço experimental escolhido para testar uma entrega pequena. Não foi validado por pesquisa de disposição a pagar. Registrar objeções, tempo real de execução e margem antes de alterar.
