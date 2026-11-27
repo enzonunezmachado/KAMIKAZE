@@ -13,7 +13,7 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 - Meta: receber pelo menos R$150 até 08/12/2026.
 - Oferta em teste: menu digital simples de serviços e preços para pequenos negócios de beleza/barbearias.
 - Preço experimental: R$150; não validado.
-- Candidatos: lote inicial com 20 negócios locais, ainda não ranqueados nem qualificados.
+- Candidatos: lote de beleza 19/20 identificáveis e triagem cruzada de pet shops/oficinas; nenhum negócio qualificado. Próxima etapa exige descoberta com responsável, após autorização.
 - Contatos realizados: 0. Propostas enviadas: 0. Clientes: 0. Receita recebida: R$0.
 - Orçamento autorizado: R$0. Nenhum gasto permitido.
 
