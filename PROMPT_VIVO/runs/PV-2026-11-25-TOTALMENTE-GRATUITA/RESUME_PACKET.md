@@ -16,9 +16,9 @@
 ## 2. Missão e limites
 
 - Pesquisar oportunidades digitais e modelos de monetização com IA, ferramentas gratuitas e sem audiência prévia.
-- Meta contextual: buscar R$150 efetivamente recebidos até 06/12/2026; objetivo, não garantia.
+- Meta original desta execução: R$150 até 06/12/2026. Meta operacional vigente: R$140 efetivamente recebidos até 08/12/2026, documentada em `operations/FIRST_SALE/README.md`; objetivo, não garantia.
 - Orçamento autorizado: R$0. Receita recebida: R$0. Despesas: R$0.
-- Nenhuma oportunidade foi aprovada; nenhum experimento comercial está ativo.
+- Nenhuma oportunidade da pesquisa exploratória foi aprovada. Existe um piloto comercial paralelo INICIADO / TEST em `operations/FIRST_SALE/`; ainda sem contatos, propostas ou receita.
 - Não publicar, contatar, candidatar-se, cadastrar contas, comprar, assinar, gastar, contratar ferramentas, fazer deploy ou assumir compromissos externos sem autorização explícita.
 - NEXUS e ATLAS são projetos separados.
 
