@@ -19,7 +19,7 @@
 - Arquivos principais: `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `portfolio_site/docs/assets/kamikaze-base.css`, `portfolio_site/docs/assets/kamikaze.js`, `mkdocs.yml`.
 - Regra persistente: ao criar/revisar qualquer site, ler o índice e o guia em `web/`; tema escuro Kamikaze é o padrão, com HTML semântico, CSS separado, JS vanilla, responsividade e acessibilidade.
 - Persistência: commits individuais confirmados no GitHub em 27/11/2026.
-- Validação documental: workflow `45939206019` falhou no commit `9304bfc`. Log confirmou divergência entre `operations/state.toml` e `CURRENT_WORK.md` (ponteiro de última entrega desatualizado). A auditoria iniciou a reconciliação; build visual do portfólio não foi reavaliada nesta rodada.
+- Validação documental recuperada: workflow `45939953007` passou no commit `70ec82b`, incluindo validador documental, build `mkdocs build --strict` e markdownlint. Deploy do portfólio também passou no workflow `45939795049` (commit `2932ad2`). A aparência ainda não foi inspecionada em navegador/captura.
 
 ## Prioridade operacional preservada
 
@@ -60,6 +60,7 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 ## Auditoria de consistência do repositório — em andamento
 
 - Árvore GitHub consultada no commit inicial da auditoria: 135 arquivos versionados, sem truncamento.
-- Falhas confirmadas: caminho incorreto para `CONTINUITY_SYSTEM.md` e caminhos relativos ambíguos no BOOTSTRAP; link para demonstração inexistente em `operations/FIRST_SALE/README.md`; tabela Markdown malformada em `PROMPT_VIVO/README.md`; meta antiga R$150/06-12 ainda aparecia em brief e skills; CI documental falhava por ponteiro de última entrega divergente.
+- Falhas confirmadas: caminho incorreto para `CONTINUITY_SYSTEM.md` e caminhos relativos ambíguos no BOOTSTRAP; link para demonstração inexistente em `operations/FIRST_SALE/README.md`; tabela Markdown malformada em `PROMPT_VIVO/README.md`; meta antiga R$150/06-12 ainda aparecia em brief e skills; CI documental falhava por ponteiro de última entrega divergente e por lint Markdown.
 - Correções iniciais persistidas: BOOTSTRAP, README do Prompt Vivo, oferta/índice da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e validador para incluir links da Primeira Venda.
-- Ainda falta reexecutar a CI após as correções e concluir revisão de integrações, índices, documentação de pesquisa, módulo comercial, portfólio e limites de validação.
+- CI documental: PASS em `45939953007`; build MkDocs e lint passaram. Auditoria de conteúdo, privacidade, integrações, índices e limites de validação segue em andamento.
+- Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados de cópias atuais em dois arquivos, mas continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
