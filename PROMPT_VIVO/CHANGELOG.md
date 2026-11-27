@@ -1,3 +1,11 @@
+## 2026-11-27 — triagem cruzada de segmentos locais
+- Investigados pet shops e serviços automotivos em Embu das Artes como alternativa ao lote inicial de beleza.
+- Nino e Q Pet já exibem soluções digitais robustas; Frenecar tem site, serviços, orçamento e WhatsApp; Makedasi e A Casa do Pet não apresentam lacuna comprovada; reclamação isolada da Watts não foi tratada como evidência de padrão.
+- Nenhum negócio qualificado. Decisão: interromper pesquisa ampla de diretórios e priorizar descoberta com responsável, somente após autorização.
+- Relatório atualizado: `research/2026-11-27-opportunity-signals.md`.
+
+---
+
 ## 2026-11-27 — triagem aprofundada de candidatos locais
 
 - Acrescentadas evidências públicas específicas para Tintino, Distrito011, Studio C, Paris Hair, Studio Beauty Thalyta e Casal Nail.
