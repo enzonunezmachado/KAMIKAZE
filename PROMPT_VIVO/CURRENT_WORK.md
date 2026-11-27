@@ -59,9 +59,10 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 
 ## Auditoria de consistência do repositório — em andamento
 
-- Árvore GitHub consultada no commit inicial da auditoria: 135 arquivos versionados, sem truncamento.
+- Árvore GitHub consultada no commit inicial da auditoria: 137 arquivos versionados, sem truncamento.
 - Falhas confirmadas: caminho incorreto para `CONTINUITY_SYSTEM.md` e caminhos relativos ambíguos no BOOTSTRAP; link para demonstração inexistente em `operations/FIRST_SALE/README.md`; tabela Markdown malformada em `PROMPT_VIVO/README.md`; meta antiga R$150/06-12 ainda aparecia em brief e skills; CI documental falhava por ponteiro de última entrega divergente e por lint Markdown.
-- Correções iniciais persistidas: BOOTSTRAP, README do Prompt Vivo, oferta/índice da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e `scripts/validate_docs.py` ampliado para incluir links da Primeira Venda.
+- Correções iniciais persistidas: BOOTSTRAP, READMEs/índices, oferta e fluxo da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e `scripts/validate_docs.py` dinâmico, com links da Primeira Venda e do módulo empresarial.
+- Criados índices concisos para `research/` e `templates/`; o README raiz agora expõe os módulos principais. A relação entre FIRST_SALE (descoberta/oferta) e COMPANY_SOLUTIONS (registro mestre/ranking) foi explicitada para evitar dossiês duplicados.
 - CI documental: PASS em `45939953007`; após a correção de layout, novo workflow `45940140564` também passou em validação, MkDocs strict e markdownlint.
 - Portfólio: `.km-main` agora é wrapper full-width sem padding; `.rst-content` é o único container central com max-width/padding, alinhado ao header/footer. O validador `scripts/validate_portfolio_build.py` verifica assets, shell, largura total, eixo dos containers, breakpoint mobile e reduced motion.
 - Deploy da correção: workflow `45940140491` PASS (build, validador de shell/assets, upload e deploy). A inspeção visual real ainda não foi concluída; não declarar alinhamento visual confirmado sem navegador/captura.
