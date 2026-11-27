@@ -292,3 +292,9 @@ Confirmar a existência dos arquivos e a leitura das atualizações no GitHub. A
 
 ---
 
+## 2026-11-27 — roteiro de descoberta comercial
+- Adicionado ao README da Primeira Venda um roteiro de perguntas para descobrir tarefas reais e frequentes antes de oferecer qualquer solução.
+- O roteiro proíbe inferir dor por ausência de site/menu, pedir dados sensíveis ou contatar sem autorização explícita.
+
+---
+
