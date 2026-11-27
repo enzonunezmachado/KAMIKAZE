@@ -1,3 +1,12 @@
+## 2026-11-27 — triagem aprofundada de candidatos locais
+
+- Acrescentadas evidências públicas específicas para Tintino, Distrito011, Studio C, Paris Hair, Studio Beauty Thalyta e Casal Nail.
+- Registrados substitutos já existentes (agendamento e plataformas de descoberta) sem presumir que resolvam todas as necessidades nem que exista lacuna comercial.
+- Nenhum candidato foi promovido a QUALIFIED; nenhum contato foi realizado.
+- Ponteiro canônico atualizado para o arquivo de candidatos.
+
+---
+
 ## 2026-11-27 — qualificação comercial baseada em evidência
 
 - Adicionado protocolo de qualificação à operação FIRST_SALE: identidade, solução atual, lacuna observável, impacto/frequência, fit de entrega e canal apropriado.
