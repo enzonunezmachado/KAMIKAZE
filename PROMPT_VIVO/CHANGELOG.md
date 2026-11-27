@@ -1,3 +1,14 @@
+## 2026-11-27 — auditoria de coerência e recuperação da validação
+
+- Corrigidos caminhos de retomada, referência a demonstração inexistente, tabela de navegação e referências de armazenamento desatualizadas.
+- Reconciliado o ponteiro de última entrega em `operations/state.toml` com `CURRENT_WORK.md`.
+- Ampliado `scripts/validate_docs.py` para incluir a navegação da Operação Primeira Venda; ampliado o conjunto de arquivos de entrada verificados pelo markdownlint.
+- Corrigidos os erros de lint encontrados. CI final passou: workflow `45939953007` (validação documental, MkDocs strict e markdownlint).
+- Removidas referências financeiras pessoais de cópias atuais do módulo Company Solutions e da política de orçamento. O histórico Git preserva versões anteriores; nenhuma reescrita de histórico foi feita.
+- A auditoria identificou que o repositório público contém memória operacional com contexto pessoal. Segregação/limpeza histórica permanece pendente de decisão humana.
+
+---
+
 ## 2026-11-27 — playbooks compactos de design e criação web para IA
 
 - Criado `web/AI_PROMPT_SCRIPTS.md`: regras práticas de hierarquia, composição, espaço, tipografia, cor, identidade, responsividade, acessibilidade e seis prompts reutilizáveis para delimitar, direcionar, construir, auditar, corrigir e fechar tarefas.
