@@ -14,7 +14,6 @@ Conseguir a primeira contratação paga de um serviço digital simples para um p
 
 - [Oferta piloto](OFFER_V1.md)
 - [Lote inicial de candidatos](PROSPECT_CANDIDATES_001.md)
-- [Demonstração visual](demo/index.html)
 
 ## Decisão inicial
 
