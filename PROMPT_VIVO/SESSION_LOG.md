@@ -163,3 +163,8 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - CFA/MEMP 2026: gestão financeira/acesso a capital ~38% das dificuldades; precificação/vendas ~19%; falta de orçamento é barreira à capacitação. Dados orientam hipóteses, não validam oferta nem autorizam consultoria financeira.
 - Decisão: não lançar serviço genérico de digitação/limpeza de planilhas. Manter apenas hipótese de tarefa operacional específica, condicionada a problema observável e capacidade de entrega.
 - Corrigida inconsistência na contagem do lote: 17/20 identificáveis = três sem confirmação suficiente.
+
+### KAM-2026-11-27 — confirmação dos candidatos restantes
+- Pesquisa específica identificou Studio Varanda Hair (perfil local com endereço, horário e 124 avaliações) e Glórias Estúdio de Unhas (guia local e perfil público de serviços).
+- Contagem atualizada: 19/20 candidatos com presença pública identificável; Zero Onze permanece sem confirmação suficiente.
+- Identidade pública não significa qualificação comercial. Nenhum candidato foi contatado ou ranqueado.
