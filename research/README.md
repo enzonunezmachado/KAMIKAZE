@@ -4,7 +4,8 @@ Esta pasta reúne pesquisas exploratórias e referências históricas. Não é f
 
 ## Arquivos
 
-- [Sinais de mercado e reavaliação de oportunidades — 27/11/2026](2026-11-27-opportunity-signals.md) — tendências recentes, hipóteses comparadas e decisão de prioridade.\n- [Negócios locais com presença digital muito baixa — lote 001](2026-11-27-low-digital-presence-batch-001.md) — sete pistas locais em HOLD; nenhuma qualificada ou contatada.
+- [Sinais de mercado e reavaliação de oportunidades — 27/11/2026](2026-11-27-opportunity-signals.md) — tendências recentes, hipóteses comparadas e decisão de prioridade.
+- [Negócios locais com presença digital muito baixa — lote 001](2026-11-27-low-digital-presence-batch-001.md) — sete pistas locais em HOLD; nenhuma qualificada ou contatada.
 
 - [RESEARCH_BATCH_001.md](RESEARCH_BATCH_001.md) — primeiro lote de oportunidades e sinais observados.
 - [RESEARCH_BATCH_002.md](RESEARCH_BATCH_002.md) — continuação da pesquisa exploratória.
