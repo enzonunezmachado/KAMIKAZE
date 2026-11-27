@@ -33,6 +33,19 @@ A OCDE identifica barreiras recorrentes à adoção eficaz: falta de tempo, cust
 
 Essas hipóteses não são ofertas aprovadas. Não criar cinco produtos. A primeira venda continua sendo um teste pequeno; as demais ficam como alternativas para comparar quando houver evidência de que a oferta atual não resolve um problema valorizado.
 
+## 2.1 Evidência de demanda versus competição em marketplaces brasileiros
+
+A pesquisa adicional encontrou pedidos reais publicados em plataformas brasileiras, mas também um sinal forte de concorrência:
+
+- Na 99Freelas, um projeto publicado em 08/11/2026 pede organização administrativa, cadastro, digitação e planilhas. A página consultada mostrava **710 propostas e 929 interessados**, com valor mínimo indicado de R$30. Isso demonstra procura por esse tipo de tarefa, mas também competição muito alta; não é uma oportunidade fácil para um perfil novo.
+- Na Workana, um pedido de 10/11/2026 para limpeza, consolidação e padronização de planilhas mostrava **59 atividades, 70 propostas/interessados** e um cliente com um projeto publicado e nenhum pago até a consulta. Outro pedido de transcrição de PDF para Excel, publicado em setembro, também exibia dezenas de propostas. São anúncios individuais, não estatística de volume de mercado.
+- O índice Fiverr de nov/2025–abr/2026 aponta crescimento de buscas por limpeza de dados em Excel (+210%) e conversão PDF→Excel (+153%), mas é dado global de busca, não receita nem procura local comprovada.
+- A pesquisa CFA/MEMP, realizada entre set/2025 e jun/2026, aponta gestão financeira/acesso a capital como cerca de 38% das dificuldades citadas; precificação, vendas e mercado, aproximadamente 19%. Cerca de 33% mencionam gestão financeira/contábil entre soluções importantes e 30% capacitação prática/consultoria. Ao mesmo tempo, 60% citam falta de orçamento como barreira para capacitação.
+
+**Decisão:** não lançar "digitação", "limpeza de planilhas" ou "PDF para Excel" como oferta genérica. Existe demanda observável, mas a concorrência e os preços de entrada podem comprimir margem. Se testarmos essa direção, precisa ser uma entrega delimitada e específica (por exemplo, organizar uma rotina ou base que hoje causa retrabalho), com escopo e conferência claros. Não assumir que sabemos resolver gestão financeira ou precificação; não recomendar decisões financeiras nem manipular dados sensíveis sem processo de proteção e competência adequados.
+
+Fontes: [projeto 99Freelas — organização administrativa e planilhas](https://www.99freelas.com.br/project/organizacao-de-planilhas-excel-cadastro-de-dados-e-servicos-administrativos-797261), [projeto Workana — organização e tratamento de dados](https://www.workana.com/pt/job/especialista-em-organizacao-e-tratamento-de-dados-em-excel-e-google-sheets), [CFA/MEMP — pesquisa sobre necessidades dos pequenos negócios](https://cfa.org.br/pesquisa-cfa-memp-revela-o-que-os-pequenos-negocios-precisam-para-crescer/), [Fiverr — Business Trends Index 2026](https://www.fiverr.com/resources/guides/reports/business-trends-index-june-2026).
+
 ## 3. Reavaliação da oferta atual
 
 A oferta de menu de serviços/preços por PDF + planilha é simples de entregar, mas ainda é apenas uma hipótese. Os dados do Sebrae indicam que os pequenos negócios já usam bastante o WhatsApp e que dores de gestão e decisão podem ser mais relevantes do que a criação de mais um material visual.
