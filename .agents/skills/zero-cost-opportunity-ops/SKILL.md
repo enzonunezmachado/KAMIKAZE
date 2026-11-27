@@ -187,7 +187,8 @@ Quando o ambiente disponível for Google Antigravity:
 ## Memória no GitHub
 - research/: auditorias, fontes e lotes de evidências.
 - opportunities/: hipóteses, estado, concorrentes e contraprovas.
-- experiments/: oferta, preço, canal, contatos agregados, resultado.
+- operations/FIRST_SALE/: oferta, candidatos, contatos agregados e resultado do piloto comercial atual.
+- operations/COMPANY_SOLUTIONS/: registros escaláveis de empresas, projetos e recorrência quando o módulo for ativado.
 - operations/STATE.md: fase atual, decisão, métricas e próximo passo.
 - .agents/skills/: instruções reutilizáveis.
 
