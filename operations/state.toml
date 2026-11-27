@@ -1,8 +1,8 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "scripts/validate_portfolio_build.py"
-last_work_status = "CONTAINER DO PORTFÓLIO CORRIGIDO; BUILD, VALIDAÇÃO E DEPLOY PASSARAM"
+last_substantive_work = "scripts/validate_docs.py"
+last_work_status = "VALIDADORES DINÂMICOS; PORTFÓLIO CORRIGIDO E DEPLOYADO"
 
 [execution]
 status = "IN_PROGRESS"
