@@ -22,7 +22,7 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 - Última fase histórica de pesquisa: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION; pesquisa agora em HOLD.
 - PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
 - A execução de pesquisa/afiliados está pausada. A prioridade ativa é FIRST_SALE_PILOT — TEST (estado registrado em state.toml). Não retomar pesquisa exploratória sem uma pergunta que possa alterar uma decisão operacional.
-- Os gates da execução anterior não foram reescritos; a operação de primeira venda é um piloto paralelo.
+- Os registros detalhados das fases anteriores foram preservados como histórico; a pesquisa está pausada e a operação de primeira venda é a prioridade ativa.
 
 ## Restrições
 - Não tratar intenção, anúncio, seleção, contratação, pagamento e recompra como equivalentes.
