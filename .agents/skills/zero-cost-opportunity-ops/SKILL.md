@@ -13,7 +13,7 @@ O objetivo não é automatizar tudo. É reduzir trabalho repetitivo e aumentar a
 ## Contexto e restrições padrão
 - Uma pessoa, sem equipe.
 - Orçamento de início: R$ 0.
-- Meta imediata: buscar pelo menos R$ 150 recebidos até 06/12/2026; objetivo operacional, nunca garantia.
+- Meta operacional atual: buscar pelo menos R$ 140 recebidos até 08/12/2026, com orçamento autorizado de R$ 0; objetivo, nunca garantia. Consultar `operations/FIRST_SALE/` para o piloto vigente.
 - GitHub do Negócio Digital Kamikaze é a memória operacional e fonte de verdade.
 - Ferramentas gratuitas, open source e quotas gratuitas são permitidas, mas devem ser classificadas separadamente.
 - Não assumir que open source implica modelo/API/hosting gratuito.
