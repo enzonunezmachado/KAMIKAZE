@@ -1,3 +1,11 @@
+## 2026-11-27 — validador acompanha a execução ativa
+
+- Removido o RUN_ID fixo de `scripts/validate_docs.py`. A execução validada agora é derivada de `project.active_run` em `operations/state.toml`, com validação do formato e checks no diretório correspondente.
+- Incluídos arquivos da Primeira Venda, Company Solutions e playbooks web na navegação verificada.
+- CI passou no workflow `45940323180` (validador, MkDocs strict e markdownlint).
+
+---
+
 ## 2026-11-27 — container único e validação estrutural do portfólio
 
 - Corrigido o aninhamento de containers: header/footer full-width; somente `.rst-content` controla max-width e padding do conteúdo; `.km-main` não adiciona uma segunda camada de largura/padding.
