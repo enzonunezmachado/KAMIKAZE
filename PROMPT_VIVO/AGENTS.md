@@ -19,7 +19,7 @@
 2. Confirme que o arquivo tem função única e não duplica uma fonte canônica.
 3. Mantenha arquivos de entrada concisos; mova detalhes para documentos especializados e referencie-os.
 4. Atualize índices e links de navegação quando a estrutura mudar.
-5. Atualize `CURRENT_WORK.md` e logs apenas após uma entrega substantiva confirmada.
+5. Atualize o estado estruturado apenas quando prioridade, estado ou próxima ação mudar; não mantenha ponteiro manual de última entrega.
 6. Execute o validador documental e corrija falhas relevantes.
 
 ## Execução prática
