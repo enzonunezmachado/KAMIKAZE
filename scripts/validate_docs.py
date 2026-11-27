@@ -13,7 +13,7 @@ RUN_ID_RE = re.compile(r"PV-\d{4}-\d{2}-\d{2}-[A-Z0-9-]+")
 BASE_REQUIRED_FILES = [
     "AGENTS.md", "README.md",
     "PROMPT_VIVO/AGENTS.md", "PROMPT_VIVO/README.md",
-    "PROMPT_VIVO/CURRENT_WORK.md", "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md",
+    "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md",
     "PROMPT_VIVO/BOOTSTRAP.md", "PROMPT_VIVO/QUALITY_GATE.md",
     "operations/README.md", "operations/state.toml", "operations/STATE.md",
     "operations/STATE_HISTORY.md", "operations/COMPANY_SOLUTIONS/README.md",
@@ -38,7 +38,6 @@ BASE_LINE_BUDGETS = {
     "AGENTS.md": 100,
     "PROMPT_VIVO/AGENTS.md": 100,
     "PROMPT_VIVO/BOOTSTRAP.md": 180,
-    "PROMPT_VIVO/CURRENT_WORK.md": 100,
     "PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md": 260,
     "PROMPT_VIVO/QUALITY_GATE.md": 180,
     "operations/STATE.md": 100,
@@ -83,6 +82,9 @@ def main() -> int:
     phases = state.get("phases", {}) if state else {}
 
     active_run = project.get("active_run", "")
+    work = state.get("work", {}) if state else {}
+    if not work.get("primary_stream") or not work.get("next_action"):
+        errors.append("operations/state.toml must define work.primary_stream and work.next_action")
     if not active_run or not RUN_ID_RE.fullmatch(active_run):
         errors.append(f"invalid or missing project.active_run in state.toml: {active_run!r}")
         run_path = None
@@ -123,14 +125,12 @@ def main() -> int:
     if state and run_path:
         active_phase = execution.get("active_phase", "")
         active_gate = execution.get("active_gate", "")
-        last_work = project.get("last_substantive_work", "")
 
         checks = {
             "operations/STATE.md": [active_run, active_phase],
             f"{run_path}/RUN_STATE.md": [active_run, active_phase, active_gate],
             f"{run_path}/PHASE_CONTROL.md": [active_phase, active_gate],
             f"{run_path}/RESUME_PACKET.md": [active_run, active_phase],
-            "PROMPT_VIVO/CURRENT_WORK.md": [last_work],
         }
         for relative, needles in checks.items():
             path = ROOT / relative
