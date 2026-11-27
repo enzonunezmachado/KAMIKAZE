@@ -2,7 +2,7 @@
 
 **Estado:** HIPÓTESE PARA TESTE  
 **Segmento inicial:** barbearias, salões e estúdios independentes de beleza.  
-**Preço de teste:** R$149, pagamento em duas etapas (50% para iniciar; 50% na entrega).  
+**Preço de teste:** R$150, pagamento em duas etapas (50% para iniciar; 50% na entrega).  
 **Prazo proposto:** até 2 dias úteis após o recebimento de todas as informações.  
 **Meta:** vender uma entrega simples e receber o valor integral até 08/12/2026.
 
