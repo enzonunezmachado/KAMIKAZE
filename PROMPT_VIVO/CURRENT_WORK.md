@@ -72,6 +72,6 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 ## Reorientação de mercado — 27/11/2026
 
 - Branch de segurança criada: `archive/pre-autonomous-review-2026-11-27`.
-- Pesquisa recente sintetizada em [sinais de mercado](../research/2026-11-27-opportunity-signals.md): foco em tarefas operacionais concretas; afiliados estacionados.
+- Última entrega: `research/2026-11-27-opportunity-signals.md` ([sinais de mercado](../research/2026-11-27-opportunity-signals.md)): foco em tarefas operacionais concretas; afiliados estacionados.
 - `operations/state.toml`, RUN_STATE, PHASE_CONTROL e RESUME_PACKET reconciliados: pesquisa em HOLD; FIRST_SALE_PILOT é a prioridade ativa.
 - Meta atual: R$150 recebidos até 08/12/2026; preço experimental ajustado para R$150. Nenhum contato ou venda foi realizado.
