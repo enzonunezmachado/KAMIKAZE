@@ -38,11 +38,12 @@ Novas páginas públicas (demonstrações, ferramentas e projetos) devem receber
 | Company Solutions | Lotes de empresas, ranking, dossiês, contatos, projetos e financeiro | [README](operations/COMPANY_SOLUTIONS/README.md) |
 | Conhecimento | Pesquisas reutilizáveis e módulos especializados | [Knowledge index](PROMPT_VIVO/knowledge/README.md) |
 | Execuções | Pesquisa separada por RUN_ID | [Runs index](PROMPT_VIVO/runs/README.md) |
+| **Desenvolvimento web** | Padrão visual dark, CSS/JS reutilizáveis, starter e guia para IA | [web/README.md](web/README.md) |
 
 ## Continuidade e governança da IA
 Antes de trabalhar, agentes devem ler [AGENTS.md](AGENTS.md). Para retomar conversas, seguir [BOOTSTRAP](PROMPT_VIVO/BOOTSTRAP.md). A arquitetura documental, autoridade, tamanho, leitura progressiva e regras de gravação estão em [ARCHITECTURE_GOVERNANCE.md](PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md).
 
-O estado é separado do histórico: `state.toml` é a referência estruturada; `STATE.md` e `RUN_STATE.md` são snapshots humanos; `RESUME_PACKET.md` é um resumo curto; históricos e logs preservam eventos anteriores.
+O estado é separado do histórico: `state.toml` é a referência estruturada; `STATE.md` e `RUN_STATE.md` são snapshots humanos; `RESUME_PACKET` é um resumo curto; históricos e logs preservam eventos anteriores.
 
 ## Validação automatizada
 - [Validador documental](scripts/validate_docs.py): verifica arquivos obrigatórios, limites de tamanho, links selecionados e sincronização TOML/Markdown.
