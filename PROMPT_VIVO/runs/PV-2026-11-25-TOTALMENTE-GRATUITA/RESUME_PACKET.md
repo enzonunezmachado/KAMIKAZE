@@ -1,6 +1,6 @@
 # RESUME PACKET — PV-2026-11-25-TOTALMENTE-GRATUITA
 
-**Atualizado:** 26/11/2026  
+**Atualizado:** 27/11/2026  
 **Status:** IN_PROGRESS  
 **Regra:** resumo de retomada; não é fonte canônica de estado, fase, gate ou evidência.
 
