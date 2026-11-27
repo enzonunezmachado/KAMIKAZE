@@ -3,6 +3,7 @@
 **Objetivo:** pesquisar oportunidades digitais e caminhos de monetização com IA, recursos gratuitos e sem audiência prévia, preservando o orçamento operacional de R$0.
 
 ## Ordem de leitura
+
 1. [Pacote de retomada](RESUME_PACKET.md) — resumo curto; não é fonte canônica.
 2. [Estado da execução](RUN_STATE.md) — fonte canônica da fase/progresso.
 3. [Controle de fases](PHASE_CONTROL.md) — gate e próxima ação permitida.
@@ -12,6 +13,7 @@
 7. Abrir checkpoints e pesquisas especializadas conforme a fase ativa.
 
 ## Regras de gravação
+
 - Fonte original e metadados entram em SOURCE_LEDGER; síntese entra em FINDINGS.
 - Não misturar intenção, anúncio, contratação, pagamento e recompra.
 - Resultado negativo e contraprova devem ser preservados.
