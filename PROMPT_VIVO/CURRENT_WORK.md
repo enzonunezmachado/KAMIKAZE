@@ -61,6 +61,6 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 
 - Árvore GitHub consultada no commit inicial da auditoria: 135 arquivos versionados, sem truncamento.
 - Falhas confirmadas: caminho incorreto para `CONTINUITY_SYSTEM.md` e caminhos relativos ambíguos no BOOTSTRAP; link para demonstração inexistente em `operations/FIRST_SALE/README.md`; tabela Markdown malformada em `PROMPT_VIVO/README.md`; meta antiga R$150/06-12 ainda aparecia em brief e skills; CI documental falhava por ponteiro de última entrega divergente e por lint Markdown.
-- Correções iniciais persistidas: BOOTSTRAP, README do Prompt Vivo, oferta/índice da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e validador para incluir links da Primeira Venda.
+- Correções iniciais persistidas: BOOTSTRAP, README do Prompt Vivo, oferta/índice da Primeira Venda, estado TOML, brief, skills, RUN_STATE/RESUME_PACKET e `scripts/validate_docs.py` ampliado para incluir links da Primeira Venda.
 - CI documental: PASS em `45939953007`; build MkDocs e lint passaram. Auditoria de conteúdo, privacidade, integrações, índices e limites de validação segue em andamento.
 - Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados de cópias atuais em dois arquivos, mas continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
