@@ -30,7 +30,7 @@ Nenhum candidato foi contatado. Nenhum comprador demonstrou interesse. Nenhuma p
 
 ## Próximo passo obrigatório
 
-Validar nos candidatos se já existe uma lista/menu de serviços e preços, se há uma lacuna real e se o responsável teria interesse em receber uma demonstração. Não assumir que a ausência de um link encontrado significa ausência de catálogo.
+Validar nos candidatos se já existe uma lista/menu de serviços e preços e se há uma lacuna real. Só preparar uma amostra demonstrativa fictícia quando houver um candidato com fit e interesse em avaliá-la. Não assumir que a ausência de um link encontrado significa ausência de catálogo.
 
 ## Regras de parada
 
