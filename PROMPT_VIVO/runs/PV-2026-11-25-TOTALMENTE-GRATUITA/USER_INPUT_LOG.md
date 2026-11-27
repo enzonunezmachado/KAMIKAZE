@@ -155,3 +155,10 @@ Este arquivo registra comentários, correções, preferências, decisões e auto
 **Interpretação:** instituir um ponteiro canônico único, atualizado em cada checkpoint substantivo, e fazer bootstrap, prompt de novo chat e estado operacional consultarem esse ponteiro em vez de manterem focos independentes.
 **Aplicado:** criado `PROMPT_VIVO/CURRENT_WORK.md`; atualizados BOOTSTRAP, CONTINUITY_SYSTEM, NEXT_CHAT_PROMPT e operations/STATE. O ponteiro distingue última entrega substantiva da fase principal de pesquisa.
 **Limite técnico:** a atualização é automática como regra obrigatória do fluxo de checkpoint durante uma sessão ativa; não há execução em segundo plano depois que o chat termina. A gravação só é considerada concluída após confirmação do GitHub.
+
+
+## 2026-11-27 — substituição do ponteiro de continuidade e novo foco de pesquisa
+**Entrada:** o usuário apontou falhas recorrentes do ponteiro CURRENT_WORK e pediu uma solução mais funcional. Definiu que a próxima pesquisa deve procurar negócios com presença digital muito baixa.
+**Decisão aplicada:** descontinuar CURRENT_WORK como fonte/ponteiro. A prioridade entre frentes e a próxima ação passam a residir em `operations/state.toml` (`[work]` e `[workstreams.*]`); STATE.md é explicação humana derivada. RUN_STATE/PHASE_CONTROL continuam autoridades para execução histórica e gates. Próxima pesquisa: negócios locais com presença digital muito baixa, com evidência de atividade, lacuna observável e canal público; sem contato.
+**Limites:** orçamento R$0; nenhuma mensagem, ligação, publicação, cadastro ou gasto autorizado por esta entrada.
+**Status:** APLICADO NA DOCUMENTAÇÃO.
