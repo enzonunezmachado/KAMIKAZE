@@ -4,6 +4,13 @@
 **Função:** identificar a última entrega substantiva e a próxima ação de retomada.
 
 ## Última entrega substantiva
+
+### Correção da publicação do portfólio
+- Adicionado `.github/workflows/deploy-pages.yml`: build MkDocs com `--strict`, upload exclusivo de `portfolio_site/site/` e deploy com GitHub Pages Actions.
+- O workflow foi persistido no commit `05f6cb7c8662d7144350c142089b53709fd40779`.
+- Pré-requisito administrativo: Settings → Pages → Source = GitHub Actions. A ferramenta GitHub disponível não oferece alteração dessa configuração de Pages; o usuário precisa selecionar essa origem se ainda estiver como branch.
+- Execução do workflow e publicação final ainda NÃO CONFIRMADAS; o status de checks consultado retornou lista vazia. Não afirmar que o site já foi atualizado.
+
 - Linha: padrão reutilizável de desenvolvimento web do NEGÓCIO DIGITAL KAMIKAZE.
 - Entrega: módulo `web/` com guia de desenvolvimento para IA, template HTML inicial, CSS dark reutilizável, JavaScript progressivo e integração dos assets ao build MkDocs.
 - Arquivos principais: `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `portfolio_site/docs/assets/kamikaze-base.css`, `portfolio_site/docs/assets/kamikaze.js`, `mkdocs.yml`.
