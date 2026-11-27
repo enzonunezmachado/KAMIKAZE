@@ -1,3 +1,22 @@
+## 2026-11-26 — Princípios operacionais para reduzir ciclos e priorizar execução
+
+### Motivo
+O usuário pediu consolidar regras persistentes para reconhecer quando pesquisar, quando parar, quando testar e quando abandonar uma linha improdutiva, evitando preparação infinita.
+
+### Alterações
+- Criado OPERATING_PRINCIPLES.md como referência normativa para pesquisa, construção, timebox, evidência, prioridade e critérios CONTINUE/TEST/HOLD/KILL/ESCALATE.
+- Integradas as regras em AGENTS.md, PROMPT_VIVO/AGENTS.md e BOOTSTRAP.md.
+- Adicionado o documento ao índice do Prompt Vivo.
+- Atualizado CURRENT_WORK.md para apontar a entrega e orientar retomada prática.
+
+### Regra central
+Não pesquisar quando a próxima informação dificilmente muda a decisão e um teste barato, reversível e autorizado pode responder melhor. Não construir infraestrutura para hipóteses sem evidência comercial mínima. A IA deve dizer explicitamente quando estamos dando voltas e recomendar a próxima ação principal.
+
+### Limites
+Nenhum contato, publicação, gasto, deploy ou compromisso externo foi realizado. A CI das alterações atuais precisa ser consultada antes de declarar validação verde.
+
+---
+
 ## 2026-11-26 — Regra de parada da pesquisa e prontidão para experimento
 
 - Ampliado `QUALITY_GATE.md` para distinguir RESEARCH_MORE, READY_TO_TEST, NOT_WORTH_TESTING e BLOCKED.
