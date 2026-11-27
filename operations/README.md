@@ -4,7 +4,7 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 
 ## Prioridade operacional atual
 
-1. [Operação Primeira Venda](FIRST_SALE/README.md) — piloto comercial ativo, com oferta, demonstração e lote inicial de candidatos. Nenhum contato realizado.
+1. [Operação Primeira Venda](FIRST_SALE/README.md) — piloto comercial ativo, com oferta e lote inicial de candidatos. A demonstração ainda não foi produzida; nenhum contato realizado.
 2. [Estado estruturado canônico](state.toml) — execução de pesquisa, restrições e métricas.
 3. [Estado humano](STATE.md) — visão compacta e instruções de retomada.
 4. [Histórico preservado](STATE_HISTORY.md) — snapshots antigos.
