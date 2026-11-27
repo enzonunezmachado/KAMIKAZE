@@ -7,8 +7,8 @@ import sys
 import tomllib
 
 ROOT = Path(__file__).resolve().parents[1]
-LINK_RE = re.compile(r"!?(?<!\\!)\\[[^\\]]*\\]\\(([^)]+)\\)")
-RUN_ID_RE = re.compile(r"PV-\\d{4}-\\d{2}-\\d{2}-[A-Z0-9-]+")
+LINK_RE = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
+RUN_ID_RE = re.compile(r"PV-\d{4}-\d{2}-\d{2}-[A-Z0-9-]+")
 
 BASE_REQUIRED_FILES = [
     "AGENTS.md", "README.md",
@@ -154,7 +154,7 @@ def main() -> int:
         source = ROOT / relative
         if not source.is_file():
             continue
-        content = re.sub(r"```[\\s\\S]*?```", "", source.read_text(encoding="utf-8"))
+        content = re.sub(r"\`\`\`[\s\S]*?\`\`\`", "", source.read_text(encoding="utf-8"))
         for match in LINK_RE.findall(content):
             target = match.strip().split(maxsplit=1)[0].strip("<>")
             target = target.split("#", 1)[0].split("?", 1)[0]
