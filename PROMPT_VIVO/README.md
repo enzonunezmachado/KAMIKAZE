@@ -5,7 +5,7 @@ O Prompt Vivo é a infraestrutura metodológica do Kamikaze. Organiza instruçõ
 ## Entrada obrigatória
 
 1. [AGENTS.md](AGENTS.md) — instruções para agentes que reconhecem o padrão.
-2. [CURRENT_WORK.md](CURRENT_WORK.md) — última entrega substantiva e próxima ação.
+2. [operations/state.toml](../operations/state.toml) — estado estruturado e próxima ação prioritária.
 3. [ARCHITECTURE_GOVERNANCE.md](ARCHITECTURE_GOVERNANCE.md) — autoridade, função dos arquivos, navegação, tamanho e gravação.
 4. [BOOTSTRAP.md](BOOTSTRAP.md) — procedimento obrigatório de retomada.
 5. [CONTINUITY_SYSTEM.md](CONTINUITY_SYSTEM.md) — fontes canônicas e checkpoint.
@@ -40,7 +40,7 @@ O Prompt Vivo é a infraestrutura metodológica do Kamikaze. Organiza instruçõ
 ## Como a memória funciona
 
 - Estado atual não é histórico.
-- CURRENT_WORK aponta a última entrega substantiva, não necessariamente a fase ativa.
+- `operations/state.toml` define a frente prioritária e a próxima ação; cada frente mantém seus próprios detalhes na fonte operacional correspondente.
 - state.toml registra estado estruturado; RUN_STATE e PHASE_CONTROL descrevem execução e gate.
 - RESUME_PACKET é resumo curto derivado; MEMORY_HANDOFF guarda contexto ampliado.
 - SESSION_LOG é append-only; correções entram como eventos novos.
