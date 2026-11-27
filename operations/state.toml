@@ -4,7 +4,7 @@ active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
 
 [work]
 primary_stream = "local_business_low_digital_presence"
-next_action = "Pesquisar um lote de negócios locais com presença digital muito baixa, verificar atividade, lacunas observáveis e canal público; não contatar."
+next_action = "Validar atividade recente e canais próprios dos três melhores candidatos do lote 001; se não houver evidência incremental, encerrar descoberta e rever a oferta. Não contatar."
 success_criteria = "Encontrar candidatos com presença digital realmente baixa e uma necessidade concreta que possamos atender; separar evidência de inferência."
 stop_condition = "Parar quando houver 20 candidatos únicos triados ou após duas rodadas sem novos candidatos qualificados; não ampliar pesquisa sem evidência incremental."
 
