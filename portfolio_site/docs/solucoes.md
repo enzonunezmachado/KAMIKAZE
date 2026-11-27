@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <section class="km-page-intro">
   <span class="km-eyebrow">O QUE PODEMOS CONSTRUIR</span>
   <h1>Soluções digitais sem complexidade desnecessária.</h1>
