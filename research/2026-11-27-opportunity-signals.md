@@ -55,12 +55,12 @@ Se a lacuna não existir, não insistir no PDF. Investigar qual tarefa administr
 
 ## 5. Triagem inicial da lista local
 
-Uma consulta inicial a diretórios e plataformas confirmou a presença pública de alguns candidatos do lote, mas ainda não qualificou a oportunidade:
+Três consultas públicas a diretórios, plataformas de agendamento e fichas locais confirmaram pistas de identidade/atividade para 16 dos 20 candidatos, mas ainda não qualificaram a oportunidade:
 
-- Tintino Barbearia, Barbearia Castilho, Distrito011, Officina do Corte, Studio C e Strider aparecem em diretórios locais com endereço/categoria. Isso confirma pistas de identidade e atividade, não necessidade nem intenção de compra.
+- Dezesseis candidatos têm alguma presença pública identificável. Alguns já apresentam portfólio, preços ou planos em plataformas/perfis; outros têm apenas endereço, categoria ou avaliações. Isso confirma presença pública, não necessidade nem intenção de compra.
 - Há negócios da região com cardápios e preços já expostos em plataformas de agendamento, como Booksy. A existência desses substitutos reduz a atratividade de oferecer apenas um PDF genérico a qualquer barbearia.
 - Listagens de Fresha também exibem serviços de negócios de beleza em Embu. Diretórios e plataformas podem estar incompletos ou desatualizados; ausência de menu em uma busca não prova que ele não exista.
-- Resultado: o lote original continua NÃO QUALIFICADO. A próxima triagem deve procurar sinais concretos de atrito ou informação desatualizada, e excluir negócios cujo fluxo atual já resolva bem o problema.
+- Resultado: o lote original continua NÃO QUALIFICADO. Quatro nomes permaneceram sem confirmação suficiente após três consultas; encerrar a busca genérica por enquanto e não gastar mais rodadas sem nova pergunta específica. A próxima triagem deve procurar sinais concretos de atrito ou informação desatualizada, e excluir negócios cujo fluxo atual já resolva bem o problema.
 
 Fontes de triagem: [diretório local de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [Guia Comercial de Embu](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes) e [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes).
 
