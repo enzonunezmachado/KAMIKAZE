@@ -12,10 +12,11 @@ O Prompt Vivo é a infraestrutura metodológica do Kamikaze. Organiza instruçõ
 7. [EXECUTION_PROTOCOL.md](EXECUTION_PROTOCOL.md) — condução e checkpoints.
 
 ## Arquivos centrais
-| `OPERATING_PRINCIPLES.md` | Regras práticas para decidir, pesquisar, executar, priorizar e parar sem ciclos improdutivos |
+
 | Arquivo | Responsabilidade |
 |---|---|
 | `CORE.md` | Identidade, princípios e limites permanentes |
+| `OPERATING_PRINCIPLES.md` | Regras práticas para decidir, pesquisar, executar, priorizar e parar sem ciclos improdutivos |
 | `MASTER_PROMPT.md` | Entrada para nova execução |
 | `EXECUTION_PROTOCOL.md` | Processo de trabalho e checkpoints |
 | `RESEARCH_METHOD.md` | Pesquisa, triangulação e contraprovas |
