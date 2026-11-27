@@ -1,3 +1,12 @@
+## 2026-11-27 — qualificação comercial baseada em evidência
+
+- Adicionado protocolo de qualificação à operação FIRST_SALE: identidade, solução atual, lacuna observável, impacto/frequência, fit de entrega e canal apropriado.
+- Estados padronizados: HOLD, QUALIFIED, PRIORITY e DISCARD.
+- A conversa de descoberta deve começar pelo processo atual do negócio, não pela apresentação prematura da oferta.
+- Estado canônico atualizado para apontar o protocolo como última entrega substantiva.
+
+---
+
 ## 2026-11-27 — evidência de demanda e concorrência
 
 - Complementada a pesquisa com dados da CFA/MEMP e anúncios públicos de Workana e 99Freelas.
