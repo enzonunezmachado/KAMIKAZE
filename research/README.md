@@ -4,6 +4,8 @@ Esta pasta reúne pesquisas exploratórias e referências históricas. Não é f
 
 ## Arquivos
 
+- [Sinais de mercado e reavaliação de oportunidades — 27/11/2026](2026-11-27-opportunity-signals.md) — tendências recentes, hipóteses comparadas e decisão de prioridade.
+
 - [RESEARCH_BATCH_001.md](RESEARCH_BATCH_001.md) — primeiro lote de oportunidades e sinais observados.
 - [RESEARCH_BATCH_002.md](RESEARCH_BATCH_002.md) — continuação da pesquisa exploratória.
 - [TOOLS_AND_REPOSITORIES_AUDIT.md](TOOLS_AND_REPOSITORIES_AUDIT.md) — auditoria de ferramentas e repositórios.
