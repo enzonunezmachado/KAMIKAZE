@@ -5,6 +5,7 @@
 **Regra:** resumo de retomada; não é fonte canônica de estado, fase, gate ou evidência.
 
 ## 1. Entrada obrigatória
+
 1. Leia `AGENTS.md` e `PROMPT_VIVO/BOOTSTRAP.md`.
 2. Leia `PROMPT_VIVO/CURRENT_WORK.md` para identificar a última entrega substantiva.
 3. Leia `operations/state.toml` e `operations/STATE.md` para execução ativa e restrições.
@@ -13,6 +14,7 @@
 6. Consulte `RUN_HISTORY.md`, `SOURCE_LEDGER.md`, `FINDINGS.md` e os checkpoints apenas quando a tarefa exigir.
 
 ## 2. Missão e limites
+
 - Pesquisar oportunidades digitais e modelos de monetização com IA, ferramentas gratuitas e sem audiência prévia.
 - Meta contextual: buscar R$150 efetivamente recebidos até 06/12/2026; objetivo, não garantia.
 - Orçamento autorizado: R$0. Receita recebida: R$0. Despesas: R$0.
@@ -21,9 +23,11 @@
 - NEXUS e ATLAS são projetos separados.
 
 ## 3. Estado da pesquisa
+
 **Foco registrado:** `PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION` — IN_PROGRESS / CONTINUE.
 
 Frentes:
+
 - PHASE_03.1: PAUSED / CONTINUE.
 - PHASE_03.2: IN_PROGRESS / CONTINUE.
 - PHASE_03.3: IN_PROGRESS / CONTINUE.
@@ -34,11 +38,13 @@ Frentes:
 A decisão de próxima ação deve ser confirmada em PHASE_CONTROL e reconciliada com `operations/state.toml`. Não inferir avanço pela numeração.
 
 ## 4. Última linha operacional documentada
+
 `operations/COMPANY_SOLUTIONS/` contém sistema de lotes de 20 empresas, ranking heurístico, deduplicação, dossiês, controle de contatos/supressão, projetos, contratos e financeiro.
 
 **Estado:** DOCUMENTADO / NÃO ATIVADO. Nenhuma empresa foi cadastrada, lote pesquisado, contato feito, proposta enviada, projeto implantado ou gasto realizado.
 
 ## 5. Preferências de trabalho
+
 - Pesquisar profundamente e comparar contraprovas; não concluir cedo para preencher relatório.
 - Distinguir anúncio, intenção, contratação, pagamento e recompra.
 - Preservar ideias e insights do usuário como hipóteses para avaliação; não descartá-los por não terem sido previstos pela IA.
@@ -47,6 +53,7 @@ A decisão de próxima ação deve ser confirmada em PHASE_CONTROL e reconciliad
 - Não assumir acesso a planos pagos, agentes ilimitados ou quotas livres.
 
 ## 6. Documentos de detalhe
+
 - Arquitetura e regras: `PROMPT_VIVO/ARCHITECTURE_GOVERNANCE.md`.
 - Decidir pesquisa versus experimento: `PROMPT_VIVO/QUALITY_GATE.md` e `PROMPT_VIVO/RESEARCH_METHOD.md`.
 - Fase/gate: `RUN_STATE.md` e `PHASE_CONTROL.md`.
@@ -59,4 +66,5 @@ A decisão de próxima ação deve ser confirmada em PHASE_CONTROL e reconciliad
 - Restrições de recursos: `RESOURCE_BUDGET_POLICY.md`.
 
 ## 7. Regra de retomada
+
 Primeiro auditar a consistência dos arquivos canônicos. Se divergirem, investigar eventos e commits, registrar a reconciliação e atualizar derivados. Se a verdade não puder ser determinada, marcar BLOCKED/NEEDS_RECONCILIATION e perguntar somente o indispensável. Depois executar a próxima ação autorizada; não reiniciar trabalho concluído.
