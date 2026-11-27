@@ -156,3 +156,10 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Triagem final: 17/20 candidatos com presença pública identificável; três sem confirmação suficiente após três consultas. Nenhum qualificado ou contatado.
 - Comparação Git confirmou branch histórica e 31 commits de avanço na main, com 15 arquivos alterados.
 - O status de checks do último commit não retornou resultados; clone local indisponível por falha de resolução de rede. Validação automatizada desta rodada permanece NÃO CONFIRMADA.
+
+
+### KAM-2026-11-27 — Evidência de concorrência em serviços de planilha
+- Pesquisa adicional: pedidos reais de organização de planilhas/documentos em Workana e 99Freelas. Projeto genérico da 99Freelas exibia 710 propostas e 929 interessados; anúncios Workana semelhantes exibiam dezenas de propostas.
+- CFA/MEMP 2026: gestão financeira/acesso a capital ~38% das dificuldades; precificação/vendas ~19%; falta de orçamento é barreira à capacitação. Dados orientam hipóteses, não validam oferta nem autorizam consultoria financeira.
+- Decisão: não lançar serviço genérico de digitação/limpeza de planilhas. Manter apenas hipótese de tarefa operacional específica, condicionada a problema observável e capacidade de entrega.
+- Corrigida inconsistência na contagem do lote: 17/20 identificáveis = três sem confirmação suficiente.
