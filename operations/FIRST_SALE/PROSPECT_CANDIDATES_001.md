@@ -39,7 +39,7 @@
 
 ## Triagem preliminar — 27/11/2026
 
-Três consultas públicas (diretórios, plataformas de agendamento e busca local) permitiram confirmar pistas de identidade/atividade para **16 dos 20 candidatos**. Isso não equivale a qualificação comercial.
+Três consultas públicas (diretórios, plataformas de agendamento e busca local) permitiram confirmar pistas de identidade/atividade para **17 dos 20 candidatos**. Isso não equivale a qualificação comercial.
 
 | # | Candidato | Evidência pública adicional | Leitura provisória |
 |---:|---|---|---|
@@ -61,12 +61,12 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 | 16 | Studio Diva Única Cabelo e Estética | Perfil local com especialidades e serviços descritos | Portfólio já descrito publicamente; lacuna de gestão não confirmada |
 | 17 | Zero Onze | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
 | 18 | Studio Varanda Hair | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
-| 19 | Luan Barbearia | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 19 | Luan Barbearia | Guia local com endereço no Jardim Maranhão | Identidade/localização confirmadas; menu/lacuna não confirmados |
 | 20 | Glórias Estúdio de Unhas | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
 
 Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
 
-**Conclusão provisória:** 16/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os quatro não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
+**Conclusão provisória:** 17/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os quatro não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
 
 ## Limitações e qualidade da evidência
 
