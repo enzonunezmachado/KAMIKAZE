@@ -168,3 +168,11 @@ Este log registra checkpoints e mudanças relevantes do projeto. É append-only:
 - Pesquisa específica identificou Studio Varanda Hair (perfil local com endereço, horário e 124 avaliações) e Glórias Estúdio de Unhas (guia local e perfil público de serviços).
 - Contagem atualizada: 19/20 candidatos com presença pública identificável; Zero Onze permanece sem confirmação suficiente.
 - Identidade pública não significa qualificação comercial. Nenhum candidato foi contatado ou ranqueado.
+
+### KAM-2026-11-27 — Triagem cruzada de segmentos locais
+- **Escopo:** pet shops e serviços automotivos em Embu das Artes, para verificar se havia oportunidade mais clara que o menu genérico de beleza.
+- **Casos examinados:** Nino Pet Shop, Q Pet Shop, Pet Shop Makedasi, A Casa do Pet, Frenecar e Watts.
+- **Achados:** Nino e Q Pet já têm catálogos/sites e fluxos digitais; Frenecar tem site detalhado, orçamento/WhatsApp e conteúdo; uma vaga de técnico orçamentista não é oportunidade compatível com nossa capacidade atual. Makedasi e A Casa do Pet aparecem em diretórios, mas não há evidência de lacuna. Uma reclamação isolada sobre comunicação na Watts não prova problema recorrente.
+- **Decisão:** nenhum negócio foi qualificado; não criar ranking nem proposta. Parar pesquisa ampla de diretórios. A próxima evidência necessária depende de conversa de descoberta com responsável, sujeita à autorização do usuário.
+- **Fontes:** relatório atualizado em `research/2026-11-27-opportunity-signals.md`.
+- **Estado comercial:** nenhum contato, proposta, contratação, receita ou gasto.
