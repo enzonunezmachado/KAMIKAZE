@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <section class="km-page-intro">
   <span class="km-eyebrow">TRABALHOS E EXPERIMENTOS</span>
   <h1>Ideias ganham valor quando podem ser testadas.</h1>
