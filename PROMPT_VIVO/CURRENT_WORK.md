@@ -76,7 +76,7 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - `operations/state.toml`, RUN_STATE, PHASE_CONTROL e RESUME_PACKET reconciliados: pesquisa em HOLD; FIRST_SALE_PILOT é a prioridade ativa.
 - Meta atual: R$150 recebidos até 08/12/2026; preço experimental ajustado para R$150. Nenhum contato ou venda foi realizado.
 
-- Triagem ampliada: 17/20 candidatos têm presença pública identificável; três seguem sem confirmação suficiente. Nenhum foi qualificado ou contatado. Estilo R já apresenta serviços, preços, agendamento e assinatura em site próprio.
+- Triagem ampliada: 19/20 candidatos têm presença pública identificável; um segue sem confirmação suficiente. Nenhum foi qualificado ou contatado. Estilo R já apresenta serviços, preços, agendamento e assinatura em site próprio.
 - Comparação final: branch histórica preservada; `main` contém alterações em 15 arquivos em relação ao ponto de segurança. A branch de segurança permanece disponível; a contagem de commits não é usada como métrica de progresso.
 - Verificação: o status de checks do último commit não retornou resultados e o clone local falhou por indisponibilidade de rede. Portanto, CI/validador desta rodada NÃO CONFIRMADOS; não declarar PASS.
 
@@ -86,9 +86,9 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Pesquisa de marketplace encontrou pedidos brasileiros de organização de planilhas e documentos, mas a 99Freelas mostrava 710 propostas/929 interessados em um projeto genérico; Workana também mostrava dezenas de propostas em pedidos semelhantes. Há demanda observável, porém concorrência elevada.
 - Pesquisa CFA/MEMP aponta gestão financeira/acesso a capital como 38% das dificuldades e precificação/vendas como 19%; falta de orçamento é barreira importante. Isso é contexto de mercado, não prova de que o usuário possa vender consultoria financeira.
 - Decisão: NÃO lançar serviço genérico de digitação/limpeza de planilhas. Manter como hipótese alternativa apenas uma tarefa operacional específica, com escopo pequeno e conferência. Oferta atual continua não validada; sem contatos ou pagamentos.
-- Auditoria de consistência corrigiu contagem: 17/20 identificáveis significa 3 não verificados (não 4). PHASE_CONTROL agora identifica explicitamente as seções posteriores ao snapshot como histórico, sem autoridade operacional.
+- Auditoria de consistência corrigiu contagem: 19/20 identificáveis significa 1 não verificado (não 4). PHASE_CONTROL agora identifica explicitamente as seções posteriores ao snapshot como histórico, sem autoridade operacional.
 
 - Última entrega operacional: `operations/FIRST_SALE/README.md` — protocolo de qualificação com critérios HOLD/QUALIFIED/PRIORITY/DISCARD; não ranquear candidatos por métricas superficiais.
 - Relatório atualizado com pesquisa CFA/MEMP e anúncios de Workana/99Freelas; decisão registrada de não lançar digitação/limpeza de planilhas como serviço genérico.
 
-- Última entrega de pesquisa comercial: `operations/FIRST_SALE/PROSPECT_CANDIDATES_001.md` — seis candidatos receberam evidência pública mais específica. Tintino tem agendamento AppBarber; Distrito011, Casal Nail e Studio Beauty Thalyta aparecem com serviços em plataformas; Studio C e Paris Hair têm presença local consolidada. Nenhuma dessas evidências prova necessidade ou interesse.
+- Última entrega de pesquisa comercial: `operations/FIRST_SALE/PROSPECT_CANDIDATES_001.md` — oito candidatos receberam evidência pública mais específica; dois nomes antes não confirmados foram identificados, restando Zero Onze sem confirmação suficiente. Tintino tem agendamento AppBarber; Distrito011, Casal Nail e Studio Beauty Thalyta aparecem com serviços em plataformas; Studio C e Paris Hair têm presença local consolidada. Nenhuma dessas evidências prova necessidade ou interesse.
