@@ -11,6 +11,8 @@
 - A pesquisa de afiliados não é prioridade e não deve ser retomada sem pergunta de decisão nova e evidência potencialmente útil.
 - O snapshot estruturado de referência está em `operations/state.toml`; registros posteriores neste arquivo são histórico da execução, não autorização para reabrir a pesquisa.
 
+> **Nota de leitura:** o snapshot acima é o único estado vigente deste controlador. Todas as seções a partir de "Aplicação histórica — snapshot inicial" são registros históricos de decisões tomadas em datas anteriores; não representam fases abertas, instruções atuais ou autorização para retomar pesquisa. Em caso de divergência, prevalecem `operations/state.toml` e o snapshot vigente acima.
+
 ## Regra de interação
 Quando o usuário disser "próxima", "continua", "vai", "pode avançar" ou equivalente, interpretar como autorização para continuar o trabalho — não como obrigação de trocar o número da fase nem como aprovação automática de um gate factual.
 Comentários, correções e preferências expressos antes de "próxima" também devem ser incorporados: classificar impacto, registrar em USER_INPUT_LOG.md e reavaliar escopo, método, critérios e arquitetura.
