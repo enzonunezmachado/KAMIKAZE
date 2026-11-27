@@ -66,7 +66,7 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 
 Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
 
-**Conclusão provisória:** 17/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os quatro não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
+**Conclusão provisória:** 17/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os três não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
 
 ## Limitações e qualidade da evidência
 
