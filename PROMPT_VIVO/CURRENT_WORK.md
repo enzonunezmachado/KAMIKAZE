@@ -90,3 +90,5 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 
 - Última entrega operacional: `operations/FIRST_SALE/README.md` — protocolo de qualificação com critérios HOLD/QUALIFIED/PRIORITY/DISCARD; não ranquear candidatos por métricas superficiais.
 - Relatório atualizado com pesquisa CFA/MEMP e anúncios de Workana/99Freelas; decisão registrada de não lançar digitação/limpeza de planilhas como serviço genérico.
+
+- Última entrega de pesquisa comercial: `operations/FIRST_SALE/PROSPECT_CANDIDATES_001.md` — seis candidatos receberam evidência pública mais específica. Tintino tem agendamento AppBarber; Distrito011, Casal Nail e Studio Beauty Thalyta aparecem com serviços em plataformas; Studio C e Paris Hair têm presença local consolidada. Nenhuma dessas evidências prova necessidade ou interesse.
