@@ -53,7 +53,18 @@ Se a lacuna não existir, não insistir no PDF. Investigar qual tarefa administr
 
 **Decisão arquitetural:** não adicionar framework, agente, dashboard ou novo módulo agora. O Kamikaze já possui índices, princípios, estado, pesquisa e validação. O gargalo atual é evidência comercial, não falta de arquitetura.
 
-## 5. Sequência de trabalho recomendada
+## 5. Triagem inicial da lista local
+
+Uma consulta inicial a diretórios e plataformas confirmou a presença pública de alguns candidatos do lote, mas ainda não qualificou a oportunidade:
+
+- Tintino Barbearia, Barbearia Castilho, Distrito011, Officina do Corte, Studio C e Strider aparecem em diretórios locais com endereço/categoria. Isso confirma pistas de identidade e atividade, não necessidade nem intenção de compra.
+- Há negócios da região com cardápios e preços já expostos em plataformas de agendamento, como Booksy. A existência desses substitutos reduz a atratividade de oferecer apenas um PDF genérico a qualquer barbearia.
+- Listagens de Fresha também exibem serviços de negócios de beleza em Embu. Diretórios e plataformas podem estar incompletos ou desatualizados; ausência de menu em uma busca não prova que ele não exista.
+- Resultado: o lote original continua NÃO QUALIFICADO. A próxima triagem deve procurar sinais concretos de atrito ou informação desatualizada, e excluir negócios cujo fluxo atual já resolva bem o problema.
+
+Fontes de triagem: [diretório local de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [Guia Comercial de Embu](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes) e [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes).
+
+## 6. Sequência de trabalho recomendada
 
 1. **Qualificar a oferta atual:** revisar candidatos individualmente e procurar uma lacuna real, sem contato automático.
 2. **Comparar o problema, não o segmento:** se menu/preço não for uma dor, registrar a tarefa que o negócio descreve espontaneamente.
@@ -62,7 +73,7 @@ Se a lacuna não existir, não insistir no PDF. Investigar qual tarefa administr
 5. **Submeter abordagem individual ao usuário:** nenhuma mensagem, publicação, proposta ou contato é enviado sem autorização.
 6. **Medir caixa e tempo:** aceite e pagamento recebido são critérios comerciais; visualizações, elogios e respostas vagas não são vendas.
 
-## 6. Regras de pesquisa e parada
+## 7. Regras de pesquisa e parada
 
 - No máximo três rodadas de pesquisa para a mesma pergunta de decisão. Se não surgir evidência nova ou decisão diferente, registrar INCONCLUSIVE e mudar de pergunta ou partir para um teste autorizado.
 - Não voltar a afiliados como trilha padrão. Só reconsiderar se aparecer uma oportunidade específica com comprador, canal, margem, prazo e evidência verificável.
@@ -70,7 +81,7 @@ Se a lacuna não existir, não insistir no PDF. Investigar qual tarefa administr
 - Não instalar nem executar repositórios de terceiros apenas por parecerem interessantes.
 - Preservar orçamento operacional zero e controle humano sobre ações externas.
 
-## 7. Fontes consultadas
+## 8. Fontes consultadas
 
 - [Sebrae — Estudo de Visão de Futuro 2026: IA e pequenos negócios](https://ia.sebrae.com.br/Estudo-de-Visao-de-Futuro/2026.html)
 - [Sebrae — 52% dos pequenos negócios brasileiros usaram IA recentemente (17/08/2026)](https://agenciasebrae.com.br/dados/pequenos-negocios-do-brasil-usam-mais-ia-que-os-norte-americanos-aponta-sebrae/)
