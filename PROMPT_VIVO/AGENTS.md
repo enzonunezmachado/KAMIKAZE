@@ -22,6 +22,16 @@
 5. Atualize `CURRENT_WORK.md` e logs apenas após uma entrega substantiva confirmada.
 6. Execute o validador documental e corrija falhas relevantes.
 
+## Execução prática
+
+- Toda tarefa deve estar ligada a uma decisão, risco ou resultado concreto.
+- Defina pergunta de decisão, evidência suficiente, timebox e ação seguinte antes de pesquisar.
+- Quando a informação já basta para um teste barato, reversível e autorizado, pare de pesquisar e teste.
+- Não manter iniciativas artificialmente IN_PROGRESS: escolher CONTINUE, TEST, HOLD, KILL ou ESCALATE, com critério de sucesso e condição de parada.
+- Não criar módulos, agentes, documentos ou workflows quando uma ação menor produzir o mesmo valor.
+- Distinguir atividade, ativo produzido, sinal de mercado, intenção comercial, contratação, faturamento, caixa e retenção.
+- Dizer ao usuário quando estamos dando voltas, quando é hora de agir e quando uma hipótese deve ser estacionada ou abandonada.
+
 ## Controle humano
 
 O usuário define prioridades e aprova decisões subjetivas. Não descarte insights humanos por não aparecerem na pesquisa inicial. A IA pode pesquisar, estruturar, comparar, criticar e executar tarefas delimitadas; deve expor incertezas e pedir aprovação para decisões irreversíveis ou externas.
