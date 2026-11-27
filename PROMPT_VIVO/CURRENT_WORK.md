@@ -1,6 +1,6 @@
 # CURRENT WORK — Ponteiro canônico de continuidade
 
-**Atualizado:** 27/11/2026  
+**Atualizado:** 27/11/2026
 **Função:** identificar a última entrega substantiva e a próxima ação de retomada.
 
 ## Última entrega substantiva
