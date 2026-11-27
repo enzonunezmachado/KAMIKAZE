@@ -39,7 +39,7 @@
 
 ## Triagem preliminar — 27/11/2026
 
-Três consultas públicas (diretórios, plataformas de agendamento e busca local) permitiram confirmar pistas de identidade/atividade para **17 dos 20 candidatos**. Isso não equivale a qualificação comercial.
+Três consultas públicas (diretórios, plataformas de agendamento e busca local) permitiram confirmar pistas de identidade/atividade para **19 dos 20 candidatos**. Isso não equivale a qualificação comercial.
 
 | # | Candidato | Evidência pública adicional | Leitura provisória |
 |---:|---|---|---|
@@ -60,13 +60,13 @@ Três consultas públicas (diretórios, plataformas de agendamento e busca local
 | 15 | Sowilo Studio | Perfil local com portfólio amplo de cabelo, unhas, estética e massagem | Portfólio já descrito publicamente; lacuna de gestão não confirmada |
 | 16 | Studio Diva Única Cabelo e Estética | Perfil local com especialidades e serviços descritos | Portfólio já descrito publicamente; lacuna de gestão não confirmada |
 | 17 | Zero Onze | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
-| 18 | Studio Varanda Hair | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 18 | Studio Varanda Hair | Perfil local com endereço, horário e 124 avaliações | Identidade/localização confirmadas; menu/preços e lacuna não confirmados |
 | 19 | Luan Barbearia | Guia local com endereço no Jardim Maranhão | Identidade/localização confirmadas; menu/lacuna não confirmados |
-| 20 | Glórias Estúdio de Unhas | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 20 | Glórias Estúdio de Unhas | Guia local, perfil de fotos e listagem de serviços | Identidade/atividade confirmadas; menu/preços completos e lacuna não confirmados |
 
-Fontes adicionais: [Tintino — perfil e agendamento](https://www.embu.art.br/lugar/tintino-barbearia), [Distrito011 — Fresha](https://www.fresha.com/pt/lvp/distrito011-barbershop-especializado-em-barba-cabelo-e-bigode-rua-sao-caetano-wroN3X), [Studio C — perfil local](https://www.embu.art.br/lugar/studio-c-barbearia), [Paris Hair — perfil local](https://www.embu.art.br/lugar/paris-hair), [Casal Nail — Fresha](https://www.fresha.com/pt/lvp/casal-nail-alongamento-de-unhas-avenida-da-liberdade-KzKjBq), [Studio Beauty Thalyta — Fresha](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes).\n\nFontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
+Fontes adicionais: [Tintino — perfil e agendamento](https://www.embu.art.br/lugar/tintino-barbearia), [Distrito011 — Fresha](https://www.fresha.com/pt/lvp/distrito011-barbershop-especializado-em-barba-cabelo-e-bigode-rua-sao-caetano-wroN3X), [Studio C — perfil local](https://www.embu.art.br/lugar/studio-c-barbearia), [Paris Hair — perfil local](https://www.embu.art.br/lugar/paris-hair), [Casal Nail — Fresha](https://www.fresha.com/pt/lvp/casal-nail-alongamento-de-unhas-avenida-da-liberdade-KzKjBq), [Studio Beauty Thalyta — Fresha](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Studio Varanda Hair — perfil local](https://www.embu.art.br/lugar/studio-varanda-hair) e [Glórias Estúdio de Unhas — guia local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/).\n\nFontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
 
-**Conclusão provisória:** 17/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os três não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
+**Conclusão provisória:** 19/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. O único não verificado (Zero Onze) não deve ser considerado oportunidade por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
 
 ## Limitações e qualidade da evidência
 
