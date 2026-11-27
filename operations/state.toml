@@ -1,8 +1,8 @@
 [project]
 id = "NEGOCIO_DIGITAL_KAMIKAZE"
 active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
-last_substantive_work = "web/AI_PROMPT_SCRIPTS.md"
-last_work_status = "PLAYBOOKS WEB CRIADOS; AUDITORIA DE CONSISTÊNCIA EM ANDAMENTO"
+last_substantive_work = "scripts/validate_docs.py"
+last_work_status = "AUDITORIA E RECONCILIAÇÃO; CI DOCUMENTAL PASSOU"
 
 [execution]
 status = "IN_PROGRESS"
