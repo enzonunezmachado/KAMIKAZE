@@ -4,9 +4,9 @@ active_run = "PV-2026-11-25-TOTALMENTE-GRATUITA"
 
 [work]
 primary_stream = "local_business_low_digital_presence"
-next_action = "Pesquisar uma segunda rodada em serviços locais de manutenção e reparos, buscando evidência recente e baixa presença própria; não repetir diretórios sem ganho de informação. Parar após duas rodadas sem evidência incremental. Não contatar."
-success_criteria = "Encontrar candidatos com presença digital realmente baixa e uma necessidade concreta que possamos atender; separar evidência de inferência."
-stop_condition = "Parar quando houver 20 candidatos únicos triados ou após duas rodadas sem novos candidatos qualificados; não ampliar pesquisa sem evidência incremental."
+next_action = "Descoberta passiva encerrada após dois lotes. Aguardar autorização específica para validação humana dos candidatos HOLD; não contatar, não criar demo e não enviar proposta sem autorização."
+success_criteria = "Antes de avançar comercialmente, confirmar com o responsável uma dor concreta, frequência/impacto e interesse; separar evidência de inferência."
+stop_condition = "Descoberta passiva encerrada após dois lotes e ausência de candidatos qualificados. Não ampliar diretórios sem autorização para validação humana ou nova evidência incremental."
 
 [workstreams.first_sale]
 status = "ACTIVE / TEST"
