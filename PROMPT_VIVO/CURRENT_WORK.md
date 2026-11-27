@@ -68,7 +68,6 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Deploy da correção: workflow `45940140491` PASS (build, validador de shell/assets, upload e deploy). A inspeção visual real ainda não foi concluída; não declarar alinhamento visual confirmado sem navegador/captura.
 - Privacidade: o repositório é público e arquivos operacionais/históricos contêm contexto pessoal e financeiro. Valores financeiros pessoais foram retirados das cópias atuais do módulo Company Solutions e da política de orçamento, mas versões anteriores continuam no histórico Git. Não reescrever histórico nem migrar a memória sem decisão do usuário.
 
-
 ## Reorientação de mercado — 27/11/2026
 
 - Branch de segurança criada: `archive/pre-autonomous-review-2026-11-27`.
@@ -79,7 +78,6 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Triagem ampliada: 19/20 candidatos do lote de beleza têm presença pública identificável; nenhum foi qualificado. Rodada cruzada em pet shops e oficinas examinou Nino, Q Pet, Makedasi, A Casa do Pet, Frenecar e Watts: nenhum qualificado; alguns já têm soluções digitais robustas, outros carecem de evidência de necessidade.
 - Comparação final: branch histórica preservada; `main` contém alterações em 15 arquivos em relação ao ponto de segurança. A branch de segurança permanece disponível; a contagem de commits não é usada como métrica de progresso.
 - Verificação: o status de checks do último commit não retornou resultados e o clone local falhou por indisponibilidade de rede. Portanto, CI/validador desta rodada NÃO CONFIRMADOS; não declarar PASS.
-
 
 ## Auditoria complementar — demanda versus concorrência (27/11/2026)
 
