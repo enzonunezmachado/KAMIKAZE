@@ -18,6 +18,10 @@ Esta pasta contém controles de execução e registros estruturados da operaçã
 - Só promover um candidato ao registro mestre depois de confirmar identidade, atividade, presença digital e oportunidade observável. Usar um Company ID único; não manter dossiês duplicados.
 - A estrutura Company Solutions permanece DOCUMENTADA / NÃO ATIVADA; esta regra não autoriza pesquisa adicional, contato ou publicação.
 
+## Referências estratégicas
+
+4. [Aprendizados de posicionamento e feedback do Reddit](REDDIT_POSITIONING_LEARNINGS.md) — análise crítica das publicações, regras de comunicação profissional, rascunhos revisados e links originais para reanálise futura.
+
 ## Regras
 
 - state.toml é a fonte estruturada do estado do projeto: prioridade entre frentes, próxima ação, execução ativa, fase/gate, limites e métricas. Não existe ponteiro manual de última entrega.
