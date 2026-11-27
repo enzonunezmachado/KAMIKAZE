@@ -20,7 +20,7 @@ O objetivo não é produzir muitas ideias. É encontrar poucas oportunidades com
 - Formatos possíveis: serviço manual, serviço assistido por IA, produto digital, ferramenta, automação, conteúdo, curadoria, pesquisa sob demanda, intermediação, comunidade, pacote de arquivos ou produto físico sem estoque.
 - Não assumir software, SaaS, curso, site ou aplicativo.
 - Mercado internacional só é preferido quando a vantagem compensa idioma, pagamentos, taxas, câmbio, impostos, suporte e regras da plataforma.
-- Meta imediata: buscar pelo menos R$ 150 efetivamente recebidos até 06/12/2026, sem tratar isso como garantia ou forçar a escolha de uma oportunidade.
+- Meta operacional atual do projeto: buscar pelo menos R$ 140 efetivamente recebidos até 08/12/2026, com orçamento autorizado de R$ 0; objetivo, não garantia. Consultar `operations/FIRST_SALE/` para a oferta vigente.
 - Interesse de longo prazo em receita recorrente, mas não sacrificar a primeira venda por assinatura prematura.
 
 ## Princípios inegociáveis
