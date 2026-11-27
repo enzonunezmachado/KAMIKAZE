@@ -12,7 +12,7 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 - Operação Primeira Venda: INICIADA / TEST.
 - Meta: receber pelo menos R$150 até 08/12/2026.
 - Oferta em teste: menu digital simples de serviços e preços para pequenos negócios de beleza/barbearias.
-- Preço experimental: R$149; não validado.
+- Preço experimental: R$150; não validado.
 - Candidatos: lote inicial com 20 negócios locais, ainda não ranqueados nem qualificados.
 - Contatos realizados: 0. Propostas enviadas: 0. Clientes: 0. Receita recebida: R$0.
 - Orçamento autorizado: R$0. Nenhum gasto permitido.
@@ -21,7 +21,7 @@ Pesquisar, comparar, validar e comercializar oportunidades digitais sem escolher
 - Execução registrada: PV-2026-11-25-TOTALMENTE-GRATUITA.
 - Última fase histórica de pesquisa: PHASE_03.5_ACQUISITION_ENGINE_AND_AFFILIATE_VALIDATION; pesquisa agora em HOLD.
 - PHASE_03.1–03.5: PAUSED / RESEARCH PARKED; PHASE_04_FEASIBILITY: QUEUED / NOT_STARTED.
-- A execução de pesquisa/afiliados está pausada. A prioridade ativa é FIRST_SALE_PILOT — TEST. Não retomar pesquisa exploratória sem uma pergunta que possa alterar uma decisão operacional.
+- A execução de pesquisa/afiliados está pausada. A prioridade ativa é FIRST_SALE_PILOT — TEST (estado registrado em state.toml). Não retomar pesquisa exploratória sem uma pergunta que possa alterar uma decisão operacional.
 - Os gates da execução anterior não foram reescritos; a operação de primeira venda é um piloto paralelo.
 
 ## Restrições
