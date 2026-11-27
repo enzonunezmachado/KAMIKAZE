@@ -31,6 +31,7 @@ BASE_REQUIRED_FILES = [
     "portfolio_site/docs/projetos.md", "portfolio_site/docs/processo.md",
     "web/README.md", "web/AI_WEB_DEVELOPMENT_GUIDE.md",
     "web/AI_PROMPT_SCRIPTS.md", "web/templates/starter.html",
+    "research/README.md", "templates/README.md",
 ]
 
 BASE_LINE_BUDGETS = {
@@ -57,7 +58,7 @@ BASE_NAV_FILES = [
     ".github/README.md", ".github/workflows/README.md",
     "portfolio_site/README.md", "portfolio_site/docs/README.md",
     "portfolio_site/docs/index.md", "web/README.md",
-    "web/AI_PROMPT_SCRIPTS.md",
+    "web/AI_PROMPT_SCRIPTS.md", "research/README.md", "templates/README.md",
 ]
 
 
