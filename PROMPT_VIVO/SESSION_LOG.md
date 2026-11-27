@@ -1,3 +1,12 @@
+### KAM-2026-11-27 — Base reutilizável de desenvolvimento web
+- **Pedido:** criar padrão para sites do Kamikaze com tema escuro, CSS/JavaScript organizados e instruções consultáveis pela IA.
+- **Entregue:** `web/README.md`, `web/AI_WEB_DEVELOPMENT_GUIDE.md`, `web/templates/starter.html`, `web/templates/README.md`, `portfolio_site/docs/assets/kamikaze-base.css` e `portfolio_site/docs/assets/kamikaze.js`.
+- **Integração:** `mkdocs.yml`, `AGENTS.md`, README raiz e documentação do portfólio atualizados.
+- **Padrão:** dark azul-marinho/grafite, texto cinza-claro, responsivo, HTML semântico, CSS modular e JavaScript vanilla progressivo.
+- **Referências:** MDN (semântica e acessibilidade, CSS/JS acessíveis, responsive design), web.dev Learn Responsive Design e Chrome for Developers (design tokens).
+- **Limites:** assets e documentação persistidos; status de checks não retornou verificações. Build MkDocs e revisão visual não foram confirmados. Nenhum deploy/publicação realizado.
+- **Prioridade comercial:** preservada; esta melhoria estrutural não altera meta de R$140 até 08/12 nem constitui validação de receita.
+
 ### KAM-2026-11-26-008 — Gate de pesquisa para experimento
 
 - **Motivo:** preocupação do usuário de que a operação possa pesquisar e planejar excessivamente, adiando o momento em que o comportamento real do comprador precisa ser observado.
