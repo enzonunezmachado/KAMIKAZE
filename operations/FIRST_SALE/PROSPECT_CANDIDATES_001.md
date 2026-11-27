@@ -39,20 +39,34 @@
 
 ## Triagem preliminar — 27/11/2026
 
-Uma consulta adicional confirmou a presença pública em diretórios de seis candidatos, mas não estabeleceu necessidade comercial:
+Três consultas públicas (diretórios, plataformas de agendamento e busca local) permitiram confirmar pistas de identidade/atividade para **16 dos 20 candidatos**. Isso não equivale a qualificação comercial.
 
-| Candidato | Evidência pública adicional | Leitura provisória |
-|---|---|---|
-| Tintino Barbearia | Listado em diretório local com endereço e telefone | Identidade/localização confirmadas; menu e lacuna não confirmados |
-| Barbearia Castilho | Listado em diretório local e guia comercial | Identidade/localização confirmadas; menu e lacuna não confirmados |
-| Distrito011 BarberShop | Listado em guia comercial com endereço e telefone | Identidade/localização confirmadas; menu e lacuna não confirmados |
-| Officina do Corte Barbearia | Listado em diretório local com endereço | Identidade/localização confirmadas; menu e lacuna não confirmados |
-| Studio C Barbearia | Listado em guia comercial; também aparece em plataforma de descoberta | Identidade/localização confirmadas; verificar se a plataforma já resolve a apresentação de serviços |
-| Strider Barbershop | Listado em diretório local e guia comercial | Identidade/localização confirmadas; menu e lacuna não confirmados |
+| # | Candidato | Evidência pública adicional | Leitura provisória |
+|---:|---|---|---|
+| 1 | Tintino Barbearia | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 2 | Barbearia Castilho | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 3 | Distrito011 BarberShop | Guia comercial com endereço e telefone | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 4 | Officina do Corte Barbearia | Diretório local com endereço | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 5 | Studio C Barbearia | Guia comercial e plataforma de descoberta | Identidade confirmada; verificar se a plataforma já resolve apresentação dos serviços |
+| 6 | Strider Barbershop | Diretório local e guia comercial | Identidade/localização confirmadas; menu/lacuna não confirmados |
+| 7 | Paris Hair | Listagem Fresha com serviços e horários | Já tem presença em plataforma de descoberta; valor adicional do PDF é incerto |
+| 8 | Barbearia Estilo R-02 | Presença local; sinais de menu, preços e assinatura | Forte substituto já existente; baixa prioridade para oferta de PDF genérico |
+| 9 | Crazy Dog Barber | Perfil local e relatos de plano/assinatura | Identidade confirmada; assinatura citada por cliente, não tratada como condição oficial confirmada |
+| 10 | Studio Beauty Thalyta Santos | Perfil local e avaliações; serviços de unhas/cílios descritos | Identidade confirmada; menu/preços e lacuna não confirmados |
+| 11 | Casal Nail | Perfil local com portfólio de serviços de unhas | Portfólio já descrito publicamente; valor adicional do PDF é incerto |
+| 12 | Espaço Chica — Crespos e Cacheados | Listagem Fresha com serviços, endereço e contato | Presença em plataforma de descoberta; valor adicional do PDF é incerto |
+| 13 | Esmalteria Paraíso das Unhas | Perfil local com serviços de manicure, gel e extensões | Portfólio já descrito publicamente; preço/menu completo não confirmado |
+| 14 | Imperial Barber Shop | Presença digital com preços e planos de assinatura descritos em ficha local | Oferta de menu genérico provavelmente redundante; não priorizar |
+| 15 | Sowilo Studio | Perfil local com portfólio amplo de cabelo, unhas, estética e massagem | Portfólio já descrito publicamente; lacuna de gestão não confirmada |
+| 16 | Studio Diva Única Cabelo e Estética | Perfil local com especialidades e serviços descritos | Portfólio já descrito publicamente; lacuna de gestão não confirmada |
+| 17 | Zero Onze | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 18 | Studio Varanda Hair | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 19 | Luan Barbearia | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
+| 20 | Glórias Estúdio de Unhas | Nenhuma confirmação suficiente nesta rodada | NÃO VERIFICADO |
 
-Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/) e [Fresha](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes). A listagem de [barbearias de Embu no Booksy](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes) mostra que alguns negócios da região já publicam serviços e preços em plataformas de agendamento.
+Fontes: [diretório de barbearias](https://www.planetabrasileiro.com/embu-das-artes/barbearias), [guia comercial local](https://sitedaqui.com.br/guia-de-embu-das-artes-sp/), [Booksy — barbearias em Embu](https://booksy.com/pt-br/s/barbearias/941197_embu-das-artes), [Fresha — beleza em Embu](https://www.fresha.com/lp/pt/bt/sal%C3%B5es-de-beleza/br-s%C3%A3o-paulo/embu-das-artes), [Paris Hair no Fresha](https://www.fresha.com/pt/lvp/paris-hair-rua-sao-carlos-8J29AY) e [Espaço Chica no Fresha](https://www.fresha.com/pt/lvp/espaco-chica-cabelo-afro-avenida-joao-paulo-ii-a21J2Z).
 
-**Regra:** estes seis continuam como candidatos, não qualificados. Não inferir ausência de catálogo, problema, orçamento ou interesse a partir de diretórios. Nenhum contato foi feito.
+**Conclusão provisória:** 16/20 têm alguma presença pública identificável; vários já apresentam portfólio ou usam plataformas. Isso enfraquece a hipótese de que um PDF de serviços seja uma necessidade universal. Os quatro não verificados não devem ser considerados oportunidades por exclusão. Nenhum candidato está qualificado, ranqueado ou contatado.
 
 ## Limitações e qualidade da evidência
 
