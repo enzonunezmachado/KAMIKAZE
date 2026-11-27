@@ -77,7 +77,7 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Meta atual: R$150 recebidos até 08/12/2026; preço experimental ajustado para R$150. Nenhum contato ou venda foi realizado.
 
 - Triagem ampliada: 17/20 candidatos têm presença pública identificável; três seguem sem confirmação suficiente. Nenhum foi qualificado ou contatado. Estilo R já apresenta serviços, preços, agendamento e assinatura em site próprio.
-- Comparação final: branch histórica preservada; `main` está 31 commits à frente, com 15 arquivos alterados. A branch de segurança permanece disponível.
+- Comparação final: branch histórica preservada; `main` está 41 commits à frente, com 15 arquivos alterados (comparação atualizada após a pesquisa complementar). A branch de segurança permanece disponível.
 - Verificação: o status de checks do último commit não retornou resultados e o clone local falhou por indisponibilidade de rede. Portanto, CI/validador desta rodada NÃO CONFIRMADOS; não declarar PASS.
 
 
