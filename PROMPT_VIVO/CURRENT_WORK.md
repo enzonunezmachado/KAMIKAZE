@@ -79,3 +79,11 @@ Atualizar este ponteiro após uma entrega substantiva confirmada. Sincronizar os
 - Triagem ampliada: 17/20 candidatos têm presença pública identificável; três seguem sem confirmação suficiente. Nenhum foi qualificado ou contatado. Estilo R já apresenta serviços, preços, agendamento e assinatura em site próprio.
 - Comparação final: branch histórica preservada; `main` está 31 commits à frente, com 15 arquivos alterados. A branch de segurança permanece disponível.
 - Verificação: o status de checks do último commit não retornou resultados e o clone local falhou por indisponibilidade de rede. Portanto, CI/validador desta rodada NÃO CONFIRMADOS; não declarar PASS.
+
+
+## Auditoria complementar — demanda versus concorrência (27/11/2026)
+
+- Pesquisa de marketplace encontrou pedidos brasileiros de organização de planilhas e documentos, mas a 99Freelas mostrava 710 propostas/929 interessados em um projeto genérico; Workana também mostrava dezenas de propostas em pedidos semelhantes. Há demanda observável, porém concorrência elevada.
+- Pesquisa CFA/MEMP aponta gestão financeira/acesso a capital como 38% das dificuldades e precificação/vendas como 19%; falta de orçamento é barreira importante. Isso é contexto de mercado, não prova de que o usuário possa vender consultoria financeira.
+- Decisão: NÃO lançar serviço genérico de digitação/limpeza de planilhas. Manter como hipótese alternativa apenas uma tarefa operacional específica, com escopo pequeno e conferência. Oferta atual continua não validada; sem contatos ou pagamentos.
+- Auditoria de consistência corrigiu contagem: 17/20 identificáveis significa 3 não verificados (não 4). PHASE_CONTROL agora identifica explicitamente as seções posteriores ao snapshot como histórico, sem autoridade operacional.
